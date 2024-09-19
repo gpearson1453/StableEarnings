@@ -10,58 +10,62 @@
 
 ### Folder Structure
 
-#### `inspect_files`
+All the following files and folders are located within the `Phase 1` directory:
+
+#### `Phase 1/inspect_files`
 *Provide a description of the `inspect_files` folder and its contents here.*
 
-#### `pdf_files`
+#### `Phase 1/pdf_files`
 *Provide a description of the `pdf_files` folder and its contents here.*
 
-#### `testing_files`
+#### `Phase 1/testing_files`
 *Provide a description of the `testing_files` folder and its contents here.*
 
-#### `text_files`
+#### `Phase 1/text_files`
 *Provide a description of the `text_files` folder and its contents here.*
 
-#### `zipped_originals`
+#### `Phase 1/zipped_originals`
 *Provide a description of the `zipped_originals` folder and its contents here.*
 
 ---
 
 ### Python Files
 
-#### `getHorses.py`
+All Python scripts are also located in the `Phase 1` directory:
+
+#### `Phase 1/getHorses.py`
 *Provide a description of the `getHorses.py` file here.*
 
-#### `getRaces.py`
+#### `Phase 1/getRaces.py`
 *Provide a description of the `getRaces.py` file here.*
 
-#### `inspectText.py`
+#### `Phase 1/inspectText.py`
 *Provide a description of the `inspectText.py` file here.*
 
-#### `mappings.py`
+#### `Phase 1/mappings.py`
 *Provide a description of the `mappings.py` file here.*
 
-#### `processAllToCSV.py`
+#### `Phase 1/processAllToCSV.py`
 *Provide a description of the `processAllToCSV.py` file here.*
 
-#### `processPPRLP.py`
+#### `Phase 1/processPPRLP.py`
 *Provide a description of the `processPPRLP.py` file here.*
 
-#### `processSelectToExcel.py`
+#### `Phase 1/processSelectToExcel.py`
 *Provide a description of the `processSelectToExcel.py` file here.*
 
-#### `reformatRaceFiles.py`
+#### `Phase 1/reformatRaceFiles.py`
 *Provide a description of the `reformatRaceFiles.py` file here.*
 
 ---
 
 ### Other Files
 
-#### `all_race_data.csv`
+#### `Phase 1/all_race_data.csv`
 *Provide a description of the `all_race_data.csv` file here.*
 
-#### `mappings.json`
+#### `Phase 1/mappings.json`
 *Provide a description of the `mappings.json` file here.*
 
-#### `select_race_data.xlsx`
+#### `Phase 1/select_race_data.xlsx`
 *Provide a description of the `select_race_data.xlsx` file here.*
