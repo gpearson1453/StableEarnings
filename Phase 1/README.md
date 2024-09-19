@@ -1,5 +1,5 @@
 # Phase 1
-Phase 1 of the Stable Earnings project involves downloading all relevant files from Equibase, which are provided in PDF format. These files are reformatted by numbering the PDFs and creating corresponding files to hold their extracted text. The extracted text is then analyzed to retrieve all relevant information, including race results and horse profiles. This data is consolidated into a comprehensive CSV file, which will serve as the foundation for further analysis in the project.
+In Phase 1, all relevant files are downloaded from Equibase, which are provided in PDF format. These files are reformatted by numbering the PDFs and creating corresponding files to hold their extracted text. The extracted text is then analyzed to retrieve all relevant information, including race results and horse profiles. This data is consolidated into a comprehensive CSV file, which will serve as the foundation for further analysis in the project.
 
 ## Folders
 
