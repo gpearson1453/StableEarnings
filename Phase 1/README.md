@@ -1,5 +1,5 @@
 # Phase 1
-*Describe the objectives, scope, and key tasks associated with Phase 1 of the project here.*
+Phase 1 of the Stable Earnings project involves downloading all relevant files from Equibase, which are provided in PDF format. These files are reformatted by numbering the PDFs and creating corresponding files to hold their extracted text. The extracted text is then analyzed to retrieve all relevant information, including race results and horse profiles. This data is consolidated into a comprehensive CSV file, which will serve as the foundation for further analysis in the project.
 
 ## Folders
 
