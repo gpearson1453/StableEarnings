@@ -3,9 +3,6 @@ Phase 1 of the Stable Earnings project involves downloading all relevant files f
 
 ## Folders
 
-### `Phase 1/inspect_files`
-*Provide a description of the `inspect_files` folder and its contents here.*
-
 ### `Phase 1/pdf_files`
 *Provide a description of the `pdf_files` folder and its contents here.*
 
@@ -27,9 +24,6 @@ Phase 1 of the Stable Earnings project involves downloading all relevant files f
 
 ### `Phase 1/getRaces.py`
 *Provide a description of the `getRaces.py` file here.*
-
-### `Phase 1/inspectText.py`
-*Provide a description of the `inspectText.py` file here.*
 
 ### `Phase 1/mappings.py`
 *Provide a description of the `mappings.py` file here.*
