@@ -4,7 +4,7 @@ Phase 1 of the Stable Earnings project involves downloading all relevant files f
 ## Folders
 
 ### `Phase 1/pdf_files`
-This folder contains subfolders organized by month and year (e.g., January_2020). Each subfolder holds the necessary PDF files for the project. These PDFs have been renamed from their original filenames and sequentially numbered to ensure easier reference and usage during processing.
+This folder contains subfolders organized by month and year (e.g., 01-2020). Each subfolder holds the necessary PDF files for the project. These PDFs have been renamed from their original filenames and sequentially numbered to ensure easier reference and usage during processing.
 
 ### `Phase 1/testing_files`
 This folder is intended to hold copies of text files that present issues during processing. It allows for testing and debugging these files independently from the rest of the dataset. By isolating problematic files, it becomes easier to identify and resolve specific issues without impacting the overall workflow.
