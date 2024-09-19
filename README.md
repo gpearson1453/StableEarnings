@@ -1,6 +1,5 @@
-# Project Name
+# Stable Earnings
 
-## Overall Description
 *Provide an overview of the project here. Explain its purpose, features, and any relevant background information.*
 
 ---
