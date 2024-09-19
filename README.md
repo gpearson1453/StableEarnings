@@ -3,14 +3,12 @@
 ## Overall Description
 *Provide an overview of the project here. Explain its purpose, features, and any relevant background information.*
 
-## Phase 1 Description
-*Describe the objectives, scope, and key tasks associated with Phase 1 of the project here.*
-
 ---
 
-### Folder Structure
+## Phase 1
+*Describe the objectives, scope, and key tasks associated with Phase 1 of the project here.*
 
-All the following files and folders are located within the `Phase 1` directory:
+### Folders
 
 #### `Phase 1/inspect_files`
 *Provide a description of the `inspect_files` folder and its contents here.*
@@ -30,8 +28,6 @@ All the following files and folders are located within the `Phase 1` directory:
 ---
 
 ### Python Files
-
-All Python scripts are also located in the `Phase 1` directory:
 
 #### `Phase 1/getHorses.py`
 *Provide a description of the `getHorses.py` file here.*
