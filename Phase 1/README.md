@@ -20,7 +20,9 @@ This folder holds all the original PDF files, preserved with their original file
 ## Python Files
 
 ### `Phase 1/getHorses.py`
-*Provide a description of the `getHorses.py` file here.*
+This script is responsible for extracting detailed horse-specific data from text segments. It processes the Past Performance Running Line Preview (PPRLP) block and combines it with additional information such as jockeys, trainers, owners, and weights. The extracted data is organized into a list of dictionaries, with each dictionary containing relevant details about a single horse.
+
+`getHorses.py` relies on the `processPPRLP` function from the `processPPRLP.py` file to parse and format the PPRLP block into structured data. It is called by the `getRaces.py` script, which combines the horse data extracted here with common race information before passing it to the next stage of the pipeline.
 
 ### `Phase 1/getRaces.py`
 *Provide a description of the `getRaces.py` file here.*
