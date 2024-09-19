@@ -4,16 +4,16 @@ Phase 1 of the Stable Earnings project involves downloading all relevant files f
 ## Folders
 
 ### `Phase 1/pdf_files`
-*Provide a description of the `pdf_files` folder and its contents here.*
+This folder contains subfolders organized by month and year (e.g., January_2020). Each subfolder holds the necessary PDF files for the project. These PDFs have been renamed from their original filenames and sequentially numbered to ensure easier reference and usage during processing.
 
 ### `Phase 1/testing_files`
-*Provide a description of the `testing_files` folder and its contents here.*
+This folder is intended to hold copies of text files that present issues during processing. It allows for testing and debugging these files independently from the rest of the dataset. By isolating problematic files, it becomes easier to identify and resolve specific issues without impacting the overall workflow.
 
 ### `Phase 1/text_files`
-*Provide a description of the `text_files` folder and its contents here.*
+This folder contains all the text files extracted from the PDF files using the `reformatRaceFiles` script.
 
 ### `Phase 1/zipped_originals`
-*Provide a description of the `zipped_originals` folder and its contents here.*
+This folder holds all the original PDF files, preserved with their original filenames. The files are stored in no-loss compressed folders, each named identically to the corresponding folder in the `pdf_files` directory. This ensures that the original PDFs remain accessible while maintaining a clear organizational structure.
 
 ---
 
