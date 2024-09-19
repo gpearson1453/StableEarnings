@@ -20,12 +20,35 @@ This folder holds all the original PDF files, preserved with their original file
 ## Python Files
 
 ### `Phase 1/getHorses.py`
-This script is responsible for extracting detailed horse-specific data from text segments. It processes the Past Performance Running Line Preview (PPRLP) block and combines it with additional information such as jockeys, trainers, owners, and weights. The extracted data is organized into a list of dictionaries, with each dictionary containing relevant details about a single horse.
+The `getHorses` function is responsible for extracting detailed horse-specific information from a text block, including data from the Past Performance Running Line Preview (PPRLP), trainers, owners, jockeys, and weights. This function processes and combines the extracted information into a structured dataset for each horse in the race.
 
-`getHorses.py` relies on the `processPPRLP` function from the `processPPRLP.py` file to parse and format the PPRLP block into structured data. It is called by the `getRaces.py` script, which combines the horse data extracted here with common race information before passing it to the next stage of the pipeline.
+Parameters:
+`text_segment (str)`: The full text block containing horse-specific information.
+
+Returns:
+`List[Dict]`: A list of dictionaries, where each dictionary contains data specific to one horse, such as the program number, horse name, starting position, figures, final position, jockey, trainer, and owner.
+
+Key Features:
+PPRLP Data Extraction: Extracts and processes horse performance data (e.g., program number, horse name, starting position, and performance figures) from the PPRLP section of the text.
+Trainer and Owner Information: Identifies and extracts trainer and owner details, ensuring the correct assignment to each horse.
+Jockey and Weight Data: Uses regex to accurately capture jockey names and associated weights for each horse.
+Flexible Handling of Missing Data: Provides default values for missing or incomplete data, ensuring consistent output across all horses.
+Final Position Calculation: Automatically assigns a final position to each horse based on the order in which the data appears.
 
 ### `Phase 1/getRaces.py`
-*Provide a description of the `getRaces.py` file here.*
+The `getRaces` function is designed to extract race-specific information from a text block, including the race number, date, location, surface type, distance, weather conditions, and other relevant data. Additionally, it uses the `getHorses` function to retrieve horse-specific data for each race and combines it with the common race data to form a comprehensive dataset.
+
+Parameters:
+`text_segment (str)`: The full text block containing race information.
+
+Returns:
+`List[Dict]`: A list of dictionaries, where each dictionary contains both common race data and individual horse data. If the race type is not valid, it returns 'Invalid Race Type'.
+
+Key Features:
+Handles fractional and split times, final time, and other race-specific metrics.
+Automatically generates a unique race ID based on the date, location, and race number.
+Validates race type, ensuring only thoroughbred or quarter horse races are processed.
+Calls `getHorses` to extract horse-specific data and merges it with the race information.
 
 ### `Phase 1/mappings.py`
 *Provide a description of the `mappings.py` file here.*

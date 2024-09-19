@@ -1,36 +1,35 @@
 import re
 from mappings import TYPE_PATTERNS, DISTANCE_CONVERSION, SURFACE_MAPPING
-from getHorses import getHorses  # Import getHorses to extract horse-specific data
+from getHorses import getHorses
 
 def remove_weird_chars(string):
     """
-    Remove specific unwanted characters such as newlines and symbols from a string.
-    
+    Remove specific unwanted characters like newlines and certain symbols from a string.
+
     Parameters:
-    - string: The input string to be cleaned.
-    
+    - string (str): The input string to be cleaned.
+
     Returns:
-    - A cleaned string with specific characters removed.
+    - str: A cleaned string with unwanted characters removed.
     """
     translation_table = str.maketrans('', '', '<*?/[\n\r]')
     return string.translate(translation_table)
 
 def getRaces(text_segment):
     """
-    Extract race-specific data from a text segment, including race number, date, location, 
-    distance, surface type, and weather conditions. This function also calls getHorses 
+    Extract race-specific data from a text segment, including race number, date, location,
+    distance, surface type, weather, and track conditions. This function also calls getHorses 
     to extract horse-specific data for each race and combines it with the common race data.
-    
+
     Parameters:
-    - text_segment: A string containing the full text block of the race, from which data 
-      will be extracted.
-    
+    - text_segment (str): The full text block containing race information.
+
     Returns:
-    - A list of dictionaries, where each dictionary contains both common race data and 
-      individual horse data. Returns 'Invalid Race Type' if the race type is not valid.
+    - List[Dict]: A list of dictionaries where each dictionary contains common race data 
+      combined with horse-specific data. Returns 'Invalid Race Type' if the race type is not valid.
     """
 
-    # Initialize a dictionary to store race-wide data that will be shared with each horse's entry
+    # Initialize dictionary for common race-wide data
     common_data = {
         'race_number': "NOT FOUND",
         'date': "NOT FOUND",
@@ -57,114 +56,76 @@ def getRaces(text_segment):
         'split_f': "NOT FOUND"
     }
 
-    # Define regex patterns for extracting specific race information
-    race_number_pattern = r"Race\s*(\d+)"  # Pattern for extracting race number in format 'Race #'
-    date_pattern = r"(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2}),\s+(\d{4})"  # Pattern for extracting date in 'Month Day, Year' format
-    distance_surface_pattern = r"Distance:\s*(.*?)\s*On The\s*(\S+)"  # Pattern for extracting distance and surface
-    weather_pattern = r"Weather:\s*(.*?),\s*(\d+)"  # Pattern for extracting weather and temperature
-    track_state_pattern = r"Track:\s*(\S+)"  # Pattern for extracting track state
-
-    # Extract fractional times if they are present in the text
+    # Extract fractional times
     if 'Fractional Times:' in text_segment:
-        frac_times_text = text_segment[text_segment.find('Fractional Times:') + len('Fractional Times:'): text_segment.find('Final Time:') - 1].strip()
+        frac_times_text = text_segment.split('Fractional Times:')[1].split('Final Time:')[0].strip()
         frac_times = frac_times_text.split()
-        for key in ['fractional_a', 'fractional_b', 'fractional_c', 'fractional_d', 'fractional_e', 'fractional_f']:
-            if len(frac_times) > 0:
-                common_data[key] = frac_times.pop(0)
-            else:
-                common_data[key] = 'N/A'
-    else:
-        for key in ['fractional_a', 'fractional_b', 'fractional_c', 'fractional_d', 'fractional_e', 'fractional_f']:
-            common_data[key] = 'N/A'
+        for i, key in enumerate(['fractional_a', 'fractional_b', 'fractional_c', 'fractional_d', 'fractional_e', 'fractional_f']):
+            common_data[key] = frac_times[i] if i < len(frac_times) else 'N/A'
 
-    # Extract split times if they are present in the text
+    # Extract split times
     if 'Split Times:' in text_segment:
-        split_times_text = text_segment[text_segment.find('Split Times:') + len('Split Times:'): text_segment.find('Run-Up:') - 1].strip()
+        split_times_text = text_segment.split('Split Times:')[1].split('Run-Up:')[0].strip()
         split_times = split_times_text.split()
-        for key in ['split_a', 'split_b', 'split_c', 'split_d', 'split_e', 'split_f']:
-            if len(split_times) > 0:
-                common_data[key] = split_times.pop(0).replace('(', '').replace(')', '')
-            else:
-                common_data[key] = 'N/A'
-    else:
-        for key in ['split_a', 'split_b', 'split_c', 'split_d', 'split_e', 'split_f']:
-            common_data[key] = 'N/A'
+        for i, key in enumerate(['split_a', 'split_b', 'split_c', 'split_d', 'split_e', 'split_f']):
+            common_data[key] = split_times[i].replace('(', '').replace(')', '') if i < len(split_times) else 'N/A'
 
-    # Extract the final time for the race
+    # Extract final time
     if 'Final Time:' in text_segment:
-        final_time_pattern = r"Final Time:\s(.*)\s"
-        final_time_match = re.search(final_time_pattern, text_segment)
-        if final_time_match:
-            common_data['final_time'] = final_time_match.group(1)
-    else:
-        common_data['final_time'] = 'N/A'
+        final_time_match = re.search(r"Final Time:\s(.*)\s", text_segment)
+        common_data['final_time'] = final_time_match.group(1) if final_time_match else 'N/A'
 
-    # Extract the race number
-    race_match = re.search(race_number_pattern, text_segment)
-    if race_match:
-        try:
-            common_data['race_number'] = int(race_match.group(1))
-        except ValueError:
-            common_data['race_number'] = "NOT FOUND"
+    # Extract race number
+    race_match = re.search(r"Race\s*(\d+)", text_segment)
+    common_data['race_number'] = int(race_match.group(1)) if race_match else "NOT FOUND"
 
-    # Extract the date
-    date_match = re.search(date_pattern, text_segment)
+    # Extract date
+    date_match = re.search(r"(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2}),\s+(\d{4})", text_segment)
     if date_match:
         month, day, year = date_match.groups()
         common_data['date'] = f"{month} {day}, {year}"
 
-    # Extract the location (assumes the location is the first part of the segment followed by ' - ')
+    # Extract location
     if ' - ' in text_segment:
-        location = remove_weird_chars(text_segment[:text_segment.find(' - ')].replace('\n', ''))
+        location = remove_weird_chars(text_segment.split(' - ')[0].replace('\n', ''))
         common_data['location'] = location
 
-    # Combine the date, location, and race number to create a unique race ID
-    if common_data['date'] != "NOT FOUND" and common_data['location'] != "NOT FOUND" and common_data['race_number'] != "NOT FOUND":
+    # Generate race ID if possible
+    if all([common_data['date'], common_data['location'], common_data['race_number'] != "NOT FOUND"]):
         common_data['race_id'] = f"{common_data['date']}_{common_data['location']}_{common_data['race_number']}"
 
-    # Extract the distance and surface type
-    distance_surface_match = re.search(distance_surface_pattern, text_segment)
+    # Extract distance and surface
+    distance_surface_match = re.search(r"Distance:\s*(.*?)\s*On The\s*(\S+)", text_segment)
     if distance_surface_match:
-        raw_distance = distance_surface_match.group(1).strip()
-        raw_surface = distance_surface_match.group(2).strip()
-        try:
-            common_data['distance(miles)'] = float(DISTANCE_CONVERSION.get(raw_distance, "NOT FOUND"))
-        except ValueError:
-            common_data['distance(miles)'] = "NOT FOUND"
-        common_data['surface'] = SURFACE_MAPPING.get(raw_surface[0], "NOT FOUND")
+        raw_distance, raw_surface = distance_surface_match.groups()
+        common_data['distance(miles)'] = DISTANCE_CONVERSION.get(raw_distance.strip(), "NOT FOUND")
+        common_data['surface'] = SURFACE_MAPPING.get(raw_surface.strip()[0], "NOT FOUND")
 
-    # Extract the weather and temperature
-    weather_match = re.search(weather_pattern, text_segment)
+    # Extract weather and temperature
+    weather_match = re.search(r"Weather:\s*(.*?),\s*(\d+)", text_segment)
     if weather_match:
         common_data['weather'] = weather_match.group(1).strip()
-        try:
-            common_data['temp'] = float(weather_match.group(2).strip())
-        except ValueError:
-            common_data['temp'] = "NOT FOUND"
+        common_data['temp'] = weather_match.group(2).strip()
 
-    # Extract the track state
-    track_state_match = re.search(track_state_pattern, text_segment)
+    # Extract track state
+    track_state_match = re.search(r"Track:\s*(\S+)", text_segment)
     if track_state_match:
         common_data['track_state'] = track_state_match.group(1).strip()
 
-    # Identify race type (if not Thoroughbred or Quarter Horse, return 'Invalid Race Type')
+    # Validate race type
     lines = text_segment.split('\n')
-    for i in range(1, min(3, len(lines))):  # Check second and third lines for race type
-        line = lines[i].strip()
+    for line in lines[1:3]:  # Check second and third lines for race type
         for race_type_key, pattern in TYPE_PATTERNS.items():
-            if pattern.search(line):
+            if pattern.search(line.strip()):
                 common_data['race_type'] = race_type_key
                 break
     if common_data['race_type'] not in ["Thoroughbred", 'Quarter Horse']:
         return 'Invalid Race Type'
 
-    # Call getHorses to extract horse-specific data for the race
+    # Extract horse-specific data
     horse_data_list = getHorses(text_segment)
 
-    # Combine the common race data with individual horse data
-    combined_data = []
-    for horse_data in horse_data_list:
-        combined_entry = {**common_data, **horse_data}  # Merge race data and horse data
-        combined_data.append(combined_entry)
+    # Combine common race data with horse data
+    combined_data = [{**common_data, **horse_data} for horse_data in horse_data_list]
 
     return combined_data
