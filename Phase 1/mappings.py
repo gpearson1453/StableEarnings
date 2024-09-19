@@ -5,25 +5,34 @@ import os
 # Path to the JSON file
 MAPPINGS_FILE = 'mappings.json'
 
-# Load mappings from JSON file
 def load_mappings():
+    """
+    Load mappings from a JSON file, specifically for 'stupid_horse_names' and 'fixed' mappings.
+
+    Returns:
+    - dict: A dictionary containing the mappings, or default empty dictionaries if the file doesn't exist.
+    """
     if os.path.exists(MAPPINGS_FILE):
         with open(MAPPINGS_FILE, 'r') as file:
             return json.load(file)
     return {"stupid_horse_names": {}, "fixed": {}}
 
-# Save mappings to JSON file
 def save_mappings(mappings):
+    """
+    Save the current mappings to the JSON file.
+
+    Parameters:
+    - mappings (dict): The mappings dictionary to be saved.
+    """
     with open(MAPPINGS_FILE, 'w') as file:
         json.dump(mappings, file, indent=4)
 
 # Load mappings at the start of the program
 mappings = load_mappings()
-stupid_horse_names = mappings['stupid_horse_names']
-fixed = mappings['fixed']
+stupid_horse_names = mappings.get('stupid_horse_names', {})
+fixed = mappings.get('fixed', {})
 
-
-# Constants for distance conversion and surface mapping
+# Distance conversion mappings from race distance descriptions to miles
 DISTANCE_CONVERSION = {
     "Six Furlongs": "0.75",
     "One Mile": "1.0",
@@ -60,13 +69,14 @@ DISTANCE_CONVERSION = {
     "One And One Fourth Miles": "1.25"
 }
 
+# Surface type mappings for races
 SURFACE_MAPPING = {
     'D': 'Dirt',
     'T': 'Turf',
     'A': 'AWT'
 }
 
-# Regex patterns for different race types
+# Regular expressions to identify different race types
 TYPE_PATTERNS = {
     'Thoroughbred': re.compile(r'thoroughbred', re.IGNORECASE),
     'Quarter Horse': re.compile(r'quarter horse', re.IGNORECASE),
