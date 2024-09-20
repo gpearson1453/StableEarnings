@@ -71,8 +71,8 @@ def getHorses(text_segment):
                 'figures': ', '.join(entry[3:]),
                 'final_pos': i + 1,
                 'jockey': jockey_list[i].strip() if i < len(jockey_list) else 'NOT FOUND',
-                'trainer': trainers_list[i].strip() if i < len(trainers_list) else 'NOT FOUND',
-                'owner': owners_list[i].strip() if i < len(owners_list) else 'NOT FOUND'
+                'trainer': trainers_list[i].strip().replace('\n', '') if i < len(trainers_list) else 'NOT FOUND',
+                'owner': owners_list[i].strip().replace('\n', '') if i < len(owners_list) else 'NOT FOUND'
             }
             horses_data.append(horse_dict)
 
