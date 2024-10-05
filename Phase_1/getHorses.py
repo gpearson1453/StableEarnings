@@ -37,13 +37,13 @@ def getHorses(text_segment):
     trainers_list = [entry.split('-')[1].strip() for entry in trainers_section.split(';') if '-' in entry]
 
     # Extract owner information
-    footnotes_idx = text_segment.find(owners_end_phrase)
+    footnotes_idx = text_segment[owners_start_idx:].find(owners_end_phrase) + owners_start_idx
     if owners_start_idx != -1 and footnotes_idx != -1:
-        owners_section = text_segment[owners_start_idx + len('Owners: '):footnotes_idx].strip()
+        owners_section = text_segment[owners_start_idx + len('Owners:'):footnotes_idx].strip()
     else:
         owners_section = "NOT FOUND"
     
-    owners_list = [entry.split('-')[1].strip() for entry in owners_section.split(';') if '-' in entry]
+    owners_list = [entry.split('-')[1].strip() for entry in owners_section.split(';') if '-' in entry and entry.strip()]
 
     # Extract jockey and weight information
     comments_idx = text_segment.find('Comments')

@@ -62,6 +62,9 @@ def getRaces(text_segment):
         frac_times = frac_times_text.split()
         for i, key in enumerate(['fractional_a', 'fractional_b', 'fractional_c', 'fractional_d', 'fractional_e', 'fractional_f']):
             common_data[key] = frac_times[i] if i < len(frac_times) else 'N/A'
+    else:
+        for key in ['fractional_a', 'fractional_b', 'fractional_c', 'fractional_d', 'fractional_e', 'fractional_f']:
+            common_data[key] = 'N/A'
 
     # Extract split times
     if 'Split Times:' in text_segment:
@@ -69,11 +72,16 @@ def getRaces(text_segment):
         split_times = split_times_text.split()
         for i, key in enumerate(['split_a', 'split_b', 'split_c', 'split_d', 'split_e', 'split_f']):
             common_data[key] = split_times[i].replace('(', '').replace(')', '') if i < len(split_times) else 'N/A'
+    else:
+        for key in ['split_a', 'split_b', 'split_c', 'split_d', 'split_e', 'split_f']:
+            common_data[key] = 'N/A'
 
     # Extract final time
     if 'Final Time:' in text_segment:
         final_time_match = re.search(r"Final Time:\s(.*)\s", text_segment)
         common_data['final_time'] = final_time_match.group(1) if final_time_match else 'N/A'
+    else:
+        common_data['final_time'] = 'N/A'
 
     # Extract race number
     race_match = re.search(r"Race\s*(\d+)", text_segment)
