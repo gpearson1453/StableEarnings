@@ -1003,7 +1003,7 @@ L bf
 no menace
 29Nov19 8EVD9
 3
-Lucky Star 123 (Garza-Cruz, Ricardo)
+Lucky-Star-123 (Garza-Cruz, Ricardo)
 126
 L bfk
 3
@@ -1098,7 +1098,7 @@ Jess a Boy
 71
 71 1/2
 3
-Lucky Star 123
+Lucky-Star-123
 6
 83
 83 1/4
@@ -1161,7 +1161,7 @@ bfk
 outfinihed
 6Jan20 5LAD2
 5
-Black 214 (Torres, Juan)
+Black-214 (Torres, Juan)
 126
 L bk
 5
@@ -1269,7 +1269,7 @@ Mr Piloto Shiney, Sorrel Gelding, by Mr Piloto out of Little Magic Sis, by Rocke
 Breeder: Grant Farms Llc
 Owner: Karen Brown
 Trainer: Haywood, Vann
-3 Claimed Horse(s): Black 214
+3 Claimed Horse(s): Black-214
 New Trainer: Don R. Poteet
 New Owner: Riley S Aguilar
 Jla Grand Baby Shake
@@ -1279,7 +1279,7 @@ Mr Piloto Shiney
 New Trainer: Levi Mays
 New Owner: Juan M. Montoya
 Claiming Prices:
-2 - Mr Piloto Shiney: $5,000; 10 - Ojos de Angel: $5,000; 5 - Black 214: $5,000; 3 - Jess an Kickin Idea: $5,000; 9 -
+2 - Mr Piloto Shiney: $5,000; 10 - Ojos de Angel: $5,000; 5 - Black-214: $5,000; 3 - Jess an Kickin Idea: $5,000; 9 -
 Sheza Stoli Panther: $5,000; 1 - One Famous Mvp: $5,000; 6 - Stitch It: $5,000; 7 - Sha: $5,000; 4 - Jla Grand Baby
 Shake: $5,000; 8 - Angel Bar Cartel: $5,000;
 Total WPS Pool: $7,920
@@ -1297,7 +1297,7 @@ Ojos de Angel
 7.20
 5.20
 5
-Black 214
+Black-214
 3.80
 Wager Type
 Winning Numbers
@@ -1343,7 +1343,7 @@ Ojos de Angel
 2Head
 2Nose
 5
-Black 214
+Black-214
 5
 51/2
 3Neck

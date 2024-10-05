@@ -529,7 +529,7 @@ Sixie Won (Leos, Jaime)
 bumped start, evenly
 17Nov19 1ZIA5
 1
-El Tarasco 727 (Aldrete, Hector)
+El-Tarasco-727 (Aldrete, Hector)
 128 L b
 1
 4
@@ -653,7 +653,7 @@ Sixie Won
 43
 43
 1
-El Tarasco 727
+El-Tarasco-727
 4
 52 1/4
 55

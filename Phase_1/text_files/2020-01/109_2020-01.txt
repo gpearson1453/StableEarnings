@@ -23,7 +23,7 @@ Odds Ind. Time
 Sp. In. Comments
 7Dec19 1EVD3
 1
-Reno 14 (Ransom, Bobby)
+Reno-14 (Ransom, Bobby)
 126 L bf
 1
 1
@@ -88,12 +88,12 @@ Slizzlin Steele (Torres, Juan)
 wide turn, 5wd strtch
 Run-Up: 0 feet
 Winner:
-Reno 14, Sorrel Gelding, by Cosino out of Breezing Cajun, by Streakin La Jolla. Foaled Feb 03, 2014 in Louisiana.
+Reno-14, Sorrel Gelding, by Cosino out of Breezing Cajun, by Streakin La Jolla. Foaled Feb 03, 2014 in Louisiana.
 Breeder: Mark G Petry
 Owner: Mark G. Petry
 Trainer: Jourdan, Preston
 Claiming Prices:
-1 - Reno 14: $5,000; 5 - Aintnosugar Inmytank: $5,000; 2 - House Pool: $5,000; 4 - Reba Is Crowded: $5,000; 3 -
+1 - Reno-14: $5,000; 5 - Aintnosugar Inmytank: $5,000; 2 - House Pool: $5,000; 4 - Reba Is Crowded: $5,000; 3 -
 Slizzlin Steele: $5,000;
 Scratched Horse(s): Mighty Fast Junky (Stewards)
 Total WPS Pool: $5,256
@@ -102,7 +102,7 @@ Win
 Place
 Show
 1
-Reno 14
+Reno-14
 7.80
 3.60
 2.40
@@ -136,7 +136,7 @@ Str 1
 Str
 Fin
 1
-Reno 14
+Reno-14
 1
 11
 12
@@ -783,7 +783,7 @@ L bk
 drew clear, much best
 ---
 2
-Xdw Lucyat 100 (Torres, Juan)
+Xdw-Lucyat-100 (Torres, Juan)
 126
 L bf
 1
@@ -809,7 +809,7 @@ L bf
 solid third
 12Dec19 5EVD6
 6
-Esperanza 1 (Alberto, Antonio)
+Esperanza-1 (Alberto, Antonio)
 126
 L bk
 7
@@ -889,7 +889,7 @@ Wl Cash Me Outside
 14.60
 5.40
 2
-Xdw Lucyat 100
+Xdw-Lucyat-100
 14.80
 8.00
 7
@@ -930,7 +930,7 @@ Wl Cash Me Outside
 11/2
 11 1/4
 2
-Xdw Lucyat 100
+Xdw-Lucyat-100
 1
 21/2
 21 1/4
@@ -940,7 +940,7 @@ Tf Sheza Toasted Tlc
 31 1/2
 31 3/4
 6
-Esperanza 1
+Esperanza-1
 4
 52 1/2
 42 3/4

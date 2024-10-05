@@ -464,7 +464,7 @@ bfk
 late effort
 11Jan20 5LAD2
 9
-Xdw Lucyat 100 (Torres, Juan)
+Xdw-Lucyat-100 (Torres, Juan)
 126
 L bf
 9
@@ -603,7 +603,7 @@ Fast Prize Jessica
 53/4
 43/4
 9
-Xdw Lucyat 100
+Xdw-Lucyat-100
 4
 3Head
 51 1/4

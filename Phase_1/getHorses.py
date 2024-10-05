@@ -68,7 +68,7 @@ def getHorses(text_segment):
                 'horse_name': entry[1],
                 'weight': int(weight_list[i]) if i < len(weight_list) else 'NOT FOUND',
                 'start_pos': 'N/A' if 'Start' not in PPRLP_text else (entry[2] if entry[2] in ['---', 'N/A'] else int(entry[2])),
-                'figures': ', '.join(entry[3:]),
+                'figures': ', '.join(entry[2:]) if 'Start' not in PPRLP_text else ', '.join(entry[3:]),
                 'final_pos': i + 1,
                 'jockey': jockey_list[i].strip() if i < len(jockey_list) else 'NOT FOUND',
                 'trainer': trainers_list[i].strip().replace('\n', '') if i < len(trainers_list) else 'NOT FOUND',

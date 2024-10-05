@@ -1149,7 +1149,7 @@ L bfk
 late rally
 26Oct19 9LS8
 6
-Ib Hot N Famous 2 (Espinosa, Pedro)
+Ib-Hot-N-Famous-2 (Espinosa, Pedro)
 126
 L bf
 6
@@ -1219,7 +1219,7 @@ Breeder: Aaron Harvey
 Owner: First Class Industries LLC
 Trainer: Taylor, M.
 Claiming Prices:
-3 - Streakin Lil Reba: $5,000; 5 - Cd Jesses Girl: $5,000; 2 - Jumpn West: $5,000; 6 - Ib Hot N Famous 2: $5,000; 8 -
+3 - Streakin Lil Reba: $5,000; 5 - Cd Jesses Girl: $5,000; 2 - Jumpn West: $5,000; 6 - Ib-Hot-N-Famous-2: $5,000; 8 -
 Too Pink: $5,000; 1 - Am Open My Secret: $5,000; 7 - Ttt Lucero Blanco: $5,000; 4 - Imagining More: $5,000;
 Total WPS Pool: $7,096
 Pgm Horse
@@ -1287,7 +1287,7 @@ Jumpn West
 4Neck
 31/2
 6
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 3
 3Head
 43/4

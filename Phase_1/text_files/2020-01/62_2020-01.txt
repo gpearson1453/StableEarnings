@@ -834,7 +834,7 @@ L bfk
 dueled, outnodded foe
 4Dec19 5EVD7
 10
-Black 214 (Torres, Juan)
+Black-214 (Torres, Juan)
 126
 L bk
 9
@@ -943,7 +943,7 @@ Breeder: Jls-Speed Horse Ranch Inc
 Owner: Rosendo Valdez
 Trainer: Mayo, Ray
 Claiming Prices:
-9 - Jls Carter Jo: $5,000; 10 - Black 214: $5,000; 2 - Runaway Cash Machine: $5,000; 7 - Jrs Runaway Fantasy:
+9 - Jls Carter Jo: $5,000; 10 - Black-214: $5,000; 2 - Runaway Cash Machine: $5,000; 7 - Jrs Runaway Fantasy:
 $5,000; 1 - Special Triple Vodka: $5,000; 4 - Mswandas Fastdash: $5,000; 8 - Flint River Vodka: $5,000; 3 - Rkm Five
 Bar Gamer: $5,000; 5 - Raineys Game: $5,000;
 Scratched Horse(s): Sheza Stoli Panther (Gate)
@@ -958,7 +958,7 @@ Jls Carter Jo
 7.40
 5.00
 10
-Black 214
+Black-214
 6.60
 4.20
 2
@@ -1007,12 +1007,12 @@ Jls Carter Jo
 2Head
 1Nose
 10
-Black 214
+Black-214
 1
 1Head
 2Nose
 2
-Runaway Cash Machine3
+Runaway Cash Machine 3
 31/2
 31/2
 7
