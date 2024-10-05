@@ -1,0 +1,1868 @@
+LOS ALA*MITOS - August 31, 2024 - Race 1
+MAIDEN - Mixed
+FOR MAIDENS, THREE YEARS OLD. Weight, 126 lbs.; Older, 126 lbs.
+Distance: One Thousand Yards On The Dirt Current Track Record: (Tizlightning - 51.358 - December 3, 2023)
+Purse: $15,000
+Available Money: $15,000
+Value of Race: $15,000 1st $8,085, 2nd $3,307, 3rd $1,838, 4th $1,102, 5th $368, 6th $300
+Wind Speed: 0 Wind Direction: No
+Weather: Clear, 74° Track: Fast
+Off at: 7:20 Start: Good for all except 5,6 Timing Method: Electronic
+Video Race Replay
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E PP Start
+Str 1
+Str
+Fin
+Odds Ind. Time
+Sp. In. Comments
+3Aug24 4LA2
+6
+Bonus Tornado (Payeras, Edgar)
+126 L b
+4
+4
+23/4
+21 1/2
+1Nose
+1.00*
+53.794
+---
+bp,2w,float str,wonbob
+21Jul24 5LA2
+4
+Topstitch (Ramirez, Francisco)
+126 L b
+2
+2
+1Nose
+1Head
+22 1/2
+1.00
+53.799
+---
+ins,drftd str,lost bob
+29Jun24 3LA5
+8
+S Y Dream (Escobedo, Adrian)
+126 L b
+6
+1
+32 1/4
+33/4
+31 1/4
+10.00
+54.272
+---
+chased 3w,stayed on
+3Aug24 4LA5
+3
+Mucho Suerte (Alcala, Jose)
+126 L b
+1
+5
+41 1/2
+44 1/2
+42 1/2
+8.00
+54.477
+---
+stalk duo ins,outkickd
+4Aug24 2LA3
+5
+Paislees Promise (Lopez, Henry)
+126 L
+3
+6
+6
+51
+55
+26.00
+54.987
+---
+bp st,slw into stride
+11Aug24 3LA4
+7
+Lord Earl (Hernandez, Efrain)
+126 L b
+5
+3
+52 1/2
+6
+6
+21.00
+55.979
+---
+stalk duo 2w,empty
+Run-Up: 0 feet
+Winner:
+Bonus Tornado, Chestnut Gelding, by Cat Burglar out of Bonus Spin, by Hard Spun. Foaled Mar 17, 2021 in California.
+Breeder: Richard Barton Enterprises
+Owner: Jorge T. Landeros
+Trainer: Morfin, Sergio
+Scratched Horse(s): Harlan Trooper (Veterinarian), Time to Bolt (Veterinarian)
+Total WPS Pool: $34,864
+Pgm Horse
+Win
+Place
+Show
+6
+Bonus Tornado
+4.00
+2.80
+2.20
+4
+Topstitch
+2.40
+2.20
+8
+S Y Dream
+4.40
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$1.00 Exacta
+6-4
+3.10
+19,917
+$1.00 Trifecta
+6-4-8
+12.40
+14,591
+$1.00 Superfecta
+6-4-8-3
+29.10
+16,556
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+Str 1
+Str
+Fin
+6
+Bonus Tornado
+4
+2Nose
+2Head
+1Nose
+4
+Topstitch
+2
+1Nose
+1Head
+2Nose
+8
+S Y Dream
+1
+33/4
+31 1/2
+32 1/2
+3
+Mucho Suerte
+5
+43
+42 1/4
+43 3/4
+5
+Paislees Promise
+6
+67
+56 3/4
+56 1/4
+7
+Lord Earl
+3
+54 1/2
+67 3/4
+611 1/4
+Trainers: 6 - Morfin, Sergio; 4 - Dial, Troy; 8 - Hanson, Ryan; 3 - Miyadi, Steven; 5 - Gonzalez, Felix; 7 - Flores, Jose
+Owners:
+6 -Jorge T. Landeros; 4 -Troy Dial; 8 -Richard Barton; 3 -Larry I. Stein; 5 -Vernon E. Aguayo; 7 -Hector Castrellon;
+Footnotes
+BONUS TORNADO bumped start, dueled 2wide, floated stretch, won bob. TOPSTITCH dueled inside, drifted out stretch, lost bob. S Y DREAM chased
+3wide, stayed on. MUCHO SUERTE stalked duo inside, outkicked. PAISLEES PROMISE bumped start, slow into stride, late try. LORD EARL stalked duo
+2wide, empty.
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+L<OS ALAMITOS - August 31, 2024 - Race 2
+CLAIMING - Thoroughbred
+FOR FILLIES AND MARES THREE YEARS OLD AND UPWARD WHICH HAVE NEVER WON TWO RACES. Three Year Olds,
+122 lbs.; Older, 125 lbs. Non-winners Of A Race Since June 30 Allowed 2 lbs. Claiming Price $5,000 (Maiden And Claiming Races
+For $4,000 Or Less Not Considered In Eligibility). (NW2 L X) Claiming Price: $5,000
+Distance: Two And One Half Furlongs On The Dirt Current Track Record: (Justamitch - 25.20 - September 25, 2022)
+Purse: $10,000
+Available Money: $10,000
+Value of Race: $10,000 1st $5,190, 2nd $2,120, 3rd $1,180, 4th $710, 5th $400, 6th $400
+Weather: Clear, 74° Track: Fast
+Off at: 7:45 Start: Good for all except 1 Timing Method: Electronic
+Video Race Replay
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E
+PP
+Start
+Str
+Fin
+Odds
+Comments
+20Jul24 2LA4
+4
+Run Auntie T Run (Hernandez, Efrain)
+124
+L bf
+4
+1
+11/2
+13/4
+2.80
+away well,drftd,best
+11Aug24 6LA4
+6
+Modera (Payeras, Edgar)
+123
+L b
+6
+5
+51/2
+21/2
+2.30
+willing 2nd outside
+20Jul24 2LA2
+2
+Lovely Colleen (Escobedo, Adrian)
+123
+L b
+2
+3
+4Head
+3Head
+2.20*
+steady try,won bob 3rd
+4Aug24 3LA4
+5
+Met At the Dance (Harvey, Barrington)
+123
+L b
+5
+4
+3Head
+4Nose
+17.60
+lost path late,edged
+20Jul24 3LA2
+3
+Somethingnefarious (Ramirez, Ricardo)
+123
+L k
+3
+2
+21/2
+5Neck
+2.90
+up close, outfinished
+3Aug24 2LA1
+1
+Better B Worth It (Alcala, Jose)
+122
+L b
+1
+6
+6
+6
+22.20
+off bit slow, no rally
+Final Time: 26.02
+Run-Up: 50 feet
+Winner:
+Run Auntie T Run, Bay Mare, by Stanford out of Sugar Spice, by Tavasco. Foaled Apr 02, 2019 in California.
+Breeder: Dan Wilson
+Owner: Jorge Padilla
+Trainer: Nunez, Jesus
+Claiming Prices:
+4 - Run Auntie T Run: $5,000; 6 - Modera: $5,000; 2 - Lovely Colleen: $5,000; 5 - Met At the Dance: $5,000; 3 -
+Somethingnefarious: $5,000; 1 - Better B Worth It: $5,000;
+Total WPS Pool: $44,939
+Pgm Horse
+Win
+Place
+Show
+4
+Run Auntie T Run
+7.60
+3.60
+2.40
+6
+Modera
+3.20
+2.40
+2
+Lovely Colleen
+2.60
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$1.00 Exacta
+4-6
+10.10
+23,000
+$1.00 Trifecta
+4-6-2
+39.60
+17,392
+$1.00 Daily Double
+6-4
+4.90
+8,502
+$1.00 Superfecta
+4-6-2-5
+172.30
+19,629
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+Str
+Fin
+4
+Run Auntie T Run
+1
+11/2
+13/4
+6
+Modera
+5
+51 1/4
+23/4
+2
+Lovely Colleen
+3
+41
+31 1/4
+5
+Met At the Dance
+4
+31
+41 1/4
+3
+Somethingnefarious
+2
+21/2
+51 1/2
+1
+Better B Worth It
+6
+61 3/4
+61 3/4
+Trainers: 4 - Nunez, Jesus; 6 - Nunez, Jesus; 2 - Aquino, Angela; 5 - Aquino, Angela; 3 - Nunez, Jesus; 1 - Aquino, Angela
+Owners:
+4 -Jorge Padilla; 6 -Mike Flory; 2 -Angela Maria Aquino; 5 -Vanessa Rice; 3 - Moreno, Ariel and Nunez, Jesus; 1 -Angela Maria Aquino;
+Footnotes
+RUN AUNTIE T RUN away well, drifted out, best. MODERA willing 2nd outside. LOVELY COLLEEN steady effort, won bob 3rd. MET AT THE DANCE lost
+path late, edged. SOMETHINGNEFARIOUS up close, outfinished. BETTER B WORTH IT off bit slow, no rally.
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+LO[S ALAMITOS - August 31, 2024 - Race 3
+CLAIMING - Mixed
+FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON THREE RACES. Three Year Olds, 124 lbs.; Older, 126 lbs.
+Claiming Price $6,250. (NW3 L) Claiming Price: $6,250
+Distance: One Thousand Yards On The Dirt Current Track Record: (Tizlightning - 51.358 - December 3, 2023)
+Purse: $10,000
+Available Money: $10,000
+Value of Race: $9,700 1st $5,290, 2nd $2,170, 3rd $1,210, 4th $730, 5th $300
+Wind Speed: 0 Wind Direction: No
+Weather: Clear, 74° Track: Fast
+Off at: 8:07 Start: Good for all except 1,2 Timing Method: Electronic
+Video Race Replay
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E PP Start
+Str 1
+Str
+Fin
+Odds Ind. Time
+Sp. In. Comments
+7Jul24 1LA1
+3
+Blackjack and Beer (Harvey, Barrington)
+124 L b
+3
+4
+32 1/4
+32 1/2
+13/4
+7.80
+53.681
+---
+off duo,3wd,best late
+21Jul24 6LA2
+4
+Gator Shining (Payeras, Edgar)
+126 L b
+4
+1
+23
+1Head
+21/2
+0.90*
+53.817
+---
+duel ins,led1/16,caugh
+20Jul24 1LA2
+1
+DQ-Naughty Niko (Olague, Fernando)
+119 L b
+1
+6
+6
+6
+33/4
+13.70
+53.903
+---
+took up st,angld,rally
+20Jul24 2LA3
+5
+Miss Joannie (Escobedo, Adrian)
+121 L b
+5
+2
+1Head
+21
+41
+8.90
+54.004
+---
+duel 2w,faltr,lost 3rd
+21Jul24 6LA3
+6
+Beyond Compare (Ramirez, Ricardo)
+126 L
+6
+3
+43
+43
+51 1/4
+2.80
+54.221
+---
+off duo,4w,drft,flattn
+21Jul24 6LA5
+2
+Smiling Jojo (Ramirez, Francisco)
+126 L bf
+2
+5
+53
+51 1/2
+6
+5.50
+54.482
+---
+bothrd st,ins,no rally
+Run-Up: 0 feet
+Winner:
+Blackjack and Beer, Chestnut Gelding, by Clubhouse Ride out of Play It Again Sam, by Distorted Humor. Foaled Mar 28, 2021 in California.
+Breeder: Legacy Ranch Inc
+Owner: Efren Morfin
+Trainer: Morfin, Sergio
+Claiming Prices:
+3 - Blackjack and Beer: $6,250; 4 - Gator Shining: $6,250; 1 - Naughty Niko: $6,250; 5 - Miss Joannie: $6,250; 6 -
+Beyond Compare: $6,250; 2 - Smiling Jojo: $6,250;
+Disqualification(s):
+# 1 Naughty Niko from 3 to 6
+Total WPS Pool: $22,779
+Pgm Horse
+Win
+Place
+Show
+3
+Blackjack and Beer
+17.60
+7.20
+4.00
+4
+Gator Shining
+3.00
+2.20
+1
+Naughty Niko
+4.60
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$1.00 Exacta
+3-4
+31.00
+14,495
+$1.00 Trifecta
+3-4-1
+154.00
+12,309
+$1.00 Superfecta
+3-4-1-5
+618.90
+10,988
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+Str 1
+Str
+Fin
+3
+Blackjack and Beer
+4
+33
+31
+13/4
+4
+Gator Shining
+1
+2Head
+1Head
+23/4
+1
+Naughty Niko
+6
+611 1/4
+68
+31 1/4
+5
+Miss Joannie
+2
+1Head
+2Head
+42
+6
+Beyond Compare
+3
+45 1/4
+43 1/2
+53
+2
+Smiling Jojo
+5
+58 1/4
+56 1/2
+64 1/4
+Trainers: 3 - Morfin, Sergio; 4 - Uranga, Jesus; 1 - Williams, Arturo; 5 - Uranga, Jesus; 6 - Morfin, Sergio; 2 - Raudales, Jose
+Owners:
+3 -Efren Morfin; 4 - Balderas Ranch, LLC; 1 -Arturo J. Williams; 5 -Jesus J. Uranga; 6 - Sergio Morfin Racing Stable, Inc.; 2 - Ayer, Alex and
+Saller, William;
+Footnotes
+BLACKJACK AND BEER broke out/in, stalked duo 2wide, bid 3wide, best late. GATOR SHINING dueled inside, led 1/16, caught. NAUGHTY NIKO took up
+start, trailed, gained 2p, angled in 1/16, up 3rd. MISS JOANNIE dueled 2wide, faltered 1/16. BEYOND COMPARE stalked duo 3path, bid 4wide, drifted in,
+flattened. SMILING JOJO bothered start, inside, no rally. PER RULING #131 FROM THE CALIFORNIA HORSE RACING BOARD, NAUGHTY NIKO WAS
+DISQUALIFIED FROM 3rd TO UNPLACED DUE TO CHRB RULE 1743 (7).
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+LOS ALAMITO/S - August 31, 2024 - Race 4
+ALLOWANCE - Mixed
+FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES. Three Year Olds, 124 lbs.; Older, 126 lbs.
+(NW2 L)
+Distance: One Thousand Yards On The Dirt Current Track Record: (Tizlightning - 51.358 - December 3, 2023)
+Purse: $15,000
+Available Money: $15,000
+Value of Race: $15,000 1st $8,085, 2nd $3,307, 3rd $1,838, 4th $1,102, 5th $368, 6th $300
+Wind Speed: 0 Wind Direction: No
+Weather: Clear, 74° Track: Fast
+Off at: 8:31 Start: Good for all except 3,4 Timing Method: Electronic
+Video Race Replay
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E PP Start
+Str 1
+Str
+Fin
+Odds Ind. Time
+Sp. In. Comments
+10Aug24 1LA5
+3
+Gostoso (Payeras, Edgar)
+124 L b
+3
+5
+41 1/4
+21/2
+11/2
+2.20*
+53.669
+---
+bp st,3w,bid 3w,best
+11Aug24 2LA1
+6
+Square D' Oro (Ramirez, Ricardo)
+124 L b
+6
+2
+12 1/4
+11/2
+21 3/4
+2.60
+53.787
+---
+sent,ovrtkn uppr,game
+10Aug24 1LA4
+4
+Twilight Moon (Harvey, Barrington)
+124 L o
+4
+6
+6
+4Head
+31 3/4
+6.80
+54.107
+---
+off slw/bp,willing 3rd
+10Aug24 1LA3
+5
+Indian Arrow (Lopez, Henry)
+126 L bf
+5
+1
+2Head
+32 1/4
+41 3/4
+4.70
+54.409
+---
+ceded lead,2w,weaken
+11Aug24 3LA1
+1
+Heather's Heathen (Escobedo, Adrian)
+126 L b
+1
+3
+31/2
+53/4
+5Neck
+2.90
+54.707
+---
+came in st,one paced
+3Aug24 4LA1
+2
+Takamakahara (Hernandez, Efrain)
+124 L b
+2
+4
+52 1/2
+6
+6
+12.10
+54.737
+---
+shift out 1/4,3p,nobid
+Run-Up: 0 feet
+Winner:
+Gostoso, Dark Bay or Brown Colt, by Tapwrit out of Christmas Carol, by Paddy O'Prado. Foaled Mar 06, 2021 in Kentucky.
+Breeder: BHMFR, LLC
+Owner: Lizbeth Medina
+Trainer: Vallejo, Genaro
+Total WPS Pool: $29,634
+Pgm Horse
+Win
+Place
+Show
+3
+Gostoso
+6.40
+3.80
+2.60
+6
+Square D' Oro
+4.60
+2.10
+4
+Twilight Moon
+3.40
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$1.00 Exacta
+3-6
+15.80
+13,649
+$1.00 Trifecta
+3-6-4
+48.60
+11,278
+$1.00 Pick 3
+4-3-3 (3 correct)
+405.80
+15,268
+$1.00 Pick 4
+1/2/6-4-3-3 (4 correct)
+848.60
+155,636
+$1.00 Superfecta
+3-6-4-5
+99.00
+10,308
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+Str 1
+Str
+Fin
+3
+Gostoso
+5
+42 3/4
+21/2
+11/2
+6
+Square D' Oro
+2
+12 1/4
+11/2
+21/2
+4
+Twilight Moon
+6
+66 1/2
+43 1/4
+32 1/4
+5
+Indian Arrow
+1
+22 1/4
+31
+44
+1
+Heather's Heathen
+3
+32 1/4
+53 1/4
+55 3/4
+2
+Takamakahara
+4
+54
+64
+66
+Trainers: 3 - Vallejo, Genaro; 6 - Uranga, Jesus; 4 - Berman, Eric; 5 - Gonzalez, Felix; 1 - Treece, Charles; 2 - Flores, Antonio
+Owners:
+3 -Lizbeth Medina; 6 - Battle Born Racing Stable; 4 - Berman, Eric and Johnson, Darren; 5 -Eric Smith; 1 - Pacific Coast Thoroughbreds LLC; 2 -
+Flores, Antonio and Guttman, Bruce;
+Footnotes
+GOSTOSO broke out, bumped start, chased 3wide, bid 3wide, best. SQUARE D' ORO sent clear, overtaken upper stretch, 2nd best. TWILIGHT MOON off
+slow/bumped start, willing 3rd 3path. INDIAN ARROW ceded lead, chased 2wide, weakened. HEATHER'S HEATHEN came in start, chased inside, lost
+ground turn, evenly. TAKAMAKAHARA shifted out 1/4, 3path, no threat.
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+LOS ALAMIT*OS - August 31, 2024 - Race 5
+MAIDEN - Quarter Horse
+FOR MAIDENS, TWO YEARS OLD. Weight, 126 lbs. (S)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Go Love a Lark Go - 14.863 - October 29, 2009)
+Purse: $9,000
+Available Money: $9,000
+Value of Race: $8,700 1st $4,570, 2nd $1,867, 3rd $1,038, 4th $625, 5th $300, 6th $300
+Wind Speed: 0 Wind Direction: No
+Weather: Clear, 74° Track: Fast
+Off at: 8:55 Start: Good for all except 2,3 Timing Method: Electronic
+Video Race Replay
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E PP
+Start
+Str
+Fin
+Odds Ind. Time
+Sp. In. Comments
+10Aug24 8LA2
+1
+Trends Are Up (Peinado, Oscar)
+126
+bf
+1
+2
+12
+11 3/4
+1.60
+15.652
+89
+brk in, convincingly
+10Aug24 8LA3
+7
+Indisputed (Arriaga, Martin)
+126
+bf
+6
+1
+2Head
+21 1/4
+3.30
+15.896
+81
+away well, 2nd best
+---
+6
+Poderoso (Roman, Jonathan)
+127
+b
+5
+3
+33/4
+3Neck
+19.90
+16.092
+74
+brk in,drift,best rest
+---
+3
+Thunderstruq (Arvizu, Rodolfo)
+129
+b
+3
+5
+4Neck
+41 1/4
+8.00
+16.146
+72
+brk in/bpd st,trying
+---
+5
+Ourfavoritechance (Viramontes, Armando)
+126
+b
+4
+4
+6
+51/2
+15.10
+16.348
+66
+fract,brk in,altr,wkn
+3Aug24 6LA4
+2
+One Favorite Runner (Ayala, Jesus)
+126
+b
+2
+6
+51
+6
+1.50*
+16.428
+63
+bit slw,shifted in gap
+Run-Up: 0 feet
+Winner:
+Trends Are Up, Bay Gelding, by Mr Jess Perry out of Trendi, by Stoli. Foaled Feb 14, 2022 in Utah.
+Breeder: McColee Land & Livestock Llc
+Owner: Gordon, Robyn and Green D Ranch LLC
+Trainer: Willis, Eddie
+Scratched Horse(s): Pancake Man (Veterinarian)
+Total WPS Pool: $24,162
+Pgm Horse
+Win
+Place
+Show
+1
+Trends Are Up
+5.20
+3.40
+3.20
+7
+Indisputed
+3.20
+3.00
+6
+Poderoso
+7.80
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$1.00 Exacta
+1-7
+9.80
+12,234
+$1.00 Trifecta
+1-7-6
+91.90
+11,080
+$1.00 Pick 3
+3-3-1 (3 correct)
+198.70
+9,728
+$1.00 Superfecta
+1-7-6-3
+301.70
+11,796
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+Str
+Fin
+1
+Trends Are Up
+2
+12
+11 3/4
+7
+Indisputed
+1
+22
+21 3/4
+6
+Poderoso
+3
+32
+33
+3
+Thunderstruq
+5
+42 3/4
+43 1/4
+5
+Ourfavoritechance
+4
+64
+54 1/2
+2
+One Favorite Runner
+6
+53
+65
+Trainers: 1 - Willis, Eddie; 7 - Aleman, Juan; 6 - Gonzalez, Felix; 3 - O'Dell, Christopher; 5 - Jones, Paul; 2 - Diaz, Lindolfo
+Owners:
+1 - Gordon, Robyn and Green D Ranch LLC; 7 -Kent Kleinknecht; 6 -Lupe Ayon; 3 - West Texas Racing Partners; 5 - Shawto Quarter Horses; 2
+-J. Francisco Diaz;
+Footnotes
+TRENDS ARE UP broke in, convincingly. INDISPUTED away well, 2nd best. PODEROSO broke in, drifted in, best resy. THUNDERSTRUQ broke
+in/bumped start, trying. OURFAVORITECHANCE fractious, broke in, altered out gap, no menace. ONE FAVORITE RUNNER bit slow, shifted in gap, saved.
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+LOS ALA/MITOS - August 31, 2024 - Race 6
+MAIDEN - Quarter Horse
+FOR MAIDENS, FILLIES TWO YEARS OLD. Weight, 126 lbs.
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Go Love a Lark Go - 14.863 - October 29, 2009)
+Purse: $10,000
+Available Money: $10,000
+Value of Race: $10,000 1st $4,800, 2nd $1,957, 3rd $1,088, 4th $655, 5th $300, 6th $300, 7th $300, 8th $300, 9th $300
+Wind Speed: 0 Wind Direction: No
+Weather: Clear, 74° Track: Fast
+Off at: 9:23 Start: Poor Timing Method: Electronic
+Video Race Replay
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E PP
+Start
+Str
+Fin
+Odds Ind. Time
+Sp. In. Comments
+6Jul24 6LA7
+9
+DQ-Foursix Dustyred (Alegria, Panfilo)
+126
+b
+9
+1
+13/4
+1Neck
+30.00
+15.770
+85
+alertly,lug late,best
+21Jul24 9LA2
+2
+Beach Walk (Arriaga, Martin)
+126
+bf
+2
+2
+21/2
+2Neck
+1.80*
+15.815
+83
+brk in/bpd st,savd 2nd
+14Jul24 5LA5
+4
+Jess Fly Thru Fire (Ayala, Jesus)
+126
+b
+4
+5
+31/2
+31 1/4
+9.00
+15.850
+82
+trbl st,drft/stdy wire
+26Jul24 3ALB8
+3
+Aqua Chica (Peinado, Oscar)
+126
+bf
+3
+4
+43/4
+4Head
+3.20
+16.040
+76
+lift st,bp2x early,sav
+4Aug24 6LA3
+8
+Change Up (Lara, Gabriel)
+126
+b
+8
+3
+61/2
+53/4
+6.10
+16.069
+75
+lacked needed rally
+6Jul24 5LA5
+7
+Sheezafavorite (Viramontes, Armando)
+126
+b
+7
+6
+5Head
+63/4
+13.90
+16.179
+71
+bp st,bp early,lean in
+---
+6
+Screaming Eagle Sp (Lopez, Henry)
+126
+bf
+6
+7
+71/2
+73/4
+32.00
+16.286
+68
+bpd st,crowded mid
+9Aug24 8ALB8
+1
+Inappropriate (Arvizu, Rodolfo)
+129
+b
+1
+8
+83/4
+83/4
+3.20
+16.383
+64
+off slow/bumped start
+10Aug24 6LA6
+5
+Free Speech (Ramirez, Ricardo)
+126
+b
+5
+9
+9
+9
+38.40
+16.496
+61
+off slow/bumped start
+Run-Up: 0 feet
+Winner:
+Beach Walk, Brown Filly, by Freighttrain B out of Heartbeat, by Tres Seis. Foaled Mar 27, 2022 in Kentucky.
+Breeder: Gentry Farms
+Owner: Gentry Farms (Robert Kirk Gentry/Robbi Force)
+Trainer: Aleman, Juan
+Disqualification(s):
+# 9 Foursix Dustyred from 1 to 3
+Total WPS Pool: $42,840
+Pgm Horse
+Win
+Place
+Show
+2
+Beach Walk
+5.60
+3.40
+2.60
+4
+Jess Fly Thru Fire
+6.80
+7.20
+9
+Foursix Dustyred
+11.80
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$1.00 Exacta
+2-4
+28.30
+25,286
+$1.00 Trifecta
+2-4-9
+450.80
+19,209
+$1.00 Superfecta
+2-4-9-3
+2,814.50
+23,548
+$1.00 Pick 3
+3-1-2 (3 correct)
+43.10
+11,419
+$1.00 Daily Double
+1-2
+8.90
+4,555
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+Str
+Fin
+9
+Foursix Dustyred
+1
+13/4
+1Neck
+2
+Beach Walk
+2
+23/4
+2Neck
+4
+Jess Fly Thru Fire
+5
+31 1/4
+31/2
+3
+Aqua Chica
+4
+41 3/4
+41 3/4
+8
+Change Up
+3
+62 1/2
+51 3/4
+7
+Sheezafavorite
+6
+52 1/2
+62 1/2
+6
+Screaming Eagle Sp
+7
+73
+73 1/4
+1
+Inappropriate
+8
+83 1/2
+84
+5
+Free Speech
+9
+94 1/4
+94 3/4
+Trainers: 9 - Mendoza, Jesus; 2 - Aleman, Juan; 4 - Diaz, Lindolfo; 3 - Willis, Eddie; 8 - Willoughby, Scott; 7 - Jones, Paul; 6 - Gonzalez, Felix; 1 - O'Dell,
+Christopher; 5 - Casselman, Michael
+Owners:
+9 -Juan Rangel-Chavez; 2 - Gentry Farms (Robert Kirk Gentry/Robbi Force); 4 -Roberto Bedolla; 3 - Wishbone Partnership; 8 -Edward C. Allred;
+7 -Lesley A. Joyner; 6 -Salvador Pimienta; 1 -Johnny Trotter; 5 -Steve D. Burns;
+Footnotes
+FOURSIX DUSTYRED away well, lugged in late, best. BEACH WALK broke in/bumped start, 2nd best. JESS FLY THRU FIRE solidly bumped start,
+bumped twice early, drifted out/steadied. AQUA CHICA lifted start, bumped twice early, saved. CHANGE UP lacked needed rally. SHEEZAFAVORITE
+bumped start, bumped early, leaning in. SCREAMING EAGLE SP bumped start, crowded midway. INAPPROPRIATE off slow/bumped start. FREE
+SPEECH off slow/bumped start, weaved early. STEWARDS INQUIRY, AFTER REVIEW, THE STEWARDS DISQUALIFIED FOURSIX DUSTYRED FROM
+FIRST AND PLACED THIRD BEHIND JESS FLY THRU FIRE SO ALLEGED INTERFERNCE APPROACHING THE WIRE
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+LO*S ALAMITOS - August 31, 2024 - Race 7
+MAIDEN - Quarter Horse
+FOR MAIDENS, THREE YEARS OLD AND UPWARD. Three Year Olds, 126 lbs.; Older, 126 lbs.
+Distance: One Hundred And Ten Yards On The Dirt Current Track Record: (Teller Jazz Mrl - 69.78 - March 26, 2021)
+Purse: $9,500
+Available Money: $9,500
+Value of Race: $9,200 1st $4,685, 2nd $1,912, 3rd $1,063, 4th $640, 5th $300, 6th $300, 7th $300
+Wind Speed: 0 Wind Direction: No
+Weather: Clear, 74° Track: Fast
+Off at: 9:49 Start: Poor Timing Method: Electronic
+Video Race Replay
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E PP
+Start
+Str
+Fin
+Odds Ind. Time
+Sp. In. Comments
+3Aug24 7LA3
+7
+Run Lika Cheetah (Lara, Irving)
+126
+L b
+6
+1
+*
+13/4
+1.30*
+7.127
+86
+away well, best
+20Jul24 4LA5
+3
+Jazzy Girl (Arriaga, Martin)
+126
+L b
+3
+3
+*
+2Neck
+14.70
+7.266
+74
+good start, held 2d
+11Aug24 9LA6
+2
+La Zamira (Alcala, Jose)
+122
+L bk
+2
+2
+*
+3Head
+21.80
+7.296
+71
+solid effort
+26May24 3RUI5
+1
+Apolitical Walk (Arvizu, Rodolfo)
+129
+L bk
+1
+6
+*
+41/2
+1.80
+7.319
+69
+came in start
+3Aug24 7LA8
+8
+Boutique (Ramirez, Ricardo)
+124
+L b
+7
+4
+*
+53/4
+11.00
+7.390
+62
+came out start
+3Aug24 7LA2
+5
+Blownbubbles (Ayala, Jesus)
+126
+L b
+4
+7
+*
+6Head
+3.70
+7.499
+52
+leaned back/off slow
+19May24 7LA7
+6
+Charmed Speed (Ramirez, Francisco)
+126
+b
+5
+5
+*
+7
+28.10
+7.519
+51
+broke in/bumped start
+Run-Up: 0 feet
+Winner:
+Run Lika Cheetah, Brown Filly, by Favorite Cartel out of Babe On the Fly, by Strawfly Special. Foaled Mar 31, 2021 in California.
+Breeder: Steve D Burns Dvm
+Owner: Dale Boydston
+Trainer: Gomez, Jaime
+Scratched Horse(s): Imeasilytempted (Veterinarian)
+Total WPS Pool: $27,430
+Pgm Horse
+Win
+Place
+Show
+7
+Run Lika Cheetah
+4.60
+3.40
+2.20
+3
+Jazzy Girl
+14.60
+6.60
+2
+La Zamira
+11.00
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$1.00 Exacta
+7-3
+35.20
+16,589
+$1.00 Trifecta
+7-3-2
+217.00
+15,806
+$1.00 Pick 3
+1-2-7 (3 correct)
+30.90
+10,117
+$1.00 Superfecta
+7-3-2-1
+1,199.70
+17,107
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+Str
+Fin
+7
+Run Lika Cheetah
+1
+*
+13/4
+3
+Jazzy Girl
+3
+*
+23/4
+2
+La Zamira
+2
+*
+31
+1
+Apolitical Walk
+6
+*
+41
+8
+Boutique
+4
+*
+51 1/2
+5
+Blownbubbles
+7
+*
+62 1/4
+6
+Charmed Speed
+5
+*
+72 1/2
+Trainers: 7 - Gomez, Jaime; 3 - Jones, Paul; 2 - Nunez, Jesus; 1 - O'Dell, Christopher; 8 - Casselman, Michael; 5 - Jones, Paul; 6 - Westbrook, Bobby
+Owners:
+7 -Dale Boydston; 3 -Julia Reyes; 2 - Aguilar, Alfredo and Gomez, Sandra; 1 - West Texas Racing Partners; 8 -Steve D. Burns; 5 -Adolfo Perez;
+6 -Bobby Dalton Westbrook;
+Footnotes
+RUN LIKA CHEETAH away well, best. JAZZY GIRL good start, held 2d. LA ZAMIRA solid effort. APOLITICAL WALK came in start. BOUTIQUE came out
+start. BLOWNBUBBLES leaned back/off slow. CHARMED SPEED broke in/bumped start.
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+LOS ALAM[ITOS - August 31, 2024 - Race 8
+ALLOWANCE - Quarter Horse
+FOR FILLIES TWO YEARS OLD WHICH HAVE NEVER WON TWO RACES. Weight, 126 lbs. (NW2 L)
+Distance: Three Hundred And Fifty Yards On The Dirt Current Track Record: (Divide the Cash - 17.061 - June 11, 2010)
+Purse: $13,500
+Available Money: $13,500
+Value of Race: $13,500 1st $6,930, 2nd $2,835, 3rd $1,575, 4th $945, 5th $315, 6th $300, 7th $300, 8th $300
+Wind Speed: 0 Wind Direction: No
+Weather: Clear, 74° Track: Fast
+Off at: 10:11 Start: Good for all Timing Method: Electronic
+Video Race Replay
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E PP Start
+Str 1
+Str
+Fin
+Odds Ind. Time
+Sp. In. Comments
+4Aug24 5LA3
+4
+See It Clearly (Lara, Gabriel)
+126 b
+4
+2
+1Head
+1Nose
+1Nose
+4.00
+17.978
+84
+dueled, lasted
+4Aug24 5LA3
+2
+Cd Favorite Lady (Ramirez, Ricardo)
+126 b
+2
+6
+31/2
+21/2
+23/4
+7.60
+17.984
+84
+steady gain, missed
+4Aug24 5LA5
+6
+Executive Teller Mrl (Lara, Irving)
+126 b
+6
+1
+2Head
+3Head
+3Head
+16.00
+18.098
+81
+away well, game try
+18Aug24 8LA6
+7
+Gold N Ticket (Peinado, Oscar)
+126 bf
+7
+3
+6Head
+7Head
+4Neck
+14.00
+18.119
+80
+solid effort
+27Jul24 1LA3
+5
+Mysmerized (Lozano, Ruben)
+126 b
+5
+4
+4Head
+4Head
+5Neck
+6.80
+18.161
+79
+even effort
+20Jul24 8LA6
+8
+Janett Mitchell (Cervantes, Armando)
+126 b
+8
+8
+8
+8
+6Head
+2.00*
+18.208
+78
+bit slow, lacked rally
+4Aug24 5LA2
+3
+Elsia (Lopez, Henry)
+126 b
+3
+5
+7Head
+6Nose
+73/4
+3.80
+18.231
+77
+leaned in early,saved
+13Jul24 12RUI6
+1
+Aj Duchess (Ayala, Jesus)
+126 bfk
+1
+7
+5Head
+5Head
+8
+7.70
+18.331
+74
+broke in, weakened
+Run-Up: 0 feet
+Winner:
+See It Clearly, Sorrel Filly, by Fly Thru the Fire out of Full Moon, by Favorite Cartel. Foaled Feb 23, 2022 in California.
+Breeder: Edward C Allred
+Owner: Edward C. Allred
+Trainer: Willoughby, Scott
+Total WPS Pool: $21,986
+Pgm Horse
+Win
+Place
+Show
+4
+See It Clearly
+10.00
+3.60
+2.60
+2
+Cd Favorite Lady
+6.60
+4.20
+6
+Executive Teller Mrl
+6.20
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$1.00 Exacta
+4-2
+36.40
+10,867
+$1.00 Trifecta
+4-2-6
+299.30
+11,430
+$1.00 Superfecta
+4-2-6-7
+2,372.80
+12,016
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+Str 1
+Str
+Fin
+4
+See It Clearly
+2
+1Head
+1Nose
+1Nose
+2
+Cd Favorite Lady
+6
+3Head
+2Nose
+2Nose
+6
+Executive Teller Mrl
+1
+2Head
+31/2
+33/4
+7
+Gold N Ticket
+3
+61
+71
+41
+5
+Mysmerized
+4
+43/4
+43/4
+51 1/4
+8
+Janett Mitchell
+8
+81
+81
+61 1/2
+3
+Elsia
+5
+71
+63/4
+71 1/2
+1
+Aj Duchess
+7
+53/4
+53/4
+82 1/4
+Trainers: 4 - Willoughby, Scott; 2 - Gomez, Jaime; 6 - Gomez, Jaime; 7 - Willis, Eddie; 5 - Zamudio, Valentin; 8 - Arrossa, Monty; 3 - Jones, Paul; 1 - Willis,
+Eddie
+Owners:
+4 -Edward C. Allred; 2 - CD Horses, Inc.; 6 - Haras Portofino; 7 - Grant R Cox Revocable Trust; 5 - Bar M Quarter Horses; 8 - Fisher, Vaughn
+and McNelis, Edward; 3 -James G. Burgess; 1 - Reliance Ranches LLC;
+Footnotes
+SEE IT CLEARLY dueled, lasted. CD FAVORITE LADY steady gain, missed. EXECUTIVE TELLER MRL away well, game try. GOLD N TICKET solid effort.
+MYSMERIZED even effort. JANETT MITCHELL bit slow, lacked rally. ELSIA leaned in early, saved. AJ DUCHESS broke in, weakened.
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+LOS AL/AMITOS - August 31, 2024 - Race 9
+ALLOWANCE - Quarter Horse
+FOR THREE YEAR OLDS AND UPWARD. Three Year Olds, 126 lbs.; Older, 126 lbs.
+Distance: Three Hundred And Fifty Yards On The Dirt Current Track Record: (Divide the Cash - 17.061 - June 11, 2010)
+Purse: $14,400
+Available Money: $14,400
+Value of Race: $14,400 1st $7,425, 2nd $3,037, 3rd $1,688, 4th $1,012, 5th $338, 6th $300, 7th $300, 8th $300
+Wind Speed: 0 Wind Direction: No
+Weather: Clear, 74° Track: Fast
+Off at: 10:35 Start: Good for all except 3,5 Timing Method: Electronic
+Video Race Replay
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E PP Start
+Str 1
+Str
+Fin
+Odds Ind. Time
+Sp. In. Comments
+16Mar24 10RP8
+7
+Candy Blood (Ayala, Jesus)
+126 L bk
+7
+2
+21/2
+2Nose
+1Neck
+3.80
+17.641
+94
+up close, best late
+7Jul24 7LA1
+2
+El Aventurero (Viramontes, Armando)
+126 L b
+2
+5
+3Head
+31/2
+2Nose
+5.70
+17.686
+92
+antsy,surged,gamely
+15Jun24 6LA1
+1
+Fly Over (Lopez, Henry)
+126 L b
+1
+6
+5Head
+4Neck
+3Neck
+11.10
+17.688
+92
+broke in, solid effort
+7Jul24 7LA3
+6
+Hes Chickless (Mendez, Cruz)
+126 L b
+6
+1
+1Neck
+1Head
+4Nose
+2.00*
+17.726
+91
+away well, weakened
+7Jul24 7LA2
+8
+Up for Everything (Lara, Gabriel)
+126 L b
+8
+3
+61
+5Nose
+51/2
+3.30
+17.728
+91
+brk out, needed more
+7Jul24 8LA7
+4
+Normandy (Cervantes, Armando)
+126 L
+4
+4
+4Head
+61 1/4
+63/4
+18.30
+17.811
+89
+lackd needed response
+27Jul24 7LA4
+3
+You Can Run (Ramirez, Ricardo)
+126 L bf
+3
+7
+71/2
+71 1/4
+73/4
+6.50
+17.917
+86
+awkward start
+7Jul24 6LA3
+5
+Space Flight (Lara, Irving)
+126 L b
+5
+8
+8
+8
+8
+28.20
+18.060
+82
+antsy,off slw/bumped
+Run-Up: 0 feet
+Winner:
+Candy Blood, Gray Gelding, by Apollitical Blood out of Ranch Candy, by Wave Carver. Foaled Feb 19, 2018 in Oklahoma.
+Breeder: Rick Sumner
+Owner: Sumner, Rick and Dunn Ranch
+Trainer: Arrossa, Monty
+Total WPS Pool: $40,080
+Pgm Horse
+Win
+Place
+Show
+7
+Candy Blood
+9.60
+5.80
+4.60
+2
+El Aventurero
+6.00
+4.20
+1
+Fly Over
+5.20
+Wager Type
+Winning Numbers
+Payoff
+Pool Carryover
+$1.00 Exacta
+7-2
+33.90
+21,346
+$1.00 Trifecta
+7-2-1
+237.30
+21,768
+$1.00 Daily Double
+4-7
+29.60
+11,043
+$1.00 Pick 3
+7-4-7 (3 correct)
+79.00
+21,538
+$1.00 Pick 4
+2-4/7-4-7 (4 correct)
+244.10
+122,166
+$2.00 Pick 6
+3-1-2-4/7-4-7 (5 correct)
+85.60
+0
+$2.00 Pick 6
+3-1-2-4/7-4-7 (6 correct)
+4,503.00
+16,684
+10,000
+$1.00 Place Pick All
+9 OF 9 (9 correct)
+1,251.60
+19,475
+$1.00 Superfecta
+7-2-1-6
+1,047.90
+22,822
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+Str 1
+Str
+Fin
+7
+Candy Blood
+2
+2Neck
+2Head
+1Neck
+2
+El Aventurero
+5
+33/4
+3Head
+2Neck
+1
+Fly Over
+6
+51
+43/4
+3Neck
+6
+Hes Chickless
+1
+1Neck
+1Head
+41/2
+8
+Up for Everything
+3
+61
+51
+51/2
+4
+Normandy
+4
+43/4
+61
+61
+3
+You Can Run
+7
+72
+72 1/4
+71 3/4
+5
+Space Flight
+8
+82 1/2
+83 1/2
+82 1/2
+Trainers: 7 - Arrossa, Monty; 2 - Diaz, Lindolfo; 1 - Glenn, Jr., James; 6 - Morfin, Sergio; 8 - Willoughby, Scott; 4 - Arrossa, Monty; 3 - Casselman, Michael;
+5 - Willoughby, Scott
+Owners:
+7 - Sumner, Rick and Dunn Ranch; 2 -J. Francisco Diaz; 1 -Edward C. Allred; 6 -Jeryl Hartley; 8 -Edward C. Allred; 4 -Ronnie Brooks Keller; 3
+-Steve D. Burns; 5 -Edward C. Allred;
+Footnotes
+CANDY BLOOD up close, best late. EL AVENTURERO antsy, clean start, surged, missed. FLY OVER broke in, solid effort. HES CHICKLESS away well,
+weakened. UP FOR EVERYTHING broke out, needed more. NORMANDY lacked needed response. YOU CAN RUN awkward start. SPACE FLIGHT antsy,
+off slow/bumped start.
+Track Attendance: 866
+Handle: $69,155
+ITW = intra-state wagering
+Handle: $137,149
+ISW = inter-state wagering
+Handle: $925,371
+Copyright 2024 Equibase Company LLC. All Rights Reserved.

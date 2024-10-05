@@ -1,0 +1,1727 @@
+CAMARERO
+<RACE TRACK - April 17, 2022 - Race 1
+CLAIMING - Thoroughbred
+FOR FILLIES AND MARES FOUR YEARS OLD AND UPWARD WHICH HAVE NEVER WON FOUR RACES AND WHICH HAVE
+STARTED FOR A CLAIMING PRICE OF $20,000 OR LESS. Weight, 123 lbs. Non-winners Of A Race Since April 2 Allowed 2 lbs. A
+Race Since March 17 Allowed 4 lbs. A Race Since February 17 Allowed 7 lbs. Claiming Price $14,000. (NW4 L) Claiming Price:
+$14,000
+Distance: One Mile On The Dirt
+Purse: $7,350
+Available Money: $7,350
+Value of Race: $7,350 1st $4,350, 2nd $1,500, 3rd $750, 4th $450, 5th $300
+Weather: Clear, 85° Track: Fast
+Off at: 2:45 Start: Good for all
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E PP Start
+1/4
+1/2
+3/4
+Str
+Fin
+Odds Comments
+5Mar22 5CMR2
+2
+Delachaise (Diaz, Juan)
+117 L
+2
+5
+5
+5
+31
+12
+16 1/2
+0.65*
+step,split,handlate
+19Mar22 2CMR1
+1
+Lights On Girl (Berrios, Hector)
+121 L
+1
+2
+23
+23
+21 1/2
+33
+2Nose
+2.45
+bid3/8,drftabit,3wd42d
+5Mar22 5CMR5
+5
+Lady Tapatia (Velez, Jorge)
+116 L
+5
+1
+11 1/2
+11 1/2
+11/2
+21/2
+31 1/4
+5.70
+pacd, insduel42d
+19Mar22 2CMR2
+4
+Scarlet Flame (Castro, Edwin)
+117 L
+4
+4
+31 1/2
+33 1/2
+47
+411
+442 1/2
+2.30
+step, even 4 wide
+9Apr22 7CMR6
+3
+Count Win (Carrasquillo, Edwin)
+116 L
+3
+3
+41 1/2
+41
+5
+5
+5
+57.90
+failed to menace
+Fractional Times: 24.59
+49.09
+1:14.23
+Final Time: 1:39.76
+Split Times:
+(24:50) (25:14)
+(25:53)
+Run-Up: 0 feet
+Winner:
+Delachaise, Chestnut Mare, by Itsmyluckyday out of Pure Scarlett, by Pure Prize. Foaled Mar 27, 2016 in Kentucky.
+Breeder: Shelley Gross & Robyn Theobald
+Owner: Louisiana Stable
+Trainer: Diaz, Jr., Edwin
+Claiming Prices:
+2 - Delachaise: $14,000; 1 - Lights On Girl: $14,000; 5 - Lady Tapatia: $14,000; 4 - Scarlet Flame: $14,000; 3 - Count
+Win: $14,000;
+Total WPS Pool: $22,148
+Pgm Horse
+Win
+Place
+2
+Delachaise
+3.30
+2.10
+1
+Lights On Girl
+2.10
+5
+Lady Tapatia
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$2.00 Exacta
+2-1
+7.30
+628
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+1/4
+1/2
+3/4
+Str
+Fin
+2
+Delachaise
+5
+57 1/2
+59
+32
+12
+16 1/2
+1
+Lights On Girl
+2
+21 1/2
+21 1/2
+21/2
+32 1/2
+26 1/2
+5
+Lady Tapatia
+1
+11 1/2
+11 1/2
+11/2
+22
+36 1/2
+4
+Scarlet Flame
+4
+34 1/2
+34 1/2
+43
+45 1/2
+47 3/4
+3
+Count Win
+3
+46
+48
+510
+516 1/2
+550 1/4
+Trainers: 2 - Diaz, Jr., Edwin; 1 - Santiago, Anderson; 5 - Diaz, Jr., Edwin; 4 - Rivera Lopez, Hector; 3 - Martinez, Julio
+Owners:
+2 - Louisiana Stable; 1 - Skull Stable PR; 5 - GEO Racing Stable PR; 4 - Ordep Racing; 3 - J M Stable;
+Footnotes
+LIGHTS ON GIRL chased, bid 3/8 pole, drifted a bit turn, 3 wide duel for place. DELACHAISE step slow, off pace, split 1/4 pole, drew clear, in hand late.
+COUNT WIN failed to menace. SCARLET FLAME step slow, even finish 4 wide. LADY TAPATIA set pace, inside duel for place.
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+CAMARERO RACE TRACK? - April 17, 2022 - Race 2
+CLAIMING - Thoroughbred
+FOR NATIVE FILLIES AND MARES FOUR YEARS OLD AND UPWARD. Weight, 120 lbs. Non-winners Of A Race Since April 2
+Allowed 1 lbs. A Race Since March 17 Allowed 2 lbs. A Race Since February 17 Allowed 4 lbs. Claiming Price $27,000. (S)
+Claiming Price: $27,000
+Distance: Seven Furlongs On The Dirt
+Purse: $9,016
+Available Money: $9,016
+Value of Race: $9,016 1st $5,336, 2nd $1,840, 3rd $920, 4th $552, 5th $368
+Weather: Clear, 85° Track: Fast
+Off at: 3:16 Start: Good for all
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E
+PP
+Start
+1/4
+1/2
+Str
+Fin
+Odds Comments
+22Mar22 1CMR4
+4
+Sharymarie D (Rodriguez, Juan)
+118
+L
+4
+3
+1Head
+21
+11 1/2
+11
+1.55
+ledstr,prvldhandurging
+22Mar22 1CMR2
+5
+Amazing Spirit (Diaz, Jr., J.C.)
+116
+L
+5
+1
+42 1/2
+41 1/2
+21/2
+2Neck
+0.95*
+steady att4w, failed
+10Apr22 4CMR3
+2
+Pintorella (Urrutia, Maria)
+112
+L
+2
+2
+3Head
+11/2
+32 1/2
+3Neck
+17.30
+led ins 1/2, grudgingl
+22Mar22 1CMR3
+1
+Pretty and Proud (Diaz, Juan)
+117
+L
+1
+4
+5
+5
+41/2
+41 1/4
+2.65
+loomdin3/8,swung4w,lat
+10Feb22 4CMR4
+3
+Flor Perfumada (Hernandez Sanchez, Andy)
+117
+L
+3
+5
+21/2
+31/2
+5
+5
+7.15
+stalked pace, no rally
+Fractional Times: 24.74
+48.45
+1:13.68
+Final Time: 1:26.83
+Split Times:
+(23:71) (25:23)
+(13:15)
+Run-Up: 0 feet
+Winner:
+Sharymarie D, Bay Mare, by Hockenheim out of Shemesh, by Cure the Blues. Foaled Jan 30, 2015 in Puerto Rico.
+Breeder: Potrero Los Llanos Inc.
+Owner: Establo Mi Sueno
+Trainer: Ojeda, Juan
+Claiming Prices:
+4 - Sharymarie D: $27,000; 5 - Amazing Spirit: $27,000; 2 - Pintorella: $27,000; 1 - Pretty and Proud: $27,000; 3 - Flor
+Perfumada: $27,000;
+Total WPS Pool: $18,957
+Pgm Horse
+Win
+Place
+4
+Sharymarie D
+5.10
+2.40
+5
+Amazing Spirit
+2.30
+2
+Pintorella
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$2.00 Daily Double
+2-4
+15.70
+1,802
+$2.00 Exacta
+4-5
+8.90
+594
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+1/4
+1/2
+Str
+Fin
+4
+Sharymarie D
+3
+1Head
+21/2
+11 1/2
+11
+5
+Amazing Spirit
+1
+43/4
+42
+21 1/2
+21
+2
+Pintorella
+2
+31/2
+11/2
+32
+31 1/4
+1
+Pretty and Proud
+4
+53 1/4
+53 1/2
+44 1/2
+41 1/2
+3
+Flor Perfumada
+5
+2Head
+31 1/2
+55
+52 3/4
+Trainers: 4 - Ojeda, Juan; 5 - Bultron, Reinaldo; 2 - Bultron, Reinaldo; 1 - Diaz, Samuel; 3 - Diaz, Samuel
+Owners:
+4 - Establo Mi Sueno; 5 - D C Racing; 2 - D C Racing; 1 -Guillermo Berrios; 3 -Antonio Llavona;
+Footnotes
+SHARYMARIE D pressed pace, led stretch, hand urging. AMAZING SPIRIT steady attack 4 wide, failed. PINTORELLA led inside 1/2, grudgingly inside.
+PRETTY AND PROUD off pace, loomed inside 3/8 pole, swung 4 wide turn, late kick. FLOR PERFUMADA stalked pace, no rally.
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+CAMARERO RACE TR/ACK - April 17, 2022 - Race 3
+MAIDEN CLAIMING - Thoroughbred
+FOR NATIVE MAIDENS, FILLIES AND MARES THREE YEARS OLD AND UPWARD. Three Year Olds, 118 lbs.; Older, 121 lbs.
+Non-winners Of Races Allowed 1 lbs. Races Allowed 2 lbs. Claiming Price $20,000. (S) Claiming Price: $20,000
+Distance: Six Furlongs On The Dirt
+Purse: $8,600
+Available Money: $8,600
+Value of Race: $8,600 1st $4,988, 2nd $1,720, 3rd $860, 4th $516, 5th $344, 6th $172
+Weather: Clear, 85° Track: Fast
+Off at: 3:43 Start: Good for all
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E
+PP
+Start
+1/4
+1/2
+Str
+Fin
+Odds Comments
+31Mar22 5CMR5
+4
+Alegria Alegria (Rodriguez, Juan)
+118
+L
+4
+5
+31/2
+34
+11 1/2
+11/2
+1.70
+stalkd,4wbid,led,pvld
+12Mar22 3CMR3
+2
+Transistora (Pellot, Kennel)
+118
+L
+2
+2
+57
+41
+21/2
+25 3/4
+17.05
+ins,swung5w,kickd,game
+31Mar22 5CMR8
+6
+Recomendada (Figueroa, Nicky)
+117
+L
+6
+3
+2Head
+21/2
+45
+3Neck
+2.95
+close,bidbwn1/4,lackd
+18Mar22 5CMR10
+3
+Win Faviola (Navarro, Joshua)
+118
+L
+3
+1
+11 1/2
+11/2
+3Head
+41
+3.80
+ledto150,game3rd
+---
+5
+Lady Stellamarie (Rodriguez, Joshua)
+119
+- -
+5
+4
+4Head
+58
+57 1/2
+58 3/4
+29.60
+5 wide, even finish
+12Mar22 3CMR2
+1
+Regina Isabel (Velez, Jorge)
+116
+- -
+1
+6
+61
+62 1/2
+65
+64 1/2
+1.55*
+slow early, no menace
+---
+7
+Senorademadrugada (Maldonado, Alondra)
+109
+L
+7
+7
+7
+7
+7
+7
+23.15
+slow early, no menace
+Fractional Times: 24.64
+48.72
+N/A
+Final Time: 1:15.10
+Split Times:
+(24:08) (26:38)
+Run-Up: 0 feet
+Winner:
+Alegria Alegria, Chestnut Filly, by Side Road out of Spirit of a Lion, by Lion Heart. Foaled Jan 25, 2019 in Puerto Rico.
+Breeder: Mr. & Mrs. Pedro Agustin
+Owner: Establo Rafanil
+Trainer: Lisboa, Jason
+Claiming Prices:
+4 - Alegria Alegria: $20,000; 2 - Transistora: $20,000; 6 - Recomendada: $20,000; 3 - Win Faviola: $20,000; 5 - Lady
+Stellamarie: $20,000; 1 - Regina Isabel: $20,000; 7 - Senorademadrugada: $20,000;
+Total WPS Pool: $23,937
+Pgm Horse
+Win
+Place
+4
+Alegria Alegria
+5.40
+3.50
+2
+Transistora
+7.30
+6
+Recomendada
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$2.00 Daily Double
+4-4
+11.80
+1,263
+$2.00 Exacta
+4-2
+155.10
+695
+$1.00 Trifecta
+4-2-6
+88.05
+1,167
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+1/4
+1/2
+Str
+Fin
+4
+Alegria Alegria
+5
+31 1/2
+31
+11 1/2
+11/2
+2
+Transistora
+2
+52 1/4
+45
+21 1/2
+21/2
+6
+Recomendada
+3
+21 1/2
+21/2
+42
+36 1/4
+3
+Win Faviola
+1
+11 1/2
+11/2
+32
+46 1/2
+5
+Lady Stellamarie
+4
+42
+56
+57
+57 1/2
+1
+Regina Isabel
+6
+69 1/4
+614
+614 1/2
+616 1/4
+7
+Senorademadrugada
+7
+710 1/4
+716 1/2
+719 1/2
+720 3/4
+Trainers: 4 - Lisboa, Jason; 2 - Perez, Pedro; 6 - Negron, Ricardo; 3 - Osorio, Osvaldo; 5 - Colorado, Luis; 1 - Cartagena, Jr., Jesus; 7 - Santiago,
+Anderson
+Owners:
+4 - Establo Rafanil; 2 -Angel Luis Calderon; 6 - L.A.R. Stable, Corp.; 3 - Establo Naranjito; 5 - Establo Natcha; 1 - Bayside Racing; 7 - Skull
+Stable PR;
+Footnotes
+REGINA ISABEL slow early, no menace. TRANSISTORA stalked pace inside, swung 5 wide, kicked, game. WIN FAVIOLA led to 150, gamely third.
+ALEGRIA ALEGRIA stalked pace, 4 wide, bid, led, prevailed. LADY STELLAMARIE 5 wide, even finish. RECOMENDADA close up, bid between horses 1/4
+pole, lacked. SENORADEMADRUGADA slow early, no menace.
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+CAMARERO RACE/ TRACK - April 17, 2022 - Race 4
+ALLOWANCE - Thoroughbred
+FOR FILLIES THREE YEARS OLD. Weight, 120 lbs. Non-winners Of A Race Since April 2 Allowed 1 lbs. A Race Since March 17
+Allowed 2 lbs. A Race Since February 17 Allowed 4 lbs.
+Distance: One Mile On The Dirt
+Purse: $11,000
+Available Money: $11,000
+Value of Race: $11,000 1st $6,380, 2nd $2,200, 3rd $1,100, 4th $660, 5th $440, 6th $220
+Weather: Clear, 85° Track: Fast
+Off at: 4:12 Start: Good for all
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E PP Start
+1/4
+1/2
+3/4
+Str
+Fin
+Odds Comments
+31Mar22 7CMR1
+8
+Siomi C. (Diaz, Jr., J.C.)
+119 - -
+8
+7
+8
+7Head
+72
+51 1/2
+11 1/4
+7.40
+off, circld6w,up late
+18Mar22 1CMR3
+4
+Luna Napkin (Santiago, Javier)
+116 L
+4
+6
+51 1/2
+5Head
+41
+41
+21 1/4
+5.55
+chckd1st, finishd4w
+6Mar22 7CMR3
+1
+Keen Princess (Figueroa, Nicky)
+117 L
+1
+8
+72
+61 1/2
+51/2
+65
+3Neck
+10.35
+off, svd, up 3rdrail
+18Mar22 1CMR2
+7
+Navit (Berrios, Hector)
+118 L
+7
+2
+12
+11 1/2
+12 1/2
+13
+43/4
+2.70
+driftd1st,pacd,tird
+6Mar22 7CMR4
+3
+Auditora (Diaz, Juan)
+117 L
+3
+3
+31/2
+21/2
+2Head
+21/2
+51/2
+1.25*
+stalkd,bid3/8,lackd
+6Mar22 7CMR2
+6
+Negociadora L R (Castro, Edwin)
+117 L
+6
+1
+41/2
+42 1/2
+31 1/2
+3Head
+65 1/4
+5.85
+close,bidbtw3/8,flat
+6Mar22 7CMR6
+2
+Nani's Spirit (Velez, Jorge)
+116 L
+2
+5
+2Head
+31
+61/2
+71/2
+71/2
+24.85
+close ins, weakened
+27Feb22 2CMR1
+5
+Saver Cat (Navarro, Joshua)
+118 L
+5
+4
+6Head
+8
+8
+8
+8
+9.10
+chckd1st, nomenace
+Fractional Times: 24.52
+48.33
+1:13.18
+Final Time: 1:40.11
+Split Times:
+(23:81) (24:85)
+(26:93)
+Run-Up: 0 feet
+Winner:
+Siomi C., Dark Bay or Brown Filly, by Not This Time out of San Lucia, by English Channel. Foaled Feb 18, 2019 in Kentucky.
+Breeder: Taylor Made Stallions, Inc.
+Owner: Carballo Racing
+Trainer: Ojeda, Juan
+Total WPS Pool: $33,972
+Pgm Horse
+Win
+Place
+8
+Siomi C.
+16.80
+7.10
+4
+Luna Napkin
+5.60
+1
+Keen Princess
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$2.00 Daily Double
+4-8
+93.90
+1,626
+$2.00 Exacta
+8-4
+163.90
+975
+$1.00 Trifecta
+8-4-1
+678.75
+1,273
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+1/4
+1/2
+3/4
+Str
+Fin
+8
+Siomi C.
+7
+86 3/4
+77
+76
+54 1/2
+11 1/4
+4
+Luna Napkin
+6
+53
+55 1/2
+44
+43 1/2
+21 1/4
+1
+Keen Princess
+8
+74 3/4
+65 1/2
+55
+66
+32 1/2
+7
+Navit
+2
+12
+11 1/2
+12 1/2
+13
+42 3/4
+3
+Auditora
+3
+32
+21 1/2
+22 1/2
+23
+53 1/2
+6
+Negociadora L R
+1
+42 1/2
+43
+32 1/2
+33 1/2
+64
+2
+Nani's Spirit
+5
+22
+32
+65 1/2
+711
+79 1/4
+5
+Saver Cat
+4
+64 1/2
+87 1/4
+88
+811 1/2
+89 3/4
+Trainers: 8 - Ojeda, Juan; 4 - Morales, Ramon; 1 - Rondon, Arturo; 7 - Encarnacion, Daniel; 3 - Morales, Ramon; 6 - Perez, Jorge; 2 - Merced, Giovanni; 5
+- Pena, Steven
+Owners:
+8 - Carballo Racing; 4 - Establo Ma-D-Co; 1 - C. A. Cuprill Stable; 7 - VMH Stud; 3 - Establo 5R; 6 - J L Stable PR; 2 - Euro Racing; 5 - Establo
+Villa Real;
+Footnotes
+KEEN PRINCESS off pace, saved ground, up for third rail. NANI'S SPIRIT close up inside, weakened. AUDITORA stalked pace, bid 3/8 pole, lacked punch.
+LUNA NAPKIN checked 1st turn, finished well 4 wide. SAVER CAT checked 1st turn, no menace. NEGOCIADORA L R close up, bid between horses 3/8
+pole, flattened out. NAVIT drifted in 1st turn, set pace, weakened. SIOMI C. off pace, circled field 6 wide, up in final strides.
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+CAMARERO RACE TRA/CK - April 17, 2022 - Race 5
+MAIDEN SPECIAL WEIGHT - Thoroughbred
+FOR NATIVE MAIDENS, THREE YEARS OLD AND UPWARD. Three Year Olds, 118 lbs.; Older, 121 lbs. 2# A inferiores y debts
+Allowed 2 lbs. (S)
+Distance: Six Furlongs On The Dirt
+Purse: $11,500
+Available Money: $11,500
+Value of Race: $11,500 1st $6,670, 2nd $2,300, 3rd $1,150, 4th $690, 5th $460, 6th $230
+Weather: Clear, 85° Track: Fast
+Off at: 4:46 Start: Good for all
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E
+PP
+Start
+1/4
+1/2
+Str
+Fin
+Odds Comments
+20Mar22 7CMR6
+9
+Condescendiente (Castro, Edwin)
+117
+L
+11
+3
+11
+11 1/2
+14
+13 1/4
+3.10
+led throughout
+11Mar22 2CMR3
+8
+Harlan's Pride (Santiago, Javier)
+118
+L
+10
+10
+104
+7Head
+31
+23 1/4
+1.75*
+off,hustld,6w,closdgap
+31Mar22 4CMR5
+6
+Filisteo (Carrasquillo, Edwin)
+118
+- -
+7
+8
+61/2
+43 1/2
+54
+31/2
+27.90
+btwn, 5 wide turn
+25Mar22 3CMR2
+2
+Grey Cafe (Robles, Jorge)
+119
+L
+2
+6
+21/2
+32
+41/2
+41/2
+4.30
+ins, swung 4 wide turn
+2Oct21 5CMR6
+11
+Skelletor (Diaz, Jr., J.C.)
+118
+L
+13
+4
+3Head
+21
+22 1/2
+5Neck
+6.60
+close,bid1/4,tired
+---
+5
+Cartillero (Diaz, Juan)
+117
+L
+6
+12
+116
+91 1/2
+61/2
+61 1/2
+2.60
+off slowly, some late
+11Mar22 2CMR4
+7
+Son Quitao (Maysonett, Francisco)
+118
+L
+8
+9
+92
+6Head
+73 1/2
+77
+77.45
+mild btwn700,flat
+27Jan22 4CMR4
+1
+Mr. Kike H. (Rivera, Carlos)
+111
+L
+1
+2
+71/2
+81/2
+82
+86 3/4
+73.10
+rail trip, no rally
+11Jul21 4CMR6
+3
+Corazon Noble (Rodriguez, Juan)
+118
+L
+4
+1
+41 1/2
+5Head
+910
+92 1/2
+30.20
+brief speed, weakened
+---
+12
+Suri Boy (Hernandez Sanchez, Andy)
+117
+L
+3
+7
+8Head
+103 1/2
+105
+101 3/4
+38.65
+checked 700
+31Mar22 4CMR7
+4
+Diacono M (Rivera, Luis)
+118
+L
+5
+5
+51/2
+117
+1110
+1116 3/4
+84.65
+brief speed, stopped
+---
+10
+Musignacc (Velez, Jorge)
+119
+L
+12
+13
+128
+128
+1210
+1211 1/4
+56.90
+off slowly, no menace
+---
+13
+Chat de Tres (Ramos, Yabriel)
+116
+- -
+9
+11
+13
+13
+13
+13
+38.65
+offslo,lost ironsstart
+Fractional Times: 23.58
+47.18
+N/A
+Final Time: 1:13.00
+Split Times:
+(23:60) (25:82)
+Run-Up: 0 feet
+Winner:
+Condescendiente, Chestnut Colt, by Conspiracy out of Ginny's Grey, by Political Force. Foaled Apr 28, 2019 in Puerto Rico.
+Breeder: Hacienda Los Nietos, Inc.
+Owner: Oscar D. Establo
+Trainer: Betancourt, Eric
+Total WPS Pool: $45,248
+Pgm Horse
+Win
+Place
+9
+Condescendiente
+8.20
+3.30
+8
+Harlan's Pride
+2.50
+6
+Filisteo
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$2.00 Daily Double
+8-9
+91.20
+2,067
+$2.00 Exacta
+9-8
+20.00
+802
+$2.00 Quinella
+8-9
+8.10
+1,108
+$1.00 Superfecta
+9-8-6-2
+368.75
+1,658
+$1.00 Trifecta
+9-8-6
+69.95
+2,047
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+1/4
+1/2
+Str
+Fin
+9
+Condescendiente
+3
+11
+11 1/2
+14
+13 1/4
+8
+Harlan's Pride
+10
+106 3/4
+78 1/4
+36 1/2
+23 1/4
+6
+Filisteo
+8
+63 1/2
+44 1/2
+58
+36 1/2
+2
+Grey Cafe
+6
+21
+32 1/2
+47 1/2
+47
+11
+Skelletor
+4
+31 1/2
+21 1/2
+24
+57 1/2
+5
+Cartillero
+12
+1110 3/4
+98 3/4
+612
+67 3/4
+7
+Son Quitao
+9
+94 3/4
+68
+712 1/2
+79 1/4
+1
+Mr. Kike H.
+2
+74
+88 1/4
+816
+816 1/4
+3
+Corazon Noble
+1
+41 1/2
+58
+918
+923
+12
+Suri Boy
+7
+84 1/2
+1010 1/4
+1028
+1025 1/2
+4
+Diacono M
+5
+53
+1113 3/4
+1133
+1127 1/4
+10
+Musignacc
+13
+1216 3/4
+1220 3/4
+1243
+1244
+13
+Chat de Tres
+11
+1324 3/4
+1328 3/4
+1353
+1355 1/4
+Trainers: 9 - Betancourt, Eric; 8 - Bultron, Reinaldo; 6 - Martinez, Julio; 2 - Gomez, Maximo; 11 - Santiago, Anderson; 5 - Morales, Ramon; 7 - Rivera,
+Alexis; 1 - Santiago, Anderson; 3 - Lisboa, Jason; 12 - Ayala, Carlos; 4 - Rivera, Alexis; 10 - Santiago, Anderson; 13 - Vazquez, Kelvin
+Owners:
+9 -Oscar D. Establo; 8 - D C Racing; 6 - J M Stable; 2 - Jarab Racing; 11 - Skull Stable PR; 5 - Sonata Stable; 7 - ERA Racing; 1 - Carlos Oyola
+Stable; 3 -Antonio Llavona; 12 - Skull Stable PR; 4 -Establo Torres Pagan; 10 - Carlos Oyola Stable; 13 - Carlos Oyola Stable;
+Footnotes
+CONDESCENDIENTE led throughout. HARLAN'S PRIDE off pace, 6 wide turn, closed gap. FILISTEO between horses, 5 wide turn. GREY CAFE close up
+inside, swung 4 wide turn. SKELLETOR close up, bid outside 1/4 pole, gave way. CARTILLERO off slowly, some late gain. SON QUITAO mild rally between
+horses 700, flattened out. MR. KIKE H. rail trip, no rally. CORAZON NOBLE brief speed, weakened. SURI BOY checked 700. DIACONO M brief speed,
+stopped. MUSIGNACC off slowly, no menace. CHAT DE TRES off slowly, lost irons start.
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+CAMARERO RACE TRAC*K - April 17, 2022 - Race 6
+CLAIMING - Thoroughbred
+FOR FOUR YEAR OLDS AND UPWARD WHICH HAVE NOT WON A RACE SINCE APRIL 17 AND WHICH HAVE STARTED FOR
+A CLAIMING PRICE OF $4,000 OR LESS. Weight, 121 lbs. 5# A clasf.$4,000 y debts Allowed 5 lbs. Claiming Price $4,000. (NW1
+Y) Claiming Price: $4,000
+Distance: One And One Sixteenth Miles On The Dirt
+Purse: $6,000
+Available Money: $6,000
+Value of Race: $6,000 1st $3,480, 2nd $1,200, 3rd $600, 4th $360, 5th $240, 6th $120
+Weather: Clear, 85° Track: Fast
+Off at: 5:14 Start: Good for all
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E PP Start
+1/4
+1/2
+3/4
+Str
+Fin
+Odds Comments
+27Mar22 6CMR2
+3
+Comerio's Prince (Diaz, Jr., J.C.)
+116 L
+3
+10
+82
+61/2
+61/2
+44
+1Neck
+2.60
+brushdst,wait1/4,split
+17Mar22 6CMR4
+10
+Alperes (Diaz, Juan)
+117 L
+11
+4
+72
+82
+74
+31 1/2
+22
+3.05
+off, loomd5w,led,caugh
+22Mar22 5CMR7
+5
+It's Debatable (Rodriguez, Juan)
+118 L
+5
+3
+41
+42 1/2
+24
+12
+31 3/4
+1.75*
+ledinhand1/4,hung
+20Mar22 5CMR5
+1
+R Cha Cha (Navarro, Joshua)
+116 L
+2
+1
+21
+21/2
+1Head
+21 1/2
+45 1/4
+1.95
+close, led700,tired
+22Mar22 7CMR4
+13
+Giant Gold (Figueroa, Jovan)
+116 L
+6
+5
+33
+31 1/2
+3Head
+63 1/2
+51/2
+26.20
+stalked pace, weakened
+12Mar22 6CMR3
+4
+Dogtown (Roldan, Felisha)
+109 L
+4
+6
+54
+51 1/2
+51/2
+5Head
+63 1/2
+74.45
+mild raily, weakened
+27Mar22 6CMR4
+8
+Changing Leads (Rivera, Luis)
+116 - -
+9
+8
+6Head
+71/2
+82
+86
+75 3/4
+66.90
+failed to menace
+25Mar22 5CMR6
+7
+Jimmy Joe (Rodriguez, Joshua)
+116 L
+8
+2
+11 1/2
+11/2
+41 1/2
+71 1/2
+88 3/4
+135.05
+through after half
+12Mar22 6CMR8
+12
+El Gato Guapo (Carrasquillo, Edwin)
+116 L
+1
+12
+10Head
+9Head
+91 1/2
+93 1/2
+91 1/4
+26.20
+failed to menace
+27Mar22 6CMR6
+6
+Trinni Dancer (Robles, Jorge)
+116 L
+7
+11
+111/2
+101/2
+104
+106
+106 3/4
+59.00
+failed to menace
+6Mar22 5CMR11
+9
+I'm a Noble Kid (Rosario, Keddwin)
+109 L
+10
+9
+12
+114
+111 1/2
+114
+119
+62.00
+failed to menace,
+11Feb22 6CMR7
+11
+Solo Drink (Ramos, Yabriel)
+116 L
+12
+7
+91 1/2
+12
+12
+12
+12
+38.90
+dropped back,
+Fractional Times: 25.26
+49.85
+1:15.14
+1:41.61
+Final Time: 1:48.21
+Split Times:
+(24:59) (25:29)
+(26:47)
+(6:60)
+Run-Up: 0 feet
+Winner:
+Comerio's Prince, Chestnut Gelding, by Overanalyze out of Missing Treasure, by Out of Place. Foaled Mar 18, 2016 in Kentucky.
+Breeder: Jay Ar Dee Stables
+Owner: The Family Stable PR
+Trainer: Lisboa, Jason
+Claiming Prices:
+3 - Comerio's Prince: $4,000; 10 - Alperes: $4,000; 5 - It's Debatable: $4,000; 1 - R Cha Cha: $4,000; 13 - Giant Gold:
+$4,000; 4 - Dogtown: $4,000; 8 - Changing Leads: $4,000; 7 - Jimmy Joe: $4,000; 12 - El Gato Guapo: $4,000; 6 -
+Trinni Dancer: $4,000; 9 - I'm a Noble Kid: $4,000; 11 - Solo Drink: $4,000;
+Scratched Horse(s): Curlins Vow (Veterinarian)
+Total WPS Pool: $50,038
+Pgm Horse
+Win
+Place
+3
+Comerio's Prince
+7.20
+3.30
+10
+Alperes
+4.90
+5
+It's Debatable
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$1.00 Pick 3
+8-9-3 (3 correct)
+319.30
+9,314
+$2.00 Daily Double
+9-3
+37.00
+11,411
+$2.00 Exacta
+3-10
+13.20
+1,004
+$2.00 Quinella
+3-10
+6.70
+1,433
+$1.00 Superfecta
+3-10-5-1
+61.00
+1,697
+$1.00 Trifecta
+3-10-5
+67.60
+2,100
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+1/4
+1/2
+3/4
+Str
+Fin
+3
+Comerio's Prince
+10
+812 1/2
+66 1/2
+66 1/4
+45
+1Neck
+10
+Alperes
+4
+710 1/2
+87 1/2
+76 3/4
+33 1/2
+2Neck
+5
+It's Debatable
+3
+45 1/2
+42 1/2
+2Head
+12
+32 1/4
+1
+R Cha Cha
+1
+21 1/2
+21/2
+1Head
+22
+44
+13
+Giant Gold
+5
+32 1/2
+31
+34
+69
+59 1/4
+4
+Dogtown
+6
+56 1/2
+55
+55 3/4
+59
+69 3/4
+8
+Changing Leads
+8
+610 1/2
+77
+810 3/4
+814
+713 1/4
+7
+Jimmy Joe
+2
+11 1/2
+11/2
+44 1/4
+712 1/2
+819
+12
+El Gato Guapo
+12
+1016
+99 1/2
+912 3/4
+920
+927 3/4
+6
+Trinni Dancer
+11
+1116 1/4
+109 1/2
+1014 1/4
+1023 1/2
+1029
+9
+I'm a Noble Kid
+9
+1216 3/4
+1110
+1118 1/4
+1129 1/2
+1135 3/4
+11
+Solo Drink
+7
+914 1/2
+1214
+1219 3/4
+1233 1/2
+1244 3/4
+Trainers: 3 - Lisboa, Jason; 10 - Negron, Ricardo; 5 - Rivera, Alexis; 1 - Henriquez, Ghislaine; 13 - Molinari, Angel; 4 - Blanco, Arnaldo; 8 - Diaz Garcia,
+Moises; 7 - Serrano, Juan; 12 - Velez, Kevin; 6 - Gomez, Maximo; 9 - Carrillo, Emil; 11 - Calderon, Angel
+Owners:
+3 - The Family Stable PR; 10 - Jose M. Stable; 5 - Establo La Campina, Inc.; 1 - Ramz Racing PR; 13 - Molinari Racing; 4 - Malave Racing; 8 -
+Establo Ana C; 7 - Establo Areliz S.; 12 - Euro Racing; 6 - Establo Quintana; 9 - E.A.C. Racing PR; 11 - Louisiana Stable;
+Footnotes
+COMERIO'S PRINCE brushed start, wait 1/4, kicked, split late, up. ALPERES off pace, loomed 5 wide, led briefly stretch, caught. IT'S DEBATABLE chased,
+led in hand 1/4 pole, hung. R CHA CHA close up, led 700, weakened. GIANT GOLD stalked pace, weakened. DOGTOWN mild rally rail, weakened.
+CHANGING LEADS failed to menace. JIMMY JOE through after half. EL GATO GUAPO failed to menace. TRINNI DANCER failed to menace. I'M A
+NOBLE KID failed to menace. SOLO DRINK dropped back.
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
+CAM[ARERO RACE TRACK - April 17, 2022 - Race 7
+STAKES Clasico Vuelve Candy B Grade 3 - Thoroughbred
+Clasico Vuelve Candy B.
+Distance: One And One Sixteenth Miles On The Dirt
+Purse: $39,494 Added
+Available Money: $39,494
+Value of Race: $39,494 1st $23,374, 2nd $8,060, 3rd $4,030, 4th $2,418, 5th $1,612
+Weather: Clear, 85° Track: Fast
+Off at: 5:44 Start: Good for all
+Last Raced
+Pgm Horse Name (Jockey)
+Wgt M/E PP Start
+1/4
+1/2
+3/4
+Str
+Fin
+Odds Comments
+17Mar22 3CMR1
+3
+Luna Fortis (Santiago, Javier)
+122 L
+3
+4
+21/2
+21/2
+1Head
+12
+13 1/4
+0.45*
+stalkd, led1/4,driving
+17Mar22 3CMR6
+1
+Figure It Out (Diaz, Juan)
+120 L
+1
+1
+11 1/2
+11 1/2
+22 1/2
+21 1/2
+21 1/4
+3.00
+ledins, grudgingly
+17Mar22 3CMR5
+5
+All White (Navarro, Joshua)
+116 L
+5
+2
+43
+45
+31
+31 1/2
+33/4
+11.90
+5w, even finish
+17Mar22 3CMR2
+4
+Lavi (Figueroa, Nicky)
+117 L
+4
+5
+31/2
+31 1/2
+47
+410
+419 1/2
+2.15
+hustled, even finish
+17Mar22 3CMR3
+2
+Elegancia (Hernandez Sanchez, Andy)
+117 L
+2
+3
+5
+5
+5
+5
+5
+23.50
+trailed
+Fractional Times: 25.44
+49.20
+1:13.34
+1:38.78
+Final Time: 1:45.28
+Split Times:
+(23:76) (24:14)
+(25:44)
+(6:50)
+Run-Up: 0 feet
+Winner:
+Luna Fortis, Chestnut Mare, by Will Take Charge out of Alec's Moon, by Malibu Moon. Foaled Feb 16, 2016 in Kentucky.
+Breeder: Machmer Hall
+Owner: Sonata Stable
+Trainer: Velez, Jose
+Total WPS Pool: $33,776
+Pgm Horse
+Win
+Place
+3
+Luna Fortis
+2.90
+1
+Figure It Out
+5
+All White
+Wager Type
+Winning Numbers
+Payoff
+Pool
+$1.00 Pick 3
+9-3-3 (3 correct)
+30.20
+26,104
+$1.00 Pick 4
+8-9-3-3 (4 correct)
+537.70
+24,028
+$1.00 Pick 5
+4-8-9-3-3 (5 correct)
+3,984.90
+30,759
+$1.00 Pick 6
+4-4-8-9-3-3 (5 correct)
+21.55
+0
+$1.00 Pick 6
+4-4-8-9-3-3 (6 correct)
+1,379.35
+292,420
+$2.00 Daily Double
+3-3
+14.10
+4,835
+$2.00 Exacta
+3-1
+5.00
+1,577
+$1.00 Superfecta
+3-1-5-4
+24.45
+602
+$1.00 Trifecta
+3-1-5
+10.95
+1,419
+Past Performance Running Line Preview
+Pgm Horse Name
+Start
+1/4
+1/2
+3/4
+Str
+Fin
+3
+Luna Fortis
+4
+21 1/2
+21 1/2
+1Head
+12
+13 1/4
+1
+Figure It Out
+1
+11 1/2
+11 1/2
+2Head
+22
+23 1/4
+5
+All White
+2
+42 1/2
+43 1/2
+32 1/2
+33 1/2
+34 1/2
+4
+Lavi
+5
+32
+32
+43 1/2
+45
+45 1/4
+2
+Elegancia
+3
+55 1/2
+58 1/2
+510 1/2
+515
+524 3/4
+Trainers: 3 - Velez, Jose; 1 - Morales, Ramon; 5 - Texidor, Jr., Edwin; 4 - Diaz, Jr., Edwin; 2 - Rondon, Arturo
+Owners:
+3 - Sonata Stable; 1 - Sonata Stable; 5 - E.V. Stable; 4 - D C Racing; 2 - C. A. Cuprill Stable;
+Footnotes
+LUNA FORTIS stalked pace, led 1/4 pole, driving. FIGURE IT OUT led inside, grudgingly. ALL WHITE close up, 5 wide turn, even finish. LAVI hustled
+along, even finish. ELEGANCIA trailed.
+Denotes OBS Graduate
+Copyright 2024 Equibase Company LLC. All Rights Reserved.
