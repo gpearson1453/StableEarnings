@@ -21,6 +21,14 @@ This folder holds all the original PDF files, preserved with their original file
 
 ## Python Files
 
+### `Phase 1/findMissOrDup.py`
+This script processes `select_race_data.xlsx` to search for both duplicate and missing files. The script contains an empty list date_track_blocks where text blocks can be input for track verification.
+
+Key Features:
+- Duplicate Detection: It scans the file to identify any duplicate entries based on the combination of race_id and horse_name. If duplicates are found, it prints out the corresponding file numbers, race IDs, and horse names.
+
+- Track Verification: Given a text block where the first line is a date (formatted as 'DayName, Month Day Year') followed by track names, the script checks the Excel file to ensure that there is at least one occurrence of each track name paired with the corresponding date in the format 'Month Day, Year_trackname' in column E where the `race_id` values are located.
+
 ### `Phase 1/getHorses.py`
 The `getHorses` function is responsible for extracting detailed horse-specific information from a text block, including data from the Past Performance Running Line Preview (PPRLP), trainers, owners, jockeys, and weights. This function processes and combines the extracted information into a structured dataset for each horse in the race.
 
@@ -32,9 +40,13 @@ Returns:
 
 Key Features:
 - PPRLP Data Extraction: Extracts and processes horse performance data (e.g., program number, horse name, starting position, and performance figures) from the PPRLP section of the text.
+
 - Trainer and Owner Information: Identifies and extracts trainer and owner details, ensuring the correct assignment to each horse.
+
 - Jockey and Weight Data: Uses regex to accurately capture jockey names and associated weights for each horse.
+
 - Flexible Handling of Missing Data: Provides default values for missing or incomplete data, ensuring consistent output across all horses.
+
 - Final Position Calculation: Automatically assigns a final position to each horse based on the order in which the data appears.
 
 ### `Phase 1/getRaces.py`
@@ -48,29 +60,37 @@ Returns:
 
 Key Features:
 - Handles fractional and split times, final time, and other race-specific metrics.
+
 - Automatically generates a unique race ID based on the date, location, and race number.
+
 - Validates race type, ensuring only thoroughbred or quarter horse races are processed.
+
 - Calls `getHorses` to extract horse-specific data and merges it with the race information.
 
 ### `Phase 1/mappings.py`
 The `mappings.py` module manages various mappings used throughout the program, including horse name corrections, distance conversions, surface mappings, and race type identification. This module also handles loading and saving custom mappings from a JSON file.
 
 Key Features:
-
 - Custom Mappings Handling: Loads and saves horse name corrections (stupid_horse_names) and other mappings from a JSON file, ensuring customizations persist across runs.
+
 - Distance Conversion: Provides a dictionary for converting race distances (e.g., furlongs and yards) into miles, which is used in race data extraction.
+
 - Surface Type Mapping: Maps surface abbreviations (e.g., 'D', 'T', 'A') to full names like 'Dirt', 'Turf', and 'AWT'.
+
 - Race Type Identification: Uses regular expressions to classify races based on type (e.g., 'Thoroughbred', 'Quarter Horse', etc.), ensuring only valid race types are processed.
 
 ### `Phase 1/processAllToCSV.py`
 The `processAllToCSV.py` module processes text files containing race data **from all folders**, extracts relevant information, and outputs the data into a **CSV** file. It uses multi-threading to process multiple files concurrently, ensuring efficient performance even with large datasets.
 
 Key Features:
-
 - Text Splitting: Splits the full text of each file into segments based on a predefined marker (All Rights Reserved.) and processes each segment individually.
+
 - Horse Name Fixes: Automatically replaces problematic horse names based on a predefined dictionary (`stupid_horse_names`), and tracks the changes in a fixed dictionary.
+
 - Concurrent Processing: Uses multi-threading to process multiple files at once, speeding up the extraction process.
+
 - Data Extraction: Calls the `getRaces` function to extract detailed race data from each segment, skipping segments that refer to canceled events or invalid race types.
+
 - CSV Output: Writes the extracted data to a CSV file, ensuring that it is sorted by file number and race number, and includes all relevant columns.
 
 ### `Phase 1/processPPRLP.py`
@@ -83,10 +103,12 @@ Returns:
 - `List[List[str]]`: A list of lists, where each sublist represents the data associated with one horse. Each sublist contains values for the horse that correspond to the extracted headers.
 
 Key Features:
-
 - Text Normalization: Cleans the PPRLP text by collapsing multiple spaces into a single space and fixing common text issues.
+
 - Header and Value Extraction: Separates headers from corresponding values based on the location of 'Fin' in the text.
+
 - Special Case Handling: Deals with fractions and multi-word entries to ensure proper formatting, such as combining '21' and '3/4' into '21 3/4' or multi-word horse names.
+
 - Structured Output: Returns a list of lists where each sublist contains all the data for a single horse, extracted and formatted correctly.
 
 ### `Phase 1/processSelectToExcel.py`
@@ -94,9 +116,13 @@ The `processSelectToExcel.py` module processes text files containing race data *
 
 Key Features:
 - Text Splitting: Splits the full text of each file into segments based on a predefined marker (All Rights Reserved.) and processes each segment individually.
+
 - Horse Name Fixes: Automatically replaces problematic horse names based on a predefined dictionary (`stupid_horse_names`) and tracks the changes in a fixed dictionary.
+
 - Concurrent Processing: Uses multi-threading to process multiple files concurrently, improving performance.
+
 - Data Extraction: Calls the `getRaces` function to extract race-specific data from each segment, skipping segments that refer to canceled events or invalid race types.
+
 Excel Output: Writes the extracted data to an Excel file, ensuring that it is sorted by file number and race number. The first row of the Excel file is frozen for improved readability.
 
 ### `Phase 1/reformatRaceFiles.py`
@@ -104,7 +130,9 @@ The `reformatRaceFiles.py` module renames PDF files within subfolders of `pdf_fi
 
 Key Features:
 - Sequential File Renaming: Renames PDF files in each subfolder by numbering them sequentially. The new names follow the pattern: number_subfolder.pdf. If a file with the new name already exists, a version suffix (e.g., _v1) is added.
+
 - Text Extraction from PDF: Extracts text from each renamed PDF using the PyMuPDF library (fitz), and stores the text in a corresponding .txt file in a `text_files` folder.
+
 - Folder Structure Preservation: The structure of the original subfolders is maintained in the `text_files` folder, with each subfolder getting its own corresponding folder for storing extracted text files.
 
 ---
