@@ -1287,7 +1287,7 @@ Mighty Boaz (Baca, Benito)
 brk in,late rush,missd
 5Apr20 9RP5
 5
-Focus On Me 123 (Ramirez, Ricky)
+Focus-On-Me-123 (Ramirez, Ricky)
 126 L bfk
 4
 2
@@ -1382,11 +1382,11 @@ Charm the Chief, Sorrel Gelding, by Chief Corona out of Charming Illusions, by F
 Breeder: Gary Kurz
 Owner: Ricardo Olvera-Astrain
 Trainer: Licona-Vazquez, Juvenal
-1 Claimed Horse(s): Focus On Me 123
+1 Claimed Horse(s): Focus-On-Me-123
 New Trainer: John Foutch
 New Owner: Florencia Duenes
 Claiming Prices:
-3 - Charm the Chief: $5,000; 8 - Mighty Boaz: $5,000; 5 - Focus On Me 123: $5,000; 4 - Kgs Perfect Storm: $5,000; 2 -
+3 - Charm the Chief: $5,000; 8 - Mighty Boaz: $5,000; 5 - Focus-On-Me-123: $5,000; 4 - Kgs Perfect Storm: $5,000; 2 -
 Chico Loco: $5,000; 7 - Notorious Secrets: $5,000; 6 - Moonin Ethics: $5,000; 9 - Red Supersonic Man: $5,000; 10 -
 The Cash Ferry: $5,000;
 Scratched Horse(s): Your Linus (Trainer)
@@ -1405,7 +1405,7 @@ Mighty Boaz
 10.40
 5.60
 5
-Focus On Me 123
+Focus-On-Me-123
 2.80
 Wager Type
 Winning Numbers
@@ -1446,7 +1446,7 @@ Mighty Boaz
 53/4
 2Nose
 5
-Focus On Me 123
+Focus-On-Me-123
 2
 3Head
 21/2

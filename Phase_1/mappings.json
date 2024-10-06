@@ -1,70 +1,64 @@
 {
     "stupid_horse_names": {},
     "fixed": {
-        "668_2020-03.txt": [
+        "1011_2020-04.txt": [
             [
-                "Lucky Bux 222",
-                "Lucky-Bux-222"
+                "Fast N Furious 123",
+                "Fast-N-Furious-123"
             ]
         ],
-        "711_2020-03.txt": [
+        "1015_2020-04.txt": [
             [
-                "First of 15",
-                "First-of-15"
-            ],
-            [
-                "Lynnder 16",
-                "Lynnder-16"
+                "Focus On Me 123",
+                "Focus-On-Me-123"
             ]
         ],
-        "727_2020-03.txt": [
-            [
-                "Esperanza 1",
-                "Esperanza-1"
-            ]
-        ],
-        "732_2020-03.txt": [
-            [
-                "L a Babe 123",
-                "L-a-Babe-123"
-            ],
-            [
-                "Bar Wings 5",
-                "Bar-Wings-5"
-            ]
-        ],
-        "750_2020-03.txt": [
+        "1020_2020-04.txt": [
             [
                 "Jay Number 7",
                 "Jay-Number-7"
-            ]
-        ],
-        "756_2020-03.txt": [
-            [
-                "Black 214",
-                "Black-214"
-            ]
-        ],
-        "890_2020-03.txt": [
+            ],
             [
                 "Lynnder 16",
                 "Lynnder-16"
+            ]
+        ],
+        "1045_2020-04.txt": [
+            [
+                "Hawk 71",
+                "Hawk-71"
+            ]
+        ],
+        "968_2020-04.txt": [
+            [
+                "Dynasty 727",
+                "Dynasty-727"
             ],
+            [
+                "Hawk 71",
+                "Hawk-71"
+            ]
+        ],
+        "979_2020-04.txt": [
             [
                 "First of 15",
                 "First-of-15"
+            ],
+            [
+                "Focus On Me 123",
+                "Focus-On-Me-123"
             ]
         ],
-        "932_2020-03.txt": [
+        "992_2020-04.txt": [
             [
-                "L a Babe 123",
-                "L-a-Babe-123"
+                "La Reina Del Sur 1",
+                "La-Reina-Del-Sur-1"
             ]
         ],
-        "941_2020-03.txt": [
+        "963_2020-04.txt": [
             [
-                "Bar Wings 5",
-                "Bar-Wings-5"
+                "Apollitical J Twin 1",
+                "Apollitical-J-Twin-1"
             ]
         ]
     }

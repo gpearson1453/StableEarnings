@@ -510,7 +510,7 @@ Senator Fast Jack (Nieto, Paul)
 solid effort
 21Mar20 10RP6
 7
-First of 15 (Packer, Berkley)
+First-of-15 (Packer, Berkley)
 126 L bf
 7
 1
@@ -596,7 +596,7 @@ Senator Fast Jack
 3.60
 2.60
 7
-First of 15
+First-of-15
 3.00
 Wager Type
 Winning Numbers
@@ -633,7 +633,7 @@ Senator Fast Jack
 21/2
 21/2
 7
-First of 15
+First-of-15
 1
 2Head
 31
@@ -1906,7 +1906,7 @@ L b
 lacked needed rally
 2Nov19 9WRD1
 9
-Focus On Me 123 (Ramirez, Ricky)
+Focus-On-Me-123 (Ramirez, Ricky)
 126
 L bfk
 9
@@ -1993,7 +1993,7 @@ New Trainer: Shane Seaton
 New Owner: Richard L. Tobin
 Claiming Prices:
 3 - Rm Kool Okey: $7,500; 10 - Glitter and Gold: $7,500; 8 - Risk N Rewards: $7,500; 7 - Train of Hearts: $7,500; 9 -
-Focus On Me 123: $7,500; 2 - Sweet Furrena: $7,500; 1 - Jesssweetlikethat: $7,500; 4 - Brookstone K: $7,500; 5 -
+Focus-On-Me-123: $7,500; 2 - Sweet Furrena: $7,500; 1 - Jesssweetlikethat: $7,500; 4 - Brookstone K: $7,500; 5 -
 Marys Cartel: $7,500; 6 - Dm Shez Poppin Off: $7,500;
 Total WPS Pool: $51,783
 Pgm Horse
@@ -2071,7 +2071,7 @@ Train of Hearts
 31
 41 1/4
 9
-Focus On Me 123
+Focus-On-Me-123
 2
 51 1/4
 51 1/2

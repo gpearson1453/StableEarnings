@@ -802,7 +802,7 @@ A Valiant Choice (Smith, Cody)
 steady effort
 ---
 5
-Dynasty 727 (Ramirez, Ricky)
+Dynasty-727 (Ramirez, Ricky)
 124 L bfk
 5
 7
@@ -961,7 +961,7 @@ A Valiant Choice
 41 1/4
 31 1/4
 5
-Dynasty 727
+Dynasty-727
 7
 21/2
 3Neck
@@ -2140,7 +2140,7 @@ One Famous Painter (Ramirez, Ricky)
 no mishap, outrun
 ---
 1
-Hawk 71 (Valenzuela, Raul)
+Hawk-71 (Valenzuela, Raul)
 129 L bk
 1
 4
@@ -2258,7 +2258,7 @@ One Famous Painter
 62 1/4
 53
 1
-Hawk 71
+Hawk-71
 4
 4Neck
 52

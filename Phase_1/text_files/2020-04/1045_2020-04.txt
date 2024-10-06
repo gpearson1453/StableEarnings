@@ -1771,7 +1771,7 @@ L b
 late surge for 3rd
 3Apr20 9RP6
 3
-Hawk 71 (Vallejo, Rodrigo)
+Hawk-71 (Vallejo, Rodrigo)
 125
 L bk
 3
@@ -1924,7 +1924,7 @@ Packsaddle Senator
 4Head
 3Neck
 3
-Hawk 71
+Hawk-71
 1
 1Nose
 41/2

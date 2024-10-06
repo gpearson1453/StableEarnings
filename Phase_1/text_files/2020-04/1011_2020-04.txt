@@ -2000,7 +2000,7 @@ Ajax (Delgado, Mario)
 led, denied
 29Sep19 7PRM3
 1
-Fast N Furious 123 (Dominguez, Jonathan)
+Fast-N-Furious-123 (Dominguez, Jonathan)
 126 L bf
 1
 2
@@ -2086,7 +2086,7 @@ Trainer: Laymon, Kenny
 New Trainer: Jason L. Driver
 New Owner: Andy Rivera
 Claiming Prices:
-9 - Dynamite Lips: $10,000; 2 - Ajax: $10,000; 1 - Fast N Furious 123: $10,000; 8 - Tecoriche: $10,000; 10 - Regal
+9 - Dynamite Lips: $10,000; 2 - Ajax: $10,000; 1 - Fast-N-Furious-123: $10,000; 8 - Tecoriche: $10,000; 10 - Regal
 Candy: $10,000; 6 - The Foose Goose: $10,000; 3 - Whooz Your Daddy: $10,000; 5 - Passenger Train: $10,000;
 Scratched Horse(s): American Temptation (Trainer), Invisible Pyc (Stewards)
 Total WPS Pool: $77,982
@@ -2104,7 +2104,7 @@ Ajax
 6.80
 3.60
 1
-Fast N Furious 123
+Fast-N-Furious-123
 3.80
 Wager Type
 Winning Numbers
@@ -2145,7 +2145,7 @@ Ajax
 2Head
 2Neck
 1
-Fast N Furious 123
+Fast-N-Furious-123
 2
 3Head
 3Neck

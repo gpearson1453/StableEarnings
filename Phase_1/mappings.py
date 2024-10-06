@@ -51,6 +51,8 @@ DISTANCE_CONVERSION = {
     "Three Hundred And Fifty Yards": "0.198864",
     "Four Hundred Yards": "0.227273",
     "Three Hundred Yards": "0.170455",
+    "Six Hundred And Sixty Yards": "0.375",
+    "One Thousand Yards": "0.568182",
     "One And One Eighth Miles": "1.125",
     "One And Five Eighth Miles": "1.625",
     "One And Three Eighth Miles": "1.375",
