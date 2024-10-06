@@ -21,7 +21,7 @@ def getHorses(text_segment):
 
     # Extract the PPRLP section
     start_idx = text_segment.find(start_phrase)
-    end_idx = text_segment.find(end_phrase)
+    end_idx = text_segment[start_idx:].find(end_phrase) + start_idx
 
     if start_idx != -1 and end_idx != -1 and start_idx < end_idx:
         # Extract and clean PPRLP text
@@ -32,7 +32,7 @@ def getHorses(text_segment):
         pprlp_data = []
 
     # Extract trainer information
-    owners_start_idx = text_segment.find('Owners:')
+    owners_start_idx = text_segment[end_idx:].find('Owners:') + end_idx
     trainers_section = text_segment[end_idx + len('Trainers:'):owners_start_idx].strip() if owners_start_idx != -1 else text_segment[end_idx + len('Trainers:'):].strip()
     trainers_list = [entry.split('-')[1].strip() for entry in trainers_section.split(';') if '-' in entry]
 
@@ -47,7 +47,7 @@ def getHorses(text_segment):
 
     # Extract jockey and weight information
     comments_idx = text_segment.find('Comments')
-    fractional_start_idx = text_segment.find('Winner:')
+    fractional_start_idx = text_segment[comments_idx:].find('Winner:') + comments_idx
 
     if comments_idx != -1 and fractional_start_idx != -1 and comments_idx < fractional_start_idx:
         jockey_text_block = text_segment[comments_idx + len('Comments'):fractional_start_idx].strip()
