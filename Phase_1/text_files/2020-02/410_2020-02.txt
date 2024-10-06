@@ -1660,7 +1660,7 @@ L bfk
 dueled, evenly
 24Aug19 1AZD2
 5
-Laprieta Linda 2014 (Ramirez, Juan)
+Laprieta-Linda-2014 (Ramirez, Juan)
 126
 bf
 5
@@ -1779,7 +1779,7 @@ Hezafastbaby
 52 1/4
 51 3/4
 5
-Laprieta Linda 2014
+Laprieta-Linda-2014
 8
 62 1/2
 63 3/4

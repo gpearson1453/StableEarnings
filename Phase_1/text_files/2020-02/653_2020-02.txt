@@ -636,7 +636,7 @@ Trippys Royal Foose (Valenzuela, Luis)
 good start, evenly
 15Dec19 9ZIA2
 4
-Flying Eagle 07 (Ortiz, Jose)
+Flying-Eagle-07 (Ortiz, Jose)
 128 L bfk
 4
 3
@@ -736,7 +736,7 @@ Trippys Royal Foose
 42
 42 1/4
 4
-Flying Eagle 07
+Flying-Eagle-07
 3
 31/2
 52

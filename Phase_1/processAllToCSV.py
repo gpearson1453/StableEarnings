@@ -58,7 +58,9 @@ def process_single_file(file_path):
         file_data_found = False
 
         for segment in split_texts:
-            if 'Cancelled - Weather' in segment or 'Cancelled - Management Decision' in segment:
+            if ('Cancelled - Weather' in segment 
+                or 'Cancelled - Management Decision' in segment 
+                or 'declared no contest' in segment):
                 continue
 
             data_list = getRaces(segment)

@@ -1299,7 +1299,7 @@ L f
 bobbled, no factor
 ---
 6
-El 7 (Hernandez, Jr., Ricardo)
+El-7 (Hernandez, Jr., Ricardo)
 124
 bk
 6
@@ -1321,7 +1321,7 @@ New Trainer: Noe R. Sanchez
 New Owner: Jesus Coronado
 Claiming Prices:
 1 - Djr Fast Jet: $5,000; 2 - Blondies Leaving You: $5,000; 4 - Prime Eagle: $5,000; 8 - Shes Tacky: $5,000; 3 - Pips
-Caliente: $5,000; 7 - Imagining More: $5,000; 5 - Cc Agoutis Princess: $5,000; 6 - El 7: $5,000;
+Caliente: $5,000; 7 - Imagining More: $5,000; 5 - Cc Agoutis Princess: $5,000; 6 - El-7: $5,000;
 Total WPS Pool: $7,330
 Pgm Horse
 Win
@@ -1408,7 +1408,7 @@ Cc Agoutis Princess
 *
 71 3/4
 6
-El 7
+El-7
 5
 *
 82

@@ -23,7 +23,7 @@ Odds Ind. Time
 Sp. In. Comments
 19Jan20 7LAD4
 3
-Ib Hot N Famous 2 (Luna, Ubaldo)
+Ib-Hot-N-Famous-2 (Luna, Ubaldo)
 124 L bf
 3
 1
@@ -101,12 +101,12 @@ Lady Queen Ranch (Alvarez, David)
 outrun
 Run-Up: 0 feet
 Winner:
-Ib Hot N Famous 2, Brown Filly, by Toast to Dash out of Ib Hot N Famous, by Hotdoggin. Foaled Apr 17, 2017 in Texas.
+Ib-Hot-N-Famous-2, Brown Filly, by Toast to Dash out of Ib Hot N Famous, by Hotdoggin. Foaled Apr 17, 2017 in Texas.
 Breeder: Mike Del Bosque
 Owner: Faviola Gonzalez
 Trainer: Gonzalez, Faviola
 Claiming Prices:
-3 - Ib Hot N Famous 2: $10,000; 2 - Runaway Blue: $10,000; 1 - Shes So Valiant: $10,000; 5 - Schramm: $10,000; 4 -
+3 - Ib-Hot-N-Famous-2: $10,000; 2 - Runaway Blue: $10,000; 1 - Shes So Valiant: $10,000; 5 - Schramm: $10,000; 4 -
 Marys Got Game: $10,000; 6 - Lady Queen Ranch: $10,000;
 Disqualification(s):
 # 2 Runaway Blue from 2 to 3
@@ -116,7 +116,7 @@ Win
 Place
 Show
 3
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 13.60
 7.00
 5.00
@@ -150,7 +150,7 @@ Str1
 Str
 Fin
 3
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 1
 1Head
 1Head

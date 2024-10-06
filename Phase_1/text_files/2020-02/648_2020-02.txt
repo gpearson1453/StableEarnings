@@ -642,7 +642,7 @@ Mighty Lil Justin (Watson, Donald)
 no menace
 11Jan20 1LAD1
 3
-Reno 14 (Ransom, Bobby)
+Reno-14 (Ransom, Bobby)
 126 L bf
 2
 2
@@ -660,7 +660,7 @@ Breeder: Melvin Adkins
 Owner: Renato Contreras
 Trainer: Palacio, Eric
 Claiming Prices:
-4 - Mr Mel: $5,000; 2 - Hoop: $5,000; 6 - Adios Amigas: $5,000; 5 - Mighty Lil Justin: $5,000; 3 - Reno 14: $5,000;
+4 - Mr Mel: $5,000; 2 - Hoop: $5,000; 6 - Adios Amigas: $5,000; 5 - Mighty Lil Justin: $5,000; 3 - Reno-14: $5,000;
 Scratched Horse(s): Jumpin High Punch (Veterinarian)
 Total WPS Pool: $9,383
 Pgm Horse
@@ -734,7 +734,7 @@ Mighty Lil Justin
 56 1/2
 410 1/4
 3
-Reno 14
+Reno-14
 2
 11/2
 21

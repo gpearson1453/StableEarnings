@@ -134,7 +134,7 @@ Start
 Str
 Fin
 5
-Runaway Cash Machine1
+Runaway Cash Machine 1
 2Head
 1Neck
 6

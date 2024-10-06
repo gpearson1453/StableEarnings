@@ -321,7 +321,7 @@ L bf
 close throughout
 13Jul19 3PRV4
 4
-Corazon Rastado 727 (Rivera, Alonso)
+Corazon-Rastado-727 (Rivera, Alonso)
 126
 L bf
 4
@@ -404,7 +404,7 @@ Breeder: Laura Erickson or Sarah Rioux
 Owner: Adrian L. Melero
 Trainer: Sanderson, Robert
 Claiming Prices:
-2 - Piecicle: $12,500; 8 - My Marria: $12,500; 5 - Usain Colt Ts: $12,500; 4 - Corazon Rastado 727: $12,500; 1 - Vf First
+2 - Piecicle: $12,500; 8 - My Marria: $12,500; 5 - Usain Colt Ts: $12,500; 4 - Corazon-Rastado-727: $12,500; 1 - Vf First
 Brave Stan: $12,500; 6 - Samantha James: $12,500; 9 - Volcoms Gone: $12,500; 7 - Highest Rate in Town: $12,500; 3
 - Freshness: $12,500;
 Total WPS Pool: $10,444
@@ -465,7 +465,7 @@ Usain Colt Ts
 31 1/2
 33/4
 4
-Corazon Rastado 727
+Corazon-Rastado-727
 1
 41 1/2
 41

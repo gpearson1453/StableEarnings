@@ -1063,7 +1063,7 @@ L bfk
 good effort
 26Jan20 6LAD8
 4
-Lucky Star 123 (Cabrera, Rolando)
+Lucky-Star-123 (Cabrera, Rolando)
 126
 L bfk
 3
@@ -1133,7 +1133,7 @@ Jump Brenda
 31/2
 33/4
 4
-Lucky Star 123
+Lucky-Star-123
 4
 41 1/2
 42 1/4

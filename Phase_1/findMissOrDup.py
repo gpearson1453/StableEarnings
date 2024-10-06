@@ -2,6 +2,10 @@ import os
 import pandas as pd
 import re
 
+# Set the working directory to the script's location
+script_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(script_dir)
+
 def load_excel(file_path):
     """
     Loads the Excel file into a pandas DataFrame.
@@ -81,8 +85,6 @@ def check_tracks_in_excel(df, text_block):
         search_pattern = f'{formatted_date}_{track}'
         if not df['race_id'].str.contains(search_pattern, na=False).any():
             print(f"No match found for {search_pattern}")
-        else:
-            print(f"Match found for {search_pattern}")
 
 def main(file_path, date_track_blocks):
     """

@@ -917,7 +917,7 @@ Frost Dalena (Aldrete, Hector)
 pushed out, bump
 1Dec19 7ZIA3
 8
-Jacky Martin 21 (Hernandez, Alan)
+Jacky-Martin-21 (Hernandez, Alan)
 128 L bfk
 7
 6
@@ -1053,7 +1053,7 @@ Frost Dalena
 52
 41 3/4
 8
-Jacky Martin 21
+Jacky-Martin-21
 6
 31/2
 41 1/2

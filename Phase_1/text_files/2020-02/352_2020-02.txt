@@ -383,7 +383,7 @@ L fk
 brk sharp, drew off
 11Jan20 5LAD4
 4
-Esperanza 1 (Alberto, Antonio)
+Esperanza-1 (Alberto, Antonio)
 127
 L bk
 3
@@ -440,7 +440,7 @@ Breeder: Rickey Thompson
 Owner: Guadalupe Chavira
 Trainer: Carrizales, Jose
 Claiming Prices:
-7 - Ttt Dasher Bay: $5,000; 4 - Esperanza 1: $5,000; 2 - La Railera Dash: $5,000; 1 - Jf Badandboujee: $5,000; 6 - Ec
+7 - Ttt Dasher Bay: $5,000; 4 - Esperanza-1: $5,000; 2 - La Railera Dash: $5,000; 1 - Jf Badandboujee: $5,000; 6 - Ec
 Dark Sugar: $5,000;
 Scratched Horse(s): Achieve the Flight (Veterinarian), Sizzlin Flare (Veterinarian)
 Total WPS Pool: $6,716
@@ -454,7 +454,7 @@ Ttt Dasher Bay
 2.20
 2.10
 4
-Esperanza 1
+Esperanza-1
 2.40
 2.10
 2
@@ -495,7 +495,7 @@ Ttt Dasher Bay
 11
 11 3/4
 4
-Esperanza 1
+Esperanza-1
 2
 21
 21 3/4
