@@ -40,6 +40,7 @@ fixed = mappings.get('fixed', {})
 DISTANCE_CONVERSION = {
     "Six Furlongs": "0.75",
     "One Mile": "1.0",
+    "Two Miles": "2.0",
     "Six And One Half Furlongs": "0.8125",
     "Five And One Half Furlongs": "0.6875",
     "One And One Sixteenth Miles": "1.0625",

@@ -1353,7 +1353,7 @@ L bfk
 bmpd, late try
 26Jan20 7LAD3
 1
-Black 214 (Aguilar, Jacobo)
+Black-214 (Aguilar, Jacobo)
 124
 L bk
 1
@@ -1396,7 +1396,7 @@ Breeder: Daniel R Trahan
 Owner: Adame Racing, LLC
 Trainer: Trejo, Martin
 Dead Heats:
-6th place - # 1 Black 214
+6th place - # 1 Black-214
 6th place - # 4 Man He Fresh
 Total WPS Pool: $11,838
 Pgm Horse
@@ -1466,7 +1466,7 @@ Tdz Toast to Blue
 73
 54
 1
-Black 214
+Black-214
 4
 41 1/2
 65

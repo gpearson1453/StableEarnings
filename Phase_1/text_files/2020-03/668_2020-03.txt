@@ -1554,7 +1554,7 @@ L bfk
 weakened
 ---
 8
-Lucky Bux 222 (Hamilton, John)
+Lucky-Bux-222 (Hamilton, John)
 122
 L bk
 8
@@ -1686,7 +1686,7 @@ Chachalaka
 41 1/4
 52 3/4
 8
-Lucky Bux 222
+Lucky-Bux-222
 5
 61 3/4
 62 3/4

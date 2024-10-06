@@ -1148,7 +1148,7 @@ L bf
 lugged out, tired
 7Mar20 5RP5
 10
-L a Babe 123 (Brooks, Jimmy)
+L-a-Babe-123 (Brooks, Jimmy)
 127
 L bf
 10
@@ -1301,7 +1301,7 @@ Easy Separatist
 1Head
 3Neck
 10
-L a Babe 123
+L-a-Babe-123
 6
 43/4
 41 3/4

@@ -372,7 +372,7 @@ Start
 Str
 Fin
 6
-Unchaining Melody (GB)6
+Unchaining Melody (GB) 6
 65 1/4
 64
 41 1/2

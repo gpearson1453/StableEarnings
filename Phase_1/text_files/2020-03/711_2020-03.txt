@@ -2189,7 +2189,7 @@ L bf
 only flashed interest
 9Nov19 9LS6
 1
-First of 15 (Packer, Berkley)
+First-of-15 (Packer, Berkley)
 126
 L bf
 1
@@ -2300,7 +2300,7 @@ Yashira Vista
 31 1/2
 51 3/4
 1
-First of 15
+First-of-15
 8
 72 1/4
 61 3/4
@@ -2415,7 +2415,7 @@ L bk
 away well,out-finished
 9Nov19 9LS1
 3
-Lynnder 16 (Packer, Berkley)
+Lynnder-16 (Packer, Berkley)
 126
 L bf
 3
@@ -2551,7 +2551,7 @@ Fly N Tell
 21
 53/4
 3
-Lynnder 16
+Lynnder-16
 8
 62 1/4
 61 1/2

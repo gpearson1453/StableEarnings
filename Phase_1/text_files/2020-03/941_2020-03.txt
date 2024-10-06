@@ -806,7 +806,7 @@ L bf
 bumped start,no bid
 7Mar20 6RP5
 3
-Bar Wings 5 (Delgado, Mario)
+Bar-Wings-5 (Delgado, Mario)
 124
 L f
 3
@@ -877,7 +877,7 @@ Owner: Williams, Bob and Deanna
 Trainer: Whitekiller, Matt
 Claiming Prices:
 9 - Rsecret Affair: $15,000; 4 - Eyesa Timber: $15,000; 8 - Bv Dont Cry Joni: $15,000; 7 - Raglan Road: $15,000; 3 -
-Bar Wings 5: $15,000; 5 - Pure Pappasito: $15,000; 1 - Dilly Dilly Hurray: $15,000; 6 - Prized Radio Flyer: $15,000; 2 -
+Bar-Wings-5: $15,000; 5 - Pure Pappasito: $15,000; 1 - Dilly Dilly Hurray: $15,000; 6 - Prized Radio Flyer: $15,000; 2 -
 Tempting Moon Dash: $15,000;
 Scratched Horse(s): Payin the Bills (Veterinarian)
 Total WPS Pool: $87,758
@@ -943,7 +943,7 @@ Raglan Road
 71
 41
 3
-Bar Wings 5
+Bar-Wings-5
 8
 61
 51

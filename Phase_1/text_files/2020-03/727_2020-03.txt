@@ -1343,7 +1343,7 @@ Wyatts Flyin Rogue (Ransom, Bobby)
 weakened
 3Feb20 3LAD2
 10
-Esperanza 1 (Alberto, Antonio)
+Esperanza-1 (Alberto, Antonio)
 126 L bk
 9
 6
@@ -1404,7 +1404,7 @@ New Trainer: Jose D. Barron
 New Owner: Jose D. Barron
 Claiming Prices:
 6 - In for a Win: $5,000; 3 - Ttt Copa de Oro: $5,000; 8 - Sizzlin Mate: $5,000; 1 - Canadian Prize: $5,000; 4 - Wyatts
-Flyin Rogue: $5,000; 10 - Esperanza 1: $5,000; 5 - Geaux Jumpin: $5,000; 9 - Miss Lillys Dream: $5,000; 2 - Ttt
+Flyin Rogue: $5,000; 10 - Esperanza-1: $5,000; 5 - Geaux Jumpin: $5,000; 9 - Miss Lillys Dream: $5,000; 2 - Ttt
 Coronaspassem Up: $5,000;
 Scratched Horse(s): Dashin Set (Stewards)
 Total WPS Pool: $9,547
@@ -1493,7 +1493,7 @@ Wyatts Flyin Rogue
 53/4
 51 1/4
 10
-Esperanza 1
+Esperanza-1
 6
 61
 71

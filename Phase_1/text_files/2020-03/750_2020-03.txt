@@ -1054,7 +1054,7 @@ Valiant Neon (Smith, Cody)
 evenly, no threat
 26Oct19 7ALB1
 7
-Jay Number 7 (Vega, Jose)
+Jay-Number-7 (Vega, Jose)
 129 L bf
 7
 9
@@ -1190,7 +1190,7 @@ Valiant Neon
 72
 61 3/4
 7
-Jay Number 7
+Jay-Number-7
 9
 61 3/4
 61 3/4

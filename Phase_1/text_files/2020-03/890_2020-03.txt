@@ -412,7 +412,7 @@ My Favorite Class
 31
 32 1/4
 7
-Pyc Eyesa Good Wagon4
+Pyc Eyesa Good Wagon 4
 41 1/2
 43
 9
@@ -2270,7 +2270,7 @@ Jess B Glory (Brooks, Jimmy)
 never far out of it
 6Mar20 11RP6
 2
-Lynnder 16 (Packer, Berkley)
+Lynnder-16 (Packer, Berkley)
 126 L bf
 2
 5
@@ -2283,7 +2283,7 @@ Lynnder 16 (Packer, Berkley)
 chased winner inside
 6Mar20 10RP6
 9
-First of 15 (Garcia, Ramiro)
+First-of-15 (Garcia, Ramiro)
 126 L bf
 9
 6
@@ -2459,13 +2459,13 @@ Jess B Glory
 31/2
 41
 2
-Lynnder 16
+Lynnder-16
 5
 51/2
 53/4
 51 1/4
 9
-First of 15
+First-of-15
 6
 61/2
 61 1/4

@@ -60,6 +60,7 @@ def process_single_file(file_path):
         for segment in split_texts:
             if ('Cancelled - Weather' in segment 
                 or 'Cancelled - Management Decision' in segment 
+                or 'Cancelled - Track Conditions' in segment
                 or 'declared no contest' in segment):
                 continue
 
