@@ -3,7 +3,6 @@ import pandas as pd
 from getRaces import getRaces
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from mappings import stupid_horse_names, fixed, save_mappings
 
 # Set the working directory to the script's location
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -20,31 +19,6 @@ files_not_found = []
 
 def splitText(full_text):
     return [segment.strip() for segment in full_text.split('All Rights Reserved.')[:-1]]
-
-def apply_stupid_horse_name_fixes(folder_path):
-    for file_name in os.listdir(folder_path):
-        if file_name.endswith(".txt") and file_name in stupid_horse_names:
-            file_path = os.path.join(folder_path, file_name)
-
-            with open(file_path, 'r', encoding='utf-8') as text_file:
-                file_content = text_file.read()
-
-            replacements_made = []
-            for old_name, new_name in stupid_horse_names[file_name]:
-                file_content = file_content.replace(old_name, new_name)
-                replacements_made.append((old_name, new_name))
-
-            with open(file_path, 'w', encoding='utf-8') as text_file:
-                text_file.write(file_content)
-
-            if file_name not in fixed:
-                fixed[file_name] = []
-            fixed[file_name].extend(replacements_made)
-
-            del stupid_horse_names[file_name]
-            save_mappings({"stupid_horse_names": stupid_horse_names, "fixed": fixed})
-
-            print(f"Replaced names in: {file_name}")
 
 def process_single_file(file_path):
     file_name = os.path.basename(file_path)
@@ -87,8 +61,6 @@ def process_files(folder_path, output_excel_file):
     if not os.path.isdir(folder_path):
         print(f"The folder {folder_path} does not exist.")
         return
-
-    apply_stupid_horse_name_fixes(folder_path)
 
     with ThreadPoolExecutor(max_workers=5) as executor:
         futures = [executor.submit(process_single_file, os.path.join(folder_path, filename))

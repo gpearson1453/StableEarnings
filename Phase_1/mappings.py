@@ -1,40 +1,5 @@
 import re
-import json
 import os
-
-# Set the working directory to the script's location
-script_dir = os.path.dirname(os.path.abspath(__file__))
-os.chdir(script_dir)
-
-# Path to the JSON file
-MAPPINGS_FILE = 'mappings.json'
-
-def load_mappings():
-    """
-    Load mappings from a JSON file, specifically for 'stupid_horse_names' and 'fixed' mappings.
-
-    Returns:
-    - dict: A dictionary containing the mappings, or default empty dictionaries if the file doesn't exist.
-    """
-    if os.path.exists(MAPPINGS_FILE):
-        with open(MAPPINGS_FILE, 'r') as file:
-            return json.load(file)
-    return {"stupid_horse_names": {}, "fixed": {}}
-
-def save_mappings(mappings):
-    """
-    Save the current mappings to the JSON file.
-
-    Parameters:
-    - mappings (dict): The mappings dictionary to be saved.
-    """
-    with open(MAPPINGS_FILE, 'w') as file:
-        json.dump(mappings, file, indent=4)
-
-# Load mappings at the start of the program
-mappings = load_mappings()
-stupid_horse_names = mappings.get('stupid_horse_names', {})
-fixed = mappings.get('fixed', {})
 
 # Distance conversion mappings from race distance descriptions to miles
 DISTANCE_CONVERSION = {
