@@ -119,7 +119,7 @@ def process_files(folder_path, output_excel_file):
             print(f)
 
 if __name__ == "__main__":
-    folder_path = r'text_files\2020-04'
+    folder_path = r'text_files\2020-05'
     #folder_path = 'testing_files'
     output_excel_file = 'select_race_data.xlsx'
     process_files(folder_path, output_excel_file)
