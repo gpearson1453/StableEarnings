@@ -1650,7 +1650,7 @@ L b
 broke in, floated in
 3May20 10LA1
 1
-La Reina Del Sur 1 (Huerta, Carlos)
+La-Reina-Del-Sur-1 (Huerta, Carlos)
 130
 L bf
 1
@@ -1798,7 +1798,7 @@ Unstoppable One
 4Head
 3Neck
 1
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 1
 1Head
 41/2

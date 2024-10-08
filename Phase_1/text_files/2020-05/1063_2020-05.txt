@@ -1706,7 +1706,7 @@ John Carter Cash (Nicasio, Jose)
 veerd out,rally,missed
 14Sep19 8LA1
 1
-Cole Man 47 (Huerta, Carlos)
+Cole-Man-47 (Huerta, Carlos)
 126 L b
 1
 1
@@ -1777,7 +1777,7 @@ John Carter Cash
 3.60
 2.40
 1
-Cole Man 47
+Cole-Man-47
 2.20
 Wager Type
 Winning Numbers
@@ -1835,7 +1835,7 @@ John Carter Cash
 3Neck
 2Nose
 1
-Cole Man 47
+Cole-Man-47
 1
 1Neck
 1Nose
@@ -1863,7 +1863,7 @@ Owners:
 3 - Hernandez, Herasmo, Hernandez, Salvador and Gutierrez, Jose; 6 -Juan M. Ramos Dorantes; 1 - McIntyre, Steve and Jones, Marin; 5
 -Pedro Rangel; 4 -Jorge Haddad; 2 -Jose Angel Bocanegra;
 Footnotes
-JESS BET ME bumped start, strong finish. JOHN CARTER CASH veered out start, rallied, missed. COLE MAN 47 drifted in early, caught. CAVUTO broke
+JESS BET ME bumped start, strong finish. JOHN CARTER CASH veered out start, rallied, missed. Cole-Man-47 drifted in early, caught. CAVUTO broke
 in, bumped start, outfinished. SANTANDER broke in, bumped both sides. DOUBLE A JESS stumbled badly.
 Track Attendance: 0
 Handle: $2,446,284

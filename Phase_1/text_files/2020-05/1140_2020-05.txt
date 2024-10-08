@@ -1759,7 +1759,7 @@ Cartel Attitude (Vega, Jose)
 broke with head high
 7Oct19 9AJX1
 8
-Fireball Xl5 (Birzer, Brett)
+Fireball-Xl-5 (Birzer, Brett)
 128 L b
 6
 5
@@ -1781,7 +1781,7 @@ New Trainer: Matt Whitekiller
 New Owner: Norman E. Hollingsworth
 Claiming Prices:
 6 - Docs River Spirit: $7,500; 9 - High On Chablis: $7,500; 3 - Dowhatigotta: $7,500; 10 - Lota Twister: $7,500; 7 -
-Notorious Secrets: $7,500; 5 - Eagle Earl: $7,500; 4 - Cartel Attitude: $7,500; 8 - Fireball Xl5: $7,500;
+Notorious Secrets: $7,500; 5 - Eagle Earl: $7,500; 4 - Cartel Attitude: $7,500; 8 - Fireball-Xl-5: $7,500;
 Scratched Horse(s): Mighty Boaz (Trainer), Your Linus (Trainer)
 Total WPS Pool: $59,564
 Pgm Horse
@@ -1869,7 +1869,7 @@ Cartel Attitude
 72 3/4
 73 1/2
 8
-Fireball Xl5
+Fireball-Xl-5
 5
 83 1/4
 810 3/4
@@ -1882,7 +1882,7 @@ Rubalcava; 5 -Juan Jose Gomez; 4 -Jo Rice; 8 -Belinda Taggart;
 Footnotes
 DOCS RIVER SPIRIT drifted in, hard charging. HIGH ON CHABLIS zig zagged, second best. DOWHATIGOTTA unable to match late. LOTA TWISTER
 lacked late kick. NOTORIOUS SECRETS stumbled, traded early bumps. EAGLE EARL tired in late going. CARTEL ATTITUDE broke with head high.
-FIREBALL XL5 seemed unmotivated.
+Fireball-Xl-5 seemed unmotivated.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 REMINGTON/ PARK - May 21, 2020 - Race 9
 CLAIMING - Quarter Horse

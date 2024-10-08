@@ -338,7 +338,7 @@ L b
 brushed, kept on
 17Apr20 6RP3
 2
-Focus On Me 123 (Gutierrez, Gonzalo)
+Focus-On-Me-123 (Gutierrez, Gonzalo)
 129
 L bfk
 2
@@ -490,7 +490,7 @@ Jess Knockedout
 6Neck
 41
 2
-Focus On Me 123
+Focus-On-Me-123
 6
 7Neck
 51
@@ -525,7 +525,7 @@ Owners:
 7 -Pedro Martinez; 10 - Gaytan-Quiroz, San Juan and Gayton, Jr., G.; 8 - Gage Cattle and Feed; 4 -Bertha A. Nunez; 2 -Florencia Duenes; 1
 -Laureano Espinoza-Perez; 9 -Jerry D. Chapman; 5 -Bonnie L. Wilson; 3 - Esqueda, Robert and Esqueda, Andrea M.; 6 -Victor Gaytan Garcia;
 Footnotes
-CAN kicked clear late. DE ALLI CAP battled tough. SWEET FURRENA off heels of winner. JESS KNOCKEDOUT brushed, kept on. FOCUS ON ME 123
+CAN kicked clear late. DE ALLI CAP battled tough. SWEET FURRENA off heels of winner. JESS KNOCKEDOUT brushed, kept on. Focus-On-Me-123
 drifted in midway. EL MALKERIDO up close, outfinished. ACADILLAC bid, faded. GOOD AND TOUGH lost path late. REGALA DE AMOR lacked late kick.
 IBA BAD ACE broke in, trailed.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
@@ -2416,7 +2416,7 @@ Odds Ind. Time
 Sp. In. Comments
 1Nov19 11WRD8
 7
-Express Train No 9 (Torres, Daniel)
+Express-Train-No-9 (Torres, Daniel)
 126
 L bfk
 7
@@ -2468,7 +2468,7 @@ L bfk
 hand ridden only
 5Apr20 3RP3
 1
-First of 15 (Packer, Berkley)
+First-of-15 (Packer, Berkley)
 126
 L bf
 1
@@ -2533,7 +2533,7 @@ L bfk
 stumbled badly
 Run-Up: 0 feet
 Winner:
-Express Train No 9, Bay Mare, by Freighttrain B out of Wildfire Express Two, by Whirling Fastball. Foaled Mar 06, 2015 in Oklahoma.
+Express-Train-No-9, Bay Mare, by Freighttrain B out of Wildfire Express Two, by Whirling Fastball. Foaled Mar 06, 2015 in Oklahoma.
 Breeder: Kenneth Norman
 Owner: Jessica Perez
 Trainer: Martinez, Pedro
@@ -2544,7 +2544,7 @@ Win
 Place
 Show
 7
-Express Train No 9
+Express-Train-No-9
 89.40
 59.80
 24.00
@@ -2581,7 +2581,7 @@ Start
 Str
 Fin
 7
-Express Train No 9
+Express-Train-No-9
 1
 11/2
 1Neck
@@ -2601,7 +2601,7 @@ Damn Strait
 43/4
 43/4
 1
-First of 15
+First-of-15
 5
 53/4
 53/4
@@ -2630,8 +2630,8 @@ Owners:
 7 -Jessica Perez; 9 - Flores, Crestina and Nunez, Cesar; 10 -Julio Contreras; 4 -M. C. Stucks; 1 -Richard L. Tobin; 2 -Juan Jose Contreras; 5
 -Felipe Morales Martinez; 3 -Leonardo Alcala; 6 -Sam W. Green;
 Footnotes
-EXPRESS TRAIN NO 9 cleared them early, held. BUDDERLICOUS gaining at finish. VF JEDI RETURNS closing fast at finish. DAMN STRAIT hand ridden
-only. FIRST OF 15 chased grudgingly. JOHNNY DE CAPO unable to sustain bid. EFFORTLESS CHIC DESI trouble finding stride. SHES
+Express-Train-No-9 cleared them early, held. BUDDERLICOUS gaining at finish. VF JEDI RETURNS closing fast at finish. DAMN STRAIT hand ridden
+only. First-of-15 chased grudgingly. JOHNNY DE CAPO unable to sustain bid. EFFORTLESS CHIC DESI trouble finding stride. SHES
 RELENTLESSWAGON head high early. EYE EYE CAPTAIN stumbled badly.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 R[EMINGTON PARK - May 14, 2020 - Race 11
@@ -2696,7 +2696,7 @@ Sf Longmier (Smith, Cody)
 drifted in
 ---
 5
-Picacho 369 (Cunningham, Travis)
+Picacho-369 (Cunningham, Travis)
 124 L b
 5
 5
@@ -2861,7 +2861,7 @@ Sf Longmier
 1Nose
 3Head
 5
-Picacho 369
+Picacho-369
 5
 5Neck
 5Head
@@ -2908,7 +2908,7 @@ Owners:
 6 -Seth Howard; 1 - CT Racing Stables; 10 -Matt Whitekiller; 5 -Gregg A. Sanders; 2 - L Team, Maher, Tom and Luedemann, Paul; 8 -Jovetta
 Meredith; 4 -Martin Stacy; 7 - Brown, Robert and Sandra; 3 -Harvey Baeza; 9 -Hector C. Estrada;
 Footnotes
-STONE KASTER late surge, in time. POPS FIRST LADY cleanest trip of field. SF LONGMIER drifted in. PICACHO 369 slammed inner rival at break. A
+STONE KASTER late surge, in time. POPS FIRST LADY cleanest trip of field. SF LONGMIER drifted in. Picacho-369 slammed inner rival at break. A
 FABULOS PAINTING avoided troubles. RELENTLESS MISCHIEF altered course out. WILD N WINDY SIX darted in at break. GOOD CARTEL CANDY
 pinched back after start. DOUBLE DOWN ON ME forced inward at break. DTL HES MAN CANDY weaved in and out early.
 Track Attendance: 0

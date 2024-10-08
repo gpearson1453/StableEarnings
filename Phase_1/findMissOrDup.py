@@ -6,6 +6,8 @@ import re
 script_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(script_dir)
 
+missing = False
+
 def load_excel(file_path):
     """
     Loads the Excel file into a pandas DataFrame.
@@ -85,6 +87,7 @@ def check_tracks_in_excel(df, text_block):
         search_pattern = f'{formatted_date}_{track}'
         if not df['race_id'].str.contains(search_pattern, na=False).any():
             print(f"No match found for {search_pattern}")
+            missing = True
 
 def main(file_path, date_track_blocks):
     """
@@ -102,6 +105,8 @@ def main(file_path, date_track_blocks):
     # Check for track name matches based on date and track blocks
     for text_block in date_track_blocks:
         check_tracks_in_excel(df, text_block)
+    if not missing:
+        print("No files missing.")
 
     # Check for duplicates in the DataFrame
     find_duplicates(df)

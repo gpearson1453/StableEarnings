@@ -2630,7 +2630,7 @@ Political Candyhouse (Flores, James)
 brk out,bmpd,weaved
 2May20 9RP8
 6
-Apollitical J Twin 1 (Pulido, Juan)
+Apollitical-J-Twin-1 (Pulido, Juan)
 124 L b
 6
 8
@@ -2781,7 +2781,7 @@ Political Candyhouse
 53/4
 51 3/4
 6
-Apollitical J Twin 1
+Apollitical-J-Twin-1
 8
 81/2
 81
@@ -2818,7 +2818,7 @@ Owners:
 Rubalcava; 8 -Jo Rice;
 Footnotes
 KATCHI DAT drifted inward, inching away. HEZA BLUES MAN rallied, in time for place. IVORY TURBO dueled, nipped for place, vanned off. TRES JAZZ
-no response. POLITICAL CANDYHOUSE broke out, bumped, weaved midway. APOLLITICAL J TWIN 1 altered path early. DOMINATING KNOCKOUT
+no response. POLITICAL CANDYHOUSE broke out, bumped, weaved midway. Apollitical-J-Twin-1 altered path early. DOMINATING KNOCKOUT
 weakened. A VALIANT DIAMOND no late bid. BLACK CAZADOR lacked late speed. SOUTHARD QUEEN missed the break.
 Track Attendance: 0
 Handle: $2,581

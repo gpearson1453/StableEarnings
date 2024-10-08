@@ -1929,7 +1929,7 @@ Odds Ind. Time
 Sp. In. Comments
 10Apr20 6LA2
 6
-La Reina Del Sur 1 (Huerta, Carlos)
+La-Reina-Del-Sur-1 (Huerta, Carlos)
 127
 L bf
 6
@@ -2033,7 +2033,7 @@ L bf
 showed little
 Run-Up: 0 feet
 Winner:
-La Reina Del Sur 1, Bay Filly, by Favorite Cartel out of Go First N Famous, by One Famous Eagle. Foaled Feb 28, 2018 in California.
+La-Reina-Del-Sur-1, Bay Filly, by Favorite Cartel out of Go First N Famous, by One Famous Eagle. Foaled Feb 28, 2018 in California.
 Breeder: Abel Reyes
 Owner: Abel Reyes
 Trainer: Rivera, Sally
@@ -2043,7 +2043,7 @@ Win
 Place
 Show
 6
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 12.40
 3.00
 2.20
@@ -2097,7 +2097,7 @@ Start
 Str
 Fin
 6
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 1
 13/4
 11/2
@@ -2142,7 +2142,7 @@ Owners:
 6 -Abel Reyes; 4 -Bobby D. Cox; 8 -Bobby Simmons; 2 - Eg High Desert Farms; 1 - Harrel, Jimmy D. and Marilyn; 3 -Edward C. Allred; 5 -
 Hartley, Jeryl and Hartley, Ronald J.; 7 - Watterson Brothers Family Partners;
 Footnotes
-LA REINA DEL SUR 1 away quickly, held well. JEANETICS bobbled, lugged in. BOB E MCGEE drifted in 1/8, willingly. LA ESTRELLA CORONA broke in,
+La-Reina-Del-Sur-1 away quickly, held well. JEANETICS bobbled, lugged in. BOB E MCGEE drifted in 1/8, willingly. LA ESTRELLA CORONA broke in,
 drifted in. STILL HATEFUL lugged in early. NO QUESTIONS off slow. RED ROSY CARTEL off bit slow, weakened. WB TINY STAR showed little.
 ISW = inter-state wagering
 Attendance: 0

@@ -2284,7 +2284,7 @@ Odds Ind. Time
 Sp. In. Comments
 18Apr20 7RP6
 1
-Lynnder 16 (Garcia, Ramiro)
+Lynnder-16 (Garcia, Ramiro)
 126 L bf
 1
 2
@@ -2414,7 +2414,7 @@ Marmalade Candy (Romero, Josh)
 no menace
 Run-Up: 0 feet
 Winner:
-Lynnder 16, Sorrel Filly, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
+Lynnder-16, Sorrel Filly, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
 Breeder: James E and Marilyn Helzer
 Owner: Maher, Tom and Tobin, Richard L.
 Trainer: Olmstead, Jason
@@ -2425,7 +2425,7 @@ Win
 Place
 Show
 1
-Lynnder 16
+Lynnder-16
 7.20
 4.20
 2.40
@@ -2467,7 +2467,7 @@ Str1
 Str
 Fin
 1
-Lynnder 16
+Lynnder-16
 2
 2Nose
 2Head
@@ -2533,7 +2533,7 @@ Owners:
 George, Ken and Reba; 4 -Richard R. Scott; 7 - Esqueda, Robert and Esqueda, Andrea M.; 8 - Palomino Trucking Inc.; 5 -Manuel
 Olguin-Romero;
 Footnotes
-LYNNDER 16 prevailed in long duel. JESS B GLORY late explosion for place. APOLLITICAL MOGUL photoed out of win. HOPEY CHICK early bid,
+Lynnder-16 prevailed in long duel. JESS B GLORY late explosion for place. APOLLITICAL MOGUL photoed out of win. HOPEY CHICK early bid,
 outfinished. SR SHEGONE in tight early. LOTA STARS FALLING late interest. RICARDOS CARTEL mild contention. FLY N TELL no late speed. JESSIE
 MARIE late into stride. MARMALADE CANDY no menace.
 Track Attendance: 0

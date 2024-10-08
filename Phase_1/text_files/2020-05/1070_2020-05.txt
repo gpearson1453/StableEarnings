@@ -2128,7 +2128,7 @@ Mi Amor Secreto (Alvarez, Jose)
 pinballed at start
 2Apr20 9RP1
 9
-Apollitical J Twin 1 (Pulido, Juan)
+Apollitical-J-Twin-1 (Pulido, Juan)
 126 L b
 9
 7
@@ -2283,7 +2283,7 @@ Mi Amor Secreto
 61 1/4
 71 1/4
 9
-Apollitical J Twin 1
+Apollitical-J-Twin-1
 7
 83/4
 81 1/4
@@ -2320,7 +2320,7 @@ Owners:
 Alexia; 11 - Quetitas Racing Stables; 5 - McClure, Sissie and McClure, Bob;
 Footnotes
 DEXXTER exploded from first step. APOCALYPTICAL JESS always close, second best. VALIANT TIBERIAS vied, outkicked. HOT DAM BAM A LAM
-chased in vain. CONSIGLIERE no excuses. JORDAN EAGLE broke out, bmped foe. MI AMOR SECRETO pinballed at start. APOLLITICAL J TWIN 1 in
+chased in vain. CONSIGLIERE no excuses. JORDAN EAGLE broke out, bmped foe. MI AMOR SECRETO pinballed at start. Apollitical-J-Twin-1 in
 tight early. MPSHINNING no late kick. SHOCKINGLYFAMOUS broke in sharply, bolted to rail midway. DASHING SWEET BRUJO traded bumps early.
 SENATOR FAST JACK broke in air, wiped out at break.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
