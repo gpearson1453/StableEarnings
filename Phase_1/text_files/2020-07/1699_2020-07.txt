@@ -2174,7 +2174,7 @@ Odds Ind. Time
 Sp. In. Comments
 17Jun20 10IND2
 9
-Country Boy 123 (Martinez, Luz)
+Country-Boy-123 (Martinez, Luz)
 128 L b
 9
 2
@@ -2213,7 +2213,7 @@ Hooked On Jordan (Reyes, Cristian)
 pressed,caught
 17Jun20 10IND5
 4
-DQ-Yadi 1 (Esqueda, Cesar)
+DQ-Yadi-1 (Esqueda, Cesar)
 128 L bfk
 4
 8
@@ -2304,12 +2304,12 @@ Hospitaliti (Jackson, Shanley)
 squeezed hard start
 Run-Up: 0 feet
 Winner:
-Country Boy 123, Bay Gelding, by Country Chicks Man out of Very Dashin 123, by Dash Thru Traffic. Foaled Feb 26, 2013 in Michigan.
+Country-Boy-123, Bay Gelding, by Country Chicks Man out of Very Dashin 123, by Dash Thru Traffic. Foaled Feb 26, 2013 in Michigan.
 Breeder: Carolyn C Bay
 Owner: Ruth F. Barbour
 Trainer: Cunningham, Anthony
 Disqualification(s):
-# 4 Yadi 1 from 4 to 10
+# 4 Yadi-1 from 4 to 10
 Scratched Horse(s): Every Chicks Favorit (Also-Eligible), Hold On Jessie (Also-Eligible)
 Total WPS Pool: $46,761
 Pgm Horse
@@ -2317,7 +2317,7 @@ Win
 Place
 Show
 9
-Country Boy 123
+Country-Boy-123
 7.20
 4.00
 2.60
@@ -2363,7 +2363,7 @@ Str 1
 Str
 Fin
 9
-Country Boy 123
+Country-Boy-123
 2
 11/2
 11
@@ -2381,7 +2381,7 @@ Hooked On Jordan
 21
 31
 4
-Yadi 1
+Yadi-1
 8
 51 1/4
 52
@@ -2428,8 +2428,8 @@ Owners:
 9 -Ruth F. Barbour; 10 - Williams Racing Stables, Inc.; 8 -Jorge Ovalle Sanchez; 4 -Randy L. Thompson; 3 -Ricardo Martinez; 5 -Jose
 Plascencia; 2 - Brown, Ronald G. and Ray, Robert A.; 7 -Oscar Preciado; 1 - Arevalo Racing Stables, LLC; 6 -Glenn L. Graff;
 Footnotes
-COUNTRY BOY 123 was in control with a strong finish. WRS VALENTINO pressed and nabbed the place. HOOKED ON JORDAN pressed and was caught
-for the place. YADI 1 broke outward, and raced evenly. ACCOUNTABLY raced evenly. TRES MY HEART was bumped at the start and raced evenly. WH
+Country-Boy-123 was in control with a strong finish. WRS VALENTINO pressed and nabbed the place. HOOKED ON JORDAN pressed and was caught
+for the place. Yadi-1 broke outward, and raced evenly. ACCOUNTABLY raced evenly. TRES MY HEART was bumped at the start and raced evenly. WH
 KENNY G pressed, then yielded. SHES A REAL PATRIOT raced evenly. BEAUS COUPE faded. HOSPITALITI was squeezed hard at the start.
 FOLLOWING AN INQUIRY, YADI1 WAS DISQUALIFIED AND PLACED LAST FOR INTERFERENCE AT THE START.
 Track Attendance: 0

@@ -428,7 +428,7 @@ Odds Ind. Time
 Sp. In. Comments
 30Jun20 2GRP4
 8
-Wildfires Phantom 2 (Guerrero, Jose)
+Wildfires-Phantom-2 (Guerrero, Jose)
 124 BL bf
 8
 6
@@ -545,7 +545,7 @@ Preachin Lady Star (Martin, David)
 trailed
 Run-Up: 0 feet
 Winner:
-Wildfires Phantom 2, Sorrel Filly, by Wagon Tales out of Oklahoma Rain, by Forestry. Foaled Feb 22, 2017 in Oklahoma.
+Wildfires-Phantom-2, Sorrel Filly, by Wagon Tales out of Oklahoma Rain, by Forestry. Foaled Feb 22, 2017 in Oklahoma.
 Breeder: Darling Farms
 Owner: White, Robert and White, Marie
 Trainer: Guerrero, Emilio
@@ -555,7 +555,7 @@ Win
 Place
 Show
 8
-Wildfires Phantom 2
+Wildfires-Phantom-2
 10.80
 3.60
 4.00
@@ -589,7 +589,7 @@ Str 1
 Str
 Fin
 8
-Wildfires Phantom 2
+Wildfires-Phantom-2
 6
 41 1/2
 11/2
@@ -648,7 +648,7 @@ Owners:
 8 - White, Robert and White, Marie; 5 -Roberto Guzman Herrera; 4 -Jeff Ray; 7 -Juan Torres Martinez; 6 -Francisco Lara, Jr.; 2 -Darin Munden; 9
 -Emilio Guerrero; 1 -Charlene Whiteside; 3 -Lorenzo J. Marquez;
 Footnotes
-WILDFIRES PHANTOM 2 closed. HOLD ON IM GONE had lead stretch,just missed. FIRST MOON CAT up close early. TIONESTA bump out of gate. EL
+Wildfires-Phantom-2 closed. HOLD ON IM GONE had lead stretch,just missed. FIRST MOON CAT up close early. TIONESTA bump out of gate. EL
 GANADERO off slow 2,bump out of gate. JESSADALIGHT close early. PREACHINFORCASH up close early. BIG BAD BRAD in second flight. PREACHIN
 LADY STAR off slow,trailed.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.

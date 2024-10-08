@@ -1190,7 +1190,7 @@ Odds Ind. Time
 Sp. In. Comments
 9Nov19 11WRD10
 1
-Mighty Oh 5 (Quiroz, Bonifacio)
+Mighty-Oh-5 (Quiroz, Bonifacio)
 129 L bf
 1
 6
@@ -1320,7 +1320,7 @@ Bv Thisisamazingrace (Torres, Daniel)
 stumbled start
 Run-Up: 0 feet
 Winner:
-Mighty Oh 5, Brown Colt, by Mighty B Valiant out of Cat Five Storm, by Panther Mountain. Foaled Feb 27, 2017 in Oklahoma.
+Mighty-Oh-5, Brown Colt, by Mighty B Valiant out of Cat Five Storm, by Panther Mountain. Foaled Feb 27, 2017 in Oklahoma.
 Breeder: Homer A Hill
 Owner: Antonio F. Hernandez
 Trainer: Nunez, Oscar
@@ -1330,7 +1330,7 @@ Win
 Place
 Show
 1
-Mighty Oh 5
+Mighty-Oh-5
 7.20
 3.60
 3.60
@@ -1372,7 +1372,7 @@ Str 1
 Str
 Fin
 1
-Mighty Oh 5
+Mighty-Oh-5
 6
 1Head
 1Head
@@ -1437,7 +1437,7 @@ Owners:
 1 -Antonio F. Hernandez; 9 - Yother, Loyd J., and Kelly, J. Garvan; 7 - Rockin' J East LLC; 4 -Jose C. Aguilera; 2 -Jessica Remington; 3 -Pedro
 Caldera; 8 -Arthur W. Devereaux; 6 -Buddy Albin; 10 -Kenneth L. Gold; 5 - Bella Vista Farms LLC;
 Footnotes
-MIGHTY OH 5 dueled, driving finish. DESIRED EFFECT dueled, game second. AJ WINZET dueled, outfinished. CANDY SIGN broke equipment, dueled,
+Mighty-Oh-5 dueled, driving finish. DESIRED EFFECT dueled, game second. AJ WINZET dueled, outfinished. CANDY SIGN broke equipment, dueled,
 weakened. TEN SENT no menace. GONNAWANNAKISSTHIS no menace. JUST B MIGHTY broke out, no threat. RELENTLESS DOLL faltered. EYE M
 YOUR FAVORITE no factor. BV THISISAMAZINGRACE stumbled start.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
@@ -2395,7 +2395,7 @@ Enseperabesix (Samaniego, Andrew)
 no threat
 13Jun20 9FMT3
 4
-Bug Cartel 56 (Quiroz, Bonifacio)
+Bug-Cartel-56 (Quiroz, Bonifacio)
 129 L b
 4
 4
@@ -2440,7 +2440,7 @@ Owner: Samuel Gaytan
 Trainer: Gaytan, Jr., Samuel
 Claiming Prices:
 5 - Cry Baby Di: $10,000; 9 - Gc Oceans Five Bar: $10,000; 8 - Wanamaker: $10,000; 7 - Wickedly Corona: $10,000; 3 -
-Sensational Ruby: $10,000; 1 - Ivory Runnin: $10,000; 6 - Enseperabesix: $10,000; 4 - Bug Cartel 56: $10,000; 2 -
+Sensational Ruby: $10,000; 1 - Ivory Runnin: $10,000; 6 - Enseperabesix: $10,000; 4 - Bug-Cartel-56: $10,000; 2 -
 Acelerado: $10,000; 10 - Cf High Rate: $10,000;
 Total WPS Pool: $10,674
 Pgm Horse
@@ -2536,7 +2536,7 @@ Enseperabesix
 81 1/4
 71 3/4
 4
-Bug Cartel 56
+Bug-Cartel-56
 4
 4Head
 71 1/4
@@ -2560,7 +2560,7 @@ Owners:
 Gregory; 4 -Milford S. Roberts; 2 -James G. Burgess; 10 -Robert R. Mashburn;
 Footnotes
 CRY BABY DI dueled, driving finish. GC OCEANS FIVE BAR broke out, dueled, hung. WANAMAKER gaining late. WICKEDLY CORONA dueled,
-outfinished. SENSATIONAL RUBY evenly, no menace. IVORY RUNNIN no menace. ENSEPERABESIX no threat. BUG CARTEL 56 no factor.
+outfinished. SENSATIONAL RUBY evenly, no menace. IVORY RUNNIN no menace. ENSEPERABESIX no threat. Bug-Cartel-56 no factor.
 ACELERADO no threat. CF HIGH RATE broke out start.
 Track Attendance: 0
 Handle: $23,701

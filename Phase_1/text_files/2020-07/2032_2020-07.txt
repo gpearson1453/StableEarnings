@@ -759,7 +759,7 @@ Odds Ind. Time
 Sp. In. Comments
 11Jul20 8LA1
 2
-La Reina Del Sur 1 (Leon, Juan)
+La-Reina-Del-Sur-1 (Leon, Juan)
 125 L bf
 2
 1
@@ -850,7 +850,7 @@ Fool This Kid (Roman, Jonathan)
 fractious,lugged 1/8
 Run-Up: 0 feet
 Winner:
-La Reina Del Sur 1, Bay Filly, by Favorite Cartel out of Go First N Famous, by One Famous Eagle. Foaled Feb 28, 2018 in California.
+La-Reina-Del-Sur-1, Bay Filly, by Favorite Cartel out of Go First N Famous, by One Famous Eagle. Foaled Feb 28, 2018 in California.
 Breeder: Abel Reyes
 Owner: Abel Reyes
 Trainer: Rivera, Sally
@@ -861,7 +861,7 @@ Win
 Place
 Show
 2
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 4.00
 2.60
 2.10
@@ -903,7 +903,7 @@ Str 1
 Str
 Fin
 2
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 1
 12 1/2
 12 1/2
@@ -949,7 +949,7 @@ Owners:
 2 -Abel Reyes; 6 -Edward C. Allred; 3 -Ernesto Parra; 7 - Bujanda, Guadalupe and Flores, Jose Antonio; 4 - Eg High Desert Farms; 5 -Edward
 C. Allred; 1 -Kolleen Ledgerwood;
 Footnotes
-LA REINA DEL SUR 1 broke sharp, cruised. MONOPOLIST bumped repeatedly, strong rally. FLEX JET drifted out early, held 3rd. FARUK broke in,
+La-Reina-Del-Sur-1 broke sharp, cruised. MONOPOLIST bumped repeatedly, strong rally. FLEX JET drifted out early, held 3rd. FARUK broke in,
 bumped start, drifted out late. EG DOMINGO came out, bumped start, outfinished. FROM ABOVE broke out, bumped repeatedly start, intimidated, lacked
 room. FOOL THIS KID fractious, lugged out 1/8.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.

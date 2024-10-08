@@ -2553,7 +2553,7 @@ Eos Minnie Pearl (Eikleberry, Ry)
 steady bid, prevailed,
 11Jun20 9CBY1
 4
-Wicked 6 (Serrano, Julian)
+Wicked-6 (Serrano, Julian)
 125 L bfk
 4
 3
@@ -2633,7 +2633,7 @@ Eos Minnie Pearl
 3.20
 2.40
 4
-Wicked 6
+Wicked-6
 2.40
 2.20
 1
@@ -2676,7 +2676,7 @@ Eos Minnie Pearl
 1Head
 1Head
 4
-Wicked 6
+Wicked-6
 3
 3Head
 2Head
@@ -2709,7 +2709,7 @@ Trainers: 6 - Hardy, Edward; 4 - Hardy, Edward; 1 - Weidner, Randall; 2 - Living
 Owners:
 6 -Corey Wilmes; 4 -Clarinda Rohweder; 1 -Cynthia M. Besser; 2 -Jerry Livingston; 3 -John G. Johnson; 5 -Lenna Marie Peterson;
 Footnotes
-EOS MINNIE PEARL steady bid, prevailed. WICKED 6 shifted out, missed. JOHNEE B dueled, outfinished. DB QUICK SAM weakened.
+EOS MINNIE PEARL steady bid, prevailed. Wicked-6 shifted out, missed. JOHNEE B dueled, outfinished. DB QUICK SAM weakened.
 RCKHASTABESOUTHERN no final kick. KOOL ATTEMPT off step slow, shut off.
 Track Attendance: 0
 Handle: $87,944

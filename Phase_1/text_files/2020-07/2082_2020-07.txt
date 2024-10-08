@@ -2223,7 +2223,7 @@ L bf
 shifted out, held well
 16Jul20 10CBY2
 6
-Wicked 6 (Eikleberry, Ry)
+Wicked-6 (Eikleberry, Ry)
 125
 L bfk
 5
@@ -2304,7 +2304,7 @@ Haute Wagon
 2.60
 2.20
 6
-Wicked 6
+Wicked-6
 2.80
 2.10
 7
@@ -2350,7 +2350,7 @@ Haute Wagon
 1Head
 11/2
 6
-Wicked 6
+Wicked-6
 3
 3Head
 21/2
@@ -2379,7 +2379,7 @@ Owners:
 2 -Shelly Berkner; 6 -Clarinda Rohweder; 7 -Cynthia M. Besser; 5 -Cesar Albino Martinez; 4 -Lenna Marie Peterson; 3 - Petersen, Robert and
 Petersen, Julie;
 Footnotes
-HAUTE WAGON shifted out, held well. WICKED 6 bumped hard start, mild gain. JOHNEE B ducked in, bumped foe. JAZZING JOANNA in close early,
+HAUTE WAGON shifted out, held well. Wicked-6 bumped hard start, mild gain. JOHNEE B ducked in, bumped foe. JAZZING JOANNA in close early,
 weakened. KOOL ATTEMPT gave way early. DIRT ROAD KING shifted in, dropped out.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 CANTERBURY? PARK - July 28, 2020 - Race 12

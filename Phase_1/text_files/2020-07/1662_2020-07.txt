@@ -75,7 +75,7 @@ L bfk
 some belated gain
 22Jun20 11IND1
 5
-Air Born Jazz 2 (Esqueda, Cesar)
+Air-Born-Jazz-2 (Esqueda, Cesar)
 124
 L bfk
 4
@@ -195,7 +195,7 @@ Jess Bringin It On
 52
 41 1/4
 5
-Air Born Jazz 2
+Air-Born-Jazz-2
 2
 33/4
 51 1/2
@@ -221,7 +221,7 @@ Owners:
 Hutchinson, Brock and Hutchinson, Emily; 3 -Patricia Del Rocio Lopez; 2 - DNA Quarter Horses LLC;
 Footnotes
 BEACH DIVA short lead, held. STROKIN THE STONE stepped out start, prominent. GOTTASMOOCHJESS gained the show spot. JESS BRINGIN IT ON
-some belated gain. AIR BORN JAZZ 2 close early, faded. WICKED STONE crowded, squeezed back start. JESS A RACOON no menace. DNA DALES LIL
+some belated gain. Air-Born-Jazz-2 close early, faded. WICKED STONE crowded, squeezed back start. JESS A RACOON no menace. DNA DALES LIL
 ZOOMER veered to rail start.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 HORSESHOE INDI[ANAPOLIS - July 4, 2020 - Race 2
@@ -1800,7 +1800,7 @@ L b
 no threat
 15Jun20 10IND8
 4
-Panchita 47 (Olivo, Victor)
+Panchita-47 (Olivo, Victor)
 124
 b
 4
@@ -1924,7 +1924,7 @@ Dna Coronado Cat
 52
 62 3/4
 4
-Panchita 47
+Panchita-47
 8
 83
 74 1/2
@@ -1945,7 +1945,7 @@ Owners:
 LLC; 8 - DNA Quarter Horses LLC; 4 - Campos Family Ventures LLC; 2 -Craig Zeneberg; 3 - Carter, Larry and Myers, John;
 Footnotes
 FIRE THE CARTEL quick lead, lasted. TO KISS A DIVA bobbled start, closing in. KISS MY HOCKS GOODBY gaining for 3rd. CORONADO CREEK even
-run, lost 3rd. BV LOVE ME ALWAYS no menace, mid-pack. DNA CORONADO CAT no threat. PANCHITA 47 no factor. ZZ MISS CORONA no impact. HH
+run, lost 3rd. BV LOVE ME ALWAYS no menace, mid-pack. DNA CORONADO CAT no threat. Panchita-47 no factor. ZZ MISS CORONA no impact. HH
 BOONES PRIZE trailed.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 HORSES<HOE INDIANAPOLIS - July 4, 2020 - Race 9
@@ -2038,7 +2038,7 @@ L b
 last away, no menace
 ---
 5
-Eagle Force 1 (Marquez, Juan)
+Eagle-Force-1 (Marquez, Juan)
 124
 L b
 5
@@ -2185,7 +2185,7 @@ Bv It Aint Me Babe
 61 1/2
 51 1/4
 5
-Eagle Force 1
+Eagle-Force-1
 5
 33/4
 61 1/4
@@ -2216,7 +2216,7 @@ Owners:
 -T. Leon Taylor; 1 - Kurty, Michael and Walsh, Edward R.; 6 -Jill P. Mottor; 10 -Roberto Simental;
 Footnotes
 ONE COLDHEARTED DIVA led, held. UNBOUND PATRIOT prominent, needed more. HEZA FAST KISSER bumped solidly start. WRS RAISE THE BAR
-stumbled after start. BV IT AINT ME BABE last away, no menace. EAGLE FORCE 1 close early, weakened. DASHIN FEATURES stepped in start, bumped
+stumbled after start. BV IT AINT ME BABE last away, no menace. Eagle-Force-1 close early, weakened. DASHIN FEATURES stepped in start, bumped
 rival. KORRUPTION no menace. BIG QUEEN CARTEL no impact. HF BAZINGA 15path, no factor. PER RULING IG-2020-2052 FROM THE INDIANA
 RACING COMMISSION, UNBOUND PATRIOT WAS DQ'D DUE TO A POSITIVE TEST.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.

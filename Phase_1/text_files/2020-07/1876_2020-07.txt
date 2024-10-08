@@ -86,7 +86,7 @@ Jj Zoom of King (Martinez, Eddi)
 even try
 11Jun20 9DED9
 4
-Trump Train 2020 (Ortiz, Gilbert)
+Trump-Train-2020 (Ortiz, Gilbert)
 124 L bfk
 4
 2
@@ -157,7 +157,7 @@ Owner: Barbara Hieden Seber
 Trainer: Garcia, Jose
 Claiming Prices:
 2 - Alluring Dash Aw: $10,000; 7 - Tm Carters Snowman: $10,000; 6 - Patriot Mountain: $10,000; 1 - It Was a Miracle:
-$10,000; 5 - Jj Zoom of King: $10,000; 4 - Trump Train 2020: $10,000; 3 - Go Runaway Lee: $10,000; 8 - Tdz
+$10,000; 5 - Jj Zoom of King: $10,000; 4 - Trump-Train-2020: $10,000; 3 - Go Runaway Lee: $10,000; 8 - Tdz
 Onefamouscuervo: $10,000; 10 - Hez My Leader: $10,000; 9 - Midnight Prize: $10,000;
 Total WPS Pool: $16,106
 Pgm Horse
@@ -229,7 +229,7 @@ Jj Zoom of King
 61 3/4
 52
 4
-Trump Train 2020
+Trump-Train-2020
 2
 61 1/4
 51 3/4
@@ -265,7 +265,7 @@ Owners:
 Arkofa Farm; 8 -Kevin Nobles; 10 -Patrick Richardson; 9 -Dewey Kendrick, III;
 Footnotes
 ALLURING DASH AW speed, drifted out, proved best. TM CARTERS SNOWMAN drifted out early, solid rally, up for 2nd. PATRIOT MOUNTAIN solid try. IT
-WAS A MIRACLE early bid, hung. JJ ZOOM OF KING even try. TRUMP TRAIN 2020 mild bid. GO RUNAWAY LEE broke in, mild try. TDZ
+WAS A MIRACLE early bid, hung. JJ ZOOM OF KING even try. Trump-Train-2020 mild bid. GO RUNAWAY LEE broke in, mild try. TDZ
 ONEFAMOUSCUERVO bumped early, no real threat. HEZ MY LEADER bumped early, no factor. MIDNIGHT PRIZE bumped early, no bid.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 DELT/A DOWNS - July 17, 2020 - Race 2
@@ -1399,7 +1399,7 @@ L bf
 steady, altered course
 25Jan20 3LAD5
 1
-Xdw Lucyat 100 (Maldonado, Floriberto)
+Xdw-Lucyat-100 (Maldonado, Floriberto)
 128
 L bf
 1
@@ -1457,7 +1457,7 @@ Owner: Kenneth L. Roberts Racing Stables Inc.
 Trainer: Roberts, Sr., Kenneth
 Claiming Prices:
 6 - Ar Apollitical Fame: $20,000; 3 - La Mos Runaway: $20,000; 5 - Wicked Runaway Dash: $20,000; 10 - Zinsera:
-$20,000; 4 - El Golfo de Mexico: $20,000; 9 - Merica: $20,000; 1 - Xdw Lucyat 100: $20,000; 2 - Rose Pool: $20,000; 8 -
+$20,000; 4 - El Golfo de Mexico: $20,000; 9 - Merica: $20,000; 1 - Xdw-Lucyat-100: $20,000; 2 - Rose Pool: $20,000; 8 -
 Bellas Fantasy: $20,000; 7 - Graysee Jo: $20,000;
 Disqualification(s):
 # 6 Ar Apollitical Fame from 1 to 9
@@ -1537,7 +1537,7 @@ Merica
 71 1/2
 62
 1
-Xdw Lucyat 100
+Xdw-Lucyat-100
 1
 21/2
 72
@@ -1563,7 +1563,7 @@ Owners:
 1 - XDW Holdings LLC; 2 -T. Darryl Balthazar; 8 -Paul R. Rigdon; 7 -Brad Thomas;
 Footnotes
 AR APOLLITICAL FAME late rally, drifted out sharply, bothered foes. LA MOS RUNAWAY dueled, just missed. WICKED RUNAWAY DASH game effort.
-ZINSERA forced out, in tight late, gamely. EL GOLFO DE MEXICO even effort. MERICA steadied midway, altered course. XDW LUCYAT 100 dueled early,
+ZINSERA forced out, in tight late, gamely. EL GOLFO DE MEXICO even effort. MERICA steadied midway, altered course. Xdw-Lucyat-100 dueled early,
 faded. ROSE POOL fractious gate, hopped start, no threat. BELLAS FANTASY steadied midway, no factor. GRAYSEE JO broke slow, no bid. A
 STEWARDS INQUIRY WAS CALLED INTO THE RUNNING OF THE RACE. AFTER VIEWING REPLAYS STEWARDS DISQUALIFIED #6 AR
 APOLLITICAL FAME FROM FIRST AND PLACED HER NINTH FOR INTERFERENCE THROUGHOUT THE RACE.

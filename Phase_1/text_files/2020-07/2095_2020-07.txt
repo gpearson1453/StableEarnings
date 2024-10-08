@@ -924,7 +924,7 @@ L b
 closed with a rush
 21Oct19 5AJX8
 4
-Aj Chick in 15 (Vanek, Helen)
+Aj-Chick-in-15 (Vanek, Helen)
 126
 L bf
 4
@@ -1017,7 +1017,7 @@ Im Speedy
 7.30
 3.70
 4
-Aj Chick in 15
+Aj-Chick-in-15
 3.60
 2.70
 5
@@ -1050,7 +1050,7 @@ Im Speedy
 41
 1Head
 4
-Aj Chick in 15
+Aj-Chick-in-15
 3
 1Head
 2Head
@@ -1083,7 +1083,7 @@ Trainers: 7 - Baker, Les; 4 - Pascoe, Jason; 5 - Wood, Barry; 1 - Bourgeois, Cha
 Owners:
 7 -Les Baker; 4 -Milena Kwiecien; 5 -James Bogar; 1 -Chantelle Bourgeois; 2 -Scott Reid; 3 - Big Dog Racing Stable; 8 -Christine Tavares;
 Footnotes
-IM SPEEDY closed with a rush. AJ CHICK IN 15 nailed at wire. ICE N SNOW raced evenly. EYESA DEXTER evenly. ALBERTT not good enough. ITS
+IM SPEEDY closed with a rush. Aj-Chick-in-15 nailed at wire. ICE N SNOW raced evenly. EYESA DEXTER evenly. ALBERTT not good enough. ITS
 SWEET TOBE FIRST no closing kick. I THINK ICON broke outwardly did not finish.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJA[X DOWNS - July 29, 2020 - Race 7
@@ -1245,7 +1245,7 @@ Str 1
 Str
 Fin
 1
-Chicksdigmymoneybags2
+Chicksdigmymoneybags 2
 13/4
 13/4
 13/4

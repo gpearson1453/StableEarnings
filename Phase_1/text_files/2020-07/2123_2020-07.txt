@@ -2508,7 +2508,7 @@ Wh Moon Pie (Jackson, Shanley)
 bothered very late
 14Sep19 1IND7
 4
-Zooming Star V4 (Macias, Oscar)
+Zooming-Star-V4 (Macias, Oscar)
 128 bk
 4
 5
@@ -2638,7 +2638,7 @@ Wh Moon Pie
 71 3/4
 72 1/4
 4
-Zooming Star V4
+Zooming-Star-V4
 5
 83
 83 3/4
@@ -2656,7 +2656,7 @@ Owners:
 -Roberto Vargas; 5 -Keith Bode;
 Footnotes
 QUIKSILVER KID short lead, just lasted. CALIENTES BABE inching up, just missed. HF OMAHA OMAHA up for 3rd. GG KYLEIGHS STORM just missed
-3rd. PRINCESS AHMANET even run, no menace. STORMY DURANGO weakened late. WH MOON PIE bothered very late. ZOOMING STAR V4 no
+3rd. PRINCESS AHMANET even run, no menace. STORMY DURANGO weakened late. WH MOON PIE bothered very late. Zooming-Star-V4 no
 impact. A VALIANT LEGACY shut off1/8, eased to wire, walked off.
 Track Attendance: 0
 Handle: $11,292

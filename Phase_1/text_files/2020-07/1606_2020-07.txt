@@ -927,7 +927,7 @@ Odds Ind. Time
 Sp. In. Comments
 8Nov19 7EVD3
 1
-Train 214 (Duran, Nestor)
+Train-214 (Duran, Nestor)
 125
 L bk
 1
@@ -1057,7 +1057,7 @@ L b
 awkward st, no factor
 Run-Up: 0 feet
 Winner:
-Train 214, Bay Filly, by Freighttrain B out of Pamper Me Special, by Special Effort. Foaled Feb 04, 2017 in Louisiana.
+Train-214, Bay Filly, by Freighttrain B out of Pamper Me Special, by Special Effort. Foaled Feb 04, 2017 in Louisiana.
 Breeder: Chad Hart
 Owner: Texas Drywall Specialties
 Trainer: Huitron, Adrian
@@ -1067,7 +1067,7 @@ Win
 Place
 Show
 1
-Train 214
+Train-214
 11.20
 6.20
 3.60
@@ -1108,7 +1108,7 @@ Start
 Str
 Fin
 1
-Train 214
+Train-214
 1
 11/2
 1Head
@@ -1163,7 +1163,7 @@ Owners:
 1 - Texas Drywall Specialties; 3 -Arnold J. Trahan; 6 -Benito Garcia; 7 -Gabriela Galindo; 4 - Jerr-Wood Ranch; 9 - Espinosa, Jose and
 Espinosa, Rosalio; 2 -Roger Lara; 10 - Jeter, Bennie and Jeter, Terri; 8 -Levi Mays; 5 -Leroy Janacek, Jr.;
 Footnotes
-TRAIN 214 speed, just held on. KALIES MAGIC solid try, just missed. EYES A BLUE RUNAWAY game effort. LL MALEDDIA good try. DRINK UP EDNA
+Train-214 speed, just held on. KALIES MAGIC solid try, just missed. EYES A BLUE RUNAWAY game effort. LL MALEDDIA good try. DRINK UP EDNA
 mild bid, evenly. LOUISIANA G EYE even try. AR APOLLITICAL FAME drifted in early, no real threat. JESS A ROGUE PATRIOT showed little. SIZZLIN N
 LOUISIANA bobbled start, no bid. FAVORITE FAST DASH awkward start, no factor.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.

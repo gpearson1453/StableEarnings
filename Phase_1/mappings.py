@@ -53,7 +53,11 @@ DISTANCE_CONVERSION = {
     "One And One Fourth Miles": "1.25",
     "About One And Three Fourth Miles": "1.75",
     "Seven Hundred And Seventy Yards": "0.4375",
-    "Six Hundred Yards": "0.340909"
+    "Six Hundred Yards": "0.340909",
+    "One Hundred Yards": "0.0568182",
+    "Three And One Half Furlongs": "0.437501",
+    "Two And One Sixteenth Miles": "2.0625",
+    "Three Hundred And Fifty Yards": "0.198864"
 }
 
 # Surface type mappings for races

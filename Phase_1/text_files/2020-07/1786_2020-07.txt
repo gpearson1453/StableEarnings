@@ -1561,7 +1561,7 @@ Odds Ind. Time
 Sp. In. Comments
 17May20 9LA4
 5
-La Reina Del Sur 1 (Ayala, Jesus)
+La-Reina-Del-Sur-1 (Ayala, Jesus)
 124 L bf
 5
 1
@@ -1665,7 +1665,7 @@ El Aracada (Viramontes, Armando)
 bump st, lost path
 Run-Up: 0 feet
 Winner:
-La Reina Del Sur 1, Bay Filly, by Favorite Cartel out of Go First N Famous, by One Famous Eagle. Foaled Feb 28, 2018 in California.
+La-Reina-Del-Sur-1, Bay Filly, by Favorite Cartel out of Go First N Famous, by One Famous Eagle. Foaled Feb 28, 2018 in California.
 Breeder: Abel Reyes
 Owner: Abel Reyes
 Trainer: Rivera, Sally
@@ -1675,7 +1675,7 @@ Win
 Place
 Show
 5
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 3.00
 2.60
 2.10
@@ -1733,7 +1733,7 @@ Str 1
 Str
 Fin
 5
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 1
 11 1/2
 13/4
@@ -1786,7 +1786,7 @@ Owners:
 5 -Abel Reyes; 8 - Haras Portofino; 7 -Martha F. Wells; 4 - Zamudio, Valentin A. and Penuelas, Paul and Mena, Pedro; 6 - Jones, Paul C. and
 Vaughn, Ripley; 3 -Jeryl Hartley; 1 - CD Horses, Inc.; 2 - Eg High Desert Farms;
 Footnotes
-LA REINA DEL SUR 1 flew from gate, drifted in past 1/8. RITE ON TIME shifted out break, drifted in 1/8. HARISON lugged in near 1/16. EL BOBITO BET
+La-Reina-Del-Sur-1 flew from gate, drifted in past 1/8. RITE ON TIME shifted out break, drifted in 1/8. HARISON lugged in near 1/16. EL BOBITO BET
 CARTEL veered in, bumped start. HI HIGH HOPES lugged in early, weakened. FRACTIONAL INTEREST hit gate, bumped start, steadied. EL CUERVO
 FAVORITO outrun. EL ARACADA rubbed gate, bump start, lost path.
 ITW = intra-state wagering

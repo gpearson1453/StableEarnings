@@ -44,7 +44,7 @@ BL b
 late interest
 ---
 4
-Gulfstream 650 (Vera, Gerardo)
+Gulfstream-650 (Vera, Gerardo)
 124
 CL
 4
@@ -122,7 +122,7 @@ BL bf
 no factor
 ---
 3
-Eb Fire On Traffic66 (Carillo, Daniel)
+Eb-Fire-On-Traffic66 (Carillo, Daniel)
 124
 C b
 3
@@ -167,7 +167,7 @@ A Trace of Lane
 5.80
 3.40
 4
-Gulfstream 650
+Gulfstream-650
 3.20
 Wager Type
 Winning Numbers
@@ -205,7 +205,7 @@ A Trace of Lane
 2Nose
 2Nose
 4
-Gulfstream 650
+Gulfstream-650
 5
 3Head
 3Neck
@@ -235,7 +235,7 @@ Gg Hollywood
 81 1/4
 82 3/4
 3
-Eb Fire On Traffic66
+Eb-Fire-On-Traffic66
 4
 94 1/4
 98 1/4
@@ -251,8 +251,8 @@ Owners:
 Carol L. and Garfias, Carter; 5 - J V Quarter Horses; 7 -Jerry D. Chapman; 1 - Goodrich Quarter Horses; 3 -Rodger Ewell; 8 -Leeanne A.
 Christensen;
 Footnotes
-GO PETITTI GO gate to wire. A TRACE OF LANE late interest. GULFSTREAM 650 followed. JH TITANIUM ALIBI steady effort. NEEDED clean trip. JV
-REO WAGON solid effort. BP SOUTH BOUND hop start. GG HOLLYWOOD no factor. EB FIRE ON TRAFFIC66 no excuse. KANDY APPLE REDD pinched
+GO PETITTI GO gate to wire. A TRACE OF LANE late interest. Gulfstream-650 followed. JH TITANIUM ALIBI steady effort. NEEDED clean trip. JV
+REO WAGON solid effort. BP SOUTH BOUND hop start. GG HOLLYWOOD no factor. Eb-Fire-On-Traffic66 no excuse. KANDY APPLE REDD pinched
 back start.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 WYOMING DOW*NS - July 19, 2020 - Race 2
