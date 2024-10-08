@@ -2804,7 +2804,7 @@ Wrs Valentino (Mendez, Samuel)
 quick lead, held
 26Oct19 5IND4
 4
-Country Boy 123 (Martinez, Luz)
+Country-Boy-123 (Martinez, Luz)
 128 L b
 4
 1
@@ -2843,7 +2843,7 @@ Hooked On Jordan (Reyes, Cristian)
 came out late,lost3rd
 24Aug19 10IND1
 7
-Yadi 1 (Diaz, Edgar)
+Yadi-1 (Diaz, Edgar)
 128 L bfk
 7
 7
@@ -2937,7 +2937,7 @@ Wrs Valentino
 5.80
 4.20
 4
-Country Boy 123
+Country-Boy-123
 3.40
 2.20
 5
@@ -2984,7 +2984,7 @@ Wrs Valentino
 11
 13/4
 4
-Country Boy 123
+Country-Boy-123
 1
 21 1/4
 21
@@ -3002,7 +3002,7 @@ Hooked On Jordan
 31 1/2
 41 3/4
 7
-Yadi 1
+Yadi-1
 7
 52 3/4
 52
@@ -3043,8 +3043,8 @@ Owners:
 8 - Williams Racing Stables, Inc.; 4 -Ruth F. Barbour; 5 -Glenn L. Graff; 6 -Jorge Ovalle Sanchez; 7 -Randy L. Thompson; 10 -Anthony F.
 Cunningham; 1 -Jose Plascencia; 9 - Brown, Ronald G. and Ray, Robert A.; 2 -Oscar Preciado; 3 - Arevalo Racing Stables, LLC;
 Footnotes
-WRS VALENTINO quick lead, held. COUNTRY BOY 123 slowly inching up. HOSPITALITI evenly, up for 3rd. HOOKED ON JORDAN came out late, lost
-3rd. YADI 1 stepped out start, angled out 1/16. RARELY A TRES some belated gain. TRES MY HEART no menace. WH KENNY G no factor. HOLD ON
+WRS VALENTINO quick lead, held. Country-Boy-123 slowly inching up. HOSPITALITI evenly, up for 3rd. HOOKED ON JORDAN came out late, lost
+3rd. Yadi-1 stepped out start, angled out 1/16. RARELY A TRES some belated gain. TRES MY HEART no menace. WH KENNY G no factor. HOLD ON
 JESSIE no impact. BEAUS COUPE broke outward, trailed.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 HORSESHOE IND/IANAPOLIS - June 17, 2020 - Race 11

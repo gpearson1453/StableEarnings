@@ -1527,7 +1527,7 @@ Mitey Political (Dominguez, Sergio)
 drift out early, best
 29Feb20 4RIL4
 2
-DQ-Flying Eagle 07 (Becerra, Jr., Sergio)
+DQ-Flying-Eagle-07 (Becerra, Jr., Sergio)
 128 L bfk
 2
 4
@@ -1649,7 +1649,7 @@ Breeder: Debra Laney
 Owner: Patterson, Charles and Dixie
 Trainer: McArthur, Donna
 Disqualification(s):
-# 2 Flying Eagle 07 from 2 to 10
+# 2 Flying-Eagle-07 from 2 to 10
 Total WPS Pool: $11,349
 Pgm Horse
 Win
@@ -1661,7 +1661,7 @@ Mitey Political
 9.40
 7.20
 2
-Flying Eagle 07
+Flying-Eagle-07
 6.60
 4.60
 3
@@ -1696,7 +1696,7 @@ Mitey Political
 11
 11
 2
-Flying Eagle 07
+Flying-Eagle-07
 4
 43/4
 31
@@ -1755,10 +1755,10 @@ Owners:
 4 - Patterson, Charles and Dixie; 2 -Jack Manning; 3 - La Feliz Montana Ranch LLC; 9 -Dennis Wiebe; 1 -Victor Lozano; 7 -Jesus Jose Borunda;
 10 -Emilio Perez; 8 -Javier M. Chavez; 6 -Debra M. Gotovac; 5 -Pedro Carrillo;
 Footnotes
-MITEY POLITICAL drift out early, best. FLYING EAGLE 07 no match, second best. LV GOLDEN KNIGHT bid, no late kick. ASPIRING JESS improved.
+MITEY POLITICAL drift out early, best. Flying-Eagle-07 no match, second best. LV GOLDEN KNIGHT bid, no late kick. ASPIRING JESS improved.
 PHANTOM FURY stumbled start. BP SUCCESSFUL ALIBI weakened. JESS DE CAPO bobbled outwardly brk. DIRTY MIKE bit awkward into stride.
 MIGHTY PRIZE DOLL bump foe brk. GERANIUM bmpd brk, altered in. PER RULING 2020-RUI-40 FROM THE NEW MEXICO RACING COMMISSION,
-FLYING EAGLE 07 HAS BEEN DQ'D DUE TO A POSITIVE TEST.
+Flying-Eagle-07 HAS BEEN DQ'D DUE TO A POSITIVE TEST.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 RUIDOSO D[OWNS - June 13, 2020 - Race 8
 STAKES Mountain Top Quarter Horse Juvenile S. - Quarter Horse

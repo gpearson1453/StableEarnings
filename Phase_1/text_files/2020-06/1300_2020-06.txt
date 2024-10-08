@@ -870,7 +870,7 @@ Jess Kool It (Cabrera, Rolando)
 mild bid
 24Feb20 1LAD1
 4
-Ib Hot N Famous 2 (Luna, Ubaldo)
+Ib-Hot-N-Famous-2 (Luna, Ubaldo)
 124 L bf
 4
 5
@@ -988,7 +988,7 @@ Jess Kool It
 51 1/4
 62 3/4
 4
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 5
 41
 72 1/2
@@ -1006,7 +1006,7 @@ Owners:
 5 -Mickey W. Tiner;
 Footnotes
 THREE BLUE CORONAS solid rally, best late. AHS WINNING WINSTON speed, caught late. COMO CARTEL late rush, up for show. ONE TOUGH
-EAGLE early bid, weakened. MIA FAVORITTA broke out, early try. JESS KOOL IT mild bid. IB HOT N FAMOUS 2 broke out, bumped, no threat. MIZ
+EAGLE early bid, weakened. MIA FAVORITTA broke out, early try. JESS KOOL IT mild bid. Ib-Hot-N-Famous-2 broke out, bumped, no threat. MIZ
 MILANIA broke in, bumped, no bid.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 DELTA DOWN?S - June 10, 2020 - Race 5

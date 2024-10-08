@@ -2243,7 +2243,7 @@ Odds Ind. Time
 Sp. In. Comments
 1Sep19 1CBY2
 5
-Wicked 6 (Navarrete, Jr., Eugenio)
+Wicked-6 (Navarrete, Jr., Eugenio)
 125
 L bfk
 5
@@ -2340,7 +2340,7 @@ L bf
 through early
 Run-Up: 0 feet
 Winner:
-Wicked 6, Gray Filly, by Ocean Runaway out of Six It Up, by Tres Seis. Foaled Feb 25, 2017 in Minnesota.
+Wicked-6, Gray Filly, by Ocean Runaway out of Six It Up, by Tres Seis. Foaled Feb 25, 2017 in Minnesota.
 Breeder: Steven D Pribyl
 Owner: Clarinda Rohweder
 Trainer: Hardy, Edward
@@ -2351,7 +2351,7 @@ Win
 Place
 Show
 5
-Wicked 6
+Wicked-6
 4.40
 3.00
 2.60
@@ -2397,7 +2397,7 @@ Start
 Str
 Fin
 5
-Wicked 6
+Wicked-6
 4
 51 1/4
 1Nose
@@ -2441,7 +2441,7 @@ Owners:
 5 -Clarinda Rohweder; 4 -Cynthia M. Besser; 1 -Corey Wilmes; 3 -Briannah McDaniel; 10 -Cynthia M. Besser; 7 - Meyers, Darin and Meyers,
 Jessica; 8 -Terry Reed; 2 -Ken Quade;
 Footnotes
-WICKED 6 bobbled start, rallied. DIAMONDS ON THE DIRT dueled, just missed. EOS MINNIE PEARL speed inside, collared. RUNNOFT weakened. IZA
+Wicked-6 bobbled start, rallied. DIAMONDS ON THE DIRT dueled, just missed. EOS MINNIE PEARL speed inside, collared. RUNNOFT weakened. IZA
 BELA B speed, no late kick. REIGNING BERRIES threw head start. FAVORITE GRAMMA reluctant to load, broke awkwardly. GIVE ME MUCHO DINERO
 dropped out early.
 Track Attendance: 0

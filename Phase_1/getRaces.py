@@ -56,6 +56,10 @@ def getRaces(text_segment):
         'split_f': "NOT FOUND"
     }
 
+    # this seciton will remove 'Inner' and 'Outer' from the surface segment to allow for correct mapping
+    if text_segment.find('Distance:'):
+        text_segment = text_segment[:text_segment.find('Distance:')] + text_segment[text_segment.find('Distance:'):].replace('Inner', '', 1).replace('Outer', '', 1)
+
     # Extract fractional times
     if 'Fractional Times:' in text_segment:
         frac_times_text = text_segment.split('Fractional Times:')[1].split('Final Time:')[0].strip()
@@ -106,7 +110,7 @@ def getRaces(text_segment):
     distance_surface_match = re.search(r"Distance:\s*(.*?)\s*On The\s*(\S+)", text_segment)
     if distance_surface_match:
         raw_distance, raw_surface = distance_surface_match.groups()
-        common_data['distance(miles)'] = DISTANCE_CONVERSION.get(raw_distance.strip(), "NOT FOUND")
+        common_data['distance(miles)'] = DISTANCE_CONVERSION.get(raw_distance.replace("About", '').strip(), "NOT FOUND")
         common_data['surface'] = SURFACE_MAPPING.get(raw_surface.strip()[0], "NOT FOUND")
 
     # Extract weather and temperature

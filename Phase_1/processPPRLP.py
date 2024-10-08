@@ -50,7 +50,7 @@ def processPPRLP(PPRLP_text):
             values[i] += ' ' + values[i + 1]
             values.pop(i + 1)
         i -= 1
-
+    
     # Create a list of lists where each sublist contains the values for one horse
     val_array = []
     i = 0

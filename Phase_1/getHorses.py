@@ -75,5 +75,4 @@ def getHorses(text_segment):
                 'owner': owners_list[i].strip().replace('\n', '') if i < len(owners_list) else 'NOT FOUND'
             }
             horses_data.append(horse_dict)
-
     return horses_data

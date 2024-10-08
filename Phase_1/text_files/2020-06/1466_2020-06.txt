@@ -2845,7 +2845,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 1
-Air Born Jazz 2 (Diaz, Edgar)
+Air-Born-Jazz-2 (Diaz, Edgar)
 124
 L bfk
 1
@@ -2962,7 +2962,7 @@ b
 step slow st, trailed
 Run-Up: 0 feet
 Winner:
-Air Born Jazz 2, Sorrel Filly, by Jazz Be First out of Air Born Magic, by Born Runner. Foaled Apr 02, 2018 in Indiana.
+Air-Born-Jazz-2, Sorrel Filly, by Jazz Be First out of Air Born Magic, by Born Runner. Foaled Apr 02, 2018 in Indiana.
 Breeder: Randy L Thompson
 Owner: Randy L. Thompson
 Trainer: Thompson, Randy
@@ -2973,7 +2973,7 @@ Win
 Place
 Show
 1
-Air Born Jazz 2
+Air-Born-Jazz-2
 44.20
 14.60
 7.40
@@ -3018,7 +3018,7 @@ Start
 Str
 Fin
 1
-Air Born Jazz 2
+Air-Born-Jazz-2
 1
 11/2
 1Nose
@@ -3068,7 +3068,7 @@ Owners:
 1 -Randy L. Thompson; 10 -Lisa Cunningham; 8 - Marshall, Brad and Patty; 7 - Todd, Jeremy and Gibbs, Melissa; 12 -Daniel Gamez; 2 -Brian
 Langworthy; 3 -Jack Geer; 6 -Louis A. Ramirez; 4 - Campos Family Ventures LLC;
 Footnotes
-AIR BORN JAZZ 2 popped, led, lasted. STROKIN THE STONE stumbled start, just missed. SHEZ BODACIOUS gaining, up 3rd. WHEEL TO WIN stepped
+Air-Born-Jazz-2 popped, led, lasted. STROKIN THE STONE stumbled start, just missed. SHEZ BODACIOUS gaining, up 3rd. WHEEL TO WIN stepped
 in start, brushed. LONE CARTEL contender, lacked kick. LOOK WHOS RELENTLESS exchanged brushes early. CRISTAL PERSUASION exchanged
 brushes early. DF FABULOUS REDNECK in tight early. ANNIHILATION step slow start, trailed.
 Track Attendance: 0

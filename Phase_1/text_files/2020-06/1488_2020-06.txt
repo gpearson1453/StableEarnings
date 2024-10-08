@@ -22,7 +22,7 @@ Odds Ind. Time
 Sp. In. Comments
 10Jun20 6AJX6
 3
-B 65 (Phillips, Tony)
+B-65 (Phillips, Tony)
 120
 b
 3
@@ -100,12 +100,12 @@ L k
 outrun
 Run-Up: 0 feet
 Winner:
-B 65, Bay Filly, by Freighttrain B out of Six T Five Roses, by Valiant Hero. Foaled Apr 16, 2017 in Colorado.
+B-65, Bay Filly, by Freighttrain B out of Six T Five Roses, by Valiant Hero. Foaled Apr 16, 2017 in Colorado.
 Breeder: Marty Neugebauer
 Owner: Robertson, Carol and Jaime
 Trainer: Robertson, Bryn
 Claiming Prices:
-3 - B 65: $15,000; 2 - Voleeta: $15,000; 5 - Kits Award: $15,000; 4 - My Special Corona: $15,000; 1 -
+3 - B-65: $15,000; 2 - Voleeta: $15,000; 5 - Kits Award: $15,000; 4 - My Special Corona: $15,000; 1 -
 Seperatechequespleaz: $15,000; 6 - Cl Lanas Loaded: $15,000;
 Total WPS Pool: $2,276
 Pgm Horse
@@ -113,7 +113,7 @@ Win
 Place
 Show
 3
-B 65
+B-65
 10.00
 4.30
 2.20
@@ -146,7 +146,7 @@ Start
 Str
 Fin
 3
-B 65
+B-65
 1
 2Head
 1Head
@@ -178,7 +178,7 @@ Trainers: 3 - Robertson, Bryn; 2 - Dunlap, Tom; 5 - Pascoe, Jason; 4 - Broadstoc
 Owners:
 3 - Robertson, Carol and Jaime; 2 -Rick Crispi; 5 - Heste Sport Inc.; 4 -Marie Broadstock; 1 -Alan Hudgins; 6 -Sean M. Slater;
 Footnotes
-B 65 gamely throughout. VOLEETA broke well, caught late. KITS AWARD closed ok. MY SPECIAL CORONA raced evenly. SEPERATECHEQUESPLEAZ
+B-65 gamely throughout. VOLEETA broke well, caught late. KITS AWARD closed ok. MY SPECIAL CORONA raced evenly. SEPERATECHEQUESPLEAZ
 no factor. CL LANAS LOADED outrun.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX D<OWNS - June 24, 2020 - Race 2
@@ -1145,7 +1145,8 @@ Start
 Str
 Fin
 1
-Chicksdigmymoneybags1
+Chicksdigmymoneybags
+1
 11 3/4
 11 3/4
 8

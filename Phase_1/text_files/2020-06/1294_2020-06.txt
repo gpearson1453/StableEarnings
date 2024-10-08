@@ -894,7 +894,7 @@ L b
 not a factor
 16Sep19 2AJX7
 8
-B 65 (Knowles, Regan)
+B-65 (Knowles, Regan)
 128
 b
 7
@@ -997,7 +997,7 @@ My Special Corona
 56 1/4
 52
 8
-B 65
+B-65
 7
 68 3/4
 62 1/4
@@ -1012,7 +1012,7 @@ Owners:
 -Sean M. Slater;
 Footnotes
 BF CLASSY JAMES won with authority. THIS CHICK RULES second best. HIDDEN MEMORY raced evenly throughout. WILDKATES DYNASTY mild rally.
-MY SPECIAL CORONA not a factor. B 65 closed late. CL LANAS LOADED no menace.
+MY SPECIAL CORONA not a factor. B-65 closed late. CL LANAS LOADED no menace.
 Total Attendance: 0
 Handle: $57,148
 Copyright 2024 Equibase Company LLC. All Rights Reserved.

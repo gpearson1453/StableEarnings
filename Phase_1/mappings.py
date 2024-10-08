@@ -10,7 +10,9 @@ DISTANCE_CONVERSION = {
     "Five And One Half Furlongs": "0.6875",
     "One And One Sixteenth Miles": "1.0625",
     "Seven Furlongs": "0.875",
+    "About Seven Furlongs": "0.875",
     "Five Furlongs": "0.625",
+    "About Five Furlongs": "0.625",
     "One Mile And Seventy Yards": "1.0397727",
     "Four And One Half Furlongs": "0.5625",
     "Three Hundred And Fifty Yards": "0.198864",
@@ -19,7 +21,9 @@ DISTANCE_CONVERSION = {
     "Six Hundred And Sixty Yards": "0.375",
     "One Thousand Yards": "0.568182",
     "One And One Eighth Miles": "1.125",
+    "Two And One Eighth Miles": "2.125",
     "One And Five Eighth Miles": "1.625",
+    "Two And Five Eighth Miles": "2.625",
     "One And Three Eighth Miles": "1.375",
     "One And Five Sixteenth Miles": "1.3125",
     "Eight Hundred And Seventy Yards": "0.494318",
@@ -38,18 +42,32 @@ DISTANCE_CONVERSION = {
     "One And Three Fourth Miles": "1.75",
     "One And Three Sixteenth Miles": "1.1875",
     "Two And One Half Furlongs": "0.3125",
+    "Two And One Half Miles": "2.5",
+    "Three And One Fourth Miles": "3.25",
+    "Three Miles": "3.0",
+    "Four Miles": "4.0",
     "Four Furlongs": "0.5",
     "Five Hundred And Fifty Yards": "0.3125",
     "About One And One Eighth Miles": "1.125",
     "Two Furlongs": "0.25",
-    "One And One Fourth Miles": "1.25"
+    "One And One Fourth Miles": "1.25",
+    "About One And Three Fourth Miles": "1.75",
+    "Seven Hundred And Seventy Yards": "0.4375",
+    "Six Hundred Yards": "0.340909"
 }
 
 # Surface type mappings for races
 SURFACE_MAPPING = {
     'D': 'Dirt',
+    'd': 'Dirt',
     'T': 'Turf',
-    'A': 'AWT'
+    't': 'Turf',
+    'A': 'AWT',
+    'a': 'AWT',
+    'H': 'Hurdle',
+    'h': 'Hurdle',
+    'T': 'Timber',
+    't': 'Timber'
 }
 
 # Regular expressions to identify different race types

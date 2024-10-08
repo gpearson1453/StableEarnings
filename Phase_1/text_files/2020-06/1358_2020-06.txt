@@ -1143,7 +1143,7 @@ Odds Ind. Time
 Sp. In. Comments
 1May20 8LA3
 2
-Cole Man 47 (Huerta, Carlos)
+Cole-Man-47 (Huerta, Carlos)
 124 L b
 2
 1
@@ -1234,7 +1234,7 @@ Galloping Goddess (Nicasio, Jose)
 weakened
 Run-Up: 0 feet
 Winner:
-Cole Man 47, Gray Gelding, by Stel Corona out of Gm Silver Dreams, by Royal Quick Dash. Foaled Mar 18, 2016 in Utah.
+Cole-Man-47, Gray Gelding, by Stel Corona out of Gm Silver Dreams, by Royal Quick Dash. Foaled Mar 18, 2016 in Utah.
 Breeder: Steven G McIntyre
 Owner: McIntyre, Steve and Jones, Marin
 Trainer: Jones, Paul
@@ -1243,7 +1243,7 @@ Pgm Horse
 Win
 Place
 2
-Cole Man 47
+Cole-Man-47
 16.60
 4.40
 7
@@ -1278,7 +1278,7 @@ Str 1
 Str
 Fin
 2
-Cole Man 47
+Cole-Man-47
 1
 1Neck
 11/2
@@ -1324,7 +1324,7 @@ Owners:
 2 - McIntyre, Steve and Jones, Marin; 7 -Edward C. Allred; 6 - Hernandez, Herasmo, Hernandez, Salvador and Gutierrez, Jose; 4 - Brown, A.
 Mark and Brown, Peggy A.; 5 -Pedro Rangel; 1 -Martha F. Wells; 3 -Lupe Ayon;
 Footnotes
-COLE MAN 47 broke in, drifted in early. CHOCOLATITO hopped, drifted in early, rallied. JESS BET ME up close, outfinished. KISSED BY AN EAGLE
+Cole-Man-47 broke in, drifted in early. CHOCOLATITO hopped, drifted in early, rallied. JESS BET ME up close, outfinished. KISSED BY AN EAGLE
 steady effort. CAVUTO good effort. YANQUE tossed head, came in start. GALLOPING GODDESS weakened.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 L*OS ALAMITOS - June 14, 2020 - Race 8

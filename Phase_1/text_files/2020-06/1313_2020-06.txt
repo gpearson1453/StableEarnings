@@ -2177,7 +2177,7 @@ El Coronazoom (Hernandez, Eleazar)
 away slow,no bid
 ---
 9
-Trump Train 2020 (Edison, Randy)
+Trump-Train-2020 (Edison, Randy)
 122 L bf
 9
 9
@@ -2290,7 +2290,7 @@ El Coronazoom
 83 1/4
 86 1/2
 9
-Trump Train 2020
+Trump-Train-2020
 9
 92 1/2
 95 1/4
@@ -2303,7 +2303,7 @@ Owners:
 Footnotes
 CAPTAIN impressive rally, drew clear. KK JET BLUE solid gain, 2nd best. TRES TIROS CARTEL good try. FM STEEL ROCK dueled early, weakened. TF
 JESS A CARTEL broke out, late try. MIGHTY HIGH JMG steady fade. CARTEL BYE BYE hopped at start, no real threat. EL CORONAZOOM away a step
-slow, no bid. TRUMP TRAIN 2020 no factor.
+slow, no bid. Trump-Train-2020 no factor.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 DELT[A DOWNS - June 11, 2020 - Race 10
 FUTURITY TRIAL Old South Futurity Trial - Quarter Horse

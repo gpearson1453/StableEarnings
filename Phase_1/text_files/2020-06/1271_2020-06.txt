@@ -2098,7 +2098,7 @@ L b
 bumps brk & stretch
 ---
 1
-Dynasty Champ 123 (Ramirez, Ricky)
+Dynasty-Champ-123 (Ramirez, Ricky)
 124
 L bfk
 1
@@ -2124,7 +2124,7 @@ L b
 weakened
 ---
 3
-Bastogne 44 (Calderon, Francisco)
+Bastogne-44 (Calderon, Francisco)
 124
 L bf
 3
@@ -2215,7 +2215,7 @@ Heavenly Tales
 71/2
 71 1/4
 1
-Dynasty Champ 123
+Dynasty-Champ-123
 5
 83/4
 81 3/4
@@ -2225,7 +2225,7 @@ Deltas Harley Comet
 93/4
 91 3/4
 3
-Bastogne 44
+Bastogne-44
 10
 103 3/4
 108
@@ -2236,8 +2236,8 @@ Owners:
 Resources; 1 - Dunn Ranch, Bradley, Tod and Bradley, Gene; 2 -Joyce Darlene Erickson; 3 - Spearhead Cattle Company;
 Footnotes
 SHEZA SIPPIN CORONAS driving, just prevailed. CLASSY N GRACEFUL driving, missed. ONE RASCALLY RABBIT bump foes brk, rallied. DREAMERS
-SECRET drift out bit early. PINK BUGATTI outkicked. URBANISTO bumps brk & stretch. HEAVENLY TALES bumps brk & stretch. DYNASTY CHAMP 123
-weakened. DELTAS HARLEY COMET weakened. BASTOGNE 44 taken up start.
+SECRET drift out bit early. PINK BUGATTI outkicked. URBANISTO bumps brk & stretch. HEAVENLY TALES bumps brk & stretch. Dynasty-Champ-123
+weakened. DELTAS HARLEY COMET weakened. Bastogne-44 taken up start.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 RU/IDOSO DOWNS - June 7, 2020 - Race 10
 FUTURITY Ruidoso Quarter Horse Futurity Grade 1 - Quarter Horse
