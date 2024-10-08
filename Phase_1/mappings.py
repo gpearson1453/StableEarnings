@@ -35,6 +35,7 @@ DISTANCE_CONVERSION = {
     "About One And One Sixteenth Miles": "1.0625",
     "One Hundred And Ten Yards": "0.0625",
     "One And One Half Miles": "1.5",
+    "One And Three Fourth Miles": "1.75",
     "One And Three Sixteenth Miles": "1.1875",
     "Two And One Half Furlongs": "0.3125",
     "Four Furlongs": "0.5",
