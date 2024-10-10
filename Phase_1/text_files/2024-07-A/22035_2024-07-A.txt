@@ -619,7 +619,7 @@ Jess Pure Sass (Kellenberger, Kody)
 bumped lost pathway
 23Sep23 5SWF9
 7
-La Pistola 03 (Moreno, Cesar)
+La-Pistola-03 (Moreno, Cesar)
 128 BL bf
 7
 4
@@ -759,7 +759,7 @@ Jess Pure Sass
 81 1/2
 61 3/4
 7
-La Pistola 03
+La-Pistola-03
 4
 61/2
 71 1/2

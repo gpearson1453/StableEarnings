@@ -550,7 +550,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJ?AX DOWNS - October 12, 2020 - Race 4
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 70 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $8,000
 Plus: $4,800 Other Sources
@@ -1316,7 +1316,7 @@ Fiesty Icon (Phillips, Tony)
 driving finish
 21Sep20 7AJX1
 3
-Country Boy 123 (Walton, Ed)
+Country-Boy-123 (Walton, Ed)
 133 L b
 3
 1
@@ -1424,7 +1424,7 @@ Fiesty Icon
 6.50
 3.60
 3
-Country Boy 123
+Country-Boy-123
 2.10
 2.10
 7
@@ -1459,7 +1459,7 @@ Fiesty Icon
 1Nose
 1Head
 3
-Country Boy 123
+Country-Boy-123
 1
 1Head
 2Nose

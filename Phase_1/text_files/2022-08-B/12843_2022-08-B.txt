@@ -886,7 +886,7 @@ Dedikated (Martinez, Luis)
 pressed, no match
 13Aug22 8RUI1
 5
-Lynnder 16 (Escobedo, Edwin)
+Lynnder-16 (Escobedo, Edwin)
 128 L f
 5
 5
@@ -1009,7 +1009,7 @@ Dedikated
 9.40
 4.60
 5
-Lynnder 16
+Lynnder-16
 2.40
 Wager Type
 Winning Numbers
@@ -1054,7 +1054,7 @@ Dedikated
 21
 21 1/4
 5
-Lynnder 16
+Lynnder-16
 5
 31/2
 31

@@ -308,7 +308,7 @@ bfk
 good effort show
 24Jun21 4HOU2
 2
-Lucky Bux 222 (Urieta, Jr., Victor)
+Lucky-Bux-222 (Urieta, Jr., Victor)
 125
 L bk
 2
@@ -404,7 +404,7 @@ Breeder: Rene Rodriguez
 Owner: Rene Rodriguez
 Trainer: Sanchez, Angel
 Claiming Prices:
-4 - Sinnin Bill: $5,000; 8 - Cr Ease Love: $5,000; 9 - Triple Shot Vodka: $5,000; 2 - Lucky Bux 222: $5,000; 3 - Hearst
+4 - Sinnin Bill: $5,000; 8 - Cr Ease Love: $5,000; 9 - Triple Shot Vodka: $5,000; 2 - Lucky-Bux-222: $5,000; 3 - Hearst
 Califa: $5,000; 10 - Theredlynxofthemoon: $5,000; 5 - S Bisiesta: $5,000; 6 - Dash Bullet: $5,000; 7 - Zef Chupacabras:
 $5,000; 1 - Lsu Purpleyellowblue: $5,000;
 Dead Heats:
@@ -468,7 +468,7 @@ Triple Shot Vodka
 31/2
 31/2
 2
-Lucky Bux 222
+Lucky-Bux-222
 2
 43/4
 41 1/4

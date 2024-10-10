@@ -1,7 +1,7 @@
 AJAX D[OWNS - July 21, 2021 - Race 1
 MAIDEN - Quarter Horse
 FOR ONTARIO SIRED MAIDENS, THREE YEARS OLD AND UPWARD. Weight, 120 lbs. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $2,000 Other Sources
@@ -141,7 +141,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWNS? - July 21, 2021 - Race 2
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 75 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $8,500
 Plus: $5,100 Other Sources
@@ -494,7 +494,7 @@ AJAX DOW/NS - July 21, 2021 - Race 4
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH A SPEED INDEX THAT HAS NEVER BEEN BETTER THAN 80. Weight, 120 lbs.
 ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $5,400 Other Sources
@@ -1136,7 +1136,7 @@ L b
 outrun
 6Jul21 10IND2
 2
-Country Boy 123 (Jeschke, Cassandra)
+Country-Boy-123 (Jeschke, Cassandra)
 128
 L b
 2
@@ -1243,7 +1243,7 @@ Zoxtobeyou
 83 1/4
 83 1/4
 2
-Country Boy 123
+Country-Boy-123
 9
 95 3/4
 95 3/4

@@ -787,7 +787,7 @@ Dicey Snow (Larsen, Shaunda)
 drifted out
 9Jul22 5WYO5
 2
-La Pistola 03 (Ramos, Manuel)
+La-Pistola-03 (Ramos, Manuel)
 131 BL bf
 2
 5
@@ -927,7 +927,7 @@ Dicey Snow
 41/2
 41
 2
-La Pistola 03
+La-Pistola-03
 5
 4Head
 61 3/4

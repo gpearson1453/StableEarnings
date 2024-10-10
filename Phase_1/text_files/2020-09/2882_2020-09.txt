@@ -2714,7 +2714,7 @@ One Coldhearted Diva (Vazquez-Gomez, Giovani)
 bested rest
 8Aug20 6IND7
 6
-Air Born Jazz 2 (Esqueda, Erik)
+Air-Born-Jazz-2 (Esqueda, Erik)
 124 L bfk
 6
 3
@@ -2853,7 +2853,7 @@ One Coldhearted Diva
 21
 31 1/4
 6
-Air Born Jazz 2
+Air-Born-Jazz-2
 3
 42 1/2
 42 1/2

@@ -2286,7 +2286,7 @@ McNew (Alvarez, David)
 rally,drift in,best
 ---
 6
-Fast Sweet 8 (Trujillo, Mario)
+Fast-Sweet-8 (Trujillo, Mario)
 122 L bfk
 6
 2
@@ -2392,7 +2392,7 @@ McNew
 3.00
 2.20
 6
-Fast Sweet 8
+Fast-Sweet-8
 27.00
 10.60
 5
@@ -2443,7 +2443,7 @@ McNew
 3Head
 11
 6
-Fast Sweet 8
+Fast-Sweet-8
 2
 21/2
 1Head

@@ -1,7 +1,7 @@
 AJ<AX DOWNS - August 12, 2020 - Race 1
 MAIDEN CLAIMING - Quarter Horse
 FOR MAIDENS, THREE YEARS OLD AND UPWARD. Weight, 120 lbs. Claiming Price $7,000. Claiming Price: $7,000
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $5,400 Other Sources
@@ -339,7 +339,7 @@ AJAX< DOWNS - August 12, 2020 - Race 3
 ALLOWANCE - Quarter Horse
 FOR ONTARIO SIRED THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON THREE RACES. Weight, 120 lbs.
 (SNW3 L)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,500
 Plus: $2,000 Other Sources
@@ -386,7 +386,7 @@ b
 just missed
 15Jul20 2AJX3
 2
-Fireball Xl5 (Vanek, Helen)
+Fireball-Xl5 (Vanek, Helen)
 126
 L bf
 2
@@ -457,7 +457,7 @@ Phil Jefferson
 4.70
 2.10
 2
-Fireball Xl5
+Fireball-Xl5
 2.10
 Wager Type
 Winning Numbers
@@ -491,7 +491,7 @@ Phil Jefferson
 1Nose
 2Nose
 2
-Fireball Xl5
+Fireball-Xl5
 1
 31/2
 31/2
@@ -690,7 +690,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWNS/ - August 12, 2020 - Race 5
 ALLOWANCE - Quarter Horse
 FOR TWO YEAR OLDS OPEN. Weight, 120 lbs.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $16,000
 Plus: $6,000 Other Sources
@@ -1041,7 +1041,7 @@ Odds Ind. Time
 Sp. In. Comments
 6Jul20 9IND1
 3
-Country Boy 123 (Walton, Ed)
+Country-Boy-123 (Walton, Ed)
 133
 L b
 3
@@ -1080,7 +1080,7 @@ L b
 raced well
 29Jul20 6AJX2
 10
-Aj Chick in 15 (Vanek, Helen)
+Aj-Chick-in-15 (Vanek, Helen)
 126
 L bf
 9
@@ -1158,7 +1158,7 @@ L k
 slow start
 Run-Up: 0 feet
 Winner:
-Country Boy 123, Bay Gelding, by Country Chicks Man out of Very Dashin 123, by Dash Thru Traffic. Foaled Feb 26, 2013 in Michigan.
+Country-Boy-123, Bay Gelding, by Country Chicks Man out of Very Dashin 123, by Dash Thru Traffic. Foaled Feb 26, 2013 in Michigan.
 Breeder: Carolyn C Bay
 Owner: Ruth F. Barbour
 Trainer: Barbour, Ruth
@@ -1169,7 +1169,7 @@ Win
 Place
 Show
 3
-Country Boy 123
+Country-Boy-123
 3.60
 2.50
 2.10
@@ -1202,7 +1202,7 @@ Start
 Str
 Fin
 3
-Country Boy 123
+Country-Boy-123
 1
 *
 1Neck
@@ -1217,7 +1217,7 @@ Zoxtobeyou
 *
 31/2
 10
-Aj Chick in 15
+Aj-Chick-in-15
 4
 *
 41/2
@@ -1259,7 +1259,7 @@ AJAX* DOWNS - August 12, 2020 - Race 8
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH A SPEED INDEX THAT HAS NEVER BEEN BETTER THAN 75. Weight, 120 lbs.
 ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $8,500
 Plus: $5,100 Other Sources

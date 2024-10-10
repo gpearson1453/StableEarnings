@@ -2204,7 +2204,7 @@ Louisiana Lover (Mendez, Samuel)
 closing in,just missed
 12Oct20 8AJX2
 4
-Country Boy 123 (Martinez, Luz)
+Country-Boy-123 (Martinez, Luz)
 130 L b
 4
 2
@@ -2269,7 +2269,7 @@ Beach Treat (Macias, Oscar)
 no threat
 3Oct20 10IND5
 2
-Yadi 1 (Vazquez-Gomez, Giovani)
+Yadi-1 (Vazquez-Gomez, Giovani)
 128 L bfk
 2
 6
@@ -2328,7 +2328,7 @@ Louisiana Lover
 3.20
 2.80
 4
-Country Boy 123
+Country-Boy-123
 3.80
 Wager Type
 Winning Numbers
@@ -2385,7 +2385,7 @@ Louisiana Lover
 31/2
 2Nose
 4
-Country Boy 123
+Country-Boy-123
 2
 2Neck
 2Head
@@ -2415,7 +2415,7 @@ Beach Treat
 73
 72 1/2
 2
-Yadi 1
+Yadi-1
 6
 83
 83 3/4

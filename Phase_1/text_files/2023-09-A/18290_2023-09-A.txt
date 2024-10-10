@@ -1,7 +1,7 @@
 AJAX DO?WNS - September 13, 2023 - Race 1
 MAIDEN - Quarter Horse
 For Maidens, Two Years Old.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $1,500 Starters Bonus
@@ -161,7 +161,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX[ DOWNS - September 13, 2023 - Race 2
 MAIDEN - Quarter Horse
 For Maidens, Three Years Old and Upward.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $1,500 Starters Bonus

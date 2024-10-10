@@ -1380,7 +1380,7 @@ Fayvorite Chick (Valenzuela, Luis)
 steady effort
 24Oct20 9ALB1
 7
-Lynnder 16 (Packer, Berkley)
+Lynnder-16 (Packer, Berkley)
 126 L f
 7
 6
@@ -1534,7 +1534,7 @@ Fayvorite Chick
 53/4
 51/2
 7
-Lynnder 16
+Lynnder-16
 6
 71
 61

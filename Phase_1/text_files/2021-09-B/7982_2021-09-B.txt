@@ -1999,7 +1999,7 @@ L bf
 bumped start,evenly
 26Aug21 9IND6
 2
-Panchita 47 (Diaz, Edgar)
+Panchita-47 (Diaz, Edgar)
 126
 bk
 2
@@ -2157,7 +2157,7 @@ Secret Eyes
 51 3/4
 43/4
 2
-Panchita 47
+Panchita-47
 2
 41 1/2
 61

@@ -1,7 +1,7 @@
 A*JAX DOWNS - August 26, 2020 - Race 1
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON FIVE RACES. Weight, 120 lbs. (NW5 L)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $6,000 Other Sources
@@ -374,7 +374,7 @@ AJAX
 <DOWNS - August 26, 2020 - Race 3
 MAIDEN - Quarter Horse
 FOR MAIDENS, TWO YEARS OLD. Weight, 120 lbs.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources
@@ -594,7 +594,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX< DOWNS - August 26, 2020 - Race 4
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 85 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,500
 Plus: $5,700 Other Sources
@@ -1214,7 +1214,7 @@ FUTURITY Ontario Bred Futurity - Quarter Horse
 FOR ONTARIO BRED (PROGRAM REGISTERED) TWO YEAR OLDS, WHICH NOMINATED TO, AND QUALIFIED FROM, THE
 TIME TRIALS (IF NECESSARY) ON WEDNESDAY, AUGUST 5/20 (10 FASTEST QUALIFIERS). Please see the QROOI Stakes
 Book for Nomination and Payout Percentage details. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $66,000 Added
 Available Money: $66,000
@@ -1470,7 +1470,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOW*NS - August 26, 2020 - Race 8
 ALLOWANCE - Quarter Horse
 FOR FILLIES AND MARES THREE YEARS OLD AND UPWARD OPEN. Weight, 120 lbs.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $14,000
 Plus: $6,000 Other Sources
@@ -1504,7 +1504,7 @@ L b
 closed very well
 12Aug20 7AJX4
 1
-Aj Chick in 15 (Vanek, Helen)
+Aj-Chick-in-15 (Vanek, Helen)
 126
 L bf
 1
@@ -1597,7 +1597,7 @@ Five Bar Fandango
 7.50
 7.00
 1
-Aj Chick in 15
+Aj-Chick-in-15
 4.30
 3.80
 6
@@ -1642,7 +1642,7 @@ Five Bar Fandango
 3Head
 1Nose
 1
-Aj Chick in 15
+Aj-Chick-in-15
 1
 1Nose
 2Nose

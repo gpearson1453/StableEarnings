@@ -2404,7 +2404,7 @@ Wrs Valentino (Mendez, Samuel)
 slight hop st,inchd up
 16Jun21 7AJX4
 4
-Country Boy 123 (Martinez, Luz)
+Country-Boy-123 (Martinez, Luz)
 129 L b
 4
 3
@@ -2537,7 +2537,7 @@ Wrs Valentino
 3.20
 2.40
 4
-Country Boy 123
+Country-Boy-123
 5.40
 5.20
 3
@@ -2584,7 +2584,7 @@ Wrs Valentino
 1Head
 1Nose
 4
-Country Boy 123
+Country-Boy-123
 3
 31/2
 31/2
@@ -2804,7 +2804,7 @@ Sandcastle Beach, Sorrel Filly, by Escondido Beach out of Silly Chix, by Shazoom
 Breeder: Sheri Miller
 Owner: Pamela Brickley Hann
 Trainer: Cunningham, Anthony
-Scratched Horse(s): Panchita 47 (Also-Eligible), Saina Be First (Also-Eligible)
+Scratched Horse(s): Panchita-47 (Also-Eligible), Saina Be First (Also-Eligible)
 Total WPS Pool: $27,780
 Pgm Horse
 Win

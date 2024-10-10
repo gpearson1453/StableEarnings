@@ -1875,7 +1875,7 @@ L bfk
 even effort
 1Jul20 5DED1
 9
-Train 214 (Garcia, Jr., Juan)
+Train-214 (Garcia, Jr., Juan)
 126
 L bk
 9
@@ -2027,7 +2027,7 @@ Nota Ordinary Bear
 52
 43/4
 9
-Train 214
+Train-214
 9
 92 1/2
 53/4

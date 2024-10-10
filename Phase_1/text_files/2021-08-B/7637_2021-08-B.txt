@@ -1266,7 +1266,7 @@ Odds Ind. Time
 Sp. In. Comments
 6Jul21 9CBY1
 3
-Lynnder 16 (Escobedo, Edwin)
+Lynnder-16 (Escobedo, Edwin)
 128 L f
 3
 1
@@ -1357,7 +1357,7 @@ Apollitical B Birdie (Baca, Benito)
 flipped gate
 Run-Up: 0 feet
 Winner:
-Lynnder 16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
+Lynnder-16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
 Breeder: James E and Marilyn Helzer
 Owner: Maher, Tom and Tobin, Richard L.
 Trainer: Olmstead, Jason
@@ -1367,7 +1367,7 @@ Win
 Place
 Show
 3
-Lynnder 16
+Lynnder-16
 2.60
 2.10
 2.10
@@ -1401,7 +1401,7 @@ Str 1
 Str
 Fin
 3
-Lynnder 16
+Lynnder-16
 1
 11
 11

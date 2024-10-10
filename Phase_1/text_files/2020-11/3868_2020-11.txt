@@ -1348,7 +1348,7 @@ L b
 broke in, bumped start
 31Oct20 4LA5
 5
-Hangar 24 (Andrade, Jr., Oscar)
+Hangar-24 (Andrade, Jr., Oscar)
 124
 bk
 5
@@ -1392,7 +1392,7 @@ Breeder: Daniel Reynoso
 Owner: Jesse Cruz
 Trainer: Vallejo, Adriana
 Claiming Prices:
-4 - Fire Sunset: $10,000; 1 - My Favorite Toby: $10,000; 6 - Great Nooz: $10,000; 5 - Hangar 24: $10,000; 3 - Cut a
+4 - Fire Sunset: $10,000; 1 - My Favorite Toby: $10,000; 6 - Great Nooz: $10,000; 5 - Hangar-24: $10,000; 3 - Cut a
 Swell: $10,000; 2 - Kiss My Foose: $10,000;
 Total WPS Pool: $37,002
 Pgm Horse
@@ -1472,7 +1472,7 @@ Great Nooz
 31
 31 3/4
 5
-Hangar 24
+Hangar-24
 6
 41 1/4
 42

@@ -1752,7 +1752,7 @@ Vytaliti, Sorrel Filly, by Mr Jess Perry out of Zenergy, by First Down Dash. Foa
 Breeder: Bobby D Cox
 Owner: Victor Diaz
 Trainer: Gonzales III, James
-Scratched Horse(s): Lynnder 16 (Trainer)
+Scratched Horse(s): Lynnder-16 (Trainer)
 Total WPS Pool: $33,006
 Pgm Horse
 Win

@@ -50,7 +50,7 @@ Perfect to Look At (Spataro, Cory)
 very gamely
 14Sep20 5AJX4
 4
-Aj Chick in 15 (Cruz, Jose)
+Aj-Chick-in-15 (Cruz, Jose)
 127 L bf
 4
 1
@@ -123,7 +123,7 @@ Perfect to Look At
 8.70
 6.90
 4
-Aj Chick in 15
+Aj-Chick-in-15
 3.20
 Wager Type
 Winning Numbers
@@ -160,7 +160,7 @@ Perfect to Look At
 1Neck
 2Neck
 4
-Aj Chick in 15
+Aj-Chick-in-15
 1
 2Head
 31
@@ -194,7 +194,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJA*X DOWNS - September 21, 2020 - Race 2
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON FIVE RACES. Weight, 120 lbs. (NW5 L)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $6,000 Other Sources
@@ -588,7 +588,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOW<NS - September 21, 2020 - Race 4
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 75 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $8,500
 Plus: $5,100 Other Sources
@@ -792,7 +792,7 @@ A?JAX DOWNS - September 21, 2020 - Race 5
 ALLOWANCE - Quarter Horse
 FOR ONTARIO SIRED THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES. Weight, 120 lbs. (SNW2
 L)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,000
 Plus: $2,000 Other Sources
@@ -974,7 +974,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWNS< - September 21, 2020 - Race 6
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 75 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $8,500
 Plus: $5,100 Other Sources
@@ -1193,7 +1193,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOW<NS - September 21, 2020 - Race 7
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD OPEN. Weight, 120 lbs.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,000
 Plus: $6,000 Other Sources
@@ -1214,7 +1214,7 @@ Odds Ind. Time
 Sp. In. Comments
 2Sep20 6AJX1
 4
-Country Boy 123 (Walton, Ed)
+Country-Boy-123 (Walton, Ed)
 133
 L b
 4
@@ -1279,7 +1279,7 @@ L b
 hardridden
 Run-Up: 0 feet
 Winner:
-Country Boy 123, Bay Gelding, by Country Chicks Man out of Very Dashin 123, by Dash Thru Traffic. Foaled Feb 26, 2013 in Michigan.
+Country-Boy-123, Bay Gelding, by Country Chicks Man out of Very Dashin 123, by Dash Thru Traffic. Foaled Feb 26, 2013 in Michigan.
 Breeder: Carolyn C Bay
 Owner: Ruth F. Barbour
 Trainer: Barbour, Ruth
@@ -1289,7 +1289,7 @@ Win
 Place
 Show
 4
-Country Boy 123
+Country-Boy-123
 2.70
 2.10
 2.10
@@ -1318,7 +1318,7 @@ Start
 Str
 Fin
 4
-Country Boy 123
+Country-Boy-123
 1
 11/2
 11/2
@@ -1575,7 +1575,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWN/S - September 21, 2020 - Race 9
 MAIDEN - Quarter Horse
 FOR MAIDENS, TWO YEARS OLD. Weight, 120 lbs.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources

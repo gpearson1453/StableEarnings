@@ -823,7 +823,7 @@ BL b
 clean trip
 1Aug20 2ONE3
 5
-Tellmshesa 10 (Rosales, Diego)
+Tellmshesa-10 (Rosales, Diego)
 124
 BL b
 5
@@ -938,7 +938,7 @@ Ocean Voyage
 41
 41 3/4
 5
-Tellmshesa 10
+Tellmshesa-10
 7
 61 3/4
 52 3/4

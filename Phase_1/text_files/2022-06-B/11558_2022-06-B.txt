@@ -861,7 +861,7 @@ BL b
 broke in air
 26Sep21 3SWF4
 1
-La Pistola 03 (Carrillo, Daniel)
+La-Pistola-03 (Carrillo, Daniel)
 128
 BL bf
 1
@@ -982,7 +982,7 @@ Makn Diamonds
 61
 72
 1
-La Pistola 03
+La-Pistola-03
 5
 81 1/4
 82 1/2

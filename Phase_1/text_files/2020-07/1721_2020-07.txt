@@ -1,7 +1,7 @@
 A[JAX DOWNS - July 8, 2020 - Race 1
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 70 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $8,000
 Plus: $4,800 Other Sources
@@ -181,7 +181,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJ?AX DOWNS - July 8, 2020 - Race 2
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 80 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $5,400 Other Sources
@@ -722,7 +722,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOW?NS - July 8, 2020 - Race 5
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON THREE RACES. Weight, 120 lbs. (NW3 L)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,500
 Plus: $6,000 Other Sources
@@ -1361,7 +1361,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX D*OWNS - July 8, 2020 - Race 9
 MAIDEN - Quarter Horse
 FOR ONTARIO BRED MAIDENS, THREE YEARS OLD AND UPWARD. Weight, 120 lbs. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $2,000 Other Sources

@@ -1113,7 +1113,7 @@ Pro Mona (Cervantes, Oscar)
 late effort
 6Jul24 3WYO7
 8
-La Pistola 03 (Olivo, Jose)
+La-Pistola-03 (Olivo, Jose)
 128 BL bf
 8
 8
@@ -1242,7 +1242,7 @@ Pro Mona
 73/4
 71 3/4
 8
-La Pistola 03
+La-Pistola-03
 8
 83/4
 83/4

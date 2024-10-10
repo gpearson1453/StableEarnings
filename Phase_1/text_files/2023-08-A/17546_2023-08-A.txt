@@ -2,7 +2,7 @@ AJAX
 [DOWNS - August 2, 2023 - Race 1
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With A Speed Index That Has Never Been Better Than 85. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,500
 Plus: $1,500 Starters Bonus
@@ -508,7 +508,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWNS? - August 2, 2023 - Race 4
 ALLOWANCE - Quarter Horse
 For Three Year Olds and Upward Which Have Never Won Two Races or Ontario Sired Which Have Never Won Three Races. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $1,500 Starters Bonus
@@ -1063,7 +1063,7 @@ FUTURITY Ontario Bred Futurity - Quarter Horse
 FOR ONTARIO BRED (PROGRAM REGISTERED) TWO YEAR OLDS, WHICH NOMINATED TO, AND QUALIFIED FROM, THE
 TIME TRIALS CONTESTED ON WED, JULY 12 (10 FASTEST QUALIFIERS, REGARDLESS OF TRIAL). For further Stakes Race
 details and Payout Percentages, see QROOI Stakes Book. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $58,095 Added
 Available Money: $58,095

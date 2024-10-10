@@ -335,7 +335,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 A*JAX DOWNS - September 14, 2022 - Race 3
 MAIDEN - Quarter Horse
 For Maidens, Two Years Old.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $5,000 Other Sources
@@ -434,7 +434,7 @@ b
 broke outward
 Run-Up: 0 feet
 Winner:
-Valiant Chick Insnow, Brown Filly, by Valiant Hero out of Aj Chick in 15, by Apollitical Jess. Foaled Feb 13, 2020 in Oklahoma.
+Valiant Chick Insnow, Brown Filly, by Valiant Hero out of Aj-Chick-in-15, by Apollitical Jess. Foaled Feb 13, 2020 in Oklahoma.
 Breeder: Milena Kwiecien
 Owner: Milena Kwiecien
 Trainer: Pascoe, Jason
@@ -520,7 +520,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJA?X DOWNS - September 14, 2022 - Race 4
 ALLOWANCE - Quarter Horse
 For Three Year Olds and Upward Which Have Never Won Two Races. (NW2 L)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $5,000 Other Sources
@@ -867,7 +867,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOW/NS - September 14, 2022 - Race 6
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 75 And Under. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,710
 Includes: $5,000 Other Sources
@@ -1246,7 +1246,7 @@ AJAX DOWNS< - September 14, 2022 - Race 8
 FUTURITY QROOI Bonus Futurity - Quarter Horse
 FOR TWO YEAR OLDS, WHICH NOMINATED TO AND MADE THEIR SUSTAINING PAYMENTS, TO REMAIN ELIGIBLE. For
 further Stakes Race details and Payout Percentages, see the QROOI Stakes Book.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $27,585 Added
 Available Money: $27,585

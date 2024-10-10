@@ -2,7 +2,7 @@ AJAX
 /DOWNS - October 19, 2020 - Race 1
 MAIDEN - Quarter Horse
 FOR ONTARIO SIRED MAIDENS, TWO YEARS OLD. Weight, 120 lbs. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $2,000 Other Sources
@@ -275,7 +275,7 @@ AJ*AX DOWNS - October 19, 2020 - Race 3
 ALLOWANCE - Quarter Horse
 FOR ONTARIO SIRED THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES. Weight, 120 lbs. (SNW2
 L)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,000
 Plus: $2,000 Other Sources
@@ -782,7 +782,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWN/S - October 19, 2020 - Race 6
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 85 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,500
 Plus: $5,700 Other Sources
@@ -829,7 +829,7 @@ bk
 finished well DH
 5Oct20 3AJX4
 2
-Aj Chick in 15 (Vanek, Helen)
+Aj-Chick-in-15 (Vanek, Helen)
 126
 L bf
 2
@@ -936,7 +936,7 @@ Louis Armstrong Tlc
 5.40
 2.60
 2
-Aj Chick in 15
+Aj-Chick-in-15
 2.20
 Wager Type
 Winning Numbers
@@ -982,7 +982,7 @@ Louis Armstrong Tlc
 61 3/4
 1Neck
 2
-Aj Chick in 15
+Aj-Chick-in-15
 1
 1Neck
 3Neck
@@ -1254,7 +1254,7 @@ A<JAX DOWNS - October 19, 2020 - Race 8
 STAKES OROOI Sprint Series 3 S. - Quarter Horse
 FOR THREE YEAR OLDS & UPWARD WHICH MADE THEIR NOMINATION AND SUSTAINING PAYMENTS. Ten Highest Money
 Earners Preferred.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $21,950 Added
 Available Money: $21,950

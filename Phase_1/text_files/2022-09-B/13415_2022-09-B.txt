@@ -2266,7 +2266,7 @@ Apollitical Tools (Vazquez-Gomez, Giovani)
 brk in bmp,drifted
 13Jul22 10IND4
 4
-Country Boy 123 (Martinez, Luz)
+Country-Boy-123 (Martinez, Luz)
 128 L b
 4
 6
@@ -2389,7 +2389,7 @@ Apollitical Tools
 82
 93 1/2
 4
-Country Boy 123
+Country-Boy-123
 6
 81 1/2
 103 1/4

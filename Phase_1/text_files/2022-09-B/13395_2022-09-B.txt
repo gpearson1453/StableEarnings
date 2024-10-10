@@ -2,7 +2,7 @@ AJAX
 /DOWNS - September 28, 2022 - Race 1
 MAIDEN - Quarter Horse
 For Maidens, Two Years Old.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $5,000 Other Sources
@@ -161,7 +161,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX D/OWNS - September 28, 2022 - Race 2
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 85 And Under. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,500
 Plus: $5,000 Other Sources
@@ -497,7 +497,7 @@ AJAX
 /DOWNS - September 28, 2022 - Race 4
 MAIDEN - Quarter Horse
 For Maidens, Three Years Old and Upward.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $5,000 Other Sources
@@ -833,7 +833,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWNS< - September 28, 2022 - Race 6
 ALLOWANCE - Quarter Horse
 For Three Year Olds and Upward Which Have Not Won Two Races Since May 1, 2022. (NW2 6M)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $5,000 Other Sources
@@ -996,7 +996,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DO[WNS - September 28, 2022 - Race 7
 ALLOWANCE - Quarter Horse
 For Three Year Olds and Upward Which Have Never Won Three Races. (NW3 L)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,500
 Plus: $5,000 Other Sources

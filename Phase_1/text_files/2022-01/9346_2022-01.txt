@@ -1745,7 +1745,7 @@ Kiss Thru Fire (Herrera, Diego)
 dueled, edged away
 20Nov21 10LA4
 5
-Lynnder 16 (Escobedo, Edwin)
+Lynnder-16 (Escobedo, Edwin)
 127 L f
 5
 1
@@ -1877,7 +1877,7 @@ Kiss Thru Fire
 3.40
 3.00
 5
-Lynnder 16
+Lynnder-16
 6.60
 5.20
 10
@@ -1933,7 +1933,7 @@ Kiss Thru Fire
 1Neck
 11/2
 5
-Lynnder 16
+Lynnder-16
 1
 2Neck
 2Neck

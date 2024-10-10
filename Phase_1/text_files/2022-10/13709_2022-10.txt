@@ -908,7 +908,7 @@ AJAX
 *DOWNS - October 19, 2022 - Race 6
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 70 And Under. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,500
 Plus: $5,000 Other Sources

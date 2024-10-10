@@ -98,7 +98,7 @@ Dont Get No Betta (Martinez, Luis)
 hard bmps early,stdy'd
 1Jan22 1SUN1
 1
-Hes Just 44 (Leyva, Joel)
+Hes-Just-44 (Leyva, Joel)
 128 L bfk
 1
 5
@@ -117,7 +117,7 @@ Owner: Norberto Morales Perez
 Trainer: Sanchez, Jr., Jorge
 Claiming Prices:
 4 - Thorlentless B: $12,500; 7 - Zio: $12,500; 3 - Sum Storm: $12,500; 2 - Doing the Deal: $12,500; 6 - Kadillac Smooth:
-$12,500; 5 - Dont Get No Betta: $12,500; 1 - Hes Just 44: $12,500;
+$12,500; 5 - Dont Get No Betta: $12,500; 1 - Hes-Just-44: $12,500;
 Disqualification(s):
 # 7 Zio from 2 to 6
 Total WPS Pool: $5,272
@@ -196,7 +196,7 @@ Dont Get No Betta
 62 3/4
 63
 1
-Hes Just 44
+Hes-Just-44
 5
 51 1/4
 52 1/4

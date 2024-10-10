@@ -2784,7 +2784,7 @@ L bk
 no menace
 31Oct20 3WRD2
 1
-Picacho 369 (Esqueda, Cristian)
+Picacho-369 (Esqueda, Cristian)
 124
 L b
 1
@@ -2816,7 +2816,7 @@ Owner: Laman E. Whitmire
 Trainer: Whitekiller, Matt
 Claiming Prices:
 7 - Beatem Blue: $10,000; 8 - Holderdeal: $10,000; 6 - Racit Like U Stolit: $10,000; 10 - Vals Money: $10,000; 9 -
-Checkered Flagg: $10,000; 4 - Capo de Dial: $10,000; 5 - Tellersheshotasfire: $10,000; 1 - Picacho 369: $10,000; 2 - La
+Checkered Flagg: $10,000; 4 - Capo de Dial: $10,000; 5 - Tellersheshotasfire: $10,000; 1 - Picacho-369: $10,000; 2 - La
 Plumita: $10,000;
 Scratched Horse(s): Dance Down Diva Vc (Veterinarian)
 Total WPS Pool: $11,802
@@ -2909,7 +2909,7 @@ Tellersheshotasfire
 41/2
 71 3/4
 1
-Picacho 369
+Picacho-369
 8
 51
 83

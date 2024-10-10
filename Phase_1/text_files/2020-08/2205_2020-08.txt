@@ -485,7 +485,7 @@ Jestagoodoldboy (Dominguez, Jonathan)
 late energy
 20Jul20 2PRM3
 5
-First of 15 (Garcia, Ramiro)
+First-of-15 (Garcia, Ramiro)
 125 BL bf
 5
 2
@@ -624,7 +624,7 @@ Jestagoodoldboy
 71
 31/2
 5
-First of 15
+First-of-15
 2
 11/2
 2Head

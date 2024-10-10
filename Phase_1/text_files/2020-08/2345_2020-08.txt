@@ -732,7 +732,7 @@ to third, 7% to fourth, 6% to fifth, 5% to sixth, 4% to seventh and 2% each to e
 reserves the right to cancel, change or postpone the trials and/or final. Trials to be run Tuesday, July 28. A trophy will be presented
 to the winninng owner. The final purse shall be reduced by the cost of any Out of Competition testing required by the Minnesota
 Racing Commission as a condition of competing in this race. Nominations closed Sunday, March 1 with 20.
-Distance: Four Hundred Yards On The Dirt Current Track Record: (Lynnder 16 - 19.560 - July 14, 2022)
+Distance: Four Hundred Yards On The Dirt Current Track Record: (Lynnder-16 - 19.560 - July 14, 2022)
 Purse: $48,775 Added
 Includes: $15,000 Mystic Lake Purse Enhancement Fund
 Available Money: $48,775
@@ -2541,7 +2541,7 @@ Vo Fantastic Aira, Sorrel Gelding, by Fantastic Corona Jr out of Fly Eyeann, by 
 Breeder: Rodney Von Ohlen
 Owner: Corey Wilmes
 Trainer: Hardy, Edward
-Scratched Horse(s): Wicked 6 (Veterinarian)
+Scratched Horse(s): Wicked-6 (Veterinarian)
 Total WPS Pool: $10,743
 Pgm Horse
 Win

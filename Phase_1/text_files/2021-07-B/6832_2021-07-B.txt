@@ -1583,7 +1583,7 @@ Rtm Glory Days (Canales, Jesus)
 game effort solid 2nd
 1May21 12WBR8
 2
-Jr Hiway 93 (Vera, Gerardo)
+Jr-Hiway-93 (Vera, Gerardo)
 126 BL b
 2
 4
@@ -1640,7 +1640,7 @@ Breeder: Riley Blanchet
 Owner: Cook, Kyle A. and Cook, Kelly
 Trainer: Pitcher, Jay
 Dead Heats:
-3rd place - # 2 Jr Hiway 93
+3rd place - # 2 Jr-Hiway-93
 3rd place - # 6 Heza Gator
 Total WPS Pool: $1,531
 Pgm Horse
@@ -1657,7 +1657,7 @@ Rtm Glory Days
 2.20
 2.20
 2
-Jr Hiway 93
+Jr-Hiway-93
 2.20
 6
 Heza Gator
@@ -1712,7 +1712,7 @@ Rtm Glory Days
 23/4
 21
 2
-Jr Hiway 93
+Jr-Hiway-93
 4
 33/4
 31

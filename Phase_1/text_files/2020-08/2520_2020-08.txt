@@ -2506,7 +2506,7 @@ Kitty Sixup (Ruiz, Jose)
 no impact
 8Aug20 13IND3
 5
-Yadi 1 (Esqueda, Erik)
+Yadi-1 (Esqueda, Erik)
 128 L bk
 5
 6
@@ -2645,7 +2645,7 @@ Kitty Sixup
 42
 51 3/4
 5
-Yadi 1
+Yadi-1
 6
 61 1/2
 52 1/2

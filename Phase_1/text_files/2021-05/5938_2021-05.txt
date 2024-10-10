@@ -639,7 +639,7 @@ Tha Boss (Guzman, Jose)
 mild rally, up for sho
 20Sep20 4SWF6
 2
-La Pistola 03 (Virgen, Jesus)
+La-Pistola-03 (Virgen, Jesus)
 128 BL b
 2
 1
@@ -736,7 +736,7 @@ Tha Boss
 42
 31/2
 2
-La Pistola 03
+La-Pistola-03
 1
 2Head
 2Head

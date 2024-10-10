@@ -2165,7 +2165,7 @@ Danjer, Brown Gelding, by Fdd Dynasty out of Shez Jess Toxic, by Take Off Jess. 
 Breeder: Dean Frey
 Owner: Frey, Dean R., Downtime Enterprises LLC and Smith, Billy G.
 Trainer: Frey, Dean
-Scratched Horse(s): Accountably (Trainer), Dynasty Cartel (Stewards), First of 15 (Veterinarian)
+Scratched Horse(s): Accountably (Trainer), Dynasty Cartel (Stewards), First-of-15 (Veterinarian)
 Total WPS Pool: $93,280
 Pgm Horse
 Win

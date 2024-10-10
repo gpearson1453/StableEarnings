@@ -2736,7 +2736,7 @@ Shakdown (Hernandez, Alan)
 no mishap,outkicked
 29Aug20 4ALB3
 7
-Flying Eagle 07 (Ramirez, Ricky)
+Flying-Eagle-07 (Ramirez, Ricky)
 128 L
 7
 5
@@ -2881,7 +2881,7 @@ Shakdown
 91 1/2
 92
 7
-Flying Eagle 07
+Flying-Eagle-07
 5
 4Neck
 71

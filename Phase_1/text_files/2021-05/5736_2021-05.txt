@@ -2398,7 +2398,7 @@ bf
 mild gain, clear 3rd
 27Apr21 10IND2
 2
-Panchita 47 (Vazquez-Gomez, Giovani)
+Panchita-47 (Vazquez-Gomez, Giovani)
 132
 bfk
 2
@@ -2562,7 +2562,7 @@ Chamber of Secrets
 32
 31 1/2
 2
-Panchita 47
+Panchita-47
 3
 42 1/2
 42 1/2

@@ -2,7 +2,7 @@ AJ*AX DOWNS - June 16, 2021 - Race 1
 ALLOWANCE - Quarter Horse
 FOR ONTARIO BRED THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES. Weight, 120 lbs. (SNW2
 L)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,000
 Plus: $2,000 Other Sources
@@ -329,7 +329,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 A/JAX DOWNS - June 16, 2021 - Race 3
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES. Weight, 120 lbs. (NW2 L)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $6,000 Other Sources
@@ -511,7 +511,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 A/JAX DOWNS - June 16, 2021 - Race 4
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON THREE RACES. Weight, 120 lbs. (NW3 L)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,500
 Plus: $6,000 Other Sources
@@ -682,7 +682,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOW/NS - June 16, 2021 - Race 5
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 80 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $5,400 Other Sources
@@ -864,7 +864,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX D/OWNS - June 16, 2021 - Race 6
 MAIDEN - Quarter Horse
 FOR MAIDENS, THREE YEARS OLD AND UPWARD. Weight, 120 lbs.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources
@@ -1120,7 +1120,7 @@ L b
 closed well
 24Oct20 9IND3
 2
-Country Boy 123 (Husbands, Neil)
+Country-Boy-123 (Husbands, Neil)
 120
 L b
 2
@@ -1252,7 +1252,7 @@ Chicksdigmymoneybags4
 *
 41/2
 2
-Country Boy 123
+Country-Boy-123
 5
 *
 51 1/4

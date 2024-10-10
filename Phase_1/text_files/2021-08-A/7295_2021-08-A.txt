@@ -118,7 +118,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX[ DOWNS - August 11, 2021 - Race 2
 MAIDEN - Quarter Horse
 FOR MAIDENS, TWO YEARS OLD. Weight, 120 lbs.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources
@@ -1178,7 +1178,7 @@ Spy for the Senate (Mosqueira, Ismael)
 fought gamely
 21Jul21 7AJX9
 4
-Country Boy 123 (Phillips, Tony)
+Country-Boy-123 (Phillips, Tony)
 120 L b
 4
 4
@@ -1279,7 +1279,7 @@ Spy for the Senate
 22 1/2
 32 1/2
 4
-Country Boy 123
+Country-Boy-123
 4
 44 1/4
 44 3/4
@@ -1518,7 +1518,7 @@ DERBY Ontario Bred Derby - Quarter Horse
 FOR NOMINATED, ONTARIO BRED (PROGRAM REGISTERED) THREE YEAR OLDS, WHICH NOMINATED TO, AND
 QUALIFIED FROM, THE TIME TRIALS (IF NECESSARY), CONTESTED ON WED, JULY 28/21 (10 FASTEST QUALIFIERS). For
 further Stakes Race details and Payout Percentages, see QROOI Stakes Book. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $57,060 Added
 Available Money: $57,060

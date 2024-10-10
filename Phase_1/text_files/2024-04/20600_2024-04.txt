@@ -1371,7 +1371,7 @@ L bfk
 good try, vanned off
 11Feb24 6SUN3
 1
-Hes Just 44 (Garcia-Luna, Felipe)
+Hes-Just-44 (Garcia-Luna, Felipe)
 130
 L bfk
 1
@@ -1504,7 +1504,7 @@ Rb Secret Seis
 63 1/4
 41
 1
-Hes Just 44
+Hes-Just-44
 3
 53
 51 1/2

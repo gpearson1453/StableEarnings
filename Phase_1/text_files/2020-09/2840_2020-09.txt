@@ -2,7 +2,7 @@ AJA?X DOWNS - September 7, 2020 - Race 1
 ALLOWANCE - Quarter Horse
 FOR ONTARIO SIRED THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON THREE RACES. Weight, 120 lbs.
 (SNW3 L)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,500
 Plus: $2,000 Other Sources
@@ -326,7 +326,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJ[AX DOWNS - September 7, 2020 - Race 3
 MAIDEN - Quarter Horse
 FOR ONTARIO SIRED MAIDENS, TWO YEARS OLD. Weight, 120 lbs. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $2,000 Other Sources
@@ -508,7 +508,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DO/WNS - September 7, 2020 - Race 4
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 75 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $8,500
 Plus: $5,100 Other Sources
@@ -712,7 +712,7 @@ AJAX* DOWNS - September 7, 2020 - Race 5
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES OTHER THAN MAIDEN, CLAIMING,
 STARTER, TRIAL OR SPEED INDEX. Weight, 120 lbs. (NW2 X)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $6,000 Other Sources
@@ -1072,7 +1072,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX* DOWNS - September 7, 2020 - Race 7
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 85 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,500
 Plus: $5,700 Other Sources
@@ -1288,7 +1288,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DO/WNS - September 7, 2020 - Race 8
 MAIDEN - Quarter Horse
 FOR ONTARIO SIRED MAIDENS, THREE YEARS OLD AND UPWARD. Weight, 120 lbs. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $2,000 Other Sources

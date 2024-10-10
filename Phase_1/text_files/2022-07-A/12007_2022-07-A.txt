@@ -2182,7 +2182,7 @@ CA[NTERBURY PARK - July 14, 2022 - Race 9
 STAKES Canterbury Park Distaff Challenge S. Grade 3 - Quarter Horse
 FOR QUARTER HORSES, FILLIES AND MARES, THREE YEARS OLD AND UPWARD WHICH ARE BANK OF AMERICA
 RACING CHALLENGE ENROLLED, NOMINATED AND REMAIN ELIGIBLE.
-Distance: Four Hundred Yards On The Dirt Current Track Record: (Lynnder 16 - 19.560 - July 14, 2022)
+Distance: Four Hundred Yards On The Dirt Current Track Record: (Lynnder-16 - 19.560 - July 14, 2022)
 Purse: $39,270 Added
 Includes: $12,000 Mystic Lake Purse Enhancement Fund
 Includes: $10,000 MBNA Racing Challenge
@@ -2203,7 +2203,7 @@ Odds Ind. Time
 Sp. In. Comments
 2Jan22 10LA2
 9
-Lynnder 16 (Escobedo, Edwin)
+Lynnder-16 (Escobedo, Edwin)
 127 L f
 9
 5
@@ -2333,7 +2333,7 @@ Javelina Cantina (Goodwin, Nik)
 restless, broke in air
 Run-Up: 0 feet
 Winner:
-Lynnder 16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
+Lynnder-16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
 Breeder: James E and Marilyn Helzer
 Owner: Maher, Tom and Tobin, Richard L.
 Trainer: Olmstead, Jason
@@ -2343,7 +2343,7 @@ Win
 Place
 Show
 9
-Lynnder 16
+Lynnder-16
 4.80
 3.60
 2.80
@@ -2385,7 +2385,7 @@ Str 1
 Str
 Fin
 9
-Lynnder 16
+Lynnder-16
 5
 41 1/2
 2Head

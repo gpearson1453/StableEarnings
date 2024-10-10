@@ -2,7 +2,7 @@ AJAX D*OWNS - September 1, 2021 - Race 1
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH A SPEED INDEX THAT HAS NEVER BEEN BETTER THAN 70. Weight, 120 lbs.
 ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $5,400 Other Sources
@@ -156,7 +156,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX D?OWNS - September 1, 2021 - Race 2
 MAIDEN - Quarter Horse
 FOR MAIDENS, TWO YEARS OLD. Weight, 120 lbs.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $6,000 Other Sources
@@ -859,7 +859,7 @@ AJAX
 *DOWNS - September 1, 2021 - Race 5
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 75 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,500
 Plus: $5,700 Other Sources
@@ -1146,7 +1146,7 @@ AJAX DOWNS[ - September 1, 2021 - Race 7
 ALLOWANCE - Quarter Horse
 FOR ONTARIO SIRED THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES. Weight, 120 lbs. (SNW2
 L)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $14,000
 Plus: $2,000 Other Sources
@@ -1518,7 +1518,7 @@ AJAX
 /DOWNS - September 1, 2021 - Race 9
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 85 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,500
 Plus: $6,000 Other Sources
@@ -1539,7 +1539,7 @@ Odds Ind. Time
 Sp. In. Comments
 18Aug21 5AJX3
 5
-Aj Chick in 15 (Moreno, Ricardo)
+Aj-Chick-in-15 (Moreno, Ricardo)
 132
 L bf
 5
@@ -1630,7 +1630,7 @@ bk
 not a factor
 Run-Up: 0 feet
 Winner:
-Aj Chick in 15, Bay Mare, by Apollitical Jess out of Pj Chick in Black, by Desirio. Foaled Feb 13, 2015 in Oklahoma.
+Aj-Chick-in-15, Bay Mare, by Apollitical Jess out of Pj Chick in Black, by Desirio. Foaled Feb 13, 2015 in Oklahoma.
 Breeder: D Bowen/S Taylor/J Smith Farms
 Owner: Milena Kwiecien
 Trainer: Pascoe, Jason
@@ -1640,7 +1640,7 @@ Win
 Place
 Show
 5
-Aj Chick in 15
+Aj-Chick-in-15
 4.80
 3.00
 2.40
@@ -1685,7 +1685,7 @@ Start
 Str
 Fin
 5
-Aj Chick in 15
+Aj-Chick-in-15
 4
 11/2
 11/2

@@ -1,7 +1,7 @@
 AJAX DOW<NS - October 4, 2023 - Race 1
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 75 And Under. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $8,500
 Plus: $1,500 Starters Bonus
@@ -335,7 +335,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX[ DOWNS - October 4, 2023 - Race 3
 MAIDEN - Quarter Horse
 For Ontario Sired Maidens, Two Years Old Weight, 120 lbs. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $1,500 Starters Bonus

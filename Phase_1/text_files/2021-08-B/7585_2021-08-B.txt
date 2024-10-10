@@ -1950,7 +1950,7 @@ L b
 dueled,drifted in
 24Jul21 5IND5
 7
-DQ-Panchita 47 (Diaz, Edgar)
+DQ-Panchita-47 (Diaz, Edgar)
 126
 bk
 7
@@ -2060,7 +2060,7 @@ Owner: Cody Gates
 Trainer: Gates, Cody
 Disqualification(s):
 # 3 Moons Stone from 2 to 9
-# 7 Panchita 47 from 3 to 6
+# 7 Panchita-47 from 3 to 6
 Scratched Horse(s): Mr Bo J (Also-Eligible), Saina Be First (Trainer)
 Total WPS Pool: $39,136
 Pgm Horse
@@ -2123,7 +2123,7 @@ Moons Stone
 2Head
 2Neck
 7
-Panchita 47
+Panchita-47
 5
 41
 33/4

@@ -2082,7 +2082,7 @@ A Tres of a Lady (Constantin, Lucas)
 off step slow good ral
 17Jul20 7FMT1
 8
-Mighty Oh 5 (Mendez, Francisco)
+Mighty-Oh-5 (Mendez, Francisco)
 125 L bfk
 8
 8
@@ -2205,7 +2205,7 @@ A Tres of a Lady
 61 3/4
 62 1/2
 8
-Mighty Oh 5
+Mighty-Oh-5
 8
 61 1/4
 72 1/4

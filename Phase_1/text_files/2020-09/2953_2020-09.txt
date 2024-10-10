@@ -532,7 +532,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJA<X DOWNS - September 14, 2020 - Race 4
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 80 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $5,400 Other Sources
@@ -737,7 +737,7 @@ AJAX DOWNS? - September 14, 2020 - Race 5
 OPTIONAL CLAIMING - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NOT WON A RACE SINCE SEPTEMBER 1, 2019 OR CLAIMING PRICE
 $7,000. Weight, 120 lbs. Claiming Price $7,000. (NW1 Y) Claiming Price: $7,000
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources
@@ -797,7 +797,7 @@ L bk
 raced evenly
 26Aug20 8AJX2
 7
-Aj Chick in 15 (Vanek, Helen)
+Aj-Chick-in-15 (Vanek, Helen)
 126
 L bf
 6
@@ -898,7 +898,7 @@ Arctic Fame
 31/2
 31/2
 7
-Aj Chick in 15
+Aj-Chick-in-15
 4
 43/4
 43/4
@@ -1383,7 +1383,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOW[NS - September 14, 2020 - Race 8
 MAIDEN - Quarter Horse
 FOR MAIDENS, THREE YEARS OLD AND UPWARD. Weight, 120 lbs.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources

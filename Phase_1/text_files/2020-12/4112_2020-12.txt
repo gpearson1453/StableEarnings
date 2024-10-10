@@ -371,7 +371,7 @@ L bf
 slight drift, no bid
 11Nov20 6EVD6
 4
-Train 214 (Rodriguez, Everardo)
+Train-214 (Rodriguez, Everardo)
 126
 L bk
 4
@@ -432,7 +432,7 @@ New Trainer: Noe R. Sanchez
 New Owner: Javier Alvarez, Jr.
 Claiming Prices:
 3 - Shine and Jump: $7,500; 1 - One Fancy Corona: $7,500; 7 - Gbh Train: $7,500; 5 - Big Money Cuate: $7,500; 6 -
-Paint Me Patriot: $7,500; 2 - Chinchilla Quest: $7,500; 4 - Train 214: $7,500; 8 - Charmer On Texas: $7,500; 10 - Miss
+Paint Me Patriot: $7,500; 2 - Chinchilla Quest: $7,500; 4 - Train-214: $7,500; 8 - Charmer On Texas: $7,500; 10 - Miss
 Trainwreck: $7,500; 9 - All Wild Women Will: $7,500;
 Total WPS Pool: $29,727
 Pgm Horse
@@ -507,7 +507,7 @@ Chinchilla Quest
 61
 63/4
 4
-Train 214
+Train-214
 8
 71 1/2
 71

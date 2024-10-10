@@ -870,7 +870,7 @@ Theyre Be an Answer (Garcia-Luna, Felipe)
 bmpd,clipped after brk
 7Jun20 9RUI10
 3
-Bastogne 44 (Medina, Alejandro)
+Bastogne-44 (Medina, Alejandro)
 126 L bf
 3
 10
@@ -980,7 +980,7 @@ Theyre Be an Answer
 105
 98
 3
-Bastogne 44
+Bastogne-44
 10
 92
 94 1/2

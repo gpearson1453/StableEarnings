@@ -2495,7 +2495,7 @@ BL b
 bumped mid
 9May21 7POD3
 2
-Tellmshesa 10 (Afanador, Jesus)
+Tellmshesa-10 (Afanador, Jesus)
 124
 BL
 2
@@ -2616,7 +2616,7 @@ Bw Easy Wagon
 51/2
 51 1/4
 2
-Tellmshesa 10
+Tellmshesa-10
 9
 61/2
 61 1/2

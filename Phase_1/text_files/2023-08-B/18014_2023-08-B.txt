@@ -864,7 +864,7 @@ Vvr Country Kid (Jimenez, David)
 no factor
 29Jul23 3WYO7
 3
-La Pistola 03 (Carrillo, Daniel)
+La-Pistola-03 (Carrillo, Daniel)
 131 BL bf
 3
 2
@@ -985,7 +985,7 @@ Vvr Country Kid
 84 1/4
 83 1/4
 3
-La Pistola 03
+La-Pistola-03
 2
 71/2
 94 1/4

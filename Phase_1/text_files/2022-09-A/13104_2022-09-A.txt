@@ -830,7 +830,7 @@ BL b
 wouldnt be denied
 28Aug22 4SWF5
 8
-La Pistola 03 (Carrillo, Daniel)
+La-Pistola-03 (Carrillo, Daniel)
 128
 BL bf
 8
@@ -962,7 +962,7 @@ Its a Lethal Design
 6.00
 4.00
 8
-La Pistola 03
+La-Pistola-03
 10.80
 5.40
 2
@@ -1003,7 +1003,7 @@ Its a Lethal Design
 1Neck
 11/2
 8
-La Pistola 03
+La-Pistola-03
 3
 2Neck
 21/2

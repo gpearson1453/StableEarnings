@@ -1556,7 +1556,7 @@ Famous Cartel Jess (Mendez, Cruz)
 drft past1/8,going awy
 5Sep21 7LA1
 5
-Gulfstream 650 (Lozano, Ruben)
+Gulfstream-650 (Lozano, Ruben)
 124 L b
 4
 1
@@ -1650,7 +1650,7 @@ Famous Cartel Jess
 2.20
 2.10
 5
-Gulfstream 650
+Gulfstream-650
 3.40
 2.40
 1
@@ -1685,7 +1685,7 @@ Famous Cartel Jess
 21/2
 13/4
 5
-Gulfstream 650
+Gulfstream-650
 1
 13/4
 11/2

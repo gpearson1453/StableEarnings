@@ -748,7 +748,7 @@ BL b
 evenly effort
 20Jun21 4JRM3
 3
-Tellmshesa 10 (Virgen, Jesus)
+Tellmshesa-10 (Virgen, Jesus)
 137
 BL b
 3
@@ -842,7 +842,7 @@ Conquer the Riches
 51 3/4
 54 3/4
 3
-Tellmshesa 10
+Tellmshesa-10
 2
 62
 65

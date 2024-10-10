@@ -169,7 +169,7 @@ FUTURITY TRIAL Ontario Bred Futurity Trial - Quarter Horse
 FOR NOMINATED ONTARIO BRED (PROGRAM REGISTERED) TWO YEAR OLDS, SEEKING TO QUALIFY TO THE FINAL,
 CONTESTED ON WED, AUG 26/20 (10 FASTEST QUALIFIERS). Please see QROOI Stakes Book for Nomination and Sustaining
 Payment details. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $2,000 Other Sources
@@ -375,7 +375,7 @@ FUTURITY TRIAL Ontario Bred Futurity Trial - Quarter Horse
 FOR NOMINATED ONTARIO BRED (PROGRAM REGISTERED) TWO YEAR OLDS, SEEKING TO QUALIFY TO THE FINAL,
 CONTESTED ON WED, AUG 26/20 (10 FASTEST QUALIFIERS). Please see QROOI Stakes Book for Nomination and Sustaining
 Payment details. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $2,000 Other Sources
@@ -743,7 +743,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOW[NS - August 5, 2020 - Race 5
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES. Weight, 120 lbs. (NW2 L)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $6,000 Other Sources
@@ -1174,7 +1174,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 A[JAX DOWNS - August 5, 2020 - Race 7
 MAIDEN - Quarter Horse
 FOR ONTARIO BRED MAIDENS, THREE YEARS OLD AND UPWARD. Weight, 120 lbs. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $2,000 Other Sources

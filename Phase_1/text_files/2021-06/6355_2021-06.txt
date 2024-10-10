@@ -2049,7 +2049,7 @@ L bfk
 bobbled after break
 18May21 10IND4
 10
-Panchita 47 (Diaz, Edgar)
+Panchita-47 (Diaz, Edgar)
 126
 bfk
 10
@@ -2186,7 +2186,7 @@ Beach Fun
 53
 63
 10
-Panchita 47
+Panchita-47
 10
 74 1/4
 73 1/4

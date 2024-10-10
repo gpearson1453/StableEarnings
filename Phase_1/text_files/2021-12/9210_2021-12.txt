@@ -3097,7 +3097,7 @@ Dustys Delight (Giles, Francisco)
 broke out, bumped
 20May21 10HOU10
 6
-Super Dominyun 911 (Villatoro, Noe)
+Super-Dominyun-911 (Villatoro, Noe)
 124 L bk
 4
 8
@@ -3250,7 +3250,7 @@ Dustys Delight
 74 3/4
 63 1/2
 6
-Super Dominyun 911
+Super-Dominyun-911
 8
 62 1/4
 61 3/4

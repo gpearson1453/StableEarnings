@@ -1039,7 +1039,7 @@ Jess Pure Sass (Dominguez, Victor)
 caught late
 3Aug24 5WYO8
 3
-La Pistola 03 (Rivas, Juan)
+La-Pistola-03 (Rivas, Juan)
 128 BL bf
 3
 1
@@ -1167,7 +1167,7 @@ Jess Pure Sass
 43/4
 43/4
 3
-La Pistola 03
+La-Pistola-03
 1
 2Head
 62 1/4

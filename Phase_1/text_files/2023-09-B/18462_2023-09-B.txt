@@ -1134,7 +1134,7 @@ Switching Dynasty (Valenzuela, Jesus)
 bumped by foe hard
 3Sep23 9SWF1
 4
-La Pistola 03 (Carrillo, Daniel)
+La-Pistola-03 (Carrillo, Daniel)
 131 BL bf
 4
 7
@@ -1256,7 +1256,7 @@ Switching Dynasty
 74
 84
 4
-La Pistola 03
+La-Pistola-03
 7
 51/2
 94 1/4

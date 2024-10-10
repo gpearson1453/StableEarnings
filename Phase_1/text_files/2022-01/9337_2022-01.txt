@@ -20,7 +20,7 @@ Odds Ind. Time
 Sp. In. Comments
 5Sep20 7LS5
 4
-Hes Just 44 (Leyva, Joel)
+Hes-Just-44 (Leyva, Joel)
 128 L bfk
 2
 1
@@ -150,7 +150,7 @@ Tough Ole Dude (Marquez, Angel)
 drifted out,
 Run-Up: 0 feet
 Winner:
-Hes Just 44, Sorrel Gelding, by Double Feature Jess out of Track Forty Four, by Pyc Paint Your Wagon. Foaled Apr 21, 2018 in Texas.
+Hes-Just-44, Sorrel Gelding, by Double Feature Jess out of Track Forty Four, by Pyc Paint Your Wagon. Foaled Apr 21, 2018 in Texas.
 Breeder: Juan Puentes
 Owner: Juan M. Puentes
 Trainer: Renteria, Jacob
@@ -158,7 +158,7 @@ Trainer: Renteria, Jacob
 New Trainer: Harvey Baeza
 New Owner: Javier Alvarez, Jr.
 Claiming Prices:
-4 - Hes Just 44: $8,000; 10 - Brickfielder Pz: $8,000; 8 - Estrella Ar: $8,000; 7 - Iceonklassy: $8,000; 5 - Jazz On It Pz:
+4 - Hes-Just-44: $8,000; 10 - Brickfielder Pz: $8,000; 8 - Estrella Ar: $8,000; 7 - Iceonklassy: $8,000; 5 - Jazz On It Pz:
 $8,000; 9 - Itsallabouttheheart: $8,000; 11 - Power Prospect: $8,000; 6 - Blue Night: $8,000; 2 - Apollitical Pride: $8,000;
 12 - Tough Ole Dude: $8,000;
 Scratched Horse(s): Laura Leigh (Veterinarian), Tab Me Out (Stewards)
@@ -168,7 +168,7 @@ Win
 Place
 Show
 4
-Hes Just 44
+Hes-Just-44
 15.60
 6.40
 5.00
@@ -202,7 +202,7 @@ Str1
 Str
 Fin
 4
-Hes Just 44
+Hes-Just-44
 1
 11
 11

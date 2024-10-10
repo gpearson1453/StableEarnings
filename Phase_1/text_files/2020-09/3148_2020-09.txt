@@ -1022,7 +1022,7 @@ Perry the Legacy (Viramontes, Armando)
 lugged in early
 22Aug20 7LA5
 1
-Hangar 24 (Leon, Juan)
+Hangar-24 (Leon, Juan)
 126
 L b
 1
@@ -1052,11 +1052,11 @@ Thru Lady, Chestnut Filly, by Separatist out of Walk Thru Michele, by Walk Thru 
 Breeder: Daniel Reynoso
 Owner: Jesse Cruz
 Trainer: Vallejo, Adriana
-1 Claimed Horse(s): Hangar 24
+1 Claimed Horse(s): Hangar-24
 New Trainer: Ricardo S. Guillen
 New Owner: Nelzon Cisneros
 Claiming Prices:
-4 - Thru Lady: $5,000; 6 - Pappaslileagle: $5,000; 3 - Perry the Legacy: $5,000; 1 - Hangar 24: $5,000; 5 - Quick High
+4 - Thru Lady: $5,000; 6 - Pappaslileagle: $5,000; 3 - Perry the Legacy: $5,000; 1 - Hangar-24: $5,000; 5 - Quick High
 Five: $5,000;
 Scratched Horse(s): Dreamin Greedy (Veterinarian)
 Total WPS Pool: $24,102
@@ -1117,7 +1117,7 @@ Perry the Legacy
 31/2
 31 1/2
 1
-Hangar 24
+Hangar-24
 4
 41
 42 1/4

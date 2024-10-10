@@ -2098,7 +2098,7 @@ Odds Ind. Time
 Sp. In. Comments
 26Sep20 11LS3
 3
-Lynnder 16 (Packer, Berkley)
+Lynnder-16 (Packer, Berkley)
 128 L f
 2
 3
@@ -2202,7 +2202,7 @@ Fosse (Delgado, Mario)
 faded,
 Run-Up: 0 feet
 Winner:
-Lynnder 16, Sorrel Filly, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
+Lynnder-16, Sorrel Filly, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
 Breeder: James E and Marilyn Helzer
 Owner: Maher, Tom and Tobin, Richard L.
 Trainer: Olmstead, Jason
@@ -2213,7 +2213,7 @@ Win
 Place
 Show
 3
-Lynnder 16
+Lynnder-16
 5.60
 3.60
 2.40
@@ -2247,7 +2247,7 @@ Str 1
 Str
 Fin
 3
-Lynnder 16
+Lynnder-16
 3
 1Head
 1Head

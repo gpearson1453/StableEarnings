@@ -1478,7 +1478,7 @@ Kiss My Hocks Goodby (Ramirez, Sergio)
 moved up, no threat
 4Jul20 1IND5
 2
-Air Born Jazz 2 (Esqueda, Erik)
+Air-Born-Jazz-2 (Esqueda, Erik)
 124 L bfk
 2
 3
@@ -1620,7 +1620,7 @@ Kiss My Hocks Goodby 6
 81 1/2
 61 1/4
 2
-Air Born Jazz 2
+Air-Born-Jazz-2
 3
 31/2
 41/2
@@ -3231,7 +3231,7 @@ Rarely a Tres (Martinez, Luz)
 prominent, 2nd best
 6Jul20 9IND10
 7
-Yadi 1 (Esqueda, Erik)
+Yadi-1 (Esqueda, Erik)
 128 L bfk
 7
 7
@@ -3315,7 +3315,7 @@ Rarely a Tres
 6.20
 5.00
 7
-Yadi 1
+Yadi-1
 3.00
 Wager Type
 Winning Numbers
@@ -3364,7 +3364,7 @@ Rarely a Tres
 23/4
 21/2
 7
-Yadi 1
+Yadi-1
 7
 41 1/4
 31 1/2

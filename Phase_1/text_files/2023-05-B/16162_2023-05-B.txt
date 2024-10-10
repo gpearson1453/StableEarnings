@@ -2,7 +2,7 @@ A?JAX DOWNS - May 17, 2023 - Race 1
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 65 And Under or With A Speed Index That Has Never Been
 Better Than 70. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $7,500
 Plus: $1,500 Starters Bonus
@@ -119,7 +119,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWNS[ - May 17, 2023 - Race 2
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 85 And Under. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,500
 Plus: $1,500 Starters Bonus
@@ -492,7 +492,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJA*X DOWNS - May 17, 2023 - Race 4
 ALLOWANCE - Quarter Horse
 For Three Year Olds and Upward Which Have Not Won Two Races Since May 1, 2022. (NW2 Y)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $1,500 Starters Bonus
@@ -683,7 +683,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWN?S - May 17, 2023 - Race 5
 ALLOWANCE - Quarter Horse
 For Three Year Olds and Upward Which Have Never Won Two Races. (NW2 L)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $1,500 Starters Bonus
@@ -879,7 +879,7 @@ AJAX DO*WNS - May 17, 2023 - Race 6
 MATURITY Norman Picov Maturity - Quarter Horse
 FOR NOMINATED FOUR YEAR OLDS & UPWARD. Highest money earners preferred. For Further Stakes Race details and Payout
 Percentages, see the QROOI Stakes Book.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $30,375 Added
 Available Money: $30,375

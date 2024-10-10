@@ -18,7 +18,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 9
-I R a Lacey J 2 (Valenzuela, Jesus)
+I-R-a-Lacey-J-2 (Valenzuela, Jesus)
 124
 BL b
 8
@@ -135,7 +135,7 @@ BL b
 no factor
 Run-Up: 0 feet
 Winner:
-I R a Lacey J 2, Brown Filly, by Apollitical Blood out of Lacey Js Little Sis, by Carters Cartel. Foaled Feb 12, 2018 in Colorado.
+I-R-a-Lacey-J-2, Brown Filly, by Apollitical Blood out of Lacey Js Little Sis, by Carters Cartel. Foaled Feb 12, 2018 in Colorado.
 Breeder: Sam Allie
 Owner: Sam Allie Jr.
 Trainer: Moosman, Riley
@@ -146,7 +146,7 @@ Win
 Place
 Show
 9
-I R a Lacey J 2
+I-R-a-Lacey-J-2
 10.00
 4.20
 3.00
@@ -179,7 +179,7 @@ Start
 Str
 Fin
 9
-I R a Lacey J 2
+I-R-a-Lacey-J-2
 3
 11/2
 11/2

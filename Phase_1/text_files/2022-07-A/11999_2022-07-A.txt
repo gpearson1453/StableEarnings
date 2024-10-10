@@ -2486,7 +2486,7 @@ Wrs Moonin Thewagon (Rodriguez, German)
 popped,led,outfinished
 1Jun22 8AJX7
 4
-Country Boy 123 (Martinez, Luz)
+Country-Boy-123 (Martinez, Luz)
 130 L b
 4
 5
@@ -2650,7 +2650,7 @@ Wrs Moonin Thewagon 1
 1Head
 33/4
 4
-Country Boy 123
+Country-Boy-123
 5
 71 1/4
 51 1/4

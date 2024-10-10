@@ -581,7 +581,7 @@ Made of Indigo (Bobroff, Jacquelyn)
 game 3rd
 19Sep21 3SWF2
 7
-La Pistola 03 (Lusk, Tyson)
+La-Pistola-03 (Lusk, Tyson)
 130 BL f
 7
 4
@@ -738,7 +738,7 @@ Made of Indigo
 31/2
 31 1/4
 7
-La Pistola 03
+La-Pistola-03
 4
 52
 43/4

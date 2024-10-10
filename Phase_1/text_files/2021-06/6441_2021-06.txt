@@ -497,7 +497,7 @@ BL f
 drifted out
 13Jun21 7EDR6
 5
-La Pistola 03 (Jimenez, Santiago)
+La-Pistola-03 (Jimenez, Santiago)
 128
 BL b
 5
@@ -574,7 +574,7 @@ Cd Makin Us Proud
 53
 54 3/4
 5
-La Pistola 03
+La-Pistola-03
 6
 63 1/2
 65 1/4

@@ -2441,7 +2441,7 @@ Big Queen Cartel (Martinez, Luz)
 denied
 4Jul20 8IND7
 10
-Panchita 47 (Olivo, Victor)
+Panchita-47 (Olivo, Victor)
 126 b
 9
 6
@@ -2552,7 +2552,7 @@ Big Queen Cartel
 4.80
 3.20
 10
-Panchita 47
+Panchita-47
 4.60
 Wager Type
 Winning Numbers
@@ -2602,7 +2602,7 @@ Big Queen Cartel
 21/2
 2Neck
 10
-Panchita 47
+Panchita-47
 6
 73 1/4
 52 1/2

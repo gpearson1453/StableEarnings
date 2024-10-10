@@ -1571,7 +1571,7 @@ L b
 no menace
 9Jul20 3RET4
 8
-Lucky Bux 222 (Herbert, Jose)
+Lucky-Bux-222 (Herbert, Jose)
 128
 L bk
 8
@@ -1642,7 +1642,7 @@ Owner: Jorge R. Lopez
 Trainer: Muniz, Janessa
 Claiming Prices:
 5 - Mr Kid Classic: $35,000; 2 - San Lorenzo Carter: $35,000; 1 - Fire N the Whole: $35,000; 4 - Emma Bug: $35,000; 3
-- Virginias Hero: $35,000; 8 - Lucky Bux 222: $35,000; 10 - Traffickingen Dealin: $35,000; 7 - Rhigh Card: $35,000; 6 -
+- Virginias Hero: $35,000; 8 - Lucky-Bux-222: $35,000; 10 - Traffickingen Dealin: $35,000; 7 - Rhigh Card: $35,000; 6 -
 Aregalchoicejr: $35,000; 9 - Six Special Moon: $35,000;
 Total WPS Pool: $12,615
 Pgm Horse
@@ -1720,7 +1720,7 @@ Virginias Hero
 61
 51 1/4
 8
-Lucky Bux 222
+Lucky-Bux-222
 4
 53/4
 61 1/2

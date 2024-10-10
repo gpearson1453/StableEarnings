@@ -681,7 +681,7 @@ Odds Ind. Time
 Sp. In. Comments
 3Aug20 3PRM4
 7
-First of 15 (Birzer, Brett)
+First-of-15 (Birzer, Brett)
 127
 BL bf
 7
@@ -811,7 +811,7 @@ L bf
 never involved
 Run-Up: 0 feet
 Winner:
-First of 15, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Jan 22, 2015 in Oklahoma.
+First-of-15, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Jan 22, 2015 in Oklahoma.
 Breeder: James E and Marilyn Helzer
 Owner: Richard L. Tobin
 Trainer: Olmstead, Jason
@@ -821,7 +821,7 @@ Win
 Place
 Show
 7
-First of 15
+First-of-15
 8.20
 5.20
 4.40
@@ -870,7 +870,7 @@ Start
 Str
 Fin
 7
-First of 15
+First-of-15
 1
 *
 11/2

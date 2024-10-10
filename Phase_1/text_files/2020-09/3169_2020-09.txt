@@ -742,7 +742,7 @@ BL b
 outrun
 9Sep20 12CBY4
 3
-Wicked 6 (Navarrete, Jr., Eugenio)
+Wicked-6 (Navarrete, Jr., Eugenio)
 125
 BL bfk
 3
@@ -863,7 +863,7 @@ Chicksfabulouscorona
 73 1/4
 63 1/4
 3
-Wicked 6
+Wicked-6
 9
 83 1/4
 73 1/2

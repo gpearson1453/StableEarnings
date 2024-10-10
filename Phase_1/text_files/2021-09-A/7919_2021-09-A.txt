@@ -754,7 +754,7 @@ Odds Ind. Time
 Sp. In. Comments
 21Aug21 6CAS2
 3
-Tellmshesa 10 (Canales, Jesus)
+Tellmshesa-10 (Canales, Jesus)
 123
 BL f
 3
@@ -793,7 +793,7 @@ B b
 winner too tough
 Run-Up: 0 feet
 Winner:
-Tellmshesa 10, Sorrel Filly, by Never Tell out of Hanging 10, by Wave Carver. Foaled May 01, 2018 in Idaho.
+Tellmshesa-10, Sorrel Filly, by Never Tell out of Hanging 10, by Wave Carver. Foaled May 01, 2018 in Idaho.
 Breeder: Ismael Mendoza
 Owner: Ismael Mendoza
 Trainer: Mendoza, Ismael
@@ -803,7 +803,7 @@ Win
 Place
 Show
 3
-Tellmshesa 10
+Tellmshesa-10
 5.40
 2.40
 2.20
@@ -832,7 +832,7 @@ Start
 Str
 Fin
 3
-Tellmshesa 10
+Tellmshesa-10
 2
 11/2
 11/2

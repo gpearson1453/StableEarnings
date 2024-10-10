@@ -949,7 +949,7 @@ BL bf
 big late kick for win
 21Aug21 6SWF6
 7
-La Pistola 03 (Carrillo, Daniel)
+La-Pistola-03 (Carrillo, Daniel)
 128
 BL
 7
@@ -1055,7 +1055,7 @@ Corona Wildfire
 3.20
 3.00
 7
-La Pistola 03
+La-Pistola-03
 10.40
 6.20
 8
@@ -1092,7 +1092,7 @@ Corona Wildfire
 1Head
 1Neck
 7
-La Pistola 03
+La-Pistola-03
 2
 2Head
 2Neck

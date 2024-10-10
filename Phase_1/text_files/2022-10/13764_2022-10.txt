@@ -1803,7 +1803,7 @@ Kiss Me Suzy (Dominguez, Sergio)
 chsd winner, 2nd best
 2Oct22 9WRD1
 8
-Lynnder 16 (Escobedo, Edwin)
+Lynnder-16 (Escobedo, Edwin)
 128 L f
 8
 7
@@ -1913,7 +1913,7 @@ Kiss Me Suzy
 9.80
 5.40
 8
-Lynnder 16
+Lynnder-16
 2.40
 Wager Type
 Winning Numbers
@@ -1962,7 +1962,7 @@ Kiss Me Suzy
 23/4
 21
 8
-Lynnder 16
+Lynnder-16
 7
 31
 31 1/4

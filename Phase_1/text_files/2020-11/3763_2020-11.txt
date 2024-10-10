@@ -2756,7 +2756,7 @@ Beach Mercedes, Bay Mare, by Escondido Beach out of Jess Alive Bully, by Feature
 Breeder: Sheri Miller
 Owner: Sheri Miller
 Trainer: Smith, Randy
-Scratched Horse(s): Yadi 1 (Veterinarian)
+Scratched Horse(s): Yadi-1 (Veterinarian)
 Total WPS Pool: $30,888
 Pgm Horse
 Win

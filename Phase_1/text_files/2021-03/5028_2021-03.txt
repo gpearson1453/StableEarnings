@@ -61,7 +61,7 @@ L bfk
 2nd flt,winner cleared
 11Mar21 7RP7
 7
-Picacho 369 (Esqueda, Cristian)
+Picacho-369 (Esqueda, Cristian)
 124
 L b
 6
@@ -105,7 +105,7 @@ Breeder: King Camden Running Horses Inc
 Owner: Jesus Ruben Ruiz-Chavez
 Trainer: Ruiz, Carlos
 Claiming Prices:
-4 - Peanuts Nv: $15,000; 2 - Nsm Disco Dancer: $15,000; 1 - Angels First Wagon: $15,000; 7 - Picacho 369: $15,000; 3
+4 - Peanuts Nv: $15,000; 2 - Nsm Disco Dancer: $15,000; 1 - Angels First Wagon: $15,000; 7 - Picacho-369: $15,000; 3
 - Stel Cartel: $15,000; 5 - Im Chasin Wagons: $15,000;
 Scratched Horse(s): Lofty Expectations (Trainer)
 Total WPS Pool: $6,280
@@ -162,7 +162,7 @@ Angels First Wagon
 41 3/4
 32
 7
-Picacho 369
+Picacho-369
 2
 21 1/2
 42 1/4

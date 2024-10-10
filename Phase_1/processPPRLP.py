@@ -51,6 +51,9 @@ def processPPRLP(PPRLP_text):
             values.pop(i + 1)
         i -= 1
     
+    #this is for debugging when testing specific files using testing_files
+    #print(values)
+    
     # Create a list of lists where each sublist contains the values for one horse
     val_array = []
     i = 0

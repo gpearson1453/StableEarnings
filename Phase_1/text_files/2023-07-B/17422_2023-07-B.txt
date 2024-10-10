@@ -2,7 +2,7 @@ AJAX DO*WNS - July 26, 2023 - Race 1
 ALLOWANCE - Quarter Horse
 For Three Year Olds and Upward Which have Finished Third or Lower in Their Last Three Consecutive Starts at Ajax Downs (last
 three starts must have been at Ajax Downs). ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $1,500 Starters Bonus
@@ -570,7 +570,7 @@ AJAX
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 95 And Under or With A Speed Index That Has Never Been
 Better Than 99. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,500
 Plus: $1,500 Starters Bonus
@@ -759,7 +759,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX[ DOWNS - July 26, 2023 - Race 5
 MAIDEN - Quarter Horse
 For Ontario Sired Maidens, Three Years Old and Upward. (S)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $1,500 Starters Bonus

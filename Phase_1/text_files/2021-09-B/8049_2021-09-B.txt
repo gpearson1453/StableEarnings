@@ -406,7 +406,7 @@ B b
 gate to wire
 5Sep21 6SWF2
 2
-La Pistola 03 (Carrillo, Daniel)
+La-Pistola-03 (Carrillo, Daniel)
 128
 BL f
 2
@@ -505,7 +505,7 @@ Pro Dream
 3.40
 3.20
 2
-La Pistola 03
+La-Pistola-03
 6.20
 5.40
 3
@@ -541,7 +541,7 @@ Pro Dream
 1Head
 1Neck
 2
-La Pistola 03
+La-Pistola-03
 3
 2Head
 2Neck

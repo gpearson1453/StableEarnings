@@ -1145,7 +1145,7 @@ Fast Dashin Logan (Ochoa, Alejandro)
 popped, in command
 15Oct21 3EVD3
 2
-Fast Sweet 8 (Trujillo, Mario)
+Fast-Sweet-8 (Trujillo, Mario)
 126 L bfk
 2
 5
@@ -1240,14 +1240,14 @@ Fast Dashin Logan, Brown Filly, by Heza Fast Dash out of Logans Game, by Game Pa
 Breeder: Triple M Farms Llc
 Owner: Fausto G. Mendoza
 Trainer: Huitron, Joel
-2 Claimed Horse(s): Fast Sweet 8
+2 Claimed Horse(s): Fast-Sweet-8
 New Trainer: Noe R. Sanchez
 New Owner: Javier Alvarez, Jr.
 Jj Idea Dash
 New Trainer: Noe R. Sanchez
 New Owner: Javier Alvarez, Jr.
 Claiming Prices:
-4 - Fast Dashin Logan: $10,000; 2 - Fast Sweet 8: $10,000; 5 - B Sweet: $10,000; 3 - Nota Ordinary Bear: $10,000; 9 -
+4 - Fast Dashin Logan: $10,000; 2 - Fast-Sweet-8: $10,000; 5 - B Sweet: $10,000; 3 - Nota Ordinary Bear: $10,000; 9 -
 Jla Easenatcha: $10,000; 8 - Jj Idea Dash: $10,000; 1 - Jrs Shining Fantasy: $10,000; 6 - Bayou Boogie Boy: $10,000;
 Scratched Horse(s): Jm Savior (Re-entered), She B in Your Dreams (Veterinarian)
 Total WPS Pool: $15,516
@@ -1261,7 +1261,7 @@ Fast Dashin Logan
 6.80
 4.60
 2
-Fast Sweet 8
+Fast-Sweet-8
 3.60
 2.60
 5
@@ -1304,7 +1304,7 @@ Fast Dashin Logan
 11
 13/4
 2
-Fast Sweet 8
+Fast-Sweet-8
 5
 21
 21

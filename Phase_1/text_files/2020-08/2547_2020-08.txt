@@ -1173,7 +1173,7 @@ Namgis Winner (Smith, Cody)
 off slow
 4Jul20 10RUI10
 1
-Dynasty Champ 123 (Alvarez, Jose)
+Dynasty-Champ-123 (Alvarez, Jose)
 126 L bfk
 1
 9
@@ -1293,7 +1293,7 @@ Namgis Winner
 84 1/4
 85 3/4
 1
-Dynasty Champ 123
+Dynasty-Champ-123
 9
 93 3/4
 96 1/4

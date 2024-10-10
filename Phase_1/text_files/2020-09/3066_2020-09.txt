@@ -845,7 +845,7 @@ Fake News (Dominguez, Uriel)
 even bid
 5Sep20 8SWF5
 4
-La Pistola 03 (Jimenez, Santiago)
+La-Pistola-03 (Jimenez, Santiago)
 126 BL b
 4
 5
@@ -984,7 +984,7 @@ Fake News
 53/4
 51 1/2
 4
-La Pistola 03
+La-Pistola-03
 5
 61
 63/4

@@ -1,7 +1,7 @@
 AJ[AX DOWNS - August 18, 2021 - Race 1
 MAIDEN - Quarter Horse
 FOR MAIDENS, TWO YEARS OLD. Weight, 120 lbs.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources
@@ -400,7 +400,7 @@ AJ?AX DOWNS - August 18, 2021 - Race 3
 ALLOWANCE - Quarter Horse
 FOR ONTARIO SIRED THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON THREE RACES. Weight, 120 lbs.
 (SNW3 L)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,500
 Plus: $2,000 Other Sources
@@ -727,7 +727,7 @@ L b
 second best
 19Oct20 6AJX3
 5
-Aj Chick in 15 (Jeschke, Cassandra)
+Aj-Chick-in-15 (Jeschke, Cassandra)
 128
 L bf
 5
@@ -811,7 +811,7 @@ Kk Blue Cartel
 5.30
 4.60
 5
-Aj Chick in 15
+Aj-Chick-in-15
 5.00
 Wager Type
 Winning Numbers
@@ -845,7 +845,7 @@ Kk Blue Cartel
 *
 21/2
 5
-Aj Chick in 15
+Aj-Chick-in-15
 1
 *
 33/4
@@ -1070,7 +1070,7 @@ AJAX
 ?DOWNS - August 18, 2021 - Race 7
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD OPEN. Weight, 120 lbs. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,000
 Plus: $6,000 Other Sources

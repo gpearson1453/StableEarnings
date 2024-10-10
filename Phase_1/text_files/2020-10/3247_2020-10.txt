@@ -2200,7 +2200,7 @@ Unbound Patriot (Rodriguez, Antonio)
 weakened
 9Sep20 11IND4
 3
-Air Born Jazz 2 (Reyes, Cristian)
+Air-Born-Jazz-2 (Reyes, Cristian)
 127 L bfk
 3
 1
@@ -2323,7 +2323,7 @@ Unbound Patriot
 83 3/4
 84 3/4
 3
-Air Born Jazz 2
+Air-Born-Jazz-2
 1
 81
 93 3/4
@@ -2418,7 +2418,7 @@ Beach Treat (Macias, Oscar)
 needed bid,missed show
 10Sep20 10IND2
 8
-Yadi 1 (Reyes, Cristian)
+Yadi-1 (Reyes, Cristian)
 131 L bfk
 8
 8
@@ -2550,7 +2550,7 @@ Beach Treat
 43
 42 3/4
 8
-Yadi 1
+Yadi-1
 8
 83
 54

@@ -3143,7 +3143,7 @@ bf
 lacked closing kick
 28Oct21 10IND3
 5
-Panchita 47 (Diaz, Edgar)
+Panchita-47 (Diaz, Edgar)
 126
 bk
 4
@@ -3266,7 +3266,7 @@ Bv Seleect Beach
 33/4
 31 1/2
 5
-Panchita 47
+Panchita-47
 5
 51 1/2
 41 3/4

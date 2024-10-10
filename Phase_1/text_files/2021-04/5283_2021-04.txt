@@ -2060,7 +2060,7 @@ L b
 no menace
 14Oct20 10IND5
 1
-Panchita 47 (Diaz, Edgar)
+Panchita-47 (Diaz, Edgar)
 126
 bk
 1
@@ -2190,7 +2190,7 @@ Beach Bum Letty
 72 1/4
 72
 1
-Panchita 47
+Panchita-47
 7
 82 1/4
 82 1/4

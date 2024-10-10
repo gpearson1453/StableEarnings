@@ -2354,7 +2354,7 @@ Jess a Hit (Candanosa, Bryan)
 no menace
 31Oct20 8LS6
 2
-DQ-Super Dominyun 911 (Rodriguez, Julio)
+DQ-Super-Dominyun-911 (Rodriguez, Julio)
 128 L b
 2
 2
@@ -2424,7 +2424,7 @@ Breeder: Stone Chase Stables Llc
 Owner: Christian Rubalcava
 Trainer: Ramirez, Jr., Saul
 Disqualification(s):
-# 2 Super Dominyun 911 from 6 to 10
+# 2 Super-Dominyun-911 from 6 to 10
 Total WPS Pool: $30,033
 Pgm Horse
 Win
@@ -2522,7 +2522,7 @@ Jess a Hit
 61
 53
 2
-Super Dominyun 911
+Super-Dominyun-911
 2
 4Neck
 43/4

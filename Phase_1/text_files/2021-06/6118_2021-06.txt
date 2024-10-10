@@ -2354,7 +2354,7 @@ Odds Ind. Time
 Sp. In. Comments
 21Nov20 8LA6
 1
-Lynnder 16 (Escobedo, Edwin)
+Lynnder-16 (Escobedo, Edwin)
 127
 L f
 1
@@ -2419,7 +2419,7 @@ L b
 awkward break
 Run-Up: 0 feet
 Winner:
-Lynnder 16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
+Lynnder-16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
 Breeder: James E and Marilyn Helzer
 Owner: Maher, Tom and Tobin, Richard L.
 Trainer: Olmstead, Jason
@@ -2429,7 +2429,7 @@ Win
 Place
 Show
 1
-Lynnder 16
+Lynnder-16
 3.40
 2.60
 2.10
@@ -2466,7 +2466,7 @@ Start
 Str
 Fin
 1
-Lynnder 16
+Lynnder-16
 1
 1Head
 1Head

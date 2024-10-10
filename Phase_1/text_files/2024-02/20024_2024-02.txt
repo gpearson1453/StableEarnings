@@ -1210,7 +1210,7 @@ Leave It to Corona (Ramirez, Esgar)
 bmpd st,bid,missed
 11Aug23 9RET6
 1
-Hes Just 44 (Benavides, Manuel)
+Hes-Just-44 (Benavides, Manuel)
 128 L bk
 1
 3
@@ -1306,7 +1306,7 @@ Breeder: Bertha Irigoyen
 Owner: Bertha S. Irigoyen
 Trainer: Saucedo, Rene
 Claiming Prices:
-10 - Jess Reyli Dash: $7,500; 3 - Leave It to Corona: $7,500; 1 - Hes Just 44: $7,500; 4 - Aint I a Jumping: $7,500; 5 -
+10 - Jess Reyli Dash: $7,500; 3 - Leave It to Corona: $7,500; 1 - Hes-Just-44: $7,500; 4 - Aint I a Jumping: $7,500; 5 -
 Golden Boy Ja: $7,500; 7 - Fs Eye Maxx: $7,500; 6 - Flyebye: $7,500; 9 - Wallstreet Prince: $7,500; 8 - Sg Seperate
 Twist: $7,500;
 Scratched Horse(s): Bar Hop N (Stewards), Eb Maria Bonita (Also-Eligible), Rc Flashn Coronita (Also-Eligible)
@@ -1325,7 +1325,7 @@ Leave It to Corona
 7.60
 4.80
 1
-Hes Just 44
+Hes-Just-44
 7.80
 Wager Type
 Winning Numbers
@@ -1362,7 +1362,7 @@ Leave It to Corona
 2Head
 2Neck
 1
-Hes Just 44
+Hes-Just-44
 3
 21/2
 31/2

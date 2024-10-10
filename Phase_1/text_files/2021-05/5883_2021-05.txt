@@ -289,7 +289,7 @@ bfk
 finished well
 30Apr21 5HOU7
 2
-Lucky Bux 222 (Sanchez, Eddie)
+Lucky-Bux-222 (Sanchez, Eddie)
 127
 L bk
 2
@@ -388,7 +388,7 @@ Trainer: Garcia, Arturo
 New Trainer: Janessa Lee Muniz
 New Owner: Patricia Franco Juarez
 Claiming Prices:
-7 - Texas Bonita Seis: $5,000; 5 - Paddie O Toole: $5,000; 9 - Louisiana Fun: $5,000; 2 - Lucky Bux 222: $5,000; 10 -
+7 - Texas Bonita Seis: $5,000; 5 - Paddie O Toole: $5,000; 9 - Louisiana Fun: $5,000; 2 - Lucky-Bux-222: $5,000; 10 -
 Rue Bees Cartel: $5,000; 1 - Stolin Coronas: $5,000; 3 - Stoli by and Bye: $5,000; 8 - One Sassy Mvp: $5,000; 4 - Ez
 La Bebe: $5,000; 6 - La Mariposa Star: $5,000;
 Total WPS Pool: $22,879
@@ -449,7 +449,7 @@ Louisiana Fun
 53/4
 33/4
 2
-Lucky Bux 222
+Lucky-Bux-222
 3
 2Head
 43/4

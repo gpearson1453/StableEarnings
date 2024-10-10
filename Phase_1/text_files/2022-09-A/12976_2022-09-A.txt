@@ -1,7 +1,7 @@
 AJ<AX DOWNS - September 4, 2022 - Race 1
 MAIDEN - Quarter Horse
 For Maidens, Two Years Old.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $5,000 Other Sources
@@ -137,7 +137,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJA<X DOWNS - September 4, 2022 - Race 2
 ALLOWANCE - Quarter Horse
 For Three Year Olds and Upward Which have finished Third or Lower in their Last Three Starts at Ajax Downs. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $5,000 Other Sources
@@ -300,7 +300,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DO<WNS - September 4, 2022 - Race 3
 MAIDEN - Quarter Horse
 For Maidens, Three Years Old and Upward.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $5,000 Other Sources
@@ -629,7 +629,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWNS/ - September 4, 2022 - Race 5
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 70 And Under. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $8,000
 Plus: $4,800 Other Sources
@@ -1218,7 +1218,7 @@ AJAX
 *DOWNS - September 4, 2022 - Race 8
 ALLOWANCE - Quarter Horse
 For Three Year Olds and Upward Open.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,000
 Plus: $5,000 Other Sources

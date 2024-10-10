@@ -924,7 +924,7 @@ Odds Ind. Time
 Sp. In. Comments
 18Aug24 3PRM1
 4
-Lynnder 16 (Garcia, Ramiro)
+Lynnder-16 (Garcia, Ramiro)
 124 L f
 3
 4
@@ -989,7 +989,7 @@ Charm (Teeter, Nakia)
 no impact
 Run-Up: 0 feet
 Winner:
-Lynnder 16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
+Lynnder-16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
 Breeder: James E and Marilyn Helzer
 Owner: Maher, Tom and Tobin, Richard L.
 Trainer: Olmstead, Jason
@@ -1000,7 +1000,7 @@ Win
 Place
 Show
 4
-Lynnder 16
+Lynnder-16
 2.40
 2.10
 2.10
@@ -1048,7 +1048,7 @@ Str 1
 Str
 Fin
 4
-Lynnder 16
+Lynnder-16
 4
 2Nose
 1Head

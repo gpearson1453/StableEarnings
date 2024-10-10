@@ -1,7 +1,7 @@
 A?JAX DOWNS - June 23, 2021 - Race 1
 MAIDEN - Quarter Horse
 FOR MAIDENS, TWO YEARS OLD. Weight, 120 lbs.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources
@@ -297,7 +297,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJA*X DOWNS - June 23, 2021 - Race 3
 MAIDEN - Quarter Horse
 FOR MAIDENS, THREE YEARS OLD AND UPWARD. Weight, 120 lbs.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources
@@ -457,7 +457,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 A/JAX DOWNS - June 23, 2021 - Race 4
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES. Weight, 120 lbs. (NW2 L)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $6,000 Other Sources
@@ -643,7 +643,7 @@ AJAX< DOWNS - June 23, 2021 - Race 5
 ALLOWANCE - Quarter Horse
 FOR ONTARIO SIRED THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES. Weight, 120 lbs. (SNW2
 L)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,000
 Plus: $2,000 Other Sources
@@ -825,7 +825,7 @@ AJAX D?OWNS - June 23, 2021 - Race 6
 OPTIONAL CLAIMING - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NOT WON TWO RACES SINCE JUNE 1, 2020 OR CLAIMING PRICE
 $10,000. Weight, 120 lbs. Claiming Price $10,000. ( C) Claiming Price: $10,000
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $6,000 Other Sources
@@ -970,7 +970,7 @@ AJAX DO?WNS - June 23, 2021 - Race 7
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH A SPEED INDEX THAT HAS NEVER BEEN BETTER THAN 90. Weight, 120 lbs.
 ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources
@@ -1129,7 +1129,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 A[JAX DOWNS - June 23, 2021 - Race 8
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD OPEN. Weight, 120 lbs.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,000
 Plus: $6,000 Other Sources

@@ -503,7 +503,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWN<S - July 28, 2021 - Race 4
 MAIDEN - Quarter Horse
 FOR MAIDENS, TWO YEARS OLD. Weight, 120 lbs.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources
@@ -708,7 +708,7 @@ DERBY TRIAL Ontario Bred Derby Trial - Quarter Horse
 FOR NOMINATED ONTARIO BRED (PROGRAM REGISTERED) THREE YEAR OLDS, SEEKING TO QUALIFY TO THE FINAL,
 CONTESTED ON WED, AUG 11/21 (10 FASTEST QUALIFIERS). For Nomination and Sustaining Payment details, see QROOI
 Stakes Book. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $2,000 Other Sources
@@ -931,7 +931,7 @@ DERBY TRIAL Ontario Bred Derby Trial - Quarter Horse
 FOR NOMINATED ONTARIO BRED (PROGRAM REGISTERED) THREE YEAR OLDS, SEEKING TO QUALIFY TO THE FINAL,
 CONTESTED ON WED, AUG 11/21 (10 FASTEST QUALIFIERS). For Nomination and Sustaining Payment details, see QROOI
 Stakes Book. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $2,000 Other Sources
@@ -1420,7 +1420,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOW<NS - July 28, 2021 - Race 8
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES. Weight, 120 lbs. (NW2 L)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $6,000 Other Sources
@@ -1622,7 +1622,7 @@ AJAX
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES OTHER THAN MAIDEN, CLAIMING,
 STARTER, TRIAL OR SPEED INDEX. Weight, 120 lbs. (NW2 X)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $6,000 Other Sources

@@ -1448,7 +1448,7 @@ BL b
 stumbled break
 26Jun21 3EDR6
 3
-La Pistola 03 (Carrillo, Daniel)
+La-Pistola-03 (Carrillo, Daniel)
 133
 BL b
 3
@@ -1567,7 +1567,7 @@ Gg Hollywood
 82 1/2
 85
 3
-La Pistola 03
+La-Pistola-03
 8
 92 3/4
 95 1/4

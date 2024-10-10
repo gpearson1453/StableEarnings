@@ -1,7 +1,7 @@
 AJAX? DOWNS - July 6, 2022 - Race 1
 MAIDEN - Quarter Horse
 For Ontario Bred Maidens, Two Years Old. (S)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $2,000 Other Sources
@@ -775,7 +775,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX/ DOWNS - July 6, 2022 - Race 5
 MAIDEN - Quarter Horse
 For Maidens, Three Years Old and Upward.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $5,000 Other Sources
@@ -1145,7 +1145,7 @@ FUTURITY Ontario Bred Futurity - Quarter Horse
 FOR ONTARIO BRED (PROGRAM REGISTERED) TWO YEAR OLDS, WHICH NOMINATED TO, AND QUALIFIED FROM, THE
 TIME TRIALS (IF NECESSARY) CONTESTED ON WED, JUNE 15/21 (10 FASTEST QUALIFIERS, REGARDLESS OF TRIAL).
 For further Stakes Race details and Payout Percentages, see QROOI Stakes Book. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $63,360 Added
 Available Money: $63,360

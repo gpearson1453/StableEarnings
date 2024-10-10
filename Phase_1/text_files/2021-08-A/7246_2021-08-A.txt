@@ -884,7 +884,7 @@ Docs Fast Scat (Dominguez, Joe)
 solid effort
 17Jul21 6WYO9
 1
-La Pistola 03 (Carrillo, Daniel)
+La-Pistola-03 (Carrillo, Daniel)
 131 BL b
 1
 7
@@ -1027,7 +1027,7 @@ Docs Fast Scat
 51/2
 51
 1
-La Pistola 03
+La-Pistola-03
 7
 61/2
 63/4

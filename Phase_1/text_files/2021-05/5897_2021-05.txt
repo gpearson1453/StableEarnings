@@ -1408,7 +1408,7 @@ L b
 bmp st,drifted out 1/8
 25Oct20 8LA6
 1
-Gulfstream 650 (Lopez, Henry)
+Gulfstream-650 (Lopez, Henry)
 124
 L b
 1
@@ -1528,7 +1528,7 @@ Wowzers
 43/4
 3Head
 1
-Gulfstream 650
+Gulfstream-650
 4
 2Neck
 41/2

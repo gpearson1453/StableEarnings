@@ -183,7 +183,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJA/X DOWNS - September 2, 2020 - Race 2
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 80 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $5,400 Other Sources
@@ -368,7 +368,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJA[X DOWNS - September 2, 2020 - Race 3
 MAIDEN - Quarter Horse
 FOR MAIDENS, TWO YEARS OLD. Weight, 120 lbs.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources
@@ -759,7 +759,7 @@ AJAX
 <DOWNS - September 2, 2020 - Race 5
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 70 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $8,000
 Plus: $4,800 Other Sources
@@ -997,7 +997,7 @@ Odds Ind. Time
 Sp. In. Comments
 19Aug20 8AJX1
 1
-Country Boy 123 (Walton, Ed)
+Country-Boy-123 (Walton, Ed)
 132 L b
 1
 1
@@ -1062,7 +1062,7 @@ Maryland Magic (Cruz, Jose)
 slightly taken
 Run-Up: 0 feet
 Winner:
-Country Boy 123, Bay Gelding, by Country Chicks Man out of Very Dashin 123, by Dash Thru Traffic. Foaled Feb 26, 2013 in Michigan.
+Country-Boy-123, Bay Gelding, by Country Chicks Man out of Very Dashin 123, by Dash Thru Traffic. Foaled Feb 26, 2013 in Michigan.
 Breeder: Carolyn C Bay
 Owner: Ruth F. Barbour
 Trainer: Barbour, Ruth
@@ -1072,7 +1072,7 @@ Win
 Place
 Show
 1
-Country Boy 123
+Country-Boy-123
 2.10
 2.10
 2.10
@@ -1102,7 +1102,7 @@ Str 1
 Str
 Fin
 1
-Country Boy 123
+Country-Boy-123
 1
 11
 11
@@ -1141,7 +1141,7 @@ AJAX DOWN*S - September 2, 2020 - Race 7
 OPTIONAL CLAIMING - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NOT WON A RACE SINCE SEPTEMBER 1, 2019 OR CLAIMING PRICE
 $7,000. Weight, 120 lbs. Claiming Price $7,000. (NW1 Y) Claiming Price: $7,000
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources
@@ -1557,7 +1557,7 @@ DERBY Ontario Bred Derby - Quarter Horse
 FOR ONTARIO BRED (PROGRAM REGISTERED) THREE YEAR OLDS, WHICH NOMINATED TO, AND QUALIFIED FROM THE
 TIME TRIALS (IF NECESSARY), CONTESTED ON WEDNESDAY, AUGUST 19/20 (10 FASTEST QUALIFIERS). Please see
 QROOI Stakes Book for Nomination and Payout Percentagedetails. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $56,300 Added
 Available Money: $56,300

@@ -2138,7 +2138,7 @@ L bfk
 rally,drift in,best
 22Oct20 10EVD3
 5
-Mag 1 (Cabrera, Rolando)
+Mag-1 (Cabrera, Rolando)
 126
 L bf
 4
@@ -2245,7 +2245,7 @@ Sheza Freighttrain T
 3.80
 2.60
 5
-Mag 1
+Mag-1
 5.20
 3.80
 3
@@ -2294,7 +2294,7 @@ Sheza Freighttrain T
 31/2
 11/2
 5
-Mag 1
+Mag-1
 3
 21/2
 21/2

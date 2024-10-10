@@ -161,7 +161,7 @@ AJAX
 <DOWNS - May 18, 2022 - Race 2
 ALLOWANCE - Quarter Horse
 For Ontario Sired Three Year Olds and Upward Which Have Never Won Two Races. (SNW2 L)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,000
 Plus: $2,000 Other Sources
@@ -323,7 +323,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 A?JAX DOWNS - May 18, 2022 - Race 3
 MAIDEN - Quarter Horse
 For Maidens, Three Years Old and Upward.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $5,000 Other Sources
@@ -685,7 +685,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJ/AX DOWNS - May 18, 2022 - Race 5
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 80 And Under. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $5,000 Other Sources
@@ -844,7 +844,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWNS* - May 18, 2022 - Race 6
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 90 And Under. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $5,000 Other Sources

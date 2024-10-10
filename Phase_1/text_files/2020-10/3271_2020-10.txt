@@ -1362,7 +1362,7 @@ Threefamousdiamonds (Cervantes, Armando)
 finished well
 11Sep20 7LA3
 2
-Gulfstream 650 (Peinado, Oscar)
+Gulfstream-650 (Peinado, Oscar)
 124 L b
 2
 1
@@ -1434,7 +1434,7 @@ Threefamousdiamonds
 5.20
 3.40
 2
-Gulfstream 650
+Gulfstream-650
 2.10
 Wager Type
 Winning Numbers
@@ -1494,7 +1494,7 @@ Threefamousdiamonds 3
 31
 21 1/4
 2
-Gulfstream 650
+Gulfstream-650
 1
 1Head
 23/4

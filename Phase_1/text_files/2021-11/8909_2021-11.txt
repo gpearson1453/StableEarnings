@@ -1919,7 +1919,7 @@ Cat Daddys Lil Girl (Garcia, Jr., Noe)
 bump st, in tight late
 23Oct21 7ALB4
 10
-Lynnder 16 (Escobedo, Edwin)
+Lynnder-16 (Escobedo, Edwin)
 125 L f
 10
 1
@@ -2096,7 +2096,7 @@ Cat Daddys Lil Girl
 51/2
 41
 10
-Lynnder 16
+Lynnder-16
 1
 2Neck
 3Neck

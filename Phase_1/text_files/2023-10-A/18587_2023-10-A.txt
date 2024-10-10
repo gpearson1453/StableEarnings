@@ -1545,7 +1545,7 @@ Odds Ind. Time
 Sp. In. Comments
 12Sep23 2WRD1
 10
-Lynnder 16 (Escobedo, Edwin)
+Lynnder-16 (Escobedo, Edwin)
 126 L f
 9
 2
@@ -1662,7 +1662,7 @@ Bv Living for Love (Salazar, Jesus)
 shied from rival
 Run-Up: 0 feet
 Winner:
-Lynnder 16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
+Lynnder-16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
 Breeder: James E and Marilyn Helzer
 Owner: Maher, Tom and Tobin, Richard L.
 Trainer: Olmstead, Jason
@@ -1673,7 +1673,7 @@ Win
 Place
 Show
 10
-Lynnder 16
+Lynnder-16
 3.00
 2.10
 2.10
@@ -1715,7 +1715,7 @@ Str 1
 Str
 Fin
 10
-Lynnder 16
+Lynnder-16
 2
 2Nose
 1Neck

@@ -2114,7 +2114,7 @@ Rotsi (Lusk, Tyson)
 broke alertly
 24Sep22 9SWF3
 7
-La Pistola 03 (De La Torre, Julio)
+La-Pistola-03 (De La Torre, Julio)
 128 BL b
 6
 4
@@ -2235,7 +2235,7 @@ Rotsi
 63/4
 72
 7
-La Pistola 03
+La-Pistola-03
 4
 51/2
 81 3/4

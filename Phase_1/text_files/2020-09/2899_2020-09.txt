@@ -2441,7 +2441,7 @@ Beach Treat (Macias, Oscar)
 pressed,bid late,drvg
 20Aug20 10IND6
 9
-Yadi 1 (Reyes, Cristian)
+Yadi-1 (Reyes, Cristian)
 128 L bfk
 9
 8
@@ -2560,7 +2560,7 @@ Beach Treat
 2.40
 2.20
 9
-Yadi 1
+Yadi-1
 4.80
 3.80
 7
@@ -2607,7 +2607,7 @@ Beach Treat
 11
 13/4
 9
-Yadi 1
+Yadi-1
 8
 92
 31

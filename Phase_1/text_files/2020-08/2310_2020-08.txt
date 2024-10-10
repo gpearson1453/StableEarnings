@@ -912,7 +912,7 @@ bf
 clean trip drew off
 5Jul20 8GIL5
 7
-Hes Just 44 (Fierro, Rodolfo)
+Hes-Just-44 (Fierro, Rodolfo)
 124
 L bf
 7
@@ -1044,7 +1044,7 @@ Golly Jess
 5.80
 4.60
 7
-Hes Just 44
+Hes-Just-44
 5.20
 4.40
 9
@@ -1077,7 +1077,7 @@ Golly Jess
 11
 12
 7
-Hes Just 44
+Hes-Just-44
 3
 21
 22

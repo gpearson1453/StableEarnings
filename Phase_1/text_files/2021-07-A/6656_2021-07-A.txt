@@ -1,7 +1,7 @@
 AJ/AX DOWNS - July 7, 2021 - Race 1
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 75 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $8,500
 Plus: $5,100 Other Sources
@@ -159,7 +159,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 A/JAX DOWNS - July 7, 2021 - Race 2
 MAIDEN - Quarter Horse
 FOR ONTARIO SIRED MAIDENS, THREE YEARS OLD AND UPWARD. Weight, 120 lbs. (S)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $2,000 Other Sources
@@ -372,7 +372,7 @@ AJAX
 <DOWNS - July 7, 2021 - Race 3
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 85 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,500
 Plus: $5,700 Other Sources
@@ -743,7 +743,7 @@ AJAX DOW<NS - July 7, 2021 - Race 5
 OPTIONAL CLAIMING - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NOT WON TWO RACES SINCE JUNE 1, 2020 OR CLAIMING PRICE
 $10,000. Weight, 120 lbs. Claiming Price $10,000. (NW2 Y) Claiming Price: $10,000
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $6,000 Other Sources
@@ -905,7 +905,7 @@ MATURITY Picov Maturity - Quarter Horse
 FOR FOUR YEAR OLDS & UPWARD, WHICH NOMINATED TO, AND QUALIFIED FROM, THE TIME TRIALS CONTESTED ON
 WED, JUNE 23/21 (10 FASTEST QUALIFIERS). For Further Stakes Race details, Nominations and Payout Percentages, see the
 QROOI Stakes Book.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $30,600 Added
 Available Money: $30,600

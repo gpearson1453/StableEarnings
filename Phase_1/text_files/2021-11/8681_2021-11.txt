@@ -117,7 +117,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJ/AX DOWNS - November 3, 2021 - Race 2
 MAIDEN - Quarter Horse
 For Maidens, Two Years Old.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $6,000 Other Sources
@@ -345,7 +345,7 @@ L b
 just missed
 20Oct21 8AJX4
 5
-Aj Chick in 15 (Botello, J.)
+Aj-Chick-in-15 (Botello, J.)
 134
 L bf
 5
@@ -403,7 +403,7 @@ Fast Streakin Nick
 7.00
 5.60
 5
-Aj Chick in 15
+Aj-Chick-in-15
 2.40
 Wager Type
 Winning Numbers
@@ -437,7 +437,7 @@ Fast Streakin Nick
 *
 2Nose
 5
-Aj Chick in 15
+Aj-Chick-in-15
 5
 *
 3Neck
@@ -801,7 +801,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DO*WNS - November 3, 2021 - Race 6
 MAIDEN - Quarter Horse
 For Maidens, Three Years Old and Upward.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $6,000 Other Sources
@@ -959,7 +959,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWN*S - November 3, 2021 - Race 7
 MAIDEN - Quarter Horse
 For Ontario Bred Maidens, Three Years Old and Upward. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,000
 Plus: $2,000 Other Sources
@@ -1311,7 +1311,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOW*NS - November 3, 2021 - Race 9
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 75 And Under. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,500
 Plus: $5,700 Other Sources

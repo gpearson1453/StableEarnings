@@ -263,7 +263,7 @@ Odds Ind. Time
 Sp. In. Comments
 24Jun20 1POD1
 9
-I R a Lacey J 2 (Valenzuela, Jesus)
+I-R-a-Lacey-J-2 (Valenzuela, Jesus)
 124 BL b
 8
 1
@@ -367,7 +367,7 @@ Mini Summer (Marin, Never)
 no excuse
 Run-Up: 0 feet
 Winner:
-I R a Lacey J 2, Brown Filly, by Apollitical Blood out of Lacey Js Little Sis, by Carters Cartel. Foaled Feb 12, 2018 in Colorado.
+I-R-a-Lacey-J-2, Brown Filly, by Apollitical Blood out of Lacey Js Little Sis, by Carters Cartel. Foaled Feb 12, 2018 in Colorado.
 Breeder: Sam Allie
 Owner: Sam Allie Jr.
 Trainer: Moosman, Riley
@@ -380,7 +380,7 @@ Win
 Place
 Show
 9
-I R a Lacey J 2
+I-R-a-Lacey-J-2
 5.20
 3.20
 2.80
@@ -426,7 +426,7 @@ Str 1
 Str
 Fin
 9
-I R a Lacey J 2
+I-R-a-Lacey-J-2
 1
 13/4
 11
@@ -749,7 +749,7 @@ Odds Ind. Time
 Sp. In. Comments
 19Jul20 1WYO3
 1
-Gulfstream 650 (Dominguez, Uriel)
+Gulfstream-650 (Dominguez, Uriel)
 124 BL b
 1
 2
@@ -866,7 +866,7 @@ Perfect Specimen (Cervantes, Oscar)
 bothered by foe
 Run-Up: 0 feet
 Winner:
-Gulfstream 650, Sorrel Gelding, by Foose out of Cowgirls Gone Wild, by Tr Dasher. Foaled Feb 25, 2018 in California.
+Gulfstream-650, Sorrel Gelding, by Foose out of Cowgirls Gone Wild, by Tr Dasher. Foaled Feb 25, 2018 in California.
 Breeder: John Allan Creager & June Rust
 Owner: Creager, John Allen and Rust, June
 Trainer: Hall, Dru
@@ -878,7 +878,7 @@ Win
 Place
 Show
 1
-Gulfstream 650
+Gulfstream-650
 20.60
 4.60
 3.80
@@ -916,7 +916,7 @@ Str 1
 Str
 Fin
 1
-Gulfstream 650
+Gulfstream-650
 2
 1Nose
 1Nose

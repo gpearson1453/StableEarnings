@@ -1,7 +1,7 @@
 AJA*X DOWNS - July 31, 2024 - Race 1
 MAIDEN - Quarter Horse
 For Maidens, Two Years Old.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $1,500 Starters Bonus
@@ -161,7 +161,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWN<S - July 31, 2024 - Race 2
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With A Speed Index That Has Never Been Better Than 85. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,500
 Plus: $1,500 Starters Bonus
@@ -871,7 +871,7 @@ FUTURITY Ontario Bred Futurity - Quarter Horse
 FOR ONTARIO BRED (PROGRAM REGISTERED) TWO YEAR OLDS, WHICH NOMINATED TO, AND QUALIFIED FROM, THE
 TIME TRIALS CONTESTED ON WED, JULY 10 (10 FASTEST QUALIFIERS, REGARDLESS OF TRIAL). For further Stakes Race
 details and Payout Percentages, see QROOI StakesBook. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $59,265 Added
 Available Money: $59,265
@@ -1098,7 +1098,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWN?S - July 31, 2024 - Race 7
 MAIDEN - Quarter Horse
 For Ontario Bred Maidens, Three Years Old and Upward. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $1,500 Starters Bonus

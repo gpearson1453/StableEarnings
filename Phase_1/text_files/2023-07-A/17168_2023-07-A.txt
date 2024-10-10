@@ -375,7 +375,7 @@ FUTURITY TRIAL Ontario Bred Futurity Trial - Quarter Horse
 FOR NOMINATED ONTARIO BRED (PROGRAM REGISTERED) TWO YEAR OLDS, SEEKING TO QUALIFY TO THE FINAL,
 CONTESTED ON WED, AUG 2 (10 FASTEST QUALIFIERS, REGARDLESS OF TRIAL). For Nomination Payments and further
 Stakes Race details, see the QROOI Stakes Book. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $1,500 Starters Bonus
@@ -523,7 +523,7 @@ FUTURITY TRIAL Ontario Bred Futurity Trial - Quarter Horse
 FOR NOMINATED ONTARIO BRED (PROGRAM REGISTERED) TWO YEAR OLDS, SEEKING TO QUALIFY TO THE FINAL,
 CONTESTED ON WED, AUG 2 (10 FASTEST QUALIFIERS, REGARDLESS OF TRIAL). For Nomination Payments and further
 Stakes Race details, see the QROOI Stakes Book. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $1,500 Starters Bonus
@@ -801,7 +801,7 @@ Shaken (Jeschke, Cassandra)
 stumbled start
 Run-Up: 0 feet
 Winner:
-Valiant Chick Insnow, Brown Filly, by Valiant Hero out of Aj Chick in 15, by Apollitical Jess. Foaled Feb 13, 2020 in Oklahoma.
+Valiant Chick Insnow, Brown Filly, by Valiant Hero out of Aj-Chick-in-15, by Apollitical Jess. Foaled Feb 13, 2020 in Oklahoma.
 Breeder: Milena Kwiecien
 Owner: Milena Kwiecien
 Trainer: Pascoe, Jason
@@ -900,7 +900,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJA*X DOWNS - July 12, 2023 - Race 6
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 75 And Under. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $8,500
 Plus: $1,500 Starters Bonus

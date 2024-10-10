@@ -1856,7 +1856,7 @@ BL bf
 drifted out
 18Apr21 11WBR1
 6
-Jr Hiway 93 (Vera, Gerardo)
+Jr-Hiway-93 (Vera, Gerardo)
 124
 BL b
 5
@@ -1935,7 +1935,7 @@ Skyywalker
 72
 74
 6
-Jr Hiway 93
+Jr-Hiway-93
 8
 81/2
 82

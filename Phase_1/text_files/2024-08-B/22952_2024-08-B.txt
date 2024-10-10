@@ -1411,7 +1411,7 @@ Gg Ocean King (Cardenas, Jacob)
 late effort outside
 23Aug24 5SWF5
 2
-La Pistola 03 (Carrillo, Daniel)
+La-Pistola-03 (Carrillo, Daniel)
 130 BL bf
 2
 3
@@ -1572,7 +1572,7 @@ Gg Ocean King
 4Head
 31
 2
-La Pistola 03
+La-Pistola-03
 3
 1Nose
 3Head

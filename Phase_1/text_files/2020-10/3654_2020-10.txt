@@ -669,7 +669,7 @@ Doriann (Valenzuela, Luis)
 up close, outfinished
 26Sep20 6LA4
 7
-Hangar 24 (Andrade, Jr., Oscar)
+Hangar-24 (Andrade, Jr., Oscar)
 124 b
 6
 6
@@ -700,7 +700,7 @@ Breeder: Edward or Theresa Denike
 Owner: Omar Sandoval
 Trainer: Viramontes, Rodolfo
 Claiming Prices:
-3 - Mini Speights: $8,000; 1 - Fire Sunset: $8,000; 6 - Hitters Last Swing: $8,000; 5 - Doriann: $8,000; 7 - Hangar 24:
+3 - Mini Speights: $8,000; 1 - Fire Sunset: $8,000; 6 - Hitters Last Swing: $8,000; 5 - Doriann: $8,000; 7 - Hangar-24:
 $8,000; 4 - Pappaslileagle: $8,000;
 Scratched Horse(s): Up for Kids (Veterinarian)
 Total WPS Pool: $33,564
@@ -775,7 +775,7 @@ Doriann
 33/4
 42 1/4
 7
-Hangar 24
+Hangar-24
 6
 61 1/2
 61 1/4

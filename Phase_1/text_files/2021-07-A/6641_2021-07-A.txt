@@ -2052,7 +2052,7 @@ Reminder: You must be an AQHA member to compete in any Challenge race. More Info
 Challenge Hotline at (877) 222-7223. A trophy will be presented to the winning owner. The final purse will be reduced by the cost of
 any Out of Competition testing required by the Minnesota Racing Commission as a condition of competing in this race. Trials to be
 run Tuesday, June 22.
-Distance: Four Hundred Yards On The Dirt Current Track Record: (Lynnder 16 - 19.560 - July 14, 2022)
+Distance: Four Hundred Yards On The Dirt Current Track Record: (Lynnder-16 - 19.560 - July 14, 2022)
 Purse: $38,615 Added
 Includes: $12,000 Mystic Lake Purse Enhancement Fund
 Includes: $10,000 MBNA Racing Challenge
@@ -2072,7 +2072,7 @@ Odds Ind. Time
 Sp. In. Comments
 9Jun21 11CBY1
 7
-Lynnder 16 (Escobedo, Edwin)
+Lynnder-16 (Escobedo, Edwin)
 127 L f
 7
 4
@@ -2163,7 +2163,7 @@ Features Finest Kind (Martinez, L.)
 bumped st, gave way
 Run-Up: 0 feet
 Winner:
-Lynnder 16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
+Lynnder-16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
 Breeder: James E and Marilyn Helzer
 Owner: Maher, Tom and Tobin, Richard L.
 Trainer: Olmstead, Jason
@@ -2173,7 +2173,7 @@ Win
 Place
 Show
 7
-Lynnder 16
+Lynnder-16
 3.80
 2.20
 2.10
@@ -2215,7 +2215,7 @@ Str 1
 Str
 Fin
 7
-Lynnder 16
+Lynnder-16
 4
 2Head
 2Head

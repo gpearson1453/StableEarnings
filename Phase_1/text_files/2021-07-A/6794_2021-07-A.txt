@@ -2536,7 +2536,7 @@ L bfk
 no threat, mid-pack
 21Jun21 10IND7
 7
-Panchita 47 (Vazquez-Gomez, Giovani)
+Panchita-47 (Vazquez-Gomez, Giovani)
 130
 bfk
 7
@@ -2655,7 +2655,7 @@ Ima Travelin Soldier
 51 1/2
 51 1/4
 7
-Panchita 47
+Panchita-47
 6
 62
 61 1/2

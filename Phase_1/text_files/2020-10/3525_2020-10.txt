@@ -2301,7 +2301,7 @@ L bfk
 broke out, clear 2nd
 3Oct20 9EVD4
 7
-Mag 1 (Cabrera, Rolando)
+Mag-1 (Cabrera, Rolando)
 128
 L bf
 6
@@ -2386,7 +2386,7 @@ The Cazador
 3.60
 2.10
 7
-Mag 1
+Mag-1
 2.20
 Wager Type
 Winning Numbers
@@ -2436,7 +2436,7 @@ The Cazador
 1Head
 2Neck
 7
-Mag 1
+Mag-1
 7
 51 1/4
 31 1/2

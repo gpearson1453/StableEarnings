@@ -1280,7 +1280,7 @@ BL bf
 late interest
 9Aug20 5ONE5
 1
-Tellmshesa 10 (Afanador, Jesus)
+Tellmshesa-10 (Afanador, Jesus)
 124
 BL
 1
@@ -1364,7 +1364,7 @@ Coronados Fantasy
 4.40
 3.20
 1
-Tellmshesa 10
+Tellmshesa-10
 4.20
 Wager Type
 Winning Numbers
@@ -1398,7 +1398,7 @@ Coronados Fantasy
 2Head
 2Neck
 1
-Tellmshesa 10
+Tellmshesa-10
 6
 33/4
 31 1/2

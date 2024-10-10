@@ -2253,7 +2253,7 @@ L bk
 even run, no threat
 4Aug20 10IND3
 10
-Panchita 47 (Gilliard, Richard)
+Panchita-47 (Gilliard, Richard)
 127
 bk
 9
@@ -2399,7 +2399,7 @@ Jess B Zoomin
 41 1/2
 41 1/4
 10
-Panchita 47
+Panchita-47
 3
 52 1/2
 52 1/2

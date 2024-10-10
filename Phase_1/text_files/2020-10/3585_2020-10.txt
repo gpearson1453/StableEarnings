@@ -1391,7 +1391,7 @@ Threefamousdiamonds (Cervantes, Armando)
 steady effort
 4Oct20 8LA3
 2
-Gulfstream 650 (Peinado, Oscar)
+Gulfstream-650 (Peinado, Oscar)
 124 L b
 2
 2
@@ -1554,7 +1554,7 @@ Threefamousdiamonds 5
 51 1/2
 52 1/2
 2
-Gulfstream 650
+Gulfstream-650
 2
 2Neck
 41 1/4

@@ -1312,7 +1312,7 @@ Vendication, Bay Gelding, by Docs Best Card out of Thecoronapartygirl, by The Co
 Breeder: Ron Bybee
 Owner: Omar Hernandez
 Trainer: Sanchez, Angel
-Scratched Horse(s): Super Dominyun 911 (Gate)
+Scratched Horse(s): Super-Dominyun-911 (Gate)
 Total WPS Pool: $50,778
 Pgm Horse
 Win
@@ -2293,7 +2293,7 @@ Wagons Dash, Bay Gelding, by Pyc Paint Your Wagon out of Breitling Time, by Fish
 Breeder: Flag Ranch Llc
 Owner: Edward H. Scott
 Trainer: Long, Eric
-Scratched Horse(s): Mighty Oh 5 (Veterinarian)
+Scratched Horse(s): Mighty-Oh-5 (Veterinarian)
 Total WPS Pool: $31,796
 Pgm Horse
 Win

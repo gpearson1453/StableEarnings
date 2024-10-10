@@ -2053,7 +2053,7 @@ L bf
 no match, saved place
 16Sep21 9IND6
 8
-Panchita 47 (Diaz, Edgar)
+Panchita-47 (Diaz, Edgar)
 126
 bk
 8
@@ -2179,7 +2179,7 @@ Secret Eyes
 6.40
 3.80
 8
-Panchita 47
+Panchita-47
 4.00
 Wager Type
 Winning Numbers
@@ -2225,7 +2225,7 @@ Secret Eyes
 21 1/2
 21 1/2
 8
-Panchita 47
+Panchita-47
 3
 31 1/2
 31 3/4

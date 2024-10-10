@@ -1158,7 +1158,7 @@ Jjs Dashin Now (Moreno, Cesar)
 evenly effort
 18Jul20 4WYO4
 8
-La Pistola 03 (Dominguez, Uriel)
+La-Pistola-03 (Dominguez, Uriel)
 126 BL bf
 8
 8
@@ -1294,7 +1294,7 @@ Jjs Dashin Now
 61 1/2
 63
 8
-La Pistola 03
+La-Pistola-03
 8
 73/4
 71 3/4

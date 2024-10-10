@@ -1040,7 +1040,7 @@ Fortunes Wild Blood (Teeter, Nakia)
 late surge
 16Jul21 9POD3
 3
-Jr Hiway 93 (Vera, Gerardo)
+Jr-Hiway-93 (Vera, Gerardo)
 128 BL b
 3
 3
@@ -1163,7 +1163,7 @@ Fortunes Wild Blood
 4.60
 5.20
 3
-Jr Hiway 93
+Jr-Hiway-93
 5.00
 Wager Type
 Winning Numbers
@@ -1200,7 +1200,7 @@ Fortunes Wild Blood
 21 1/2
 22
 3
-Jr Hiway 93
+Jr-Hiway-93
 3
 21
 31 1/2

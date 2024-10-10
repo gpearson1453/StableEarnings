@@ -87,7 +87,7 @@ L b
 even throughout
 5Dec21 10LA1
 6
-Gulfstream 650 (Lozano, Ruben)
+Gulfstream-650 (Lozano, Ruben)
 126
 L b
 5
@@ -199,7 +199,7 @@ Apollitical J One
 53/4
 51
 6
-Gulfstream 650
+Gulfstream-650
 3
 61 1/4
 61 1/2

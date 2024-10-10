@@ -1025,7 +1025,7 @@ BL b
 mid bid
 7Aug21 4WYO6
 4
-La Pistola 03 (Bobroff, Jacquelyn)
+La-Pistola-03 (Bobroff, Jacquelyn)
 128
 BL f
 4
@@ -1149,7 +1149,7 @@ Makn Diamonds
 71
 52 1/4
 4
-La Pistola 03
+La-Pistola-03
 7
 81
 63 1/4

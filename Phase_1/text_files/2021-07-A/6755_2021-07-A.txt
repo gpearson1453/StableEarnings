@@ -698,7 +698,7 @@ Hold On Hez Fast (Ransom, Bobby)
 evenly,bled,van off
 9Jun21 8DED5
 5
-Fast Sweet 8 (Trujillo, Mario)
+Fast-Sweet-8 (Trujillo, Mario)
 126 L bfk
 5
 7
@@ -840,7 +840,7 @@ Hold On Hez Fast
 51 3/4
 41 1/2
 5
-Fast Sweet 8
+Fast-Sweet-8
 7
 61 3/4
 61 3/4

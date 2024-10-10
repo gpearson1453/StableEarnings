@@ -1783,7 +1783,7 @@ Odds Ind. Time
 Sp. In. Comments
 10Apr22 9LA1
 2
-Gulfstream 650 (Lozano, Ruben)
+Gulfstream-650 (Lozano, Ruben)
 126
 L b
 2
@@ -1900,7 +1900,7 @@ L b
 unprepared start
 Run-Up: 0 feet
 Winner:
-Gulfstream 650, Sorrel Gelding, by Foose out of Cowgirls Gone Wild, by Tr Dasher. Foaled Feb 25, 2018 in California.
+Gulfstream-650, Sorrel Gelding, by Foose out of Cowgirls Gone Wild, by Tr Dasher. Foaled Feb 25, 2018 in California.
 Breeder: John Allan Creager & June Rust
 Owner: Eleazar Gonzalez
 Trainer: Zamudio, Valentin
@@ -1910,7 +1910,7 @@ Win
 Place
 Show
 2
-Gulfstream 650
+Gulfstream-650
 4.80
 3.20
 2.40
@@ -1968,7 +1968,7 @@ Start
 Str
 Fin
 2
-Gulfstream 650
+Gulfstream-650
 1
 11
 11/2

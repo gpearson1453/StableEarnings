@@ -3025,7 +3025,7 @@ Cat Daddys Lil Girl (Garcia, Jr., Noe)
 speed, caught
 15Aug20 5RUI1
 4
-Lynnder 16 (Ramirez, Jr., Raul)
+Lynnder-16 (Ramirez, Jr., Raul)
 128 L f
 4
 5
@@ -3162,7 +3162,7 @@ Cat Daddys Lil Girl
 5.40
 4.00
 4
-Lynnder 16
+Lynnder-16
 3.20
 Wager Type
 Winning Numbers
@@ -3207,7 +3207,7 @@ Cat Daddys Lil Girl
 1Head
 21/2
 4
-Lynnder 16
+Lynnder-16
 5
 51 1/4
 43/4

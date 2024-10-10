@@ -848,7 +848,7 @@ El Bruyo (Ramirez, J.)
 no menace
 4Jul20 6RET8
 5
-Super Dominyun 911 (Ramirez, Froylan)
+Super-Dominyun-911 (Ramirez, Froylan)
 124 L bk
 5
 5
@@ -968,7 +968,7 @@ El Bruyo
 61 3/4
 73 1/2
 5
-Super Dominyun 911
+Super-Dominyun-911
 5
 71
 82

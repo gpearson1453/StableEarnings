@@ -1227,7 +1227,7 @@ L bfk
 drift in,bump,late bid
 10May21 9DED2
 5
-Mag 1 (Edison, Randy)
+Mag-1 (Edison, Randy)
 128
 L bf
 4
@@ -1346,7 +1346,7 @@ Apollitcal Bye
 51/2
 31
 5
-Mag 1
+Mag-1
 1
 3Head
 41 1/2

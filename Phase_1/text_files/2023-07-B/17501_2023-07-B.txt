@@ -599,7 +599,7 @@ Rhetts Dynasty (Moreno, Cesar)
 clean trip outside
 8Jul23 6WYO5
 9
-La Pistola 03 (Carrillo, Daniel)
+La-Pistola-03 (Carrillo, Daniel)
 135 BL bf
 8
 4
@@ -723,7 +723,7 @@ Rhetts Dynasty
 71 1/2
 61 1/2
 9
-La Pistola 03
+La-Pistola-03
 4
 83/4
 91 1/2

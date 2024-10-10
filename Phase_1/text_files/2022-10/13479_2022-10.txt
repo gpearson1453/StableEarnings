@@ -2026,7 +2026,7 @@ Odds Ind. Time
 Sp. In. Comments
 27Aug22 5RUI3
 5
-Lynnder 16 (Escobedo, Edwin)
+Lynnder-16 (Escobedo, Edwin)
 126 L f
 4
 1
@@ -2104,7 +2104,7 @@ Cj Classy Sassy Chic (Flores, James)
 outrun
 Run-Up: 0 feet
 Winner:
-Lynnder 16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
+Lynnder-16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
 Breeder: James E and Marilyn Helzer
 Owner: Maher, Tom and Tobin, Richard L.
 Trainer: Olmstead, Jason
@@ -2115,7 +2115,7 @@ Win
 Place
 Show
 5
-Lynnder 16
+Lynnder-16
 3.60
 2.20
 2.10
@@ -2157,7 +2157,7 @@ Str 1
 Str
 Fin
 5
-Lynnder 16
+Lynnder-16
 1
 1Neck
 1Neck

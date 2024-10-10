@@ -1265,7 +1265,7 @@ Viva Le Don (Calderon, Francisco)
 steadied off heels
 31Oct20 10LS6
 5
-Flying Eagle 07 (Becerra, Jr., Sergio)
+Flying-Eagle-07 (Becerra, Jr., Sergio)
 128 L f
 5
 10
@@ -1416,7 +1416,7 @@ Viva Le Don
 82 1/2
 72 1/2
 5
-Flying Eagle 07
+Flying-Eagle-07
 10
 82 1/2
 72 1/2

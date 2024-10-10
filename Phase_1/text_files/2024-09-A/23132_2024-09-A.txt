@@ -898,7 +898,7 @@ Cd Rockin Da Angels (Kellenberger, Kody)
 solid effort
 30Aug24 7SWF4
 6
-La Pistola 03 (Zavala, Julian)
+La-Pistola-03 (Zavala, Julian)
 128 BL bf
 6
 2
@@ -1020,7 +1020,7 @@ Cd Rockin Da Angels
 91
 82 1/2
 6
-La Pistola 03
+La-Pistola-03
 2
 6Neck
 71

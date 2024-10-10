@@ -58,7 +58,7 @@ Sir Prize Cartel (Ramirez, J.)
 game third
 14Aug20 4RET8
 7
-DQ-Super Dominyun 911 (Villatoro, Noe)
+DQ-Super-Dominyun-911 (Villatoro, Noe)
 124 L b
 7
 4
@@ -154,7 +154,7 @@ Breeder: Mercy Hinklins Horse Farm Llc
 Owner: Lewis R. Tooter Jordan
 Trainer: Jordan, Lewis R.
 Disqualification(s):
-# 7 Super Dominyun 911 from 4 to 8
+# 7 Super-Dominyun-911 from 4 to 8
 Total WPS Pool: $11,764
 Pgm Horse
 Win
@@ -213,7 +213,7 @@ Sir Prize Cartel
 31/2
 32 1/2
 7
-Super Dominyun 911
+Super-Dominyun-911
 4
 51 1/4
 42

@@ -1179,7 +1179,7 @@ Coronado Kiss (Nicasio, Jose)
 bump st,finished well
 16Aug20 10WYO4
 4
-Gulfstream 650 (Peinado, Oscar)
+Gulfstream-650 (Peinado, Oscar)
 124 L b
 4
 4
@@ -1263,7 +1263,7 @@ Coronado Kiss
 3.00
 2.60
 4
-Gulfstream 650
+Gulfstream-650
 3.40
 Wager Type
 Winning Numbers
@@ -1324,7 +1324,7 @@ Coronado Kiss
 21
 21/2
 4
-Gulfstream 650
+Gulfstream-650
 4
 31
 31

@@ -478,7 +478,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DO<WNS - May 15, 2024 - Race 4
 MAIDEN - Quarter Horse
 For Maidens, Three Years Old and Upward.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $1,500 Starters Bonus
@@ -647,7 +647,7 @@ AJAX DOW?NS - May 15, 2024 - Race 5
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 95 And Under or With A Speed Index That Has Never Been
 Better Than 99. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,500
 Plus: $1,500 Starters Bonus
@@ -836,7 +836,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX D?OWNS - May 15, 2024 - Race 6
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 85 And Under. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,500
 Plus: $1,500 Starters Bonus
@@ -1210,7 +1210,7 @@ AJAX DOWNS* - May 15, 2024 - Race 8
 MATURITY Norman Picov Maturity - Quarter Horse
 FOR NOMINATED FOUR YEAR OLDS & UPWARD. Highest money earners preferred (Lifetime). For Further Stakes Race details
 and Payout Percentages, see the QROOI Stakes Book.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $30,915 Added
 Available Money: $30,915

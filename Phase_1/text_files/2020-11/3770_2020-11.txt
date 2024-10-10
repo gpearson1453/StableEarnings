@@ -1217,7 +1217,7 @@ L bfk
 one paced midpack
 20Aug20 8DED5
 3
-Train 214 (Rodriguez, Everardo)
+Train-214 (Rodriguez, Everardo)
 126
 L bk
 3
@@ -1288,7 +1288,7 @@ Owner: Maria J. Garza
 Trainer: Keith, Lanny
 Claiming Prices:
 7 - Zoomino: $7,500; 1 - Shine and Jump: $7,500; 5 - Princess Kali T: $7,500; 10 - Mr Jens Perry: $7,500; 6 - Coronas
-Oceanfrnt: $7,500; 3 - Train 214: $7,500; 4 - Rulez of Engagement: $7,500; 9 - Fire Prize: $7,500; 8 - Tm I See a
+Oceanfrnt: $7,500; 3 - Train-214: $7,500; 4 - Rulez of Engagement: $7,500; 9 - Fire Prize: $7,500; 8 - Tm I See a
 Patriot: $7,500; 2 - Jess Bar: $7,500;
 Total WPS Pool: $10,592
 Pgm Horse
@@ -1362,7 +1362,7 @@ Coronas Oceanfrnt
 51/2
 51
 3
-Train 214
+Train-214
 7
 83/4
 61 1/4

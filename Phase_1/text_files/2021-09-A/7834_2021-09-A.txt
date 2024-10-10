@@ -2819,7 +2819,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 CANTERB/URY PARK - September 8, 2021 - Race 12
 DERBY Minnesota Quarter Horse Derby - Quarter Horse
 FOR QUARTER HORSES, THREE YEARS OLD WHICH ARE REGISTERED MINNESOTA BREDS. (S)
-Distance: Four Hundred Yards On The Dirt Current Track Record: (Lynnder 16 - 19.560 - July 14, 2022)
+Distance: Four Hundred Yards On The Dirt Current Track Record: (Lynnder-16 - 19.560 - July 14, 2022)
 Purse: $60,550 Added
 Includes: $17,500 MBF - Minnesota Breeders Fund
 Includes: $19,500 Mystic Lake Purse Enhancement Fund

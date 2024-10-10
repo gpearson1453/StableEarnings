@@ -1680,7 +1680,7 @@ Ind. Time
 Sp. In.Comments
 29Aug20 6SWF1
 2
-Jr Hiway 93 (Vera, Gerardo)
+Jr-Hiway-93 (Vera, Gerardo)
 124
 BL b
 2
@@ -1745,7 +1745,7 @@ BL b
 even
 Run-Up: 0 feet
 Winner:
-Jr Hiway 93, Brown Gelding, by One Fabulous Eagle out of Prissy B Panther, by Panther Mountain. Foaled Mar 29, 2018 in Nevada.
+Jr-Hiway-93, Brown Gelding, by One Fabulous Eagle out of Prissy B Panther, by Panther Mountain. Foaled Mar 29, 2018 in Nevada.
 Breeder: J R Stables
 Owner: Owen Udy
 Trainer: Udy, Owen
@@ -1756,7 +1756,7 @@ Str 1
 Str
 Fin
 2
-Jr Hiway 93
+Jr-Hiway-93
 2
 1Neck
 1Nose

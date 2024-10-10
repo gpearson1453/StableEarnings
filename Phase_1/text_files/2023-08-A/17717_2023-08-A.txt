@@ -2189,7 +2189,7 @@ L bfk
 wiped out start
 10Dec22 2ZIA2
 8
-Hes Just 44 (Herbert, Jose)
+Hes-Just-44 (Herbert, Jose)
 128
 L bfk
 8
@@ -2325,7 +2325,7 @@ South Texas Willys
 83
 75
 8
-Hes Just 44
+Hes-Just-44
 3
 72 3/4
 85 1/4

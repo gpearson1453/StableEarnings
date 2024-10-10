@@ -1953,7 +1953,7 @@ Odds Ind. Time
 Sp. In. Comments
 31Jul20 9RUI7
 2
-Flying Eagle 07 (Delgado, Mario)
+Flying-Eagle-07 (Delgado, Mario)
 128 L
 2
 3
@@ -2082,7 +2082,7 @@ Ebw Gypsy (Aceves, Rodrigo)
 stumbled, lost rider
 Run-Up: 0 feet
 Winner:
-Flying Eagle 07, Sorrel Gelding, by One Famous Eagle out of Tiny First Effort, by First Down Dash. Foaled Feb 11, 2016 in Texas.
+Flying-Eagle-07, Sorrel Gelding, by One Famous Eagle out of Tiny First Effort, by First Down Dash. Foaled Feb 11, 2016 in Texas.
 Breeder: Quest Inc/Entrust/Fbo Tiffin
 Owner: Jack Manning
 Trainer: Gonzales, II, James
@@ -2092,7 +2092,7 @@ Win
 Place
 Show
 2
-Flying Eagle 07
+Flying-Eagle-07
 19.20
 9.00
 5.20
@@ -2126,7 +2126,7 @@ Str 1
 Str
 Fin
 2
-Flying Eagle 07
+Flying-Eagle-07
 3
 1Head
 11/2

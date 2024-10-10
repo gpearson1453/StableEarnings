@@ -33,7 +33,7 @@ Relentless Legacy (Alvidrez, Armando)
 sharp response
 1Oct23 8WRD1
 4
-Lynnder 16 (Garcia, Ramiro)
+Lynnder-16 (Garcia, Ramiro)
 125 BL f
 4
 2
@@ -112,7 +112,7 @@ Relentless Legacy
 2.60
 2.10
 4
-Lynnder 16
+Lynnder-16
 2.10
 2.10
 6
@@ -151,7 +151,7 @@ Relentless Legacy
 11 1/2
 11 1/2
 4
-Lynnder 16
+Lynnder-16
 2
 31
 31 1/2

@@ -772,7 +772,7 @@ Ud Plain Jane (Dominguez, Uriel)
 outnodded 2nd
 9Aug20 5WYO7
 7
-La Pistola 03 (Jimenez, Santiago)
+La-Pistola-03 (Jimenez, Santiago)
 126 BL b
 7
 3
@@ -866,7 +866,7 @@ Ud Plain Jane
 3.40
 2.60
 7
-La Pistola 03
+La-Pistola-03
 17.80
 6.40
 6
@@ -901,7 +901,7 @@ Ud Plain Jane
 2Nose
 1Head
 7
-La Pistola 03
+La-Pistola-03
 3
 3Head
 1Nose

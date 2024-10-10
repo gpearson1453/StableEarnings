@@ -2496,7 +2496,7 @@ Owner: La Feliz Montana Ranch LLC
 Trainer: Meraz, Jose
 Disqualification(s):
 # 6 Daycruiser from 3 to 10
-Scratched Horse(s): Bastogne 44 (Also-Eligible), Gym N Jam (Also-Eligible)
+Scratched Horse(s): Bastogne-44 (Also-Eligible), Gym N Jam (Also-Eligible)
 Total WPS Pool: $21,520
 Pgm Horse
 Win

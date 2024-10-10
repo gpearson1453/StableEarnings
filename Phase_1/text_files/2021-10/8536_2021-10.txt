@@ -1505,7 +1505,7 @@ A Pollitical Gal (Calderon, Francisco)
 needed more late
 3Oct21 4WRD1
 1
-Lynnder 16 (Escobedo, Edwin)
+Lynnder-16 (Escobedo, Edwin)
 128 L f
 1
 6
@@ -1659,7 +1659,7 @@ A Pollitical Gal
 31
 31 1/2
 1
-Lynnder 16
+Lynnder-16
 6
 41
 42

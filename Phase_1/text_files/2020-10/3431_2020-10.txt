@@ -1435,7 +1435,7 @@ Jett Black Special (Duenez, Luciano)
 remained back rail
 1Aug20 10DED2
 2
-Fast Sweet 8 (Trujillo, Mario)
+Fast-Sweet-8 (Trujillo, Mario)
 124 L bfk
 2
 10
@@ -1468,7 +1468,7 @@ Trainer: Gallegos, Martin
 Claiming Prices:
 6 - I Cool Too: $20,000; 5 - Ttt Warrior: $20,000; 7 - Shu Boppin Samantha: $20,000; 3 - Jrs Heza Hot Tee: $20,000; 4 -
 Carters Chicawa: $20,000; 9 - A Real World: $20,000; 8 - Bux of Royalty: $20,000; 1 - Jett Black Special: $20,000; 2 -
-Fast Sweet 8: $20,000; 10 - Open Me Crystal: $20,000;
+Fast-Sweet-8: $20,000; 10 - Open Me Crystal: $20,000;
 Total WPS Pool: $24,959
 Pgm Horse
 Win
@@ -1565,7 +1565,7 @@ Jett Black Special
 81 1/2
 84 3/4
 2
-Fast Sweet 8
+Fast-Sweet-8
 10
 92 1/2
 93

@@ -1618,7 +1618,7 @@ Tf One Sweet Secret (Trujillo, Jr., Mario)
 bobbled, late rally
 18May21 6DED1
 6
-Fast Sweet 8 (Trujillo, Mario)
+Fast-Sweet-8 (Trujillo, Mario)
 126 L bfk
 6
 9
@@ -1762,7 +1762,7 @@ Tf One Sweet Secret
 52
 42 1/2
 6
-Fast Sweet 8
+Fast-Sweet-8
 9
 92
 82 1/2

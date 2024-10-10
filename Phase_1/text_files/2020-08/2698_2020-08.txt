@@ -1035,7 +1035,7 @@ Odds Ind. Time
 Sp. In. Comments
 31Jul20 6POD7
 5
-Jr Hiway 93 (Valenzuela, Jesus)
+Jr-Hiway-93 (Valenzuela, Jesus)
 124 BL b
 5
 3
@@ -1126,7 +1126,7 @@ Cd Son of Farm Boss (Canales, Jesus)
 lugged outside
 Run-Up: 0 feet
 Winner:
-Jr Hiway 93, Brown Gelding, by One Fabulous Eagle out of Prissy B Panther, by Panther Mountain. Foaled Mar 29, 2018 in Nevada.
+Jr-Hiway-93, Brown Gelding, by One Fabulous Eagle out of Prissy B Panther, by Panther Mountain. Foaled Mar 29, 2018 in Nevada.
 Breeder: J R Stables
 Owner: J R Stables
 Trainer: Moosman, Riley
@@ -1136,7 +1136,7 @@ Win
 Place
 Show
 5
-Jr Hiway 93
+Jr-Hiway-93
 3.60
 2.40
 2.60
@@ -1170,7 +1170,7 @@ Str 1
 Str
 Fin
 5
-Jr Hiway 93
+Jr-Hiway-93
 3
 2Neck
 11

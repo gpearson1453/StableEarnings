@@ -2376,7 +2376,7 @@ Kiss My Legs (Perez, Natasha)
 bother,std'd,alter1/16
 2Jun21 9IND7
 6
-Air Born Jazz 2 (Munoz, Martin)
+Air-Born-Jazz-2 (Munoz, Martin)
 126 L bfk
 6
 5
@@ -2495,7 +2495,7 @@ Kiss My Legs
 83
 83 3/4
 6
-Air Born Jazz 2
+Air-Born-Jazz-2
 5
 92 3/4
 93 1/2

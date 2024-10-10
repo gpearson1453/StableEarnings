@@ -613,7 +613,7 @@ Teller Its Lightning (Romero, Raphael)
 game 2nd
 22May21 11POD6
 3
-Tellmshesa 10 (Afanador, Jesus)
+Tellmshesa-10 (Afanador, Jesus)
 126 BL
 3
 3
@@ -658,7 +658,7 @@ Teller Its Lightning
 2.40
 2.10
 3
-Tellmshesa 10
+Tellmshesa-10
 2.10
 Wager Type
 Winning Numbers
@@ -695,7 +695,7 @@ Teller Its Lightning
 2Neck
 23/4
 3
-Tellmshesa 10
+Tellmshesa-10
 3
 41/2
 31/2

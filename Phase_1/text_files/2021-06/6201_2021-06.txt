@@ -1173,7 +1173,7 @@ BL b
 even effort
 30May21 4EDR4
 3
-La Pistola 03 (Jimenez, Santiago)
+La-Pistola-03 (Jimenez, Santiago)
 128
 BL b
 2
@@ -1264,7 +1264,7 @@ Vvr Velvet Princess
 52 3/4
 52 3/4
 3
-La Pistola 03
+La-Pistola-03
 2
 63
 63

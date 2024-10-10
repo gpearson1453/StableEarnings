@@ -1805,7 +1805,7 @@ Reagal Eagle Revenge (Larsen, Shaunda)
 game effort
 22Aug20 4SWF2
 7
-La Pistola 03 (Jimenez, Santiago)
+La-Pistola-03 (Jimenez, Santiago)
 126 BL b
 7
 4
@@ -1950,7 +1950,7 @@ Reagal Eagle Revenge 3
 43/4
 41 1/2
 7
-La Pistola 03
+La-Pistola-03
 4
 4Neck
 53/4

@@ -769,7 +769,7 @@ Magnum Moonflash (Rivera, Alonso)
 late interest,
 9Aug20 9RUI1
 3
-Flying Eagle 07 (Delgado, Mario)
+Flying-Eagle-07 (Delgado, Mario)
 128 L
 3
 6
@@ -866,7 +866,7 @@ Magnum Moonflash
 4.40
 3.60
 3
-Flying Eagle 07
+Flying-Eagle-07
 3.20
 Wager Type
 Winning Numbers
@@ -903,7 +903,7 @@ Magnum Moonflash
 31/2
 23/4
 3
-Flying Eagle 07
+Flying-Eagle-07
 6
 21/2
 21/2

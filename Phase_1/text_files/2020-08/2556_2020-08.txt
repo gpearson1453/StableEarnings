@@ -1304,7 +1304,7 @@ Odds Ind. Time
 Sp. In. Comments
 27Jun20 9DED7
 8
-Mag 1 (Cabrera, Rolando)
+Mag-1 (Cabrera, Rolando)
 126
 L bf
 8
@@ -1434,7 +1434,7 @@ L b
 bumped, no factor
 Run-Up: 0 feet
 Winner:
-Mag 1, Bay Gelding, by Mr Jess Kue out of Oak Tree Chic, by Oak Tree Special. Foaled Jan 25, 2016 in Louisiana.
+Mag-1, Bay Gelding, by Mr Jess Kue out of Oak Tree Chic, by Oak Tree Special. Foaled Jan 25, 2016 in Louisiana.
 Breeder: H&m Racing
 Owner: Mag 3 Racing
 Trainer: Carlos, Katie
@@ -1444,7 +1444,7 @@ Win
 Place
 Show
 8
-Mag 1
+Mag-1
 17.60
 7.00
 4.60
@@ -1485,7 +1485,7 @@ Start
 Str
 Fin
 8
-Mag 1
+Mag-1
 9
 21
 1Nose

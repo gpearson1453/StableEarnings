@@ -1372,7 +1372,7 @@ Jess Eye On Fire (Ruiz, Jose)
 brk out,never involved
 14Nov20 12WRD8
 3
-Picacho 369 (Esqueda, Cristian)
+Picacho-369 (Esqueda, Cristian)
 124 L b
 3
 3
@@ -1391,7 +1391,7 @@ Owner: Heavy Hitters Racing Stables
 Trainer: Soto, Ruben
 Claiming Prices:
 4 - Full Moon Arisen: $20,000; 5 - American Red Sunrise: $20,000; 1 - Dream Artist: $20,000; 2 - Lethal Assault:
-$20,000; 6 - Rivers Run Fast: $20,000; 7 - Jess Eye On Fire: $20,000; 3 - Picacho 369: $20,000;
+$20,000; 6 - Rivers Run Fast: $20,000; 7 - Jess Eye On Fire: $20,000; 3 - Picacho-369: $20,000;
 Total WPS Pool: $15,693
 Pgm Horse
 Win
@@ -1472,7 +1472,7 @@ Jess Eye On Fire
 73
 64 1/4
 3
-Picacho 369
+Picacho-369
 3
 31
 62 1/2

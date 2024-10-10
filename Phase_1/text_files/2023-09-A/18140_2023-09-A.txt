@@ -1845,7 +1845,7 @@ Odds Ind. Time
 Sp. In. Comments
 27Aug23 4SWF9
 9
-La Pistola 03 (Carrillo, Daniel)
+La-Pistola-03 (Carrillo, Daniel)
 128 BL bf
 8
 1
@@ -1949,7 +1949,7 @@ B Maker (Larsen, Shaunda)
 broke in air
 Run-Up: 0 feet
 Winner:
-La Pistola 03, Sorrel Gelding, by Pappasito out of Dreaming Snow, by Snowbound. Foaled Apr 04, 2017 in Wyoming.
+La-Pistola-03, Sorrel Gelding, by Pappasito out of Dreaming Snow, by Snowbound. Foaled Apr 04, 2017 in Wyoming.
 Breeder: Jim Nebeker
 Owner: Gary Laramie
 Trainer: Giles, Raelee
@@ -1960,7 +1960,7 @@ Win
 Place
 Show
 9
-La Pistola 03
+La-Pistola-03
 13.20
 11.80
 4.80
@@ -2002,7 +2002,7 @@ Str 1
 Str
 Fin
 9
-La Pistola 03
+La-Pistola-03
 1
 21
 11

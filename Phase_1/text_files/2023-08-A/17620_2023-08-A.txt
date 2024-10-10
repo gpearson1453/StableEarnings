@@ -34,7 +34,7 @@ Jess Give Mea Reason (Esqueda, Cristian)
 outside, drew clear
 22Oct22 8IND3
 2
-Lynnder 16 (Escobedo, Edwin)
+Lynnder-16 (Escobedo, Edwin)
 125 BL f
 2
 2
@@ -99,7 +99,7 @@ Jess Give Mea Reason
 3.20
 2.20
 2
-Lynnder 16
+Lynnder-16
 3.20
 5
 Early Surprise
@@ -131,7 +131,7 @@ Jess Give Mea Reason 4
 21
 13/4
 2
-Lynnder 16
+Lynnder-16
 2
 21/2
 11

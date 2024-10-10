@@ -1173,7 +1173,7 @@ BL b
 early speed
 25Jun23 8WYO6
 2
-La Pistola 03 (Carrillo, Daniel)
+La-Pistola-03 (Carrillo, Daniel)
 135
 BL bf
 2
@@ -1326,7 +1326,7 @@ Cd Rockin Da Angels
 4Head
 4Head
 2
-La Pistola 03
+La-Pistola-03
 9
 51 3/4
 51 1/2

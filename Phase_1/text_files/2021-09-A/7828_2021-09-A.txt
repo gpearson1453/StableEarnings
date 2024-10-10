@@ -1,7 +1,7 @@
 AJAX D[OWNS - September 8, 2021 - Race 1
 MAIDEN - Quarter Horse
 For Maidens, Two Years Old.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $6,000 Other Sources
@@ -160,7 +160,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWN[S - September 8, 2021 - Race 2
 MAIDEN - Quarter Horse
 For Maidens, Three Years Old and Upward.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $6,000 Other Sources
@@ -351,7 +351,7 @@ AJAX DOWNS[ - September 8, 2021 - Race 3
 ALLOWANCE - Quarter Horse
 For Three Year Olds and Upward Which Have Never Won Two Races or Ontario Bred Or Sired Which Have Never Won Three
 Races. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $6,000 Other Sources
@@ -720,7 +720,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJ<AX DOWNS - September 8, 2021 - Race 5
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 70 And Under. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $5,400 Other Sources
@@ -1093,7 +1093,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX D?OWNS - September 8, 2021 - Race 7
 SPEED INDEX RACE - Quarter Horse
 For Three Year Olds and Upward With An Average Speed Index Of 80 And Under. ( C)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources
@@ -1253,7 +1253,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX DOWN?S - September 8, 2021 - Race 8
 MAIDEN - Quarter Horse
 For Ontario Bred Maidens, Three Years Old and Upward. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,000
 Plus: $2,000 Other Sources
@@ -1418,7 +1418,7 @@ AJAX DOW/NS - September 8, 2021 - Race 9
 STAKES QROOI Sprint Series 3 S. - Quarter Horse
 FOR NOMINATED THREE YEAR OLDS & UPWARD. 10 Highest Money Earners Preferred. For further Stakes Race details and
 Payout Percentages, see QROOI Stakes Book.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $20,760 Added
 Available Money: $20,760

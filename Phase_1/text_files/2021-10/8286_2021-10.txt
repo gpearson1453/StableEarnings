@@ -838,7 +838,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 A?JAX DOWNS - October 6, 2021 - Race 5
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES. Three Year Olds,. (NW2 L)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $12,000
 Plus: $6,000 Other Sources

@@ -2411,7 +2411,7 @@ L bk
 minimal urging
 13Apr21 9IND8
 10
-Panchita 47 (Diaz, Edgar)
+Panchita-47 (Diaz, Edgar)
 126
 bfk
 9
@@ -2531,7 +2531,7 @@ Regal Eagle
 3.20
 2.40
 10
-Panchita 47
+Panchita-47
 20.40
 10.80
 2
@@ -2581,7 +2581,7 @@ Regal Eagle
 12
 11 3/4
 10
-Panchita 47
+Panchita-47
 3
 22
 21 3/4

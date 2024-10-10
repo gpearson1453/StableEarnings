@@ -752,7 +752,7 @@ L bk
 strong surge, up late
 27May21 2HOU4
 9
-Lucky Bux 222 (Rivera, Ali)
+Lucky-Bux-222 (Rivera, Ali)
 125
 L bk
 7
@@ -848,7 +848,7 @@ Breeder: Agustin Carrillo
 Owner: Ruben Chavez
 Trainer: Chavez, Ruben
 Claiming Prices:
-7 - Fishin On Sixtysix: $5,000; 9 - Lucky Bux 222: $5,000; 3 - Must Be First: $5,000; 2 - A Beachy Bok: $5,000; 4 - Lotta
+7 - Fishin On Sixtysix: $5,000; 9 - Lucky-Bux-222: $5,000; 3 - Must Be First: $5,000; 2 - A Beachy Bok: $5,000; 4 - Lotta
 Cash Onthe Fly: $5,000; 6 - Cj Captain Crunch: $5,000; 10 - Bundys Lil Sis: $5,000; 5 - Fly Inseperable: $5,000;
 Scratched Horse(s): First Freighttrain (Stewards), Tequila for Cash (Veterinarian)
 Total WPS Pool: $16,527
@@ -862,7 +862,7 @@ Fishin On Sixtysix
 2.80
 2.60
 9
-Lucky Bux 222
+Lucky-Bux-222
 2.60
 2.20
 3
@@ -903,7 +903,7 @@ Fishin On Sixtysix
 31/2
 1Head
 9
-Lucky Bux 222
+Lucky-Bux-222
 6
 43/4
 2Head

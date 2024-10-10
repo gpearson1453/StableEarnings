@@ -783,7 +783,7 @@ Odds Ind. Time
 Sp. In. Comments
 2Aug20 2WYO1
 3
-I R a Lacey J 2 (Valenzuela, Jesus)
+I-R-a-Lacey-J-2 (Valenzuela, Jesus)
 124 BL b
 3
 1
@@ -913,7 +913,7 @@ Makn Vital Moves (Virgen, Jesus)
 squeezed out
 Run-Up: 0 feet
 Winner:
-I R a Lacey J 2, Brown Filly, by Apollitical Blood out of Lacey Js Little Sis, by Carters Cartel. Foaled Feb 12, 2018 in Colorado.
+I-R-a-Lacey-J-2, Brown Filly, by Apollitical Blood out of Lacey Js Little Sis, by Carters Cartel. Foaled Feb 12, 2018 in Colorado.
 Breeder: Sam Allie
 Owner: Sam Allie Jr.
 Trainer: Moosman, Riley
@@ -926,7 +926,7 @@ Win
 Place
 Show
 3
-I R a Lacey J 2
+I-R-a-Lacey-J-2
 3.40
 2.80
 2.60
@@ -964,7 +964,7 @@ Str 1
 Str
 Fin
 3
-I R a Lacey J 2
+I-R-a-Lacey-J-2
 1
 2Head
 1Head
@@ -2373,7 +2373,7 @@ Picture Esque (Vera, Gerardo)
 strong effort
 2Aug20 4WYO1
 10
-Gulfstream 650 (Dominguez, Uriel)
+Gulfstream-650 (Dominguez, Uriel)
 126 BL b
 9
 3
@@ -2518,7 +2518,7 @@ Picture Esque
 3Head
 3Head
 10
-Gulfstream 650
+Gulfstream-650
 3
 41/2
 51/2

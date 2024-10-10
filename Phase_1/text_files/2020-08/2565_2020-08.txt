@@ -1272,7 +1272,7 @@ L b
 bobbled,came out,bump
 14Dec19 5LA3
 2
-Hangar 24 (Leon, Juan)
+Hangar-24 (Leon, Juan)
 126
 L b
 2
@@ -1365,7 +1365,7 @@ Val Kiky
 43/4
 43/4
 2
-Hangar 24
+Hangar-24
 5
 53/4
 51 1/2

@@ -1282,7 +1282,7 @@ L b
 no mishap,up for 2nd
 28May21 8LA4
 6
-Gulfstream 650 (Lopez, Henry)
+Gulfstream-650 (Lopez, Henry)
 122
 L b
 6
@@ -1353,7 +1353,7 @@ Fredericos Fantasy
 3.00
 2.20
 6
-Gulfstream 650
+Gulfstream-650
 2.80
 Wager Type
 Winning Numbers
@@ -1411,7 +1411,7 @@ Fredericos Fantasy
 *
 21/2
 6
-Gulfstream 650
+Gulfstream-650
 3
 *
 31/2

@@ -1264,7 +1264,7 @@ L b
 bump st, outfinished
 13Jun21 8LA3
 1
-Gulfstream 650 (Lopez, Henry)
+Gulfstream-650 (Lopez, Henry)
 122
 L b
 1
@@ -1349,7 +1349,7 @@ Val Kiria
 61 3/4
 51 1/2
 1
-Gulfstream 650
+Gulfstream-650
 2
 43/4
 62 1/4

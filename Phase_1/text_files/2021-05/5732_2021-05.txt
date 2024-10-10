@@ -1278,7 +1278,7 @@ Odds Ind. Time
 Sp. In. Comments
 27Feb21 1LAD2
 2
-Fast Sweet 8 (Trujillo, Mario)
+Fast-Sweet-8 (Trujillo, Mario)
 126 L bfk
 2
 4
@@ -1406,7 +1406,7 @@ Brakeaway Dash (Torres, Juan)
 bid,fell,lost rider
 Run-Up: 0 feet
 Winner:
-Fast Sweet 8, Sorrel Gelding, by One Sweet Jess out of Fast Chick Beduino, by Dashin Is Easy. Foaled Mar 08, 2018 in Louisiana.
+Fast-Sweet-8, Sorrel Gelding, by One Sweet Jess out of Fast Chick Beduino, by Dashin Is Easy. Foaled Mar 08, 2018 in Louisiana.
 Breeder: Richard Mendoza
 Owner: Elsa Mendoza
 Trainer: Celestino, Eliseo
@@ -1416,7 +1416,7 @@ Win
 Place
 Show
 2
-Fast Sweet 8
+Fast-Sweet-8
 20.40
 9.80
 7.80
@@ -1458,7 +1458,7 @@ Str 1
 Str
 Fin
 2
-Fast Sweet 8
+Fast-Sweet-8
 4
 1Head
 11/2

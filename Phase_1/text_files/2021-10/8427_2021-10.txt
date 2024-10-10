@@ -485,7 +485,7 @@ L bk
 pressed,missed outside
 12Jul21 4DED5
 8
-Fast Sweet 8 (Trujillo, Mario)
+Fast-Sweet-8 (Trujillo, Mario)
 126
 L bfk
 7
@@ -568,7 +568,7 @@ Breeder: Tony Palermo Sr
 Owner: Tony Palermo, Sr.
 Trainer: Jourdan, Preston
 Claiming Prices:
-5 - Carters Chicawa: $10,000; 9 - Indys Valentines: $10,000; 8 - Fast Sweet 8: $10,000; 7 - Sheza Toasted Glimps:
+5 - Carters Chicawa: $10,000; 9 - Indys Valentines: $10,000; 8 - Fast-Sweet-8: $10,000; 7 - Sheza Toasted Glimps:
 $10,000; 1 - Canelo Bok: $10,000; 2 - Gml Holy Water: $10,000; 3 - Tm I See a Patriot: $10,000; 4 - Fm Fast Wagon:
 $10,000;
 Scratched Horse(s): Jj Idea Dash (Stewards), Louisiana Shaker (Veterinarian)
@@ -587,7 +587,7 @@ Indys Valentines
 5.80
 3.80
 8
-Fast Sweet 8
+Fast-Sweet-8
 3.20
 Wager Type
 Winning Numbers
@@ -629,7 +629,7 @@ Indys Valentines
 3Head
 2Head
 8
-Fast Sweet 8
+Fast-Sweet-8
 6
 61
 3Head

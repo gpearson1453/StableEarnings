@@ -207,7 +207,7 @@ My My My Corona (Leos, Jaime)
 broke out,full of run
 23Jul22 7RET8
 6
-Hes Just 44 (Tapia, Emilio)
+Hes-Just-44 (Tapia, Emilio)
 128 bfk
 6
 1
@@ -290,7 +290,7 @@ Breeder: David and Rebecca Kuhl
 Owner: Edwin Castillo
 Trainer: Sanchez, Jr., Jorge
 Claiming Prices:
-7 - My My My Corona: $15,000; 6 - Hes Just 44: $15,000; 3 - Rasing the Bar: $15,000; 2 - Sammys Fishinchips:
+7 - My My My Corona: $15,000; 6 - Hes-Just-44: $15,000; 3 - Rasing the Bar: $15,000; 2 - Sammys Fishinchips:
 $15,000; 1 - Lexy Fast Girl: $15,000; 4 - Shade Factor: $20,000; 5 - Mr See You: $20,000;
 Total WPS Pool: $7,151
 Pgm Horse
@@ -303,7 +303,7 @@ My My My Corona
 3.80
 2.60
 6
-Hes Just 44
+Hes-Just-44
 11.60
 4.00
 3
@@ -342,7 +342,7 @@ My My My Corona
 11
 11 1/2
 6
-Hes Just 44
+Hes-Just-44
 1
 1Head
 21

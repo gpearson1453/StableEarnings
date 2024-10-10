@@ -1067,7 +1067,7 @@ L b
 lacked closing kick
 14Jul21 11IND6
 7
-Panchita 47 (Diaz, Edgar)
+Panchita-47 (Diaz, Edgar)
 126
 bfk
 6
@@ -1212,7 +1212,7 @@ Moons Stone
 43/4
 41 3/4
 7
-Panchita 47
+Panchita-47
 4
 51 1/4
 52

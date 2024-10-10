@@ -360,7 +360,7 @@ DERBY TRIAL Ontario Bred Derby Trial - Quarter Horse
 FOR NOMINATED ONTARIO BRED (PROGRAM REGISTERED) THREE YEAR OLDS, SEEKING TO QUALIFY TO THE FINAL,
 CONTESTED ON WED, SEPT 2/20 (TEN (10) FASTEST QUALIFIERS). Please see QROOI Stakes Book for Nomination and
 Sustaining Payment details. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $2,000 Other Sources
@@ -526,7 +526,7 @@ DERBY TRIAL Ontario Bred Derby Trial - Quarter Horse
 FOR NOMINATED ONTARIO BRED (PROGRAM REGISTERED) THREE YEAR OLDS, SEEKING TO QUALIFY TO THE FINAL,
 CONTESTED ON WED, SEPT 2/20 (TEN (10) FASTEST QUALIFIERS). Please see QROOI Stakes Book for Nomination and
 Sustaining Payment details. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $9,000
 Plus: $2,000 Other Sources
@@ -625,7 +625,7 @@ L b
 evenly
 12Aug20 3AJX3
 4
-Fireball Xl5 (Mosqueira, Ismael)
+Fireball-Xl5 (Mosqueira, Ismael)
 125
 L bf
 3
@@ -727,7 +727,7 @@ Rowdy and Bodacious
 63 3/4
 63 3/4
 4
-Fireball Xl5
+Fireball-Xl5
 6
 74 1/2
 74 1/2
@@ -1333,7 +1333,7 @@ Odds Ind. Time
 Sp. In. Comments
 12Aug20 7AJX1
 9
-Country Boy 123 (Walton, Ed)
+Country-Boy-123 (Walton, Ed)
 133
 L b
 9
@@ -1450,7 +1450,7 @@ L bk
 outrun
 Run-Up: 0 feet
 Winner:
-Country Boy 123, Bay Gelding, by Country Chicks Man out of Very Dashin 123, by Dash Thru Traffic. Foaled Feb 26, 2013 in Michigan.
+Country-Boy-123, Bay Gelding, by Country Chicks Man out of Very Dashin 123, by Dash Thru Traffic. Foaled Feb 26, 2013 in Michigan.
 Breeder: Carolyn C Bay
 Owner: Ruth F. Barbour
 Trainer: Barbour, Ruth
@@ -1460,7 +1460,7 @@ Win
 Place
 Show
 9
-Country Boy 123
+Country-Boy-123
 3.00
 2.50
 2.10
@@ -1493,7 +1493,7 @@ Start
 Str
 Fin
 9
-Country Boy 123
+Country-Boy-123
 1
 13/4
 13/4
@@ -1508,7 +1508,7 @@ Arctic Fame
 23/4
 33/4
 2
-Chicksdigmymoneybags5
+Chicksdigmymoneybags 5
 33/4
 41
 6
@@ -1549,7 +1549,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 A*JAX DOWNS - August 19, 2020 - Race 9
 SPEED INDEX RACE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WITH AN AVERAGE SPEED INDEX OF 90 AND UNDER. Weight, 120 lbs. ( C)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Country Boy 123 - 15.100 - June 18, 2017)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Country-Boy-123 - 15.100 - June 18, 2017)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $6,000 Other Sources

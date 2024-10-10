@@ -1395,7 +1395,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 CANTERBURY PARK[ - August 15, 2024 - Race 6
 DERBY Canterbury Park Derby - Quarter Horse
 FOR QUARTER HORSES, THREE YEARS OLD.
-Distance: Four Hundred Yards On The Dirt Current Track Record: (Lynnder 16 - 19.560 - July 14, 2022)
+Distance: Four Hundred Yards On The Dirt Current Track Record: (Lynnder-16 - 19.560 - July 14, 2022)
 Purse: $50,075 Guaranteed
 Available Money: $50,075
 Value of Race: $50,075 1st $22,534, 2nd $8,513, 3rd $5,008, 4th $3,505, 5th $3,005, 6th $2,504, 7th $2,003, 8th $1,001, 9th

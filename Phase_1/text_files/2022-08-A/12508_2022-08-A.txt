@@ -1686,7 +1686,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 C/ANTERBURY PARK - August 10, 2022 - Race 8
 DERBY Canterbury Park Quarter Horse Derby - Quarter Horse
 FOR QUARTER HORSES, THREE YEARS OLD.
-Distance: Four Hundred Yards On The Dirt Current Track Record: (Lynnder 16 - 19.560 - July 14, 2022)
+Distance: Four Hundred Yards On The Dirt Current Track Record: (Lynnder-16 - 19.560 - July 14, 2022)
 Purse: $68,175 Added
 Includes: $24,000 Mystic Lake Purse Enhancement Fund
 Available Money: $68,175

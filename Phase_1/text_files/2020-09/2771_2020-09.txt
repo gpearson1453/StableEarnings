@@ -2497,7 +2497,7 @@ Owner: Coronet Farm
 Trainer: Smith, Randy
 Disqualification(s):
 # 6 Too Pretty to Catch from 2 to 7
-Scratched Horse(s): Favorite Five Bar (Also-Eligible), Panchita 47 (Trainer)
+Scratched Horse(s): Favorite Five Bar (Also-Eligible), Panchita-47 (Trainer)
 Total WPS Pool: $35,246
 Pgm Horse
 Win

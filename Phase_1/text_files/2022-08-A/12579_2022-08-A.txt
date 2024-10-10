@@ -1665,7 +1665,7 @@ Odds Ind. Time
 Sp. In. Comments
 14Jul22 9CBY1
 7
-Lynnder 16 (Brooks, Jimmy)
+Lynnder-16 (Brooks, Jimmy)
 128 L f
 6
 1
@@ -1743,7 +1743,7 @@ Mi Bella Valentina (Vallejo, Rodrigo)
 lagged
 Run-Up: 0 feet
 Winner:
-Lynnder 16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
+Lynnder-16, Sorrel Mare, by Apollitical Jess out of Tinys Corona Queen, by Corona Cartel. Foaled Feb 17, 2016 in Oklahoma.
 Breeder: James E and Marilyn Helzer
 Owner: Maher, Tom and Tobin, Richard L.
 Trainer: Olmstead, Jason
@@ -1754,7 +1754,7 @@ Win
 Place
 Show
 7
-Lynnder 16
+Lynnder-16
 2.60
 2.20
 2.10
@@ -1788,7 +1788,7 @@ Str 1
 Str
 Fin
 7
-Lynnder 16
+Lynnder-16
 1
 31
 1Head

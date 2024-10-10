@@ -1,7 +1,7 @@
 AJAX DO<WNS - May 11, 2022 - Race 1
 MAIDEN - Quarter Horse
 For Maidens, Three Years Old and Upward.
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $10,000
 Plus: $5,000 Other Sources
@@ -304,7 +304,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 A<JAX DOWNS - May 11, 2022 - Race 3
 ALLOWANCE - Quarter Horse
 For Ontario Bred Three Year Olds and Upward Which Have Never Won Two Races. (SNW2 L)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $13,000
 Plus: $2,000 Other Sources
@@ -626,7 +626,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX* DOWNS - May 11, 2022 - Race 5
 ALLOWANCE - Quarter Horse
 For Three Year Olds and Upward Which Have Never Won Two Races. (NW2 L)
-Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country Boy 123 - 12.920 - September 17, 2018)
+Distance: Two Hundred And Fifty Yards On The Dirt Current Track Record: (Country-Boy-123 - 12.920 - September 17, 2018)
 All money values represented in Canadian currency unless noted otherwise
 Purse: $11,000
 Plus: $5,000 Other Sources

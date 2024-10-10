@@ -74,7 +74,7 @@ Hes a Bugin (Gonzalez, Luis)
 chased4w, weakened
 8Jul20 2GRP4
 5
-Jess B 613 (Figueroa, Cerapio)
+Jess-B-613 (Figueroa, Cerapio)
 124 BL bf
 5
 5
@@ -154,7 +154,7 @@ Hes a Bugin
 45 1/2
 410
 5
-Jess B 613
+Jess-B-613
 5
 518 1/2
 520 1/2
