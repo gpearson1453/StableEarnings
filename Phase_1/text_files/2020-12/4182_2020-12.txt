@@ -378,7 +378,7 @@ L bfk
 broke in,
 13Sep20 4ALB8
 3
-Sheza Corona M3 (Ramos, Adrian)
+Sheza-Corona-M3 (Ramos, Adrian)
 128
 b
 3
@@ -423,7 +423,7 @@ Owner: Sergio Gonzalez
 Trainer: Roman, Sergio
 Claiming Prices:
 1 - Call Me Brad: $15,000; 4 - Posies Envy: $15,000; 2 - Gotta Pop Dynasty: $10,000; 6 - Daddys Rare Cartel: $15,000;
-7 - Miss Ramblin Moon: $10,000; 5 - King Cosmo: $10,000; 10 - Cartels Star Daddy: $15,000; 3 - Sheza Corona M3:
+7 - Miss Ramblin Moon: $10,000; 5 - King Cosmo: $10,000; 10 - Cartels Star Daddy: $15,000; 3 - Sheza-Corona-M3:
 $10,000; 8 - Quick Fusion: $15,000; 9 - Wdc Cowboys Like Us: $15,000;
 Scratched Horse(s): Kitty Version (Also-Eligible), Rkm Chunk of Regard (Also-Eligible)
 Total WPS Pool: $6,411
@@ -504,7 +504,7 @@ Cartels Star Daddy
 82
 71 3/4
 3
-Sheza Corona M3
+Sheza-Corona-M3
 5
 51 1/4
 82

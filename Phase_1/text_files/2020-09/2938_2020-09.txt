@@ -863,7 +863,7 @@ Pancho Villa (Barraza, Marcelo)
 no rally,
 2Feb20 4SUN10
 9
-Sheza Corona M3 (Aldrete, Hector)
+Sheza-Corona-M3 (Aldrete, Hector)
 128 L b
 7
 5
@@ -971,7 +971,7 @@ Pancho Villa
 71
 72 3/4
 9
-Sheza Corona M3
+Sheza-Corona-M3
 5
 82
 81

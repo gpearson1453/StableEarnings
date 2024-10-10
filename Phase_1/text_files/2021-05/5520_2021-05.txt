@@ -228,7 +228,7 @@ Big Runaway (Aldrete, Hector)
 broke in st, empty
 2Dec20 1ZIA3
 4
-El Tarasco 727 (Martinez, Edgar)
+El-Tarasco-727 (Martinez, Edgar)
 128 L b
 3
 4
@@ -262,7 +262,7 @@ Trainer: Chavez, Arturo
 New Trainer: Kayla Warren
 New Owner: Tyrrill J. Tsosie
 Claiming Prices:
-2 - Solid Gold Bar: $5,000; 5 - Eye Know the Secret: $5,000; 6 - Big Runaway: $5,000; 4 - El Tarasco 727: $5,000; 3 -
+2 - Solid Gold Bar: $5,000; 5 - Eye Know the Secret: $5,000; 6 - Big Runaway: $5,000; 4 - El-Tarasco-727: $5,000; 3 -
 Blue Daddy Cartel: $5,000;
 Scratched Horse(s): Moore Swissle (Veterinarian)
 Total WPS Pool: $10,385
@@ -327,7 +327,7 @@ Big Runaway
 32 1/2
 39 3/4
 4
-El Tarasco 727
+El-Tarasco-727
 4
 53
 54 1/2

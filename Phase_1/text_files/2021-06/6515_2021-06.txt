@@ -1040,7 +1040,7 @@ b
 hardridden
 16Jun21 5AJX6
 1
-B 65 (Spataro, Cory)
+B-65 (Spataro, Cory)
 124
 L b
 1
@@ -1138,7 +1138,7 @@ Hanover Hill Dashing
 63 1/4
 63 1/4
 1
-B 65
+B-65
 2
 73 1/2
 73 1/2
@@ -1148,7 +1148,7 @@ Owners:
 Wall, Irwin;
 Footnotes
 VIRTUOSI gamely throughout. ROWDY AND BODACIOUS closed well. JUSTGIVEMEAMINUTE good effort. PHIL JEFFERSON good trip. HANOVER HILL
-CHALSEE outrun. HANOVER HILL DASHING hardridden. B 65 no excuse.
+CHALSEE outrun. HANOVER HILL DASHING hardridden. B-65 no excuse.
 Total Attendance: 0
 Handle: $49,324
 Copyright 2024 Equibase Company LLC. All Rights Reserved.

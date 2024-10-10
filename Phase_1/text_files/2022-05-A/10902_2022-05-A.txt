@@ -945,7 +945,7 @@ Blazinberryberryfast (Amparan, Francisco)
 bobbled outwardly brk
 1May22 3SRP6
 5
-El Tarasco 727 (Garcia, Jr., Noe)
+El-Tarasco-727 (Garcia, Jr., Noe)
 128 L b
 5
 7
@@ -1068,7 +1068,7 @@ Blazinberryberryfast
 71 1/2
 81 1/4
 5
-El Tarasco 727
+El-Tarasco-727
 7
 81 1/2
 91 1/2

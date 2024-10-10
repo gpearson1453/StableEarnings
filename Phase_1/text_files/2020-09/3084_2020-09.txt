@@ -498,7 +498,7 @@ First Moon Cat (Smith, Taylor)
 good effort
 7Jul20 3GRP1
 1
-Wildfires Phantom 2 (Gonzalez, Luis)
+Wildfires-Phantom-2 (Gonzalez, Luis)
 125 BL bf
 1
 1
@@ -595,7 +595,7 @@ First Moon Cat
 12.80
 8.40
 1
-Wildfires Phantom 2
+Wildfires-Phantom-2
 5.80
 Wager Type
 Winning Numbers
@@ -628,7 +628,7 @@ First Moon Cat
 11
 21/2
 1
-Wildfires Phantom 2
+Wildfires-Phantom-2
 1
 21
 21

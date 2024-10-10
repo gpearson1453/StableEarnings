@@ -844,7 +844,7 @@ Handsome Nacy (Dominguez, Sergio)
 finished strong,
 12Sep20 3ALB3
 9
-El Tarasco 727 (Leos, Jaime)
+El-Tarasco-727 (Leos, Jaime)
 128 L b
 9
 8
@@ -943,7 +943,7 @@ Trainer: Gonzalez, Andres
 New Trainer: Juan Meraz
 New Owner: Laura I. Meraz
 Claiming Prices:
-5 - Dashin N Blazin: $7,500; 7 - Handsome Nacy: $7,500; 9 - El Tarasco 727: $7,500; 1 - Big Woody Cartel: $7,500; 4 -
+5 - Dashin N Blazin: $7,500; 7 - Handsome Nacy: $7,500; 9 - El-Tarasco-727: $7,500; 1 - Big Woody Cartel: $7,500; 4 -
 Hez a Wild Spirit: $7,500; 3 - Daddys Proud: $7,500; 6 - Jess Flashin: $7,500; 2 - Ojiwba: $7,500; 8 - Jess Like a Chick:
 $7,500;
 Total WPS Pool: $5,706
@@ -961,7 +961,7 @@ Handsome Nacy
 7.60
 4.60
 9
-El Tarasco 727
+El-Tarasco-727
 3.40
 Wager Type
 Winning Numbers
@@ -998,7 +998,7 @@ Handsome Nacy
 21/2
 21/2
 9
-El Tarasco 727
+El-Tarasco-727
 8
 83/4
 43/4

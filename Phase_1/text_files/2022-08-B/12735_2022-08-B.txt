@@ -626,7 +626,7 @@ Furious Eagle (Camacho, Hizain)
 drifted out
 6Sep21 3ELK6
 1
-Tequila 2 (Rueda, Pedro)
+Tequila-2 (Rueda, Pedro)
 125 A
 1
 5
@@ -708,7 +708,7 @@ Furious Eagle
 42
 43 1/2
 1
-Tequila 2
+Tequila-2
 5
 54
 54

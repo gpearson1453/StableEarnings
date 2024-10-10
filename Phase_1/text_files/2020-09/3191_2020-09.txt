@@ -2701,7 +2701,7 @@ bf
 off slow
 1Sep20 10IND7
 4
-Zooming Star V4 (Olivo, Victor)
+Zooming-Star-V4 (Olivo, Victor)
 128
 bk
 4
@@ -2839,7 +2839,7 @@ Heza Classy Cartel
 62 1/4
 51 3/4
 4
-Zooming Star V4
+Zooming-Star-V4
 4
 52
 62 1/2

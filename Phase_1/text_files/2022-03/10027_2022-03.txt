@@ -47,7 +47,7 @@ Hollywood Henry (Gomez, Enrique)
 alter out 7/16,4w 1/4
 30Jan22 1SUN6
 5
-El Tarasco 727 (Garcia, Jr., Noe)
+El-Tarasco-727 (Garcia, Jr., Noe)
 128 L
 5
 4
@@ -131,7 +131,7 @@ Hollywood Henry
 3.00
 2.60
 5
-El Tarasco 727
+El-Tarasco-727
 3.80
 Wager Type
 Winning Numbers
@@ -168,7 +168,7 @@ Hollywood Henry
 21
 22
 5
-El Tarasco 727
+El-Tarasco-727
 4
 21/2
 32

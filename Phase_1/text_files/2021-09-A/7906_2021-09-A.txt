@@ -73,7 +73,7 @@ Jess Deja Blue (Martinez, Edgar)
 best of others,
 29Aug21 6ALB8
 8
-Corazon Rastado 727 (Enriquez, Jacob)
+Corazon-Rastado-727 (Enriquez, Jacob)
 128 L bf
 8
 6
@@ -131,7 +131,7 @@ Owner: Adrian Melero-Contreras
 Trainer: Duarte, Javier
 Claiming Prices:
 5 - Kiss Me Quik: $15,000; 7 - Hearts Mystic Rime: $15,000; 4 - Whole Lot of Gumbo: $15,000; 3 - Jess Deja Blue:
-$15,000; 8 - Corazon Rastado 727: $15,000; 2 - Cds Temptress: $15,000; 6 - Key to Sooper Duper: $15,000; 1 - Rime
+$15,000; 8 - Corazon-Rastado-727: $15,000; 2 - Cds Temptress: $15,000; 6 - Key to Sooper Duper: $15,000; 1 - Rime
 Lucky Girl: $15,000;
 Total WPS Pool: $10,626
 Pgm Horse
@@ -193,7 +193,7 @@ Jess Deja Blue
 71 3/4
 41 3/4
 8
-Corazon Rastado 727
+Corazon-Rastado-727
 6
 83/4
 82

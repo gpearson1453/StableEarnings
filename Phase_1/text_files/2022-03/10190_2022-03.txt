@@ -514,7 +514,7 @@ Uncle Gus Boss (Ramos, Christian)
 bmp st,3w btw,led 1/16
 6Mar22 1SUN3
 7
-El Tarasco 727 (Garcia, Jr., Noe)
+El-Tarasco-727 (Garcia, Jr., Noe)
 128 L
 4
 3
@@ -571,7 +571,7 @@ Uncle Gus Boss
 3.60
 4.00
 7
-El Tarasco 727
+El-Tarasco-727
 2.20
 2.10
 1
@@ -606,7 +606,7 @@ Uncle Gus Boss
 21/2
 11
 7
-El Tarasco 727
+El-Tarasco-727
 3
 31
 31

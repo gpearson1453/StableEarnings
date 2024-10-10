@@ -557,7 +557,7 @@ Bofa Deez Nutz (Ramos, Manuel)
 fought gamely,
 31Jan20 3SUN5
 3
-El Tarasco 727 (Aldrete, Hector)
+El-Tarasco-727 (Aldrete, Hector)
 128 L b
 3
 7
@@ -666,7 +666,7 @@ Breeder: Lisa Joneson
 Owner: Lisa Joneson
 Trainer: Baca, Bernard
 Claiming Prices:
-7 - Bodacious: $8,000; 10 - Bofa Deez Nutz: $8,000; 3 - El Tarasco 727: $8,000; 5 - Posies Envy: $8,000; 1 - Wave My
+7 - Bodacious: $8,000; 10 - Bofa Deez Nutz: $8,000; 3 - El-Tarasco-727: $8,000; 5 - Posies Envy: $8,000; 1 - Wave My
 Booty Byebye: $8,000; 6 - Ojiwba: $8,000; 2 - Jk Especial: $8,000; 9 - Just Had to Be: $8,000; 4 - Konas Streaker:
 $8,000; 8 - Moore Swissle: $8,000;
 Scratched Horse(s): Jess de Capo (Also-Eligible), Political Boss (Also-Eligible)
@@ -685,7 +685,7 @@ Bofa Deez Nutz
 3.60
 3.40
 3
-El Tarasco 727
+El-Tarasco-727
 5.40
 Wager Type
 Winning Numbers
@@ -722,7 +722,7 @@ Bofa Deez Nutz
 31/2
 21/2
 3
-El Tarasco 727
+El-Tarasco-727
 7
 51 1/4
 43/4

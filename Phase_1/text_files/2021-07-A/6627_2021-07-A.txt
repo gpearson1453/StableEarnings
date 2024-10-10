@@ -1875,7 +1875,7 @@ Big Bad Brad (Figueroa, Jose)
 late chllnge,just up
 22Jun21 9GRP1
 1
-Wildfires Phantom 2 (Lopez, Jaime)
+Wildfires-Phantom-2 (Lopez, Jaime)
 126 BL bf
 1
 1
@@ -1956,7 +1956,7 @@ Big Bad Brad
 3.00
 2.10
 1
-Wildfires Phantom 2
+Wildfires-Phantom-2
 3.20
 2.20
 5
@@ -2013,7 +2013,7 @@ Big Bad Brad
 21 1/2
 11/2
 1
-Wildfires Phantom 2
+Wildfires-Phantom-2
 1
 11
 11 1/2

@@ -559,7 +559,7 @@ Mister Kurts Legacy (Larsen, Shaunda)
 wide turn big run
 25Aug19 9ELK7
 2
-Tequila 2 (Wood, Dakota)
+Tequila-2 (Wood, Dakota)
 126 B
 2
 6
@@ -664,7 +664,7 @@ Mister Kurts Legacy
 25.40
 14.80
 2
-Tequila 2
+Tequila-2
 42.20
 12.80
 4
@@ -703,7 +703,7 @@ Mister Kurts Legacy
 11
 12
 2
-Tequila 2
+Tequila-2
 6
 61 1/4
 21

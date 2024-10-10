@@ -72,7 +72,7 @@ Chicks Fast Farley (Guerrero, Jose)
 drifted out 1/16
 20Sep21 3GRP2
 7
-Wildfires Phantom 2 (Anaya, Alex)
+Wildfires-Phantom-2 (Anaya, Alex)
 126 BL bf
 6
 2
@@ -162,7 +162,7 @@ Chicks Fast Farley
 43 1/2
 44 1/2
 7
-Wildfires Phantom 2
+Wildfires-Phantom-2
 2
 31 1/2
 33 1/2

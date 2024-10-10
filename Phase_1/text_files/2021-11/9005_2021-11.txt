@@ -769,7 +769,7 @@ Odds Ind. Time
 Sp. In. Comments
 31Oct21 1ZIA4
 2
-El Tarasco 727 (Garcia, Jr., Noe)
+El-Tarasco-727 (Garcia, Jr., Noe)
 128 L b
 2
 4
@@ -860,12 +860,12 @@ Edelman (Medrano, Albert)
 never fired
 Run-Up: 0 feet
 Winner:
-El Tarasco 727, Sorrel Gelding, by Heza Motor Scooter out of Hawaii Calls, by Willie Wanta Dash. Foaled Mar 31, 2014 in New Mexico.
+El-Tarasco-727, Sorrel Gelding, by Heza Motor Scooter out of Hawaii Calls, by Willie Wanta Dash. Foaled Mar 31, 2014 in New Mexico.
 Breeder: Eloy Mendoza
 Owner: Joel Mariscal Nunez
 Trainer: Valdez, Aurelio
 Claiming Prices:
-2 - El Tarasco 727: $12,500; 7 - Cartels Joker: $12,500; 1 - Uncle Gus Boss: $10,000; 4 - Ministersdon'tlie: $10,000; 6 -
+2 - El-Tarasco-727: $12,500; 7 - Cartels Joker: $12,500; 1 - Uncle Gus Boss: $10,000; 4 - Ministersdon'tlie: $10,000; 6 -
 Hez Fabulous: $10,000; 8 - Jets Movin On: $12,500; 5 - Edelman: $10,000;
 Scratched Horse(s): Big Runaway (Veterinarian), Caminetto (Also-Eligible), Hot Surfing (Also-Eligible)
 Total WPS Pool: $7,963
@@ -874,7 +874,7 @@ Win
 Place
 Show
 2
-El Tarasco 727
+El-Tarasco-727
 4.40
 2.80
 2.20
@@ -908,7 +908,7 @@ Str 1
 Str
 Fin
 2
-El Tarasco 727
+El-Tarasco-727
 4
 32 1/2
 11/2

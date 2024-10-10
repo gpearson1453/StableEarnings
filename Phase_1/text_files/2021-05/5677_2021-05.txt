@@ -497,7 +497,7 @@ Cartels Joker (Gomez, Reyes)
 off rail late, best
 2May21 2SRP4
 2
-El Tarasco 727 (Martinez, Edgar)
+El-Tarasco-727 (Martinez, Edgar)
 130 L b
 2
 5
@@ -593,7 +593,7 @@ Breeder: Sms Racing Llc
 Owner: Raul Beltran
 Trainer: Munoz, Jr., Guadalupe
 Claiming Prices:
-1 - Cartels Joker: $7,500; 2 - El Tarasco 727: $7,500; 7 - Crossfirst: $5,000; 4 - Dinos Da Daddy: $7,500; 8 - Heza Hard
+1 - Cartels Joker: $7,500; 2 - El-Tarasco-727: $7,500; 7 - Crossfirst: $5,000; 4 - Dinos Da Daddy: $7,500; 8 - Heza Hard
 Hitter: $7,500; 5 - Cant Afford Not To: $7,500; 6 - Sign Hawkingson: $5,000; 3 - Radical Eruption: $7,500;
 Scratched Horse(s): Rebel Roux (Also-Eligible)
 Total WPS Pool: $3,681
@@ -607,7 +607,7 @@ Cartels Joker
 5.00
 4.20
 2
-El Tarasco 727
+El-Tarasco-727
 4.20
 3.20
 7
@@ -646,7 +646,7 @@ Cartels Joker
 1Head
 11 1/4
 2
-El Tarasco 727
+El-Tarasco-727
 5
 2Head
 2Head

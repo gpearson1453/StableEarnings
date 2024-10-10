@@ -149,7 +149,7 @@ Cm Once Ina Bluemoon (Wooten, Jr., James)
 3w-pace, in hand
 12Oct21 2GRP5
 2
-Wildfires Phantom 2 (Anaya, Alex)
+Wildfires-Phantom-2 (Anaya, Alex)
 126 BL bf
 2
 1
@@ -229,7 +229,7 @@ Cm Once Ina Bluemoon
 2.10
 2.10
 2
-Wildfires Phantom 2
+Wildfires-Phantom-2
 5.00
 2.10
 5
@@ -263,7 +263,7 @@ Cm Once Ina Bluemoon 2
 12
 11 3/4
 2
-Wildfires Phantom 2
+Wildfires-Phantom-2
 1
 21
 22

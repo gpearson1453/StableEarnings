@@ -768,7 +768,7 @@ Fantastic (Borbonio, Jose)
 well back no gain
 27Aug22 8ELK8
 1
-Tequila 2 (BirdRattler, Joseph)
+Tequila-2 (BirdRattler, Joseph)
 124 LA
 1
 5
@@ -860,7 +860,7 @@ Fantastic
 613
 515 1/2
 1
-Tequila 2
+Tequila-2
 5
 511 1/4
 59

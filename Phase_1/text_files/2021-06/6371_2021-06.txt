@@ -1970,7 +1970,7 @@ Odds Ind. Time
 Sp. In. Comments
 7Jun21 2GRP5
 1
-Wildfires Phantom 2 (Lopez, Jaime)
+Wildfires-Phantom-2 (Lopez, Jaime)
 126 BL bf
 1
 4
@@ -2061,7 +2061,7 @@ Js Allamericanbeauty (Gonzalez, Luis)
 trailed
 Run-Up: 0 feet
 Winner:
-Wildfires Phantom 2, Sorrel Filly, by Wagon Tales out of Oklahoma Rain, by Forestry. Foaled Feb 22, 2017 in Oklahoma.
+Wildfires-Phantom-2, Sorrel Filly, by Wagon Tales out of Oklahoma Rain, by Forestry. Foaled Feb 22, 2017 in Oklahoma.
 Breeder: Darling Farms
 Owner: White, Robert and White, Marie
 Trainer: Guerrero, Emilio
@@ -2072,7 +2072,7 @@ Win
 Place
 Show
 1
-Wildfires Phantom 2
+Wildfires-Phantom-2
 11.20
 4.80
 3.00
@@ -2119,7 +2119,7 @@ Str 1
 Str
 Fin
 1
-Wildfires Phantom 2
+Wildfires-Phantom-2
 4
 11
 11/2

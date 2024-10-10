@@ -847,7 +847,7 @@ Fooses Flyer, Brown Mare, by Foose out of Fly Thru Time, by Strawfly Special. Fo
 Breeder: Malon L Cowgill
 Owner: Malon L. Cowgill
 Trainer: Curiel, Benito
-Scratched Horse(s): Wildfires Phantom 2 (Veterinarian)
+Scratched Horse(s): Wildfires-Phantom-2 (Veterinarian)
 Total WPS Pool: $4,555
 Pgm Horse
 Win

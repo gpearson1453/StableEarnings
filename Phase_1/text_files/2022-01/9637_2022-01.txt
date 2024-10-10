@@ -86,7 +86,7 @@ Hollywood Henry (Gomez, Enrique)
 7w turn, 10w stretch
 31Dec21 2SUN4
 5
-El Tarasco 727 (Garcia, Jr., Noe)
+El-Tarasco-727 (Garcia, Jr., Noe)
 128 L b
 5
 4
@@ -202,7 +202,7 @@ Hollywood Henry
 76
 54 1/2
 5
-El Tarasco 727
+El-Tarasco-727
 4
 43
 54

@@ -211,7 +211,7 @@ Odds Ind. Time
 Sp. In. Comments
 12Sep21 1ALB5
 7
-Corazon Rastado 727 (Enriquez, Jacob)
+Corazon-Rastado-727 (Enriquez, Jacob)
 128 L bf
 5
 5
@@ -276,12 +276,12 @@ Tricky Dame (Bachicha, Jr., Elliot)
 no final kick,
 Run-Up: 0 feet
 Winner:
-Corazon Rastado 727, Black Filly, by The Louisiana Cartel out of Sheza Princess Belle, by Heza Motor Scooter. Foaled Mar 17, 2017 in Arizona.
+Corazon-Rastado-727, Black Filly, by The Louisiana Cartel out of Sheza Princess Belle, by Heza Motor Scooter. Foaled Mar 17, 2017 in Arizona.
 Breeder: Jose Manuel Ruelas
 Owner: Carreon, Erica and Godina, Felipe
 Trainer: Carrete, Jesus
 Claiming Prices:
-7 - Corazon Rastado 727: $5,000; 4 - Amsterdams Surprise: $5,000; 3 - Royal Speed: $5,000; 5 - Kaleka Kai: $5,000; 6
+7 - Corazon-Rastado-727: $5,000; 4 - Amsterdams Surprise: $5,000; 3 - Royal Speed: $5,000; 5 - Kaleka Kai: $5,000; 6
 - Tricky Dame: $5,000;
 Scratched Horse(s): Blacks Smuggler (Veterinarian), Miracles Vike (Veterinarian)
 Total WPS Pool: $3,415
@@ -290,7 +290,7 @@ Win
 Place
 Show
 7
-Corazon Rastado 727
+Corazon-Rastado-727
 2.20
 2.10
 2.10
@@ -328,7 +328,7 @@ Str 1
 Str
 Fin
 7
-Corazon Rastado 727
+Corazon-Rastado-727
 5
 41 1/4
 21/2

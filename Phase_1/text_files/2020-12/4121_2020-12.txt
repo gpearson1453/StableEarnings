@@ -85,7 +85,7 @@ Cartels Joker (Ramos, Christian)
 7-w, no rally
 24Oct20 4ALB4
 2
-Corazon Rastado 727 (Perez, Miguel)
+Corazon-Rastado-727 (Perez, Miguel)
 126 L bf
 2
 2
@@ -186,7 +186,7 @@ Cartels Joker
 65 3/4
 56 3/4
 2
-Corazon Rastado 727
+Corazon-Rastado-727
 2
 21
 42 1/2

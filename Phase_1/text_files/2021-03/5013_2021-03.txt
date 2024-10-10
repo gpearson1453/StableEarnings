@@ -303,7 +303,7 @@ L bf
 impresssive
 28Jan21 1TUP5
 10
-Corazon Rastado 727 (Enriquez, Jacob)
+Corazon-Rastado-727 (Enriquez, Jacob)
 126
 L bf
 10
@@ -436,7 +436,7 @@ Mrs Angel Jess
 3.60
 3.00
 10
-Corazon Rastado 727
+Corazon-Rastado-727
 11.20
 5.00
 9
@@ -477,7 +477,7 @@ Mrs Angel Jess
 11/2
 13/4
 10
-Corazon Rastado 727
+Corazon-Rastado-727
 5
 31/2
 23/4

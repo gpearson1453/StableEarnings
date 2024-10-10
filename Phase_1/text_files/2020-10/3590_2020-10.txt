@@ -1375,7 +1375,7 @@ bk
 no threat
 7Sep20 4AJX1
 9
-B 65 (Mosqueira, Ismael)
+B-65 (Mosqueira, Ismael)
 131
 L b
 9
@@ -1478,7 +1478,7 @@ Caraways Jet Moon
 71
 71
 9
-B 65
+B-65
 8
 81 1/2
 81 1/2
@@ -1494,7 +1494,7 @@ Owners:
 Robertson, Carol and Jaime; 6 -Earl A. Foster;
 Footnotes
 WAVIN BAC ATYA game winner. SHAKE SOME SUGAR second best. VOLEETA closed well. JUSTGIVEMEAMINUTE even throughout. ICE N SNOW
-evenly. PEGASOS TWO UNDERPAR no final kick. CARAWAYS JET MOON no threat. B 65 no menace. CARLOS THE SECOND broke slow.
+evenly. PEGASOS TWO UNDERPAR no final kick. CARAWAYS JET MOON no threat. B-65 no menace. CARLOS THE SECOND broke slow.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJA*X DOWNS - October 26, 2020 - Race 9
 DERBY Ontario Sires Stakes Derby - Quarter Horse

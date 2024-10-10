@@ -706,7 +706,7 @@ Senor Call, Sorrel Gelding, by Masters Call out of Princess Duma, by Panther Mou
 Breeder: Stephen Jay Larsen
 Owner: Wes Kellett
 Trainer: Kellett, Wes
-Scratched Horse(s): Tequila 2 (Gate)
+Scratched Horse(s): Tequila-2 (Gate)
 Total WPS Pool: $4,102
 Pgm Horse
 Win

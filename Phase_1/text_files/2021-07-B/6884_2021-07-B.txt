@@ -1439,7 +1439,7 @@ Tiger Treats (Vera, Gerardo)
 no excuse
 12Jun21 6WYO6
 3
-Tequila 2 (Thomas, Todd)
+Tequila-2 (Thomas, Todd)
 133 B
 3
 7
@@ -1553,7 +1553,7 @@ Tiger Treats
 63 3/4
 66 1/4
 3
-Tequila 2
+Tequila-2
 7
 61
 74 3/4

@@ -614,7 +614,7 @@ BL bf
 rallied
 8Nov21 2GRP3
 7
-Wildfires Phantom 2 (Guerrero, Jose)
+Wildfires-Phantom-2 (Guerrero, Jose)
 126
 BL bf
 7
@@ -714,7 +714,7 @@ Chicks Fast Farley
 51 3/4
 51 1/4
 7
-Wildfires Phantom 2
+Wildfires-Phantom-2
 7
 72
 61 1/4

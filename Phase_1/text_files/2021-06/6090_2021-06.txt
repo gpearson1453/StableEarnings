@@ -267,7 +267,7 @@ BL b
 rallied late
 11May21 2GRP5
 5
-Wildfires Phantom 2 (Gonzalez, Luis)
+Wildfires-Phantom-2 (Gonzalez, Luis)
 126
 BL bf
 5
@@ -369,7 +369,7 @@ For Some Jess
 71 3/4
 41
 5
-Wildfires Phantom 2
+Wildfires-Phantom-2
 6
 51 1/4
 51 1/4

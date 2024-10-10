@@ -895,7 +895,7 @@ Posies Envy (Martinez, Edgar)
 no kick
 12Oct20 4ZIA3
 7
-El Tarasco 727 (Felix, Martin)
+El-Tarasco-727 (Felix, Martin)
 128 L b
 7
 7
@@ -946,7 +946,7 @@ New Trainer: Juan Muniz, Jr.
 New Owner: Juan M. Muniz, Jr.
 Claiming Prices:
 3 - Jc Stolywood: $10,000; 2 - Rkm Chunk of Regard: $10,000; 9 - Rivers: $10,000; 8 - Amalia Marie: $10,000; 6 -
-Queen of Thrones: $10,000; 1 - Daddys Rare Cartel: $10,000; 5 - Posies Envy: $10,000; 7 - El Tarasco 727: $10,000;
+Queen of Thrones: $10,000; 1 - Daddys Rare Cartel: $10,000; 5 - Posies Envy: $10,000; 7 - El-Tarasco-727: $10,000;
 10 - Jessies After Gold: $10,000; 4 - Cowboy On the Run: $10,000;
 Scratched Horse(s): Coronas Lil Rose (Also-Eligible), Handsome Nacy (Also-Eligible)
 Total WPS Pool: $10,925
@@ -1031,7 +1031,7 @@ Posies Envy
 43/4
 71 1/2
 7
-El Tarasco 727
+El-Tarasco-727
 7
 72 1/4
 72

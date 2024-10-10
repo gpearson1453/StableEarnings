@@ -579,7 +579,7 @@ b
 no final kick
 20Oct20 3GRP4
 7
-Wildfires Phantom 2 (Gonzalez, Luis)
+Wildfires-Phantom-2 (Gonzalez, Luis)
 125
 BL bf
 7
@@ -716,7 +716,7 @@ Kellies Winner
 42
 41 1/4
 7
-Wildfires Phantom 2
+Wildfires-Phantom-2
 7
 52 1/2
 51 3/4

@@ -770,7 +770,7 @@ Coley Moley (Felix, Martin)
 dueled,gamely
 19Mar21 2TUP2
 10
-Corazon Rastado 727 (Medellin, Alejandro)
+Corazon-Rastado-727 (Medellin, Alejandro)
 128 L bf
 10
 3
@@ -892,7 +892,7 @@ Breeder: Mike G Parker
 Owner: Bridge, Levi and Dale, Ashton
 Trainer: Armstrong, Sherry
 Claiming Prices:
-5 - Coley Moley: $10,000; 10 - Corazon Rastado 727: $10,000; 2 - Touch of Bigtime: $10,000; 6 - When the Furr Flies:
+5 - Coley Moley: $10,000; 10 - Corazon-Rastado-727: $10,000; 2 - Touch of Bigtime: $10,000; 6 - When the Furr Flies:
 $10,000; 1 - Mr Konas: $10,000; 4 - Jess Deja Blue: $10,000; 9 - Genuine Anson: $10,000; 3 - Luv Struck: $10,000; 7 -
 Royal Koa: $10,000; 8 - Do You Do for Zoomin: $10,000;
 Scratched Horse(s): Doing the Deal (Also-Eligible), Mr P A (Also-Eligible)
@@ -907,7 +907,7 @@ Coley Moley
 13.60
 8.00
 10
-Corazon Rastado 727
+Corazon-Rastado-727
 6.40
 4.20
 2
@@ -950,7 +950,7 @@ Coley Moley
 1Head
 1Nose
 10
-Corazon Rastado 727
+Corazon-Rastado-727
 3
 2Head
 2Head

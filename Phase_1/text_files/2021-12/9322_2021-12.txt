@@ -276,7 +276,7 @@ Starlite Eagle (Sigala, Alfredo)
 7-w, closing
 28Nov21 4ZIA1
 8
-El Tarasco 727 (Garcia, Jr., Noe)
+El-Tarasco-727 (Garcia, Jr., Noe)
 128 L b
 7
 6
@@ -336,7 +336,7 @@ Trainer: Munoz, Jr., Guadalupe
 New Trainer: Martin Orona, Sr.
 New Owner: Martin Orona, Sr.
 Claiming Prices:
-1 - Cartels Joker: $15,000; 4 - Uncle Gus Boss: $15,000; 6 - Starlite Eagle: $15,000; 8 - El Tarasco 727: $15,000; 2 -
+1 - Cartels Joker: $15,000; 4 - Uncle Gus Boss: $15,000; 6 - Starlite Eagle: $15,000; 8 - El-Tarasco-727: $15,000; 2 -
 Corona de Vado: $15,000; 3 - Jessies Jett: $15,000; 5 - Gusher: $15,000;
 Scratched Horse(s): Mighty Oaks Magic (Stewards), Patriot (Also-Eligible)
 Total WPS Pool: $7,148
@@ -401,7 +401,7 @@ Starlite Eagle
 3Head
 33 3/4
 8
-El Tarasco 727
+El-Tarasco-727
 6
 51 3/4
 53/4

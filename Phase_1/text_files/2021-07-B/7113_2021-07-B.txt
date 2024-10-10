@@ -842,7 +842,7 @@ Tisathelasttakencash, Chestnut Gelding, by Takin the Cash out of Tisa Arrow C, b
 Breeder: Andy Atkinson
 Owner: Atkinson, Andy and Mary
 Trainer: Smith, Weston
-Scratched Horse(s): Tequila 2 (Veterinarian)
+Scratched Horse(s): Tequila-2 (Veterinarian)
 Total WPS Pool: $949
 Pgm Horse
 Win

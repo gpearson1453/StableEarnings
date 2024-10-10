@@ -570,7 +570,7 @@ Winner Takes It All (Becerra, Jr., Sergio)
 evenly
 20Mar22 3SUN2
 2
-El Tarasco 727 (Garcia, Jr., Noe)
+El-Tarasco-727 (Garcia, Jr., Noe)
 128 L
 2
 8
@@ -701,7 +701,7 @@ Winner Takes It All
 53/4
 51 1/2
 2
-El Tarasco 727
+El-Tarasco-727
 8
 71
 71 1/2

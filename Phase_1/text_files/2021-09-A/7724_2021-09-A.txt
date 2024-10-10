@@ -1499,7 +1499,7 @@ Odds Ind. Time
 Sp. In. Comments
 30May21 4SRP1
 8
-El Tarasco 727 (Perez, Miguel)
+El-Tarasco-727 (Perez, Miguel)
 128 L b
 8
 8
@@ -1603,7 +1603,7 @@ El Tres Menudos (Marquez, Angel)
 bore out badly turn
 Run-Up: 0 feet
 Winner:
-El Tarasco 727, Sorrel Gelding, by Heza Motor Scooter out of Hawaii Calls, by Willie Wanta Dash. Foaled Mar 31, 2014 in New Mexico.
+El-Tarasco-727, Sorrel Gelding, by Heza Motor Scooter out of Hawaii Calls, by Willie Wanta Dash. Foaled Mar 31, 2014 in New Mexico.
 Breeder: Eloy Mendoza
 Owner: Joel Mariscal Nunez
 Trainer: Valdez, Aurelio
@@ -1614,7 +1614,7 @@ You Buy I Fly V
 New Trainer: Tony E. Sedillo
 New Owner: Tony E. Sedillo
 Claiming Prices:
-8 - El Tarasco 727: $7,500; 1 - Dashing for Success: $7,500; 3 - You Buy I Fly V: $7,500; 7 - Bam Boom Its a Jess:
+8 - El-Tarasco-727: $7,500; 1 - Dashing for Success: $7,500; 3 - You Buy I Fly V: $7,500; 7 - Bam Boom Its a Jess:
 $7,500; 6 - Eye Know the Secret: $7,500; 2 - Crossfirst: $7,500; 5 - Blessing George: $7,500; 4 - El Tres Menudos:
 $7,500;
 Scratched Horse(s): Hot Surfing (Also-Eligible), Myfavoritewaytofly (Also-Eligible)
@@ -1624,7 +1624,7 @@ Win
 Place
 Show
 8
-El Tarasco 727
+El-Tarasco-727
 10.60
 6.00
 2.60
@@ -1658,7 +1658,7 @@ Str 1
 Str
 Fin
 8
-El Tarasco 727
+El-Tarasco-727
 8
 21
 11

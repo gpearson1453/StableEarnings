@@ -112,7 +112,7 @@ Bonofly (Lopez, Jaime)
 6-w, gave way
 16Dec20 1ZIA6
 8
-Corazon Rastado 727 (Medellin, Alejandro)
+Corazon-Rastado-727 (Medellin, Alejandro)
 126 L bf
 8
 2
@@ -215,7 +215,7 @@ Bonofly
 74 3/4
 711
 8
-Corazon Rastado 727
+Corazon-Rastado-727
 2
 11
 42 3/4

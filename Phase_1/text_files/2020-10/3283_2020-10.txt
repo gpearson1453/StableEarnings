@@ -597,7 +597,7 @@ BL bf
 lugged in stretch
 22Sep20 3GRP3
 1
-Wildfires Phantom 2 (Gonzalez, Luis)
+Wildfires-Phantom-2 (Gonzalez, Luis)
 124
 BL bf
 1
@@ -734,7 +734,7 @@ Loosin My Lover
 42 1/2
 43/4
 1
-Wildfires Phantom 2
+Wildfires-Phantom-2
 6
 32
 51 1/4

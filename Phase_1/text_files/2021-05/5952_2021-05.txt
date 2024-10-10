@@ -781,7 +781,7 @@ Odds Ind. Time
 Sp. In. Comments
 14May21 3SRP2
 3
-El Tarasco 727 (Martinez, Edgar)
+El-Tarasco-727 (Martinez, Edgar)
 129 L b
 2
 4
@@ -872,15 +872,15 @@ Ready to Forgive (Bobroff, Jacquelyn)
 6wd uppr,no rally
 Run-Up: 0 feet
 Winner:
-El Tarasco 727, Sorrel Gelding, by Heza Motor Scooter out of Hawaii Calls, by Willie Wanta Dash. Foaled Mar 31, 2014 in New Mexico.
+El-Tarasco-727, Sorrel Gelding, by Heza Motor Scooter out of Hawaii Calls, by Willie Wanta Dash. Foaled Mar 31, 2014 in New Mexico.
 Breeder: Eloy Mendoza
 Owner: Alfonso C. Rodriguez
 Trainer: Carrete, Oscar
-1 Claimed Horse(s): El Tarasco 727
+1 Claimed Horse(s): El-Tarasco-727
 New Trainer: Aurelio Valdez
 New Owner: Joel Mariscal Nunez
 Claiming Prices:
-3 - El Tarasco 727: $5,000; 6 - S W Lucky Charm: $5,000; 2 - Jets Movin On: $5,000; 8 - Big Runaway: $5,000; 4 - Bam
+3 - El-Tarasco-727: $5,000; 6 - S W Lucky Charm: $5,000; 2 - Jets Movin On: $5,000; 8 - Big Runaway: $5,000; 4 - Bam
 Boom Its a Jess: $5,000; 7 - Blessing George: $5,000; 5 - Ready to Forgive: $5,000;
 Scratched Horse(s): Cawboybandido (Stewards), Highwire Dance (Also-Eligible), Myfavoritewaytofly (Also-Eligible)
 Total WPS Pool: $13,582
@@ -889,7 +889,7 @@ Win
 Place
 Show
 3
-El Tarasco 727
+El-Tarasco-727
 6.80
 3.20
 3.00
@@ -927,7 +927,7 @@ Str 1
 Str
 Fin
 3
-El Tarasco 727
+El-Tarasco-727
 4
 31 1/2
 2Head

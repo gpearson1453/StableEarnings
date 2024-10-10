@@ -834,7 +834,7 @@ Call Me Kash (Medellin, Alejandro)
 5-w, gave way
 3Sep21 7ALB1
 1
-El Tarasco 727 (Perez, Miguel)
+El-Tarasco-727 (Perez, Miguel)
 128 L b
 1
 4
@@ -954,7 +954,7 @@ Call Me Kash
 11 1/2
 44 3/4
 1
-El Tarasco 727
+El-Tarasco-727
 4
 75 1/4
 54

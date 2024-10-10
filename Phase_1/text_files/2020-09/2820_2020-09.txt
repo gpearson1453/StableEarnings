@@ -109,7 +109,7 @@ Kandy Apple Redd (Guzman, Jose)
 no excuse
 19Jul20 1WYO9
 5
-Eb Fire On Traffic66 (Carrillo, Daniel)
+Eb-Fire-On-Traffic66 (Carrillo, Daniel)
 124 B b
 5
 9
@@ -210,7 +210,7 @@ Kandy Apple Redd
 73
 76
 5
-Eb Fire On Traffic66
+Eb-Fire-On-Traffic66
 9
 91
 84 1/2

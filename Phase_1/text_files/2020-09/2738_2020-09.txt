@@ -2637,7 +2637,7 @@ Stormy Durango (Ruiz, Jose)
 shied in 1/16,steadied
 30Jul20 10IND8
 10
-Zooming Star V4 (Vazquez-Gomez, Giovani)
+Zooming-Star-V4 (Vazquez-Gomez, Giovani)
 128 bk
 10
 7
@@ -2782,7 +2782,7 @@ Stormy Durango
 31
 61 1/4
 10
-Zooming Star V4
+Zooming-Star-V4
 7
 82 3/4
 73

@@ -807,7 +807,7 @@ Docs River Spirit (Smith, Cody)
 gallant effort,
 6Sep20 4ALB10
 2
-Corazon Rastado 727 (Perez, Miguel)
+Corazon-Rastado-727 (Perez, Miguel)
 126 L bf
 2
 9
@@ -910,7 +910,7 @@ Trainer: Orona, Sr., Martin
 Dead Heats:
 1st place - # 4 Sinsational Tacha
 1st place - # 6 Easily Lethal
-4th place - # 2 Corazon Rastado 727
+4th place - # 2 Corazon-Rastado-727
 4th place - # 9 Black Shadow
 Scratched Horse(s): Dashin Special Cuz (Veterinarian)
 Total WPS Pool: $9,363
@@ -992,7 +992,7 @@ Docs River Spirit
 3Head
 3Neck
 2
-Corazon Rastado 727
+Corazon-Rastado-727
 9
 51/2
 4Neck

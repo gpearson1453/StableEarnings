@@ -768,7 +768,7 @@ b
 raced evenly
 26Oct20 8AJX8
 5
-B 65 (Spataro, Cory)
+B-65 (Spataro, Cory)
 125
 L b
 5
@@ -849,7 +849,7 @@ Jess as Sweet as Me
 54
 54
 5
-B 65
+B-65
 6
 65 3/4
 65 3/4
@@ -859,7 +859,7 @@ Owners:
 Irwin;
 Footnotes
 HANOVER HILL CHALSEE wire to wire. TEMPTING FIRST DASH second best. A LONE HAND bested rest. PHIL JEFFERSON slow start. JESS AS
-SWEET AS ME raced evenly. B 65 no menace.
+SWEET AS ME raced evenly. B-65 no menace.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX D/OWNS - June 16, 2021 - Race 6
 MAIDEN - Quarter Horse

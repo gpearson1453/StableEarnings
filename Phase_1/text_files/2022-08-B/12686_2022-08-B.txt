@@ -1281,7 +1281,7 @@ Jornalero (Arredondo, Gabriel)
 angled in, no factor
 3Jul22 7RUI3
 4
-DQ-El Tarasco 727 (Ramos, Christian)
+DQ-El-Tarasco-727 (Ramos, Christian)
 128 L b
 3
 6
@@ -1312,7 +1312,7 @@ Breeder: Robert Van Crowell
 Owner: Felipe Flores, Sr.
 Trainer: Gomez, Alfredo
 Disqualification(s):
-# 4 El Tarasco 727 from 6 to 7
+# 4 El-Tarasco-727 from 6 to 7
 Scratched Horse(s): Cleared Furr Takeoff (Trainer)
 Total WPS Pool: $11,883
 Pgm Horse
@@ -1384,7 +1384,7 @@ Jornalero
 66
 56 1/2
 4
-El Tarasco 727
+El-Tarasco-727
 6
 44
 55

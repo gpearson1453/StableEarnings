@@ -466,7 +466,7 @@ Odds Ind. Time
 Sp. In. Comments
 4Oct21 4ZIA5
 5
-El Tarasco 727 (Garcia, Jr., Noe)
+El-Tarasco-727 (Garcia, Jr., Noe)
 128 L b
 5
 4
@@ -570,7 +570,7 @@ Redd Metal (Aldrete, Hector)
 7-w, flattened out
 Run-Up: 0 feet
 Winner:
-El Tarasco 727, Sorrel Gelding, by Heza Motor Scooter out of Hawaii Calls, by Willie Wanta Dash. Foaled Mar 31, 2014 in New Mexico.
+El-Tarasco-727, Sorrel Gelding, by Heza Motor Scooter out of Hawaii Calls, by Willie Wanta Dash. Foaled Mar 31, 2014 in New Mexico.
 Breeder: Eloy Mendoza
 Owner: Joel Mariscal Nunez
 Trainer: Valdez, Aurelio
@@ -581,7 +581,7 @@ Win
 Place
 Show
 5
-El Tarasco 727
+El-Tarasco-727
 7.80
 4.40
 2.60
@@ -615,7 +615,7 @@ Str 1
 Str
 Fin
 5
-El Tarasco 727
+El-Tarasco-727
 4
 1Head
 11/2

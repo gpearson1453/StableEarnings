@@ -1525,7 +1525,7 @@ Kaul Me Dashetta (Dominguez, Joe)
 wouldnt be deined
 18Jul21 6WYO7
 2
-Tequila 2 (Bobroff, Jacquelyn)
+Tequila-2 (Bobroff, Jacquelyn)
 128 B
 2
 2
@@ -1607,7 +1607,7 @@ Breeder: Gerald F Kaul
 Owner: Gerald F. Kaul
 Trainer: Lusk, Travis
 Claiming Prices:
-1 - Kaul Me Dashetta: $7,500; 2 - Tequila 2: $7,500; 3 - A Trust Is Launchd: $7,500; 5 - Choice Bluff: $7,500; 4 - Turn At
+1 - Kaul Me Dashetta: $7,500; 2 - Tequila-2: $7,500; 3 - A Trust Is Launchd: $7,500; 5 - Choice Bluff: $7,500; 4 - Turn At
 Ted's: $7,500; 7 - Flying Layla: $7,500; 6 - Sophita: $7,500;
 Total WPS Pool: $2,910
 Pgm Horse
@@ -1620,7 +1620,7 @@ Kaul Me Dashetta
 3.60
 2.60
 2
-Tequila 2
+Tequila-2
 8.40
 4.40
 3
@@ -1655,7 +1655,7 @@ Kaul Me Dashetta
 1Head
 13 1/4
 2
-Tequila 2
+Tequila-2
 2
 3Neck
 2Head

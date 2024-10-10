@@ -1184,7 +1184,7 @@ Bailes Y Besos (Nieto, Paul)
 came out bit early
 28May21 4SRP2
 1
-Corazon Rastado 727 (Torres, Daniel)
+Corazon-Rastado-727 (Torres, Daniel)
 128 L bf
 1
 9
@@ -1310,7 +1310,7 @@ Bailes Y Besos
 61/2
 71/2
 1
-Corazon Rastado 727
+Corazon-Rastado-727
 9
 61/2
 93/4

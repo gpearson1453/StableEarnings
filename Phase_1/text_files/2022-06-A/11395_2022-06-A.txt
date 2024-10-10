@@ -1685,7 +1685,7 @@ Grey Handsome, Gray Gelding, by Hez Our Secret out of Miss Free House, by Free H
 Breeder: A J Renner
 Owner: AJ Renner
 Trainer: Greene, David
-Scratched Horse(s): Tequila 2 (Gate)
+Scratched Horse(s): Tequila-2 (Gate)
 Total WPS Pool: $3,568
 Pgm Horse
 Win

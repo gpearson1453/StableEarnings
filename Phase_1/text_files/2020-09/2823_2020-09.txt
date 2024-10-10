@@ -918,7 +918,7 @@ Firstpoliticalaffair (Medrano, Albert)
 lacked room,
 16Feb20 2SUN4
 8
-Corazon Rastado 727 (Rivera, Alonso)
+Corazon-Rastado-727 (Rivera, Alonso)
 126 L bf
 8
 10
@@ -943,7 +943,7 @@ New Trainer: Jose Ignacio DeHerrera New Owner: Vidal Chavez
 Claiming Prices:
 10 - Jess So Tempting: $15,000; 7 - Luv Struck: $15,000; 3 - High Ball Lady: $15,000; 4 - Onedashingdifference:
 $15,000; 5 - Justcallmejosh: $15,000; 9 - Juicee K: $15,000; 1 - Kitty Version: $15,000; 2 - Caesar Germanicus:
-$15,000; 6 - Firstpoliticalaffair: $15,000; 8 - Corazon Rastado 727: $15,000;
+$15,000; 6 - Firstpoliticalaffair: $15,000; 8 - Corazon-Rastado-727: $15,000;
 Scratched Horse(s): Flying Afar (Also-Eligible), Thechicktrain (Also-Eligible)
 Total WPS Pool: $11,345
 Pgm Horse
@@ -1039,7 +1039,7 @@ Firstpoliticalaffair
 94 3/4
 96 1/4
 8
-Corazon Rastado 727
+Corazon-Rastado-727
 10
 107 1/2
 1019 3/4

@@ -259,7 +259,7 @@ BL bf
 dueled, outfinished,
 1Nov21 2GRP2
 3
-Wildfires Phantom 2 (Anaya, Alex)
+Wildfires-Phantom-2 (Anaya, Alex)
 126
 BL bf
 3
@@ -370,7 +370,7 @@ Quirksome
 9.60
 2.80
 3
-Wildfires Phantom 2
+Wildfires-Phantom-2
 4.80
 Wager Type
 Winning Numbers
@@ -404,7 +404,7 @@ Quirksome
 2Head
 2Neck
 3
-Wildfires Phantom 2
+Wildfires-Phantom-2
 3
 3Head
 3Neck

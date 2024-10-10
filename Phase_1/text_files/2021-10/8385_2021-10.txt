@@ -274,7 +274,7 @@ BL bf
 steady effort
 27Sep21 1GRP5
 1
-Wildfires Phantom 2 (Anaya, Alex)
+Wildfires-Phantom-2 (Anaya, Alex)
 128
 BL bf
 1
@@ -377,7 +377,7 @@ Nellie Who
 41
 41/2
 1
-Wildfires Phantom 2
+Wildfires-Phantom-2
 5
 52
 51

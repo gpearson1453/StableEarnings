@@ -47,7 +47,7 @@ Ice Pop (Gomez, Enrique)
 inside, 2nd best
 3Nov20 4ZIA8
 4
-El Tarasco 727 (Ramos, Christian)
+El-Tarasco-727 (Ramos, Christian)
 128 L b
 4
 5
@@ -130,7 +130,7 @@ Breeder: Gertie Mills
 Owner: Gertie Mills
 Trainer: Barber, Michael
 Claiming Prices:
-6 - Tyger Tennessee: $10,000; 2 - Ice Pop: $7,500; 4 - El Tarasco 727: $10,000; 3 - Seven Silver Coins: $10,000; 8 -
+6 - Tyger Tennessee: $10,000; 2 - Ice Pop: $7,500; 4 - El-Tarasco-727: $10,000; 3 - Seven Silver Coins: $10,000; 8 -
 Ojiwba: $10,000; 7 - Blue Boy Who: $7,500; 5 - Oraale: $10,000; 1 - Dinos Da Daddy: $10,000;
 Scratched Horse(s): Cartels Joker (Also-Eligible), Moore Swissle (Also-Eligible)
 Total WPS Pool: $3,823
@@ -148,7 +148,7 @@ Ice Pop
 4.00
 3.60
 4
-El Tarasco 727
+El-Tarasco-727
 4.40
 Wager Type
 Winning Numbers
@@ -185,7 +185,7 @@ Ice Pop
 43
 24 1/4
 4
-El Tarasco 727
+El-Tarasco-727
 5
 22
 2Head

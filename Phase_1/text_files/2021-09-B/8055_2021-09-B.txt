@@ -456,7 +456,7 @@ BL b
 drew off
 5Jul21 9GRP2
 7
-Wildfires Phantom 2 (Anaya, Alex)
+Wildfires-Phantom-2 (Anaya, Alex)
 126
 BL bf
 5
@@ -537,7 +537,7 @@ Arizona Favorite
 3.40
 2.60
 7
-Wildfires Phantom 2
+Wildfires-Phantom-2
 9.00
 6.60
 1
@@ -566,7 +566,7 @@ Arizona Favorite
 11/2
 11 1/2
 7
-Wildfires Phantom 2
+Wildfires-Phantom-2
 2
 21/2
 21 1/2

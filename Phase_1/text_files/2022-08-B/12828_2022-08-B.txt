@@ -1365,7 +1365,7 @@ Emmett Cat (Aceves, Eddie)
 inside lacked rally
 21Aug22 5ELY5
 7
-Tequila 2 (Rueda, Pedro)
+Tequila-2 (Rueda, Pedro)
 124 A
 7
 8
@@ -1464,7 +1464,7 @@ Emmett Cat
 710 1/2
 714 1/2
 7
-Tequila 2
+Tequila-2
 8
 88 1/2
 814 1/2

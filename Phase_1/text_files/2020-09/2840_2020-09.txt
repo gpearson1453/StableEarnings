@@ -529,7 +529,7 @@ Odds Ind. Time
 Sp. In. Comments
 24Jun20 1AJX1
 4
-B 65 (Phillips, Tony)
+B-65 (Phillips, Tony)
 120
 L b
 4
@@ -620,7 +620,7 @@ L bfk
 outrun
 Run-Up: 0 feet
 Winner:
-B 65, Bay Filly, by Freighttrain B out of Six T Five Roses, by Valiant Hero. Foaled Apr 16, 2017 in Colorado.
+B-65, Bay Filly, by Freighttrain B out of Six T Five Roses, by Valiant Hero. Foaled Apr 16, 2017 in Colorado.
 Breeder: Marty Neugebauer
 Owner: Robertson, Carol and Jaime
 Trainer: Robertson, Bryn
@@ -630,7 +630,7 @@ Win
 Place
 Show
 4
-B 65
+B-65
 4.10
 2.60
 2.10
@@ -667,7 +667,7 @@ Start
 Str
 Fin
 4
-B 65
+B-65
 2
 11/2
 11/2
@@ -705,7 +705,7 @@ Trainers: 4 - Robertson, Bryn; 5 - Dunlap, Tom; 2 - Wood, Barry; 1 - Quinn, Rodn
 Owners:
 4 - Robertson, Carol and Jaime; 5 -Rick Crispi; 2 -James Bogar; 1 -Jennifer Gunn; 6 -Alan Hudgins; 3 -Peggy Burne; 7 -Sean M. Slater;
 Footnotes
-B 65 driving finish. THE LADY IS A WINNER second best. HAREMS ROYAL TAKEON good effort. GRABIN AWARDS even throughout.
+B-65 driving finish. THE LADY IS A WINNER second best. HAREMS ROYAL TAKEON good effort. GRABIN AWARDS even throughout.
 JUSTGIVEMEAMINUTE evenly. SW HELLCAT no rally. CL LANAS LOADED outrun.
 Copyright 2024 Equibase Company LLC. All Rights Reserved.
 AJAX* DOWNS - September 7, 2020 - Race 5
