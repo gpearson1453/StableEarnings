@@ -129,6 +129,16 @@ Key Features:
 
 - Folder Structure Preservation: The structure of the original subfolders is maintained in the `text_files` folder, with each subfolder getting its own corresponding folder for storing extracted text files.
 
+### `Phase 1/replaceBadNames.py`
+This script processes text files within a specified folder and replaces occurrences of target strings (such as horse names) with a replacement string. It utilizes a list of predefined names to automate the process of replacing spaces with hyphens or any other desired changes.
+
+Key Features:
+- Multithreading: The script leverages Python's ThreadPoolExecutor to speed up the replacement process by processing multiple files concurrently, improving performance.
+
+- Custom Name List: You can provide a list of names, and the script will replace spaces in each name with hyphens (or another format) across all relevant text files in the folder.
+
+- Feedback: For each replacement, the script prints a message indicating the file path and the string that was replaced, allowing you to track changes made to the files.
+
 ---
 
 ## Other Files
