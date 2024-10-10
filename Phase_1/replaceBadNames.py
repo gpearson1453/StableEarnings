@@ -19,10 +19,12 @@ def replace_string_in_file(file_path, target_string, replacement_string):
             if updated_contents != file_contents:
                 with open(file_path, 'w', encoding='utf-8') as f:
                     f.write(updated_contents)
+                
+                # Print the file and target string that was replaced
+                print(f"Replaced '{target_string}' in {file_path}")
     except Exception as e:
         # Include the target string in the error message
         print(f"Error processing {file_path} with target string '{target_string}': {e}")
-
 
 def process_folder(folder_name, target_string, replacement_string):
     folder_path = os.path.join(os.getcwd(), folder_name)
