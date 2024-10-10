@@ -7,19 +7,22 @@ os.chdir(script_dir)
 
 def replace_string_in_file(file_path, target_string, replacement_string):
     try:
-        # Open the file, read the contents, and replace the target string
+        # Open the file and read the contents
         with open(file_path, 'r', encoding='utf-8') as f:
             file_contents = f.read()
 
-        # Replace the target string with the replacement string
-        updated_contents = file_contents.replace(target_string, replacement_string)
+        # If the target string is found, proceed with replacement
+        if target_string in file_contents:
+            updated_contents = file_contents.replace(target_string, replacement_string)
 
-        # Write the updated contents back to the file
-        with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(updated_contents)
+            # Only write back to the file if changes were made
+            if updated_contents != file_contents:
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    f.write(updated_contents)
     except Exception as e:
         # Include the target string in the error message
         print(f"Error processing {file_path} with target string '{target_string}': {e}")
+
 
 def process_folder(folder_name, target_string, replacement_string):
     folder_path = os.path.join(os.getcwd(), folder_name)
