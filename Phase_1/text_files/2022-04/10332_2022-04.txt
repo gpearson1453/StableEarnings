@@ -660,7 +660,7 @@ b
 up close, 2nd best
 13Mar22 9LA1
 7
-Daytona 1000 (Peinado, Oscar)
+Daytona-1000 (Peinado, Oscar)
 124
 L b
 7
@@ -757,7 +757,7 @@ Nevada Charles
 5.80
 3.20
 7
-Daytona 1000
+Daytona-1000
 2.60
 Wager Type
 Winning Numbers
@@ -799,7 +799,7 @@ Nevada Charles
 3Neck
 21/2
 7
-Daytona 1000
+Daytona-1000
 2
 41/2
 31

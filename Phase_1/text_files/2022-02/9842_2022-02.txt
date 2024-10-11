@@ -1922,7 +1922,7 @@ Fortunate Corona (Ayala, Jesus)
 step slw,bmp/lost path
 29Jan22 7LA3
 7
-Daytona 1000 (Sanchez, Ramon)
+Daytona-1000 (Sanchez, Ramon)
 126 L b
 7
 9
@@ -2058,7 +2058,7 @@ Fortunate Corona
 104 1/2
 94
 7
-Daytona 1000
+Daytona-1000
 9
 92 1/4
 94 1/4

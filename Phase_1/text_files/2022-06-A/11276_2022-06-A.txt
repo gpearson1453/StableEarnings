@@ -1581,7 +1581,7 @@ Odds Ind. Time
 Sp. In. Comments
 30Apr22 7LA1
 5
-Daytona 1000 (Peinado, Oscar)
+Daytona-1000 (Peinado, Oscar)
 126
 L b
 5
@@ -1659,7 +1659,7 @@ L b
 off bit slow,lost path
 Run-Up: 0 feet
 Winner:
-Daytona 1000, Bay Filly, by Corona Cartel out of A Reason to Run, by Mr Eye Opener. Foaled Feb 27, 2019 in California.
+Daytona-1000, Bay Filly, by Corona Cartel out of A Reason to Run, by Mr Eye Opener. Foaled Feb 27, 2019 in California.
 Breeder: Balgo Racing Team Inc
 Owner: Daniel Reynoso
 Trainer: Gomez, Jaime
@@ -1669,7 +1669,7 @@ Win
 Place
 Show
 5
-Daytona 1000
+Daytona-1000
 6.80
 4.20
 3.40
@@ -1702,7 +1702,7 @@ Start
 Str
 Fin
 5
-Daytona 1000
+Daytona-1000
 2
 23/4
 1Nose

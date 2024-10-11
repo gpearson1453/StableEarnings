@@ -1548,7 +1548,7 @@ Split Then Double (GB) 7
 13
 14 1/2
 8
-Investmentstrategy (GB)9
+Investmentstrategy (GB) 9
 77
 68 1/2
 52

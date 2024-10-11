@@ -1357,7 +1357,7 @@ L b
 dueled, lasted
 2Apr22 4LA3
 9
-Daytona 1000 (Peinado, Oscar)
+Daytona-1000 (Peinado, Oscar)
 124
 L b
 9
@@ -1466,13 +1466,13 @@ Breeder: Eg High Desert Farms Llc
 Owner: Eg High Desert Farms
 Trainer: Nunez, Jesus
 Winner:
-Daytona 1000, Bay Filly, by Corona Cartel out of A Reason to Run, by Mr Eye Opener. Foaled Feb 27, 2019 in California.
+Daytona-1000, Bay Filly, by Corona Cartel out of A Reason to Run, by Mr Eye Opener. Foaled Feb 27, 2019 in California.
 Breeder: Balgo Racing Team Inc
 Owner: Daniel Reynoso
 Trainer: Gomez, Jaime
 Dead Heats:
 1st place - # 2 Catalina Rocket
-1st place - # 9 Daytona 1000
+1st place - # 9 Daytona-1000
 Scratched Horse(s): Pretty Devon Lady (Stewards)
 Total WPS Pool: $40,467
 Pgm Horse
@@ -1485,7 +1485,7 @@ Catalina Rocket
 4.60
 3.60
 9
-Daytona 1000
+Daytona-1000
 2.60
 3.40
 2.60
@@ -1539,7 +1539,7 @@ Catalina Rocket
 *
 1Head
 9
-Daytona 1000
+Daytona-1000
 2
 *
 1Head

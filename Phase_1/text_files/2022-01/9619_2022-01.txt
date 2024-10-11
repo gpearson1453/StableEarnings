@@ -1267,7 +1267,7 @@ Corona Yo (Lozano, Ruben)
 brk out, caught wire
 11Dec21 8LA2
 6
-Daytona 1000 (Peinado, Oscar)
+Daytona-1000 (Peinado, Oscar)
 124 L b
 6
 2
@@ -1377,7 +1377,7 @@ Corona Yo
 2.80
 2.20
 6
-Daytona 1000
+Daytona-1000
 3.00
 Wager Type
 Winning Numbers
@@ -1414,7 +1414,7 @@ Corona Yo
 1Head
 2Head
 6
-Daytona 1000
+Daytona-1000
 2
 21/2
 33/4

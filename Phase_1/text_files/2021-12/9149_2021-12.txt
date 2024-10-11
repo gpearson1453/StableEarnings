@@ -1379,7 +1379,7 @@ b
 step slow,rallied,up
 21Nov21 1LA4
 2
-Daytona 1000 (Peinado, Oscar)
+Daytona-1000 (Peinado, Oscar)
 124
 b
 2
@@ -1485,7 +1485,7 @@ Toxic Relationship
 3.00
 3.00
 2
-Daytona 1000
+Daytona-1000
 3.00
 2.40
 7
@@ -1518,7 +1518,7 @@ Toxic Relationship
 2Neck
 1Nose
 2
-Daytona 1000
+Daytona-1000
 1
 1Neck
 2Nose
