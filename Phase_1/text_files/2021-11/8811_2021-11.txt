@@ -2278,7 +2278,7 @@ Corona Boom (Calderon, Francisco)
 flat, no threat
 8Oct21 2LS1
 6
-Ib Hot N Famous 2 (Ramirez, Jr., Raul)
+Ib-Hot-N-Famous-2 (Ramirez, Jr., Raul)
 126
 L bf
 6
@@ -2399,7 +2399,7 @@ Corona Boom
 115 3/4
 114
 6
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 12
 126 1/4
 128 1/2

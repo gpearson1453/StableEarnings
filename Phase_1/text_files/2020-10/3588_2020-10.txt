@@ -977,7 +977,7 @@ Eva the Diva (Silva, Agustin)
 no threat
 11Oct20 9WRD4
 1
-L a Babe 123 (Brooks, Jimmy)
+L-a-Babe-123 (Brooks, Jimmy)
 124 L bf
 1
 4
@@ -1076,7 +1076,7 @@ Eva the Diva
 61 1/2
 51 1/2
 1
-L a Babe 123
+L-a-Babe-123
 4
 3Head
 41

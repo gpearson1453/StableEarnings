@@ -1769,7 +1769,7 @@ L bk
 followed winner
 1Jun21 6DED3
 6
-Xdw Lucyat 100 (Ramirez, Jr., Raul)
+Xdw-Lucyat-100 (Ramirez, Jr., Raul)
 126
 L bk
 5
@@ -1871,7 +1871,7 @@ Vegas Pic
 New Trainer: Etniel M. Sanabria
 New Owner: Jose Yanez Herrera
 Claiming Prices:
-5 - Senorita Teekila: $7,500; 3 - Rainbow Dash: $7,500; 6 - Xdw Lucyat 100: $7,500; 8 - High Fashion Returns: $7,500;
+5 - Senorita Teekila: $7,500; 3 - Rainbow Dash: $7,500; 6 - Xdw-Lucyat-100: $7,500; 8 - High Fashion Returns: $7,500;
 7 - Wave Shine: $7,500; 9 - Buying Pearls: $7,500; 4 - Sf Mito Fast: $7,500; 2 - Babe Theory: $7,500; 10 - Wattle:
 $7,500;
 Scratched Horse(s): Vegas Pic (Veterinarian)
@@ -1890,7 +1890,7 @@ Rainbow Dash
 4.00
 3.20
 6
-Xdw Lucyat 100
+Xdw-Lucyat-100
 7.40
 Wager Type
 Winning Numbers
@@ -1937,7 +1937,7 @@ Rainbow Dash
 11/2
 2Neck
 6
-Xdw Lucyat 100
+Xdw-Lucyat-100
 5
 31 1/2
 3Neck

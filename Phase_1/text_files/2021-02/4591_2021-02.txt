@@ -813,7 +813,7 @@ L bk
 late bid, just missed
 21Nov20 6LS6
 4
-Ib Hot N Famous 2 (Luna, Ubaldo)
+Ib-Hot-N-Famous-2 (Luna, Ubaldo)
 126
 L bf
 4
@@ -889,7 +889,7 @@ Gone Ina Flash Aw
 New Trainer: Eliseo Celestino
 New Owner: David A. Valdez
 Claiming Prices:
-1 - Jess Moon Coming: $5,000; 5 - Rollin Bye: $5,000; 4 - Ib Hot N Famous 2: $5,000; 2 - Going Hot: $5,000; 6 -
+1 - Jess Moon Coming: $5,000; 5 - Rollin Bye: $5,000; 4 - Ib-Hot-N-Famous-2: $5,000; 2 - Going Hot: $5,000; 6 -
 Darlene Shez Flying: $5,000; 3 - Gone Ina Flash Aw: $5,000; 7 - Dancing With Sixes: $5,000;
 Total WPS Pool: $14,757
 Pgm Horse
@@ -906,7 +906,7 @@ Rollin Bye
 5.00
 3.40
 4
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 5.40
 Wager Type
 Winning Numbers
@@ -948,7 +948,7 @@ Rollin Bye
 21/2
 2Nose
 4
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 2
 31/2
 33/4

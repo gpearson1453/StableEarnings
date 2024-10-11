@@ -2425,7 +2425,7 @@ L bk
 one paced thru out
 3Dec20 9EVD9
 8
-Xdw Lucyat 100 (Aquino, Jasiel)
+Xdw-Lucyat-100 (Aquino, Jasiel)
 126
 L bf
 8
@@ -2502,7 +2502,7 @@ New Trainer: Arturo Davila, III
 New Owner: Arturo Davila, III
 Claiming Prices:
 9 - Sir Azabache: $5,000; 5 - Imnothotimspicy: $5,000; 4 - Kue Shot: $5,000; 6 - Kamls Gurl: $5,000; 3 - Janices
-Fantasy: $5,000; 8 - Xdw Lucyat 100: $5,000; 10 - Brooklynns Finest: $5,000; 2 - Whispers of a Win: $5,000; 1 - Farrah
+Fantasy: $5,000; 8 - Xdw-Lucyat-100: $5,000; 10 - Brooklynns Finest: $5,000; 2 - Whispers of a Win: $5,000; 1 - Farrah
 Corona: $5,000; 7 - Shez Streakin Fancy: $5,000;
 Total WPS Pool: $23,279
 Pgm Horse
@@ -2588,7 +2588,7 @@ Janices Fantasy
 51 1/4
 51 1/4
 8
-Xdw Lucyat 100
+Xdw-Lucyat-100
 3
 81 1/2
 61 1/2

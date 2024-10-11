@@ -1081,7 +1081,7 @@ L bfk
 outfinished
 25Oct20 5WRD6
 4
-L a Babe 123 (Villatoro, Noe)
+L-a-Babe-123 (Villatoro, Noe)
 125
 L bf
 4
@@ -1239,7 +1239,7 @@ Emmas Pop N Flash
 31
 41/2
 4
-L a Babe 123
+L-a-Babe-123
 2
 61 1/2
 51 1/2

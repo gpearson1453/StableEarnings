@@ -264,7 +264,7 @@ Louisiana Blue Fire (Cordova, Oscar)
 brushed, evenly
 3Jun23 5HOU5
 4
-Ib Hot N Famous 2 (Zuniga, Alejandro)
+Ib-Hot-N-Famous-2 (Zuniga, Alejandro)
 128 L bf
 3
 3
@@ -282,7 +282,7 @@ Breeder: Leann J Burns
 Owner: Alma Yuridia Martinez
 Trainer: Lopez, Pedro
 Claiming Prices:
-4 - Ib Hot N Famous 2: $25,000;
+4 - Ib-Hot-N-Famous-2: $25,000;
 Scratched Horse(s): Shakeemupred (Stewards)
 Total WPS Pool: $7,293
 Pgm Horse
@@ -344,7 +344,7 @@ Louisiana Blue Fire
 43
 42 3/4
 4
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 3
 42
 53

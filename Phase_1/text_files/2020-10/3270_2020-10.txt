@@ -1741,7 +1741,7 @@ Faodail (Dominguez, Jonathan)
 solid effort,held 2nd
 9Jul20 3DED6
 5
-Ib Hot N Famous 2 (Soto, Ramiro)
+Ib-Hot-N-Famous-2 (Soto, Ramiro)
 132 L bf
 5
 1
@@ -1863,7 +1863,7 @@ Breeder: Henry C Brooks
 Owner: Henry C. Brooks
 Trainer: Sanchez, Angel
 Claiming Prices:
-2 - Hb Birdman: $7,500; 4 - Faodail: $7,500; 5 - Ib Hot N Famous 2: $7,500; 3 - Dashers Rose: $7,500; 7 - Osc Boyz:
+2 - Hb Birdman: $7,500; 4 - Faodail: $7,500; 5 - Ib-Hot-N-Famous-2: $7,500; 3 - Dashers Rose: $7,500; 7 - Osc Boyz:
 $7,500; 10 - I Am All Fancy: $7,500; 8 - Presidente: $7,500; 6 - The Runaway Cartel: $7,500; 1 - Dm Mary Deal: $7,500;
 12 - Champagne Rose B: $7,500; 11 - Ms Guerra: $7,500;
 Scratched Horse(s): So Long Mr Charlie (Veterinarian)
@@ -1882,7 +1882,7 @@ Faodail
 6.20
 4.60
 5
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 19.80
 Wager Type
 Winning Numbers
@@ -1927,7 +1927,7 @@ Faodail
 21/2
 23/4
 5
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 1
 1Head
 31/2

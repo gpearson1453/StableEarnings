@@ -2197,7 +2197,7 @@ L bf
 broke back, no threat
 6Nov20 2EVD2
 9
-Xdw Lucyat 100 (Aquino, Jasiel)
+Xdw-Lucyat-100 (Aquino, Jasiel)
 126
 L b
 9
@@ -2230,7 +2230,7 @@ Trainer: Pizana, Manuel
 Claiming Prices:
 4 - Charmer On Texas: $5,000; 7 - Sir Azabache: $5,000; 8 - Tdz Agouti Cashmaker: $5,000; 2 - Tld Easy Effort:
 $5,000; 3 - Royal Crown Cartel: $5,000; 1 - Po Luna La Jolla: $5,000; 10 - Shez Streakin Fancy: $5,000; 6 - Farrah
-Corona: $5,000; 9 - Xdw Lucyat 100: $5,000; 5 - Ima Streakin Okey: $5,000;
+Corona: $5,000; 9 - Xdw-Lucyat-100: $5,000; 5 - Ima Streakin Okey: $5,000;
 Total WPS Pool: $29,754
 Pgm Horse
 Win
@@ -2325,7 +2325,7 @@ Farrah Corona
 82 3/4
 85 1/4
 9
-Xdw Lucyat 100
+Xdw-Lucyat-100
 10
 103 1/2
 95 1/2

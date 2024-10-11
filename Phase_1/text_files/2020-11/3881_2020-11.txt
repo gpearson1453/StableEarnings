@@ -1340,7 +1340,7 @@ L bf
 dueled, came up empty
 1Nov20 3LS1
 2
-Ib Hot N Famous 2 (Villatoro, Noe)
+Ib-Hot-N-Famous-2 (Villatoro, Noe)
 126
 L bf
 2
@@ -1468,7 +1468,7 @@ Apollitical Mogul
 1Head
 52
 2
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 5
 61 1/2
 63 3/4

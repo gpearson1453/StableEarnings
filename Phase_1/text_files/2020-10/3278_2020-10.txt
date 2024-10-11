@@ -625,7 +625,7 @@ Start
 Str
 Fin
 4
-Chicksdigmymoneybags2
+Chicksdigmymoneybags 2
 *
 1Head
 1

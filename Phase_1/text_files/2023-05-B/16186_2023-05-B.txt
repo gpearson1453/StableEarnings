@@ -2458,7 +2458,7 @@ L bfhk
 bumped, no threat
 6Apr22 4LAD3
 8
-Ib Hot N Famous 2 (Reyes, Eric)
+Ib-Hot-N-Famous-2 (Reyes, Eric)
 128
 L bf
 8
@@ -2598,7 +2598,7 @@ Sir Thorn Dash
 82
 81 1/2
 8
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 5
 92 1/2
 92 1/2

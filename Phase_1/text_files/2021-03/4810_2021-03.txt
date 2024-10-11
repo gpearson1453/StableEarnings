@@ -257,7 +257,7 @@ L bf
 popped gate, driving
 8Feb21 5LAD3
 1
-DQ-Ib Hot N Famous 2 (Luna, Ubaldo)
+DQ-Ib-Hot-N-Famous-2 (Luna, Ubaldo)
 126
 L bf
 1
@@ -314,10 +314,10 @@ Breeder: Gerald M Provost/Kenneth Smith
 Owner: John Paul Fox, Sr.
 Trainer: Fox, John
 Claiming Prices:
-6 - Darlene Shez Flying: $5,000; 1 - Ib Hot N Famous 2: $5,000; 4 - Lets Go Perry: $5,000; 2 - Hez a Hot Secret:
+6 - Darlene Shez Flying: $5,000; 1 - Ib-Hot-N-Famous-2: $5,000; 4 - Lets Go Perry: $5,000; 2 - Hez a Hot Secret:
 $5,000; 3 - Ttt Kellys Walker: $5,000;
 Disqualification(s):
-# 1 Ib Hot N Famous 2 from 2 to 5
+# 1 Ib-Hot-N-Famous-2 from 2 to 5
 Scratched Horse(s): Jess Moon Coming (Veterinarian)
 Total WPS Pool: $9,976
 Pgm Horse
@@ -371,7 +371,7 @@ Darlene Shez Flying
 *
 1Neck
 1
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 2
 *
 2Neck

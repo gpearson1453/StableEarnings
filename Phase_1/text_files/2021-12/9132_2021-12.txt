@@ -1055,7 +1055,7 @@ Wave Shine (Garcia, Clayton)
 between, late gain
 24Sep21 8LS3
 2
-Xdw Lucyat 100 (Villatoro, Noe)
+Xdw-Lucyat-100 (Villatoro, Noe)
 126 L bk
 2
 2
@@ -1155,7 +1155,7 @@ New Trainer: Javier Ruiz Ortiz
 New Owner: Abel Velez Ipina
 Claiming Prices:
 6 - First Green Diamond: $7,500; 4 - El Coronazoom: $7,500; 12 - Memories of Cartel: $7,500; 7 - Wave Shine: $7,500;
-2 - Xdw Lucyat 100: $7,500; 3 - Teller Ima Fast Man: $7,500; 1 - Buying Pearls: $7,500; 10 - Lethal Shot: $7,500; 5 - La
+2 - Xdw-Lucyat-100: $7,500; 3 - Teller Ima Fast Man: $7,500; 1 - Buying Pearls: $7,500; 10 - Lethal Shot: $7,500; 5 - La
 Loba Duran: $7,500; 9 - Tassadar: $7,500; 11 - Okie Hombre: $7,500;
 Scratched Horse(s): High Fashion Returns (Veterinarian)
 Total WPS Pool: $27,347
@@ -1230,7 +1230,7 @@ Wave Shine
 72 1/2
 41 3/4
 2
-Xdw Lucyat 100
+Xdw-Lucyat-100
 2
 11
 2Head

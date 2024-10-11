@@ -410,7 +410,7 @@ Odds Ind. Time
 Sp. In. Comments
 18Dec20 10EVD6
 6
-Xdw Lucyat 100 (Aquino, Jasiel)
+Xdw-Lucyat-100 (Aquino, Jasiel)
 128
 L b
 6
@@ -501,15 +501,15 @@ L bfk
 stumbled, steadied
 Run-Up: 0 feet
 Winner:
-Xdw Lucyat 100, Gray Filly, by Sir Runaway Dash out of Sheezespeciallyfast, by Heza Fast Dash. Foaled Mar 20, 2017 in Louisiana.
+Xdw-Lucyat-100, Gray Filly, by Sir Runaway Dash out of Sheezespeciallyfast, by Heza Fast Dash. Foaled Mar 20, 2017 in Louisiana.
 Breeder: Xdw Holdings Llc
 Owner: XDW Holdings LLC
 Trainer: Broussard, Kevin
-1 Claimed Horse(s): Xdw Lucyat 100
+1 Claimed Horse(s): Xdw-Lucyat-100
 New Trainer: Isidro Flores
 New Owner: Norberto Flores, Jr.
 Claiming Prices:
-6 - Xdw Lucyat 100: $5,000; 1 - Bojangles At Werk: $5,000; 5 - Painted Lil Perry: $5,000; 2 - Louisiana Boss Man:
+6 - Xdw-Lucyat-100: $5,000; 1 - Bojangles At Werk: $5,000; 5 - Painted Lil Perry: $5,000; 2 - Louisiana Boss Man:
 $5,000; 7 - Angry Bird B: $5,000; 4 - Louisiana Red Sauce: $5,000; 3 - Gemma Caliente: $5,000;
 Total WPS Pool: $17,994
 Pgm Horse
@@ -517,7 +517,7 @@ Win
 Place
 Show
 6
-Xdw Lucyat 100
+Xdw-Lucyat-100
 22.00
 8.80
 5.60
@@ -558,7 +558,7 @@ Start
 Str
 Fin
 6
-Xdw Lucyat 100
+Xdw-Lucyat-100
 4
 2Head
 1Neck

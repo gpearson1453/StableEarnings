@@ -1189,7 +1189,7 @@ b
 no menace
 1Feb21 3LAD1
 4
-Xdw Lucyat 100 (Candanosa, Bryan)
+Xdw-Lucyat-100 (Candanosa, Bryan)
 126
 L b
 4
@@ -1292,7 +1292,7 @@ Jrs Shining Fantasy
 61
 63 3/4
 4
-Xdw Lucyat 100
+Xdw-Lucyat-100
 3
 53/4
 74

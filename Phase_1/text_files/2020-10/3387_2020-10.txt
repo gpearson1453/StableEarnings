@@ -1874,7 +1874,7 @@ L bfk
 late rally for 3rd
 9May20 1RP3
 5
-L a Babe 123 (Klaiber, Justine)
+L-a-Babe-123 (Klaiber, Justine)
 124
 L bf
 5
@@ -1970,7 +1970,7 @@ Breeder: Bryan H Calloway
 Owner: Bryan H. Calloway
 Trainer: Calloway, Bryan
 Dead Heats:
-4th place - # 5 L a Babe 123
+4th place - # 5 L-a-Babe-123
 4th place - # 9 Rolin Rok
 Total WPS Pool: $12,238
 Pgm Horse
@@ -2046,7 +2046,7 @@ Aawy Fiftyfive
 72 1/4
 3Neck
 5
-L a Babe 123
+L-a-Babe-123
 3
 51 1/2
 41/2

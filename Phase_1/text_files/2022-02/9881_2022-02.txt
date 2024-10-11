@@ -682,7 +682,7 @@ Owner: Tomas Barron
 Trainer: Barron, Jose
 Claiming Prices:
 4 - Da Pool Do: $20,000;
-Scratched Horse(s): Ib Hot N Famous 2 (Stewards)
+Scratched Horse(s): Ib-Hot-N-Famous-2 (Stewards)
 Total WPS Pool: $13,695
 Pgm Horse
 Win

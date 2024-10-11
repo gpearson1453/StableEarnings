@@ -246,7 +246,7 @@ L bk
 took command late
 24Oct20 1EVD10
 2
-Xdw Lucyat 100 (Luna, Ubaldo)
+Xdw-Lucyat-100 (Luna, Ubaldo)
 126
 L bf
 2
@@ -355,7 +355,7 @@ Breeder: Hb Speedhorse
 Owner: Jesus E. Longoria
 Trainer: Campos, Jr, Francisco
 Claiming Prices:
-4 - She Flys Bye You: $5,000; 2 - Xdw Lucyat 100: $5,000; 1 - Toast to Jet Black: $5,000; 3 - Tip Fer: $5,000; 7 - Boyz
+4 - She Flys Bye You: $5,000; 2 - Xdw-Lucyat-100: $5,000; 1 - Toast to Jet Black: $5,000; 3 - Tip Fer: $5,000; 7 - Boyz
 Black Jet: $5,000; 6 - Tee Mongoose: $5,000; 9 - Ajs Fast Streak: $5,000; 5 - Ima Streakin Okey: $5,000; 8 - Griselda
 Blanco: $5,000;
 Total WPS Pool: $17,912
@@ -369,7 +369,7 @@ She Flys Bye You
 3.60
 2.40
 2
-Xdw Lucyat 100
+Xdw-Lucyat-100
 7.00
 4.00
 1
@@ -406,7 +406,7 @@ She Flys Bye You
 21/2
 1Head
 2
-Xdw Lucyat 100
+Xdw-Lucyat-100
 7
 11/2
 2Head

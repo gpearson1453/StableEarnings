@@ -2406,7 +2406,7 @@ L bfk
 brush, no threat
 14Sep23 2LS5
 8
-Ib Hot N Famous 2 (Mata, Edgar)
+Ib-Hot-N-Famous-2 (Mata, Edgar)
 128
 L b
 8
@@ -2516,7 +2516,7 @@ Prized Dimon
 94 1/4
 92 1/2
 8
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 7
 104 1/4
 103 3/4

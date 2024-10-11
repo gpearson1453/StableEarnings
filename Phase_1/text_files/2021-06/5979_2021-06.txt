@@ -1263,7 +1263,7 @@ L b
 dueled, missed
 21Mar21 6LAD7
 3
-Xdw Lucyat 100 (Flores-Garcia, Luis)
+Xdw-Lucyat-100 (Flores-Garcia, Luis)
 128
 L bk
 3
@@ -1359,11 +1359,11 @@ Breeder: Aymond Bates Llc
 Owner: Jose O. Barron
 Trainer: Macias, Manuel
 Claiming Prices:
-4 - Holland Avery: $5,000; 1 - Makennas Fire: $5,000; 3 - Xdw Lucyat 100: $5,000; 5 - Jm Aweskeetskeet: $5,000; 6 -
+4 - Holland Avery: $5,000; 1 - Makennas Fire: $5,000; 3 - Xdw-Lucyat-100: $5,000; 5 - Jm Aweskeetskeet: $5,000; 6 -
 Cr Miss Red: $5,000; 2 - Tee Valentine: $5,000; 7 - Ms Curiosity: $5,000; 9 - Ttt I Said Eloquent: $5,000; 10 - Tip Fer:
 $5,000;
 Dead Heats:
-3rd place - # 3 Xdw Lucyat 100
+3rd place - # 3 Xdw-Lucyat-100
 3rd place - # 5 Jm Aweskeetskeet
 Scratched Horse(s): She Flys Bye You (Stewards)
 Total WPS Pool: $27,450
@@ -1381,7 +1381,7 @@ Makennas Fire
 5.80
 2.80
 3
-Xdw Lucyat 100
+Xdw-Lucyat-100
 3.40
 5
 Jm Aweskeetskeet
@@ -1437,7 +1437,7 @@ Makennas Fire
 2Head
 21/2
 3
-Xdw Lucyat 100
+Xdw-Lucyat-100
 3
 3Head
 33/4

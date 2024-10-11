@@ -444,7 +444,7 @@ fk
 speed, held 2nd
 14Mar22 6LAD4
 3
-Ib Hot N Famous 2 (Luna, Ubaldo)
+Ib-Hot-N-Famous-2 (Luna, Ubaldo)
 126
 L bf
 3
@@ -502,7 +502,7 @@ Runaway Stoli Dash
 4.60
 2.10
 3
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 2.40
 Wager Type
 Winning Numbers
@@ -547,7 +547,7 @@ Runaway Stoli Dash
 1Head
 2Neck
 3
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 3
 3Head
 31/2

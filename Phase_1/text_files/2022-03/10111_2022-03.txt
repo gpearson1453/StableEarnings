@@ -1008,7 +1008,7 @@ L bfk
 vied, outfinished
 12Jan22 6LAD5
 3
-Ib Hot N Famous 2 (Luna, Ubaldo)
+Ib-Hot-N-Famous-2 (Luna, Ubaldo)
 126
 L bf
 2
@@ -1051,7 +1051,7 @@ Breeder: Flying G Racing Llc
 Owner: Martinez, Isidro and Lopez, Marco Antonio
 Trainer: Pizana, Manuel
 Claiming Prices:
-8 - Chloes Prize: $15,000; 3 - Ib Hot N Famous 2: $15,000;
+8 - Chloes Prize: $15,000; 3 - Ib-Hot-N-Famous-2: $15,000;
 Scratched Horse(s): Jess Kool It (Veterinarian), Mp Sixty Silky (Veterinarian)
 Total WPS Pool: $12,286
 Pgm Horse
@@ -1115,7 +1115,7 @@ My Big Blue
 2Head
 31 1/2
 3
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 2
 3Head
 41 3/4

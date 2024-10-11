@@ -617,7 +617,7 @@ Odds Ind. Time
 Sp. In. Comments
 4Oct20 7LS3
 7
-Ib Hot N Famous 2 (Soto, Ramiro)
+Ib-Hot-N-Famous-2 (Soto, Ramiro)
 132
 L bf
 7
@@ -734,7 +734,7 @@ bfk
 chased, weakened
 Run-Up: 0 feet
 Winner:
-Ib Hot N Famous 2, Brown Filly, by Toast to Dash out of Ib Hot N Famous, by Hotdoggin. Foaled Apr 17, 2017 in Texas.
+Ib-Hot-N-Famous-2, Brown Filly, by Toast to Dash out of Ib Hot N Famous, by Hotdoggin. Foaled Apr 17, 2017 in Texas.
 Breeder: Mike Del Bosque
 Owner: Faviola Gonzalez
 Trainer: Gonzalez, Faviola
@@ -742,7 +742,7 @@ Trainer: Gonzalez, Faviola
 New Trainer: Jose C. Espinoza
 New Owner: Lorenzo Huerta Garcia
 Claiming Prices:
-7 - Ib Hot N Famous 2: $4,000; 4 - Mr Rare Bubba: $4,000; 5 - Mr On the Dash: $4,000; 9 - Corona Kidd Kat: $4,000; 8
+7 - Ib-Hot-N-Famous-2: $4,000; 4 - Mr Rare Bubba: $4,000; 5 - Mr On the Dash: $4,000; 9 - Corona Kidd Kat: $4,000; 8
 - Elle Cartel: $4,000; 3 - Burbank Boy: $4,000; 2 - Dela Magica: $4,000; 1 - Mb New Queen: $4,000; 6 - Highly Royal
 Beduino: $4,000;
 Total WPS Pool: $18,218
@@ -751,7 +751,7 @@ Win
 Place
 Show
 7
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 4.60
 5.00
 3.00
@@ -792,7 +792,7 @@ Start
 Str
 Fin
 7
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 2
 1Head
 1Neck

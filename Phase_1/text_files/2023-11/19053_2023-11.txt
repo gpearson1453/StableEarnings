@@ -629,7 +629,7 @@ L b
 driving,drift out late
 14Oct23 10LS10
 2
-Ib Hot N Famous 2 (Menchaca-Coronado, Jesus)
+Ib-Hot-N-Famous-2 (Menchaca-Coronado, Jesus)
 130
 L b
 1
@@ -664,7 +664,7 @@ New Trainer: Harvey Baeza
 New Owner: Vista Del Sol, Inc.
 Claiming Prices:
 4 - Valentines Miss Gal: $15,000; 7 - Cf High Rate: $15,000; 5 - Patoranado: $15,000; 3 - El Esperado: $15,000; 9 -
-Majestic Business: $15,000; 6 - Power Chic: $15,000; 2 - Ib Hot N Famous 2: $15,000; 8 - Ddeez Kiss My Dash:
+Majestic Business: $15,000; 6 - Power Chic: $15,000; 2 - Ib-Hot-N-Famous-2: $15,000; 8 - Ddeez Kiss My Dash:
 $15,000;
 Scratched Horse(s): A Scooter With Sisu (Stewards)
 Total WPS Pool: $15,001
@@ -749,7 +749,7 @@ Power Chic
 62 3/4
 63
 2
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 2
 51 3/4
 73 1/4

@@ -1037,7 +1037,7 @@ L bk
 mild late bid
 12Nov21 9LS12
 1
-Ib Hot N Famous 2 (Luna, Ubaldo)
+Ib-Hot-N-Famous-2 (Luna, Ubaldo)
 126
 L bf
 1
@@ -1129,7 +1129,7 @@ Jj Heza Fast Dash Jr
 51 1/4
 42
 1
-Ib Hot N Famous 2
+Ib-Hot-N-Famous-2
 4
 31
 52 3/4

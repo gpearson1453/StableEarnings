@@ -2850,7 +2850,7 @@ Ec Leavingyou (Garcia, Jorge)
 no threat
 6May21 5HOU5
 9
-L a Babe 123 (Rivera, Ali)
+L-a-Babe-123 (Rivera, Ali)
 125 L bf
 9
 9
@@ -3009,7 +3009,7 @@ Ec Leavingyou
 62 3/4
 62 3/4
 9
-L a Babe 123
+L-a-Babe-123
 9
 61
 72 3/4
