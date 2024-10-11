@@ -23,7 +23,7 @@ Odds Ind. Time
 Sp. In. Comments
 4Jun22 2CTM4
 5
-Top Shelf 109 (Hernandez, O.)
+Top-Shelf-109 (Hernandez, O.)
 130 b
 5
 2
@@ -101,7 +101,7 @@ Bright Foo Fighter (Botello, J.)
 raced evenly
 Run-Up: 0 feet
 Winner:
-Top Shelf 109, Sorrel Gelding, by Special Fly Bye out of See Me Do It Too, by Favorite Cartel. Foaled Mar 14, 2019 in AB.
+Top-Shelf-109, Sorrel Gelding, by Special Fly Bye out of See Me Do It Too, by Favorite Cartel. Foaled Mar 14, 2019 in AB.
 Breeder: Buckey &/Or Beverly Stockwell
 Owner: Robert McCutcheon
 Trainer: Stockwell, Buckey
@@ -113,7 +113,7 @@ Win
 Place
 Show
 5
-Top Shelf 109
+Top-Shelf-109
 17.80
 9.80
 4.90
@@ -147,7 +147,7 @@ Str 1
 Str
 Fin
 5
-Top Shelf 109
+Top-Shelf-109
 2
 3Head
 1Head

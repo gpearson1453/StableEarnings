@@ -247,7 +247,7 @@ BL b
 lacked a rally
 3Jul21 2PRM7
 1
-Agouti 7 (Alvidrez, Armando)
+Agouti-7 (Alvidrez, Armando)
 125
 BL bf
 1
@@ -336,7 +336,7 @@ Fastballs Legacy
 41
 54 3/4
 1
-Agouti 7
+Agouti-7
 6
 64 1/2
 69 3/4

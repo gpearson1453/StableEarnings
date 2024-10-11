@@ -1034,7 +1034,7 @@ Jess Your Corona (Flores, Jesus)
 steady effort
 5Jun22 7JRM1
 3
-Richie Rich 1 (Ayala, Eric)
+Richie-Rich-1 (Ayala, Eric)
 126 BL b
 3
 2
@@ -1153,7 +1153,7 @@ Jess Your Corona
 41 1/4
 31 1/4
 3
-Richie Rich 1
+Richie-Rich-1
 2
 2Neck
 31

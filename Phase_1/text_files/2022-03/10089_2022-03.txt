@@ -1667,7 +1667,7 @@ Odds Ind. Time
 Sp. In. Comments
 14Jan22 3SUN1
 6
-Genesis 1 (Ramirez, Jr., Raul)
+Genesis-1 (Ramirez, Jr., Raul)
 127 L bf
 6
 1
@@ -1797,7 +1797,7 @@ Just B You (Smith, Cody)
 altered path outward
 Run-Up: 0 feet
 Winner:
-Genesis 1, Gray Gelding, by Hes Relentless out of Double Down Baby, by Chicks a Blazin. Foaled Feb 21, 2019 in Texas.
+Genesis-1, Gray Gelding, by Hes Relentless out of Double Down Baby, by Chicks a Blazin. Foaled Feb 21, 2019 in Texas.
 Breeder: Dario Madrid
 Owner: Dario P. Madrid
 Trainer: Baeza, Harvey
@@ -1807,7 +1807,7 @@ Win
 Place
 Show
 6
-Genesis 1
+Genesis-1
 12.40
 6.40
 4.00
@@ -1845,7 +1845,7 @@ Str 1
 Str
 Fin
 6
-Genesis 1
+Genesis-1
 1
 1Head
 11/2

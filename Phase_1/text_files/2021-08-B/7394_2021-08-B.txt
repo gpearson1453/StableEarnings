@@ -868,7 +868,7 @@ Wavetokaylie (Benn, Cordarelton)
 solid bid
 10Jul21 1WYO2
 2
-Munich 72 (Linan, Francisco)
+Munich-72 (Linan, Francisco)
 131 BL b
 2
 5
@@ -1007,7 +1007,7 @@ Wavetokaylie
 51
 52 3/4
 2
-Munich 72
+Munich-72
 5
 61/2
 72

@@ -1201,7 +1201,7 @@ Start
 Str
 Fin
 1
-Shazooms Lucky Charm5
+Shazooms Lucky Charm 5
 11
 1Neck
 8

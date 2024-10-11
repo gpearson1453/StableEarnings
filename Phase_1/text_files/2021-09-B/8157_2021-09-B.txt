@@ -1560,7 +1560,7 @@ Odds Ind. Time
 Sp. In. Comments
 8Aug21 6ONE5
 8
-Richie Rich 1 (Nicasio, Jose)
+Richie-Rich-1 (Nicasio, Jose)
 124 b
 8
 2
@@ -1664,7 +1664,7 @@ J Patricia (Ayala, Jesus)
 bump 2x st, weakened
 Run-Up: 0 feet
 Winner:
-Richie Rich 1, Bay Colt, by Concorde's Appeal out of Race to Riches, by Bono Jazz. Foaled May 29, 2019 in Idaho.
+Richie-Rich-1, Bay Colt, by Concorde's Appeal out of Race to Riches, by Bono Jazz. Foaled May 29, 2019 in Idaho.
 Breeder: Lazaro U Arreola
 Owner: Arreloa, Lazaro
 Trainer: Arrossa, Monty
@@ -1674,7 +1674,7 @@ Win
 Place
 Show
 8
-Richie Rich 1
+Richie-Rich-1
 7.60
 4.60
 2.40
@@ -1708,7 +1708,7 @@ Str 1
 Str
 Fin
 8
-Richie Rich 1
+Richie-Rich-1
 2
 1Head
 1Neck

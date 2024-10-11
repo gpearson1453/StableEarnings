@@ -1784,7 +1784,7 @@ At a Bad Time (Ortiz, Jose)
 no final kick
 21Aug21 3RUI4
 6
-Genesis 1 (Garcia-Luna, Felipe)
+Genesis-1 (Garcia-Luna, Felipe)
 124 L bkf
 6
 1
@@ -1925,7 +1925,7 @@ At a Bad Time
 31 1/2
 41 1/2
 6
-Genesis 1
+Genesis-1
 1
 31/2
 41 3/4

@@ -62,7 +62,7 @@ Sparks in the Night (Marti, Alexander)
 dueled,caught late
 7Aug22 4GPR1
 4
-Top Shelf 109 (Hernandez, O.)
+Top-Shelf-109 (Hernandez, O.)
 130 b
 4
 6
@@ -163,7 +163,7 @@ Sparks in the Night
 32 1/4
 32 1/4
 4
-Top Shelf 109
+Top-Shelf-109
 6
 63 1/4
 52 1/2

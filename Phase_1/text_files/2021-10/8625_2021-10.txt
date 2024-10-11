@@ -1932,7 +1932,7 @@ Run On First Down (Ramirez, Jr., Raul)
 steady effort,hung 3rd
 17Sep21 8LS5
 4
-Genesis 1 (Candanosa, Bryan)
+Genesis-1 (Candanosa, Bryan)
 124 L bfk
 4
 5
@@ -2101,7 +2101,7 @@ Run On First Down
 3Head
 3Head
 4
-Genesis 1
+Genesis-1
 5
 2Head
 2Head

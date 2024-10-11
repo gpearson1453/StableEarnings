@@ -544,7 +544,7 @@ Bearcat Bill, Bay Gelding, by First Timber out of Splashy Mamacita, by Volcom. F
 Breeder: Barry And/Or Janice Sather
 Owner: Sather, Barry and Janice
 Trainer: Moreno, Misael
-Scratched Horse(s): Top Shelf 109 (Veterinarian)
+Scratched Horse(s): Top-Shelf-109 (Veterinarian)
 Total WPS Pool: $13,578
 Pgm Horse
 Win

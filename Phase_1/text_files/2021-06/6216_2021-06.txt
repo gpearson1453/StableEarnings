@@ -1257,7 +1257,7 @@ BL b
 race greenly
 ---
 7
-Munich 72 (Linan, Francisco)
+Munich-72 (Linan, Francisco)
 124
 BL b
 7
@@ -1356,7 +1356,7 @@ Eyepods
 61 3/4
 53
 7
-Munich 72
+Munich-72
 5
 51 1/2
 63 1/4

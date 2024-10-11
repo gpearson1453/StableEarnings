@@ -930,7 +930,7 @@ BL bf
 steady effort
 31Jul21 4ONE1
 3
-Richie Rich 1 (Ayala, Eric)
+Richie-Rich-1 (Ayala, Eric)
 130
 BL b
 3
@@ -1045,7 +1045,7 @@ Zoomin Thru Fire
 53/4
 41/2
 3
-Richie Rich 1
+Richie-Rich-1
 2
 61 1/4
 51 1/2

@@ -1335,7 +1335,7 @@ BL b
 bothered by foe
 13Jun21 6WYO6
 7
-DQ-Munich 72 (Linan, Francisco)
+DQ-Munich-72 (Linan, Francisco)
 124
 BL b
 7
@@ -1393,7 +1393,7 @@ Owner: Cooper, Jason and Morgan, Steve
 Trainer: Morgan, Steve
 Disqualification(s):
 # 2 Jess Glock from 2 to 7
-# 7 Munich 72 from 5 to 8
+# 7 Munich-72 from 5 to 8
 Scratched Horse(s): Wavetokaylie (Veterinarian)
 Total WPS Pool: $6,450
 Pgm Horse
@@ -1458,7 +1458,7 @@ Ja Dustys Honor
 51 1/4
 43
 7
-Munich 72
+Munich-72
 3
 41 1/4
 53 1/4

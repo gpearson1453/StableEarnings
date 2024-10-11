@@ -328,7 +328,7 @@ Obsessed Bug (Andros, Corrine)
 bid late, bled
 4Sep21 3CTM3
 4
-Top Shelf 109 (Fuentes, Fredy)
+Top-Shelf-109 (Fuentes, Fredy)
 130 bf
 3
 7
@@ -456,7 +456,7 @@ Obsessed Bug
 82
 61 1/2
 4
-Top Shelf 109
+Top-Shelf-109
 7
 53/4
 53/4

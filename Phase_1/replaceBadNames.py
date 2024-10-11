@@ -47,9 +47,7 @@ folder_to_search = 'text_files'  # Replace with the name of your folder
 target_string = 'old_string'  # Replace with the string you want to replace
 replacement_string = 'new_string'  # Replace with the replacement string
 
-names = ['Witten 82', 'Jm Jesse James 123', 'Sero 13', 'Maciguem 420', 'Dynasty 727', 'Zaxo 13', 
-         'Wb Bank On Me 2', 'Lola 157', 'Eagle Force 1', 'Js Royal 613', 'First Cash Warrior 3',
-         'Whiskey 918', 'Vf Red Surprise 3']
+names = ['Genesis 1']
 
 # Single run
 # process_folder(folder_to_search, target_string, replacement_string)

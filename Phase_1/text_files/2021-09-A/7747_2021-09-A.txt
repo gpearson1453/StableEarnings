@@ -425,7 +425,7 @@ Wave Burner (Morales, Silvino)
 brshd,dueled,outfnshd
 21Aug21 5GPR6
 6
-Top Shelf 109 (Fuentes, Fredy)
+Top-Shelf-109 (Fuentes, Fredy)
 130 bf
 6
 2
@@ -509,7 +509,7 @@ Wave Burner
 3.80
 3.10
 6
-Top Shelf 109
+Top-Shelf-109
 4.60
 Wager Type
 Winning Numbers
@@ -550,7 +550,7 @@ Wave Burner
 2Head
 21/2
 6
-Top Shelf 109
+Top-Shelf-109
 2
 31/2
 31 1/2

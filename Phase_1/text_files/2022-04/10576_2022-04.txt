@@ -1764,7 +1764,7 @@ L bhk
 bumped both sides
 12Mar22 8RP1
 8
-Genesis 1 (Ramirez, Jr., Raul)
+Genesis-1 (Ramirez, Jr., Raul)
 126
 L bf
 7
@@ -1883,7 +1883,7 @@ One Slick Delight
 *
 4Neck
 8
-Genesis 1
+Genesis-1
 4
 *
 51/2

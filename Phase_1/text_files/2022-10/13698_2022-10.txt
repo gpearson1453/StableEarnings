@@ -800,7 +800,7 @@ Uncle Eds Idea (Rivera, Alonso)
 broke well, best
 24Apr22 8RP5
 5
-Genesis 1 (Dominguez, Sergio)
+Genesis-1 (Dominguez, Sergio)
 125 L b
 5
 3
@@ -880,7 +880,7 @@ Uncle Eds Idea
 5.00
 3.40
 5
-Genesis 1
+Genesis-1
 15.40
 3.20
 6
@@ -923,7 +923,7 @@ Uncle Eds Idea
 1Neck
 11/2
 5
-Genesis 1
+Genesis-1
 3
 2Head
 2Neck

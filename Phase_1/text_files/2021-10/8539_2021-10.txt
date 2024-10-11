@@ -357,7 +357,7 @@ Pappie Due (Ortiz, Martin)
 lacked kick needed
 8Oct21 1CTM2
 8
-Top Shelf 109 (Stephenson, Neville)
+Top-Shelf-109 (Stephenson, Neville)
 124 bf
 8
 7
@@ -500,7 +500,7 @@ Pappie Due
 61
 53/4
 8
-Top Shelf 109
+Top-Shelf-109
 7
 82 1/4
 72

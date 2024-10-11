@@ -638,7 +638,7 @@ Obsessed Bug (Botello, J.)
 brokewell,nipped
 23Oct21 2CTM6
 7
-Top Shelf 109 (Benitez, D)
+Top-Shelf-109 (Benitez, D)
 129 b
 7
 7
@@ -735,7 +735,7 @@ Obsessed Bug
 7.90
 7.90
 7
-Top Shelf 109
+Top-Shelf-109
 9.40
 Wager Type
 Winning Numbers
@@ -784,7 +784,7 @@ Obsessed Bug
 11/2
 2Neck
 7
-Top Shelf 109
+Top-Shelf-109
 7
 71 3/4
 81

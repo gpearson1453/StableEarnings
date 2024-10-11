@@ -1205,7 +1205,7 @@ BL
 just missed
 19Jun22 7JRM4
 8
-Richie Rich 1 (Ayala, Eric)
+Richie-Rich-1 (Ayala, Eric)
 124
 BL b
 8
@@ -1315,7 +1315,7 @@ Trumpster
 3.20
 2.20
 8
-Richie Rich 1
+Richie-Rich-1
 2.20
 Wager Type
 Winning Numbers
@@ -1349,7 +1349,7 @@ Trumpster
 2Head
 2Neck
 8
-Richie Rich 1
+Richie-Rich-1
 4
 3Neck
 31/2

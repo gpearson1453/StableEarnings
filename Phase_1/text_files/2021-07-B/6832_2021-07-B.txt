@@ -18,7 +18,7 @@ Odds Ind. Time
 Sp. In. Comments
 20Jun21 8JRM5
 4
-Richie Rich 1 (Afanador, Jesus)
+Richie-Rich-1 (Afanador, Jesus)
 132 BL b
 4
 2
@@ -70,7 +70,7 @@ Gw Coronas Cash (Romero, Raphael)
 lost intrest
 Run-Up: 0 feet
 Winner:
-Richie Rich 1, Bay Colt, by Concorde's Appeal out of Race to Riches, by Bono Jazz. Foaled May 29, 2019 in Idaho.
+Richie-Rich-1, Bay Colt, by Concorde's Appeal out of Race to Riches, by Bono Jazz. Foaled May 29, 2019 in Idaho.
 Breeder: Lazaro U Arreola
 Owner: Uriel L. Arreola
 Trainer: Arreola, L.
@@ -80,7 +80,7 @@ Win
 Place
 Show
 4
-Richie Rich 1
+Richie-Rich-1
 3.00
 2.20
 2.20
@@ -110,7 +110,7 @@ Str 1
 Str
 Fin
 4
-Richie Rich 1
+Richie-Rich-1
 2
 21/2
 11 3/4

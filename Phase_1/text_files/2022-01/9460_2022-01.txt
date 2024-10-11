@@ -523,7 +523,7 @@ Odds Ind. Time
 Sp. In. Comments
 29Oct21 8LS4
 8
-Genesis 1 (Dominguez, Sergio)
+Genesis-1 (Dominguez, Sergio)
 126 L bf
 8
 2
@@ -640,7 +640,7 @@ Pleadingthefifth (Garcia, Paul)
 bmpd around,taken hold
 Run-Up: 0 feet
 Winner:
-Genesis 1, Gray Gelding, by Hes Relentless out of Double Down Baby, by Chicks a Blazin. Foaled Feb 21, 2019 in Texas.
+Genesis-1, Gray Gelding, by Hes Relentless out of Double Down Baby, by Chicks a Blazin. Foaled Feb 21, 2019 in Texas.
 Breeder: Dario Madrid
 Owner: Dario P. Madrid
 Trainer: Baeza, Harvey
@@ -655,7 +655,7 @@ Win
 Place
 Show
 8
-Genesis 1
+Genesis-1
 8.20
 3.40
 3.20
@@ -702,7 +702,7 @@ Str 1
 Str
 Fin
 8
-Genesis 1
+Genesis-1
 2
 1Head
 1Head

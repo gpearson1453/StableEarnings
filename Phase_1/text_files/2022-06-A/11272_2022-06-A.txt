@@ -1116,7 +1116,7 @@ Odds Ind. Time
 Sp. In. Comments
 17Oct21 10LA5
 4
-Richie Rich 1 (Ayala, Eric)
+Richie-Rich-1 (Ayala, Eric)
 128 BL b
 4
 1
@@ -1194,7 +1194,7 @@ Lrh Mojo Kat (Gonzalez, Jorge)
 no menace
 Run-Up: 0 feet
 Winner:
-Richie Rich 1, Bay Colt, by Concorde's Appeal out of Race to Riches, by Bono Jazz. Foaled May 29, 2019 in Idaho.
+Richie-Rich-1, Bay Colt, by Concorde's Appeal out of Race to Riches, by Bono Jazz. Foaled May 29, 2019 in Idaho.
 Breeder: Lazaro U Arreola
 Owner: Uriel L. Arreola
 Trainer: Arreola, L.
@@ -1204,7 +1204,7 @@ Win
 Place
 Show
 4
-Richie Rich 1
+Richie-Rich-1
 5.00
 4.00
 2.20
@@ -1238,7 +1238,7 @@ Str 1
 Str
 Fin
 4
-Richie Rich 1
+Richie-Rich-1
 1
 11/2
 11/2

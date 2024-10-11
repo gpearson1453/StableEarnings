@@ -47,7 +47,7 @@ b
 lacked rally needed
 ---
 5
-Top Shelf 109 (Allen, Larris)
+Top-Shelf-109 (Allen, Larris)
 124
 b
 4
@@ -106,7 +106,7 @@ Pappie Due
 2.50
 2.60
 5
-Top Shelf 109
+Top-Shelf-109
 2.60
 Wager Type
 Winning Numbers
@@ -136,7 +136,7 @@ Pappie Due
 21/2
 23/4
 5
-Top Shelf 109
+Top-Shelf-109
 1
 41 1/2
 31 1/4

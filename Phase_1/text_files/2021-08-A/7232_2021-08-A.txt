@@ -21,7 +21,7 @@ Odds Ind. Time
 Sp. In. Comments
 20Jun21 1CTM3
 1
-Top Shelf 109 (Allen, Larris)
+Top-Shelf-109 (Allen, Larris)
 124
 b
 1
@@ -86,7 +86,7 @@ b
 never in contention
 Run-Up: 0 feet
 Winner:
-Top Shelf 109, Sorrel Gelding, by Special Fly Bye out of See Me Do It Too, by Favorite Cartel. Foaled Mar 14, 2019 in AB.
+Top-Shelf-109, Sorrel Gelding, by Special Fly Bye out of See Me Do It Too, by Favorite Cartel. Foaled Mar 14, 2019 in AB.
 Breeder: Buckey &/Or Beverly Stockwell
 Owner: Robert McCutcheon
 Trainer: Stockwell, Buckey
@@ -95,7 +95,7 @@ Pgm Horse
 Win
 Place
 1
-Top Shelf 109
+Top-Shelf-109
 9.80
 3.20
 2
@@ -121,7 +121,7 @@ Start
 Str
 Fin
 1
-Top Shelf 109
+Top-Shelf-109
 1
 3Head
 1Head

@@ -578,7 +578,7 @@ Just a Kool Boy (Brooks, Jimmy)
 veer out early
 24Jul21 5RUI3
 7
-Genesis 1 (Garcia, Jr., Noe)
+Genesis-1 (Garcia, Jr., Noe)
 124 L bk
 7
 3
@@ -731,7 +731,7 @@ Just a Kool Boy
 31 1/2
 32 1/4
 7
-Genesis 1
+Genesis-1
 3
 41 1/2
 42

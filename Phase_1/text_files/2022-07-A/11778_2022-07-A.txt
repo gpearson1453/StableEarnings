@@ -1818,7 +1818,7 @@ Valiant Stevie B (Benitez, D)
 rallied late
 17Jun22 1CTM1
 7
-Top Shelf 109 (Hernandez, O.)
+Top-Shelf-109 (Hernandez, O.)
 130 b
 7
 6
@@ -1945,7 +1945,7 @@ Valiant Stevie B
 3Head
 31
 7
-Top Shelf 109
+Top-Shelf-109
 6
 61 1/2
 62

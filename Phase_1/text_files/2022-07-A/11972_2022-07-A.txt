@@ -281,7 +281,7 @@ BL bf
 brief bid, faded
 20Jun22 1PRM5
 1
-Agouti 7 (Pinon, David)
+Agouti-7 (Pinon, David)
 127
 BL bf
 1
@@ -300,7 +300,7 @@ Owner: Greg Longfellow
 Trainer: Charette-Hill, Stacy
 Claiming Prices:
 5 - Sweet Game Chick: $12,500; 6 - Str Forged in Fire: $12,500; 7 - Df Fabulous Coco Ia: $12,500; 4 - Favorite Gold
-Bar: $12,500; 2 - Ought to Be Faithful: $12,500; 8 - Free to Gogo: $12,500; 3 - Lokke Louie: $12,500; 1 - Agouti 7:
+Bar: $12,500; 2 - Ought to Be Faithful: $12,500; 8 - Free to Gogo: $12,500; 3 - Lokke Louie: $12,500; 1 - Agouti-7:
 $12,500;
 Total WPS Pool: $11,068
 Pgm Horse
@@ -384,7 +384,7 @@ Lokke Louie
 53/4
 72 1/2
 1
-Agouti 7
+Agouti-7
 4
 83 1/2
 87 1/4

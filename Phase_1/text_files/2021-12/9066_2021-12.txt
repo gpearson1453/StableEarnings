@@ -1932,7 +1932,7 @@ Ethics and Favor, Sorrel Colt, by Ethics Aside out of Grace and Favor, by Pyc Pa
 Breeder: Double A Ranch
 Owner: Double A Ranch, Inc.
 Trainer: Gonzalez, Jorge
-Scratched Horse(s): Genesis 1 (Veterinarian)
+Scratched Horse(s): Genesis-1 (Veterinarian)
 Total WPS Pool: $29,011
 Pgm Horse
 Win

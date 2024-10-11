@@ -32,7 +32,7 @@ Dustys Little Boy (Bobroff, Jacquelyn)
 game winner
 26Jun21 7WYO8
 5
-Munich 72 (Linan, Francisco)
+Munich-72 (Linan, Francisco)
 124 BL b
 4
 5
@@ -113,7 +113,7 @@ Dustys Little Boy
 4.40
 3.40
 5
-Munich 72
+Munich-72
 5.20
 3.80
 7
@@ -152,7 +152,7 @@ Dustys Little Boy
 1Head
 1Neck
 5
-Munich 72
+Munich-72
 5
 41/2
 3Neck

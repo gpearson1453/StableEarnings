@@ -97,7 +97,7 @@ L bfk
 no menace
 ---
 4
-Pochiz 29 (Fuentes, Sergio)
+Pochiz-29 (Fuentes, Sergio)
 128
 bf
 4
@@ -205,7 +205,7 @@ Queen Love Lady
 61
 62 3/4
 4
-Pochiz 29
+Pochiz-29
 6
 72
 73 1/2

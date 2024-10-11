@@ -2139,7 +2139,7 @@ Mister Bigg (Mendez, Cruz)
 brushed st, solid tr
 26Sep21 9LA1
 3
-Richie Rich 1 (Lozano, Ruben)
+Richie-Rich-1 (Lozano, Ruben)
 124 b
 3
 5
@@ -2309,7 +2309,7 @@ Mister Bigg
 21
 41 1/2
 3
-Richie Rich 1
+Richie-Rich-1
 5
 33/4
 51 1/4
