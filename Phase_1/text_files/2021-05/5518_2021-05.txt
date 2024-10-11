@@ -1041,7 +1041,7 @@ L b
 chased dueling duo
 8Apr21 7RP6
 6
-Rc 1 (Delgado, Oscar)
+Rc-1 (Delgado, Oscar)
 128
 bk
 6
@@ -1185,7 +1185,7 @@ Meabitshy
 82 1/4
 82 3/4
 6
-Rc 1
+Rc-1
 10
 92 1/2
 93

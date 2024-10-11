@@ -2931,7 +2931,7 @@ Red Headed Chick (Ramirez, Jr., Raul)
 crossed behind foe
 ---
 3
-Rudys Girl 08 (Goff, Jr., B.)
+Rudys-Girl-08 (Goff, Jr., B.)
 126 L bk
 3
 8
@@ -3054,7 +3054,7 @@ Red Headed Chick
 93 1/4
 93 3/4
 3
-Rudys Girl 08
+Rudys-Girl-08
 8
 101 3/4
 1010 1/4

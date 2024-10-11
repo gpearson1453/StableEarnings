@@ -2066,7 +2066,7 @@ Sustainability (Gutierrez, Gonzalo)
 frac gate, lacked kick
 11Sep21 4WRD5
 2
-Hallelujah 21 (Torres, Daniel)
+Hallelujah-21 (Torres, Daniel)
 125 L b
 2
 8
@@ -2212,7 +2212,7 @@ Sustainability
 4Neck
 41/2
 2
-Hallelujah 21
+Hallelujah-21
 8
 3Head
 2Head

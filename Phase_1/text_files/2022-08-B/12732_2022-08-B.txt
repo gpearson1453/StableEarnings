@@ -593,7 +593,7 @@ Texassizedbizooms (Candanosa, Bryan)
 no rally
 30Jul22 8RUI1
 5
-First Prize Dash 2 (Ramirez, Esgar)
+First-Prize-Dash-2 (Ramirez, Esgar)
 127 L bk
 5
 5
@@ -705,7 +705,7 @@ Texassizedbizooms
 88
 75 3/4
 5
-First Prize Dash 2
+First-Prize-Dash-2
 5
 74 1/4
 77 1/2

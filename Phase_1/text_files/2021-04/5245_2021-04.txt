@@ -2116,7 +2116,7 @@ L b
 broke in, bumped
 ---
 1
-Tipsy Wagon 509 (Ruiz, Jose)
+Tipsy-Wagon-509 (Ruiz, Jose)
 129
 L bf
 1
@@ -2221,7 +2221,7 @@ O First Sweet Heart
 94 1/4
 95 1/2
 1
-Tipsy Wagon 509
+Tipsy-Wagon-509
 10
 104 3/4
 106

@@ -1473,7 +1473,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 2
-First Prize Dash 2 (Ramirez, Jr., Raul)
+First-Prize-Dash-2 (Ramirez, Jr., Raul)
 125 L b
 2
 3
@@ -1564,7 +1564,7 @@ Lethal Volition (Thedford, Tanner)
 broke very slowly
 Run-Up: 0 feet
 Winner:
-First Prize Dash 2, Sorrel Filly, by Apollitical Jess out of Pyc First Prize Dash, by Pyc Paint Your Wagon. Foaled Jan 02, 2019 in Oklahoma.
+First-Prize-Dash-2, Sorrel Filly, by Apollitical Jess out of Pyc First Prize Dash, by Pyc Paint Your Wagon. Foaled Jan 02, 2019 in Oklahoma.
 Breeder: Weetona Stanley & Raymond Loup
 Owner: MRB Racing LLC
 Trainer: Rodriguez, Manuel
@@ -1575,7 +1575,7 @@ Win
 Place
 Show
 2
-First Prize Dash 2
+First-Prize-Dash-2
 6.60
 3.40
 2.60
@@ -1613,7 +1613,7 @@ Str1
 Str
 Fin
 2
-First Prize Dash 2
+First-Prize-Dash-2
 3
 1Head
 11/2
@@ -2425,7 +2425,7 @@ Bp Southern Pyc (Ramirez, Jr., Raul)
 bad stumble,good kick
 ---
 1
-Hallelujah 21 (Calderon, Francisco)
+Hallelujah-21 (Calderon, Francisco)
 124 L b
 1
 7
@@ -2535,7 +2535,7 @@ Bp Southern Pyc
 5.40
 4.80
 1
-Hallelujah 21
+Hallelujah-21
 14.00
 Wager Type
 Winning Numbers
@@ -2576,7 +2576,7 @@ Bp Southern Pyc
 21/2
 2Neck
 1
-Hallelujah 21
+Hallelujah-21
 7
 61/2
 61 1/4

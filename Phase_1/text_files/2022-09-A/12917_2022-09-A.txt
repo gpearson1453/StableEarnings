@@ -1953,7 +1953,7 @@ Odds Ind. Time
 Sp. In. Comments
 10Aug22 8CBY10
 2
-Hallelujah 21 (Harr, Kelsi)
+Hallelujah-21 (Harr, Kelsi)
 125
 L fk
 2
@@ -2031,7 +2031,7 @@ L bf
 off slow
 Run-Up: 0 feet
 Winner:
-Hallelujah 21, Bay Gelding, by Fdd Dynasty out of Dianas Tres Seis, by Tres Seis. Foaled Jan 23, 2019 in Oklahoma.
+Hallelujah-21, Bay Gelding, by Fdd Dynasty out of Dianas Tres Seis, by Tres Seis. Foaled Jan 23, 2019 in Oklahoma.
 Breeder: J and S Debord/L Timmerman
 Owner: Timmerman, Leo, Debord, Sherry and Debord, Jay
 Trainer: Hybsha, R.
@@ -2042,7 +2042,7 @@ Win
 Place
 Show
 2
-Hallelujah 21
+Hallelujah-21
 3.20
 2.10
 2.10
@@ -2083,7 +2083,7 @@ Start
 Str
 Fin
 2
-Hallelujah 21
+Hallelujah-21
 2
 1Head
 13/4

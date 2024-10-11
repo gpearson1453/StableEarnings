@@ -2273,7 +2273,7 @@ Hockster (Hernandez-Gallardo, Javier)
 broke out, faded
 4Oct22 5WRD2
 7
-Hallelujah 21 (Martinez, L.)
+Hallelujah-21 (Martinez, L.)
 127 L fk
 6
 8
@@ -2420,7 +2420,7 @@ Hockster
 31
 41 3/4
 7
-Hallelujah 21
+Hallelujah-21
 8
 71 1/2
 52 1/2

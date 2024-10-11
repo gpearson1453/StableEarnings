@@ -1540,7 +1540,7 @@ L hfk
 bumped hard both sides
 ---
 9
-Rc 1 (Delgado, Oscar)
+Rc-1 (Delgado, Oscar)
 128
 bk
 9
@@ -1613,7 +1613,7 @@ Trainer: Nino, Luis
 New Trainer: Michael Michan Pittman New Owner: Michael Michan Pittman
 Claiming Prices:
 7 - Surviving Bell: $10,000; 10 - Genuine Blue Corona: $10,000; 6 - Mi Dos Corona: $10,000; 3 - Kaiges Prize: $10,000;
-8 - Dig My Lips: $10,000; 9 - Rc 1: $10,000; 5 - Tambiens Rose: $10,000; 1 - Jess Being Anna: $10,000; 2 - Dash for a
+8 - Dig My Lips: $10,000; 9 - Rc-1: $10,000; 5 - Tambiens Rose: $10,000; 1 - Jess Being Anna: $10,000; 2 - Dash for a
 Surprise: $10,000; 4 - Joe Checkers: $10,000;
 Total WPS Pool: $31,115
 Pgm Horse
@@ -1683,7 +1683,7 @@ Dig My Lips
 61 1/4
 51 1/2
 9
-Rc 1
+Rc-1
 5
 51 1/4
 62

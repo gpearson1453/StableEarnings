@@ -787,7 +787,7 @@ Bexley (Torres, Jorge)
 winner too tough
 26Sep21 10WRD5
 5
-Hallelujah 21 (Calderon, Francisco)
+Hallelujah-21 (Calderon, Francisco)
 124 L b
 4
 4
@@ -871,7 +871,7 @@ Owner: Ted Rushing
 Trainer: Reed, Gerald
 Dead Heats:
 2nd place - # 1 Bexley
-2nd place - # 5 Hallelujah 21
+2nd place - # 5 Hallelujah-21
 Scratched Horse(s): Midnight Apocalypse (Stewards)
 Total WPS Pool: $43,439
 Pgm Horse
@@ -888,7 +888,7 @@ Bexley
 3.20
 3.20
 5
-Hallelujah 21
+Hallelujah-21
 2.10
 2.20
 Wager Type
@@ -938,7 +938,7 @@ Bexley
 21
 21 1/2
 5
-Hallelujah 21
+Hallelujah-21
 4
 51 1/4
 41 1/4

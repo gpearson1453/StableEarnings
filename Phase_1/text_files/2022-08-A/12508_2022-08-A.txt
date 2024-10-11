@@ -1823,7 +1823,7 @@ Five Bar Fantasy (Cervantes, Uriel)
 off bit slow, in close
 27Jul22 11CBY4
 6
-Hallelujah 21 (Quiroz, Bonifacio)
+Hallelujah-21 (Quiroz, Bonifacio)
 125 L f
 6
 10
@@ -1942,7 +1942,7 @@ Five Bar Fantasy
 94 1/4
 92 1/2
 6
-Hallelujah 21
+Hallelujah-21
 10
 103
 105 1/4

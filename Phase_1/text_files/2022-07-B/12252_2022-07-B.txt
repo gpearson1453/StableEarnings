@@ -2536,7 +2536,7 @@ Waitin On Eight (Triana Jr., Alfredo)
 bid, not enough
 22May22 10RP10
 6
-Hallelujah 21 (Quiroz, Bonifacio)
+Hallelujah-21 (Quiroz, Bonifacio)
 127 L f
 6
 7
@@ -2662,7 +2662,7 @@ Waitin On Eight
 2Head
 31 1/2
 6
-Hallelujah 21
+Hallelujah-21
 7
 71 1/2
 51 3/4

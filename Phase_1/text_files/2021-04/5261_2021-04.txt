@@ -940,7 +940,7 @@ b
 erratic path, green
 ---
 5
-Rc 5 (Delgado, Oscar)
+Rc-5 (Delgado, Oscar)
 126
 L b
 5
@@ -960,7 +960,7 @@ Trainer: Hanson, Victor
 Claiming Prices:
 7 - Jess Tempt Yin You: $20,000; 3 - Trademarque: $20,000; 1 - R U Freal: $20,000; 9 - Ramblin Scramblin: $20,000; 8
 - Runningrojo: $20,000; 6 - La Percha: $20,000; 10 - Ivory Smokin Gun: $20,000; 4 - Jess a Hippy Chick: $20,000; 2 -
-Quick Cash Wagon: $20,000; 5 - Rc 5: $20,000;
+Quick Cash Wagon: $20,000; 5 - Rc-5: $20,000;
 Total WPS Pool: $33,863
 Pgm Horse
 Win
@@ -1045,7 +1045,7 @@ Quick Cash Wagon
 92 3/4
 94
 5
-Rc 5
+Rc-5
 10
 104 3/4
 105

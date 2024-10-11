@@ -2248,7 +2248,7 @@ L bhk
 no late bid
 2Jul21 5FMT3
 1
-Rc 1 (Valles Jr., Gonzalo)
+Rc-1 (Valles Jr., Gonzalo)
 127
 bk
 1
@@ -2293,7 +2293,7 @@ Owner: MOK 4 Racing
 Trainer: Peery, Durk
 Claiming Prices:
 8 - Eye Pyc: $15,000; 7 - Follies Special Dash: $15,000; 3 - Jodis Rowdy Bogart: $15,000; 5 - Tricky One: $15,000; 6 -
-Bp First Corona: $15,000; 9 - One Famous Hawk: $15,000; 1 - Rc 1: $15,000; 4 - Whirlaway Jimbo: $15,000; 2 - Valient
+Bp First Corona: $15,000; 9 - One Famous Hawk: $15,000; 1 - Rc-1: $15,000; 4 - Whirlaway Jimbo: $15,000; 2 - Valient
 Chick: $15,000;
 Scratched Horse(s): Lil P Game (Stewards)
 Total WPS Pool: $15,670
@@ -2381,7 +2381,7 @@ One Famous Hawk
 61 1/4
 62 1/2
 1
-Rc 1
+Rc-1
 7
 72 1/4
 74 1/2

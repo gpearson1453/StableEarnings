@@ -1743,7 +1743,7 @@ Hot House (Gutierrez, Gonzalo)
 brk out, sped away
 23Apr21 10RP3
 1
-Hallelujah 21 (Torres, Daniel)
+Hallelujah-21 (Torres, Daniel)
 125 L bf
 1
 2
@@ -1838,7 +1838,7 @@ Hot House, Sorrel Filly, by Tres Seis out of Corona Habit, by Corona Cartel. Foa
 Breeder: Reliance Ranches Llc
 Owner: Jeff Bourquin
 Trainer: Keener, Dee
-Scratched Horse(s): Fancy Man Kan (Veterinarian), Rc 5 (Veterinarian)
+Scratched Horse(s): Fancy Man Kan (Veterinarian), Rc-5 (Veterinarian)
 Total WPS Pool: $9,238
 Pgm Horse
 Win
@@ -1850,7 +1850,7 @@ Hot House
 3.60
 2.40
 1
-Hallelujah 21
+Hallelujah-21
 6.20
 3.60
 10
@@ -1893,7 +1893,7 @@ Hot House
 1Head
 11/2
 1
-Hallelujah 21
+Hallelujah-21
 2
 2Head
 2Head

@@ -1745,7 +1745,7 @@ Odds Ind. Time
 Sp. In. Comments
 10Jul22 1RUI3
 2
-First Prize Dash 2 (Ramirez, Esgar)
+First-Prize-Dash-2 (Ramirez, Esgar)
 126 L bfk
 2
 1
@@ -1823,7 +1823,7 @@ Runaway Aj (Garcia, Jr., Noe)
 off step slow
 Run-Up: 0 feet
 Winner:
-First Prize Dash 2, Sorrel Filly, by Apollitical Jess out of Pyc First Prize Dash, by Pyc Paint Your Wagon. Foaled Jan 02, 2019 in Oklahoma.
+First-Prize-Dash-2, Sorrel Filly, by Apollitical Jess out of Pyc First Prize Dash, by Pyc Paint Your Wagon. Foaled Jan 02, 2019 in Oklahoma.
 Breeder: Weetona Stanley & Raymond Loup
 Owner: Elva Rodriguez
 Trainer: Rodriguez, Manuel
@@ -1834,7 +1834,7 @@ Win
 Place
 Show
 2
-First Prize Dash 2
+First-Prize-Dash-2
 5.60
 3.40
 2.20
@@ -1868,7 +1868,7 @@ Str 1
 Str
 Fin
 2
-First Prize Dash 2
+First-Prize-Dash-2
 1
 11/2
 11/2

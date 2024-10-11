@@ -630,7 +630,7 @@ Rollin Country Girl (Medrano, Albert)
 battled, held
 20May21 3RP3
 3
-Rc 5 (Fonseca-Soto, Fernando)
+Rc-5 (Fonseca-Soto, Fernando)
 126 bk
 3
 7
@@ -749,7 +749,7 @@ Rollin Country Girl
 6.40
 4.20
 3
-Rc 5
+Rc-5
 8.80
 4.80
 9
@@ -784,7 +784,7 @@ Rollin Country Girl
 1Nose
 1Head
 3
-Rc 5
+Rc-5
 7
 2Nose
 2Nose

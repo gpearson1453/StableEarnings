@@ -2683,7 +2683,7 @@ Fly Miss Dynasty (Ramirez, Jr., Raul)
 brushed, one-paced
 ---
 5
-Jm Corona 08 (Escobedo, Edwin)
+Jm-Corona-08 (Escobedo, Edwin)
 126 L bf
 5
 3
@@ -2815,7 +2815,7 @@ Fly Miss Dynasty
 42
 42 1/4
 5
-Jm Corona 08
+Jm-Corona-08
 3
 3Head
 62 1/4

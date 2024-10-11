@@ -1677,7 +1677,7 @@ Essential Jess, Sorrel Colt, by Mr Jess Perry out of Dare You to Beat Me, by Tre
 Breeder: The Quarter Company Llc
 Owner: Damon Hodges
 Trainer: Keener, Dee
-Scratched Horse(s): Rc 1 (Veterinarian)
+Scratched Horse(s): Rc-1 (Veterinarian)
 Total WPS Pool: $6,182
 Pgm Horse
 Win

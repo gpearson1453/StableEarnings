@@ -71,7 +71,7 @@ BL b
 late interest
 15May21 6LBT5
 10
-Wb Bank On Me 2 (Jimenez, Santiago)
+Wb-Bank-On-Me-2 (Jimenez, Santiago)
 124
 BL bf
 9
@@ -204,7 +204,7 @@ Tempting the Cartel
 61
 41 3/4
 10
-Wb Bank On Me 2
+Wb-Bank-On-Me-2
 5
 71 1/4
 52 1/2

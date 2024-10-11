@@ -884,7 +884,7 @@ L bk
 broke in, drifted in
 3Apr21 12RP5
 10
-Jm Corona 08 (Ortiz, Jose)
+Jm-Corona-08 (Ortiz, Jose)
 129
 L bf
 10
@@ -1035,7 +1035,7 @@ Bp Ck Eagle
 31
 31 1/2
 10
-Jm Corona 08
+Jm-Corona-08
 1
 41 1/2
 42 1/2
@@ -2783,7 +2783,7 @@ Dreams of the Heart (Valenzuela, Raul)
 lacked a bid
 2Apr21 7RP1
 10
-First Prize Dash 2 (Ramirez, Jr., Raul)
+First-Prize-Dash-2 (Ramirez, Jr., Raul)
 126 L b
 10
 5
@@ -2905,7 +2905,7 @@ Dreams of the Heart
 82
 82 1/4
 10
-First Prize Dash 2
+First-Prize-Dash-2
 5
 63/4
 92

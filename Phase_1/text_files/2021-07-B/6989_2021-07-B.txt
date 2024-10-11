@@ -930,7 +930,7 @@ Lola 157, Brown Filly, by Kiss My Hocks out of Mia Ta Fame, by Dash Ta Fame. Foa
 Breeder: Richard S Frandsen
 Owner: Blake Isom
 Trainer: Moosman, Riley
-Scratched Horse(s): Wb Bank On Me 2 (Stewards)
+Scratched Horse(s): Wb-Bank-On-Me-2 (Stewards)
 Total WPS Pool: $8,545
 Pgm Horse
 Win

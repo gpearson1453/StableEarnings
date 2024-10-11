@@ -1310,7 +1310,7 @@ BL b
 steady effort
 ---
 1
-Wb Bank On Me 2 (Jimenez, Santiago)
+Wb-Bank-On-Me-2 (Jimenez, Santiago)
 124
 BL b
 1
@@ -1377,7 +1377,7 @@ Nyx
 43/4
 41 1/2
 1
-Wb Bank On Me 2
+Wb-Bank-On-Me-2
 5
 51 3/4
 53 1/4

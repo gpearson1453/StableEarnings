@@ -2069,7 +2069,7 @@ Bac Ta Takin Cash (Goff, Jr., B.)
 little menace
 12Jun22 11FMT7
 2
-Rc 1 (Pedraza, Jasten)
+Rc-1 (Pedraza, Jasten)
 124 bk
 2
 6
@@ -2101,7 +2101,7 @@ Owner: Ulises Vazquez
 Trainer: Escamilla-Gonzalez, Everardo
 Claiming Prices:
 3 - Romantic Sweetgirl: $10,000; 1 - Otoole of the Nile: $10,000; 8 - Wowser: $10,000; 6 - Bac Ta Takin Cash: $10,000;
-2 - Rc 1: $10,000; 7 - Apolitical Easy Hl: $10,000;
+2 - Rc-1: $10,000; 7 - Apolitical Easy Hl: $10,000;
 Scratched Horse(s): A Chick for You Mom (Veterinarian), A Lotta Shaken (Veterinarian)
 Total WPS Pool: $12,879
 Pgm Horse
@@ -2179,7 +2179,7 @@ Bac Ta Takin Cash
 42 1/2
 42 3/4
 2
-Rc 1
+Rc-1
 6
 61 1/4
 55 1/2

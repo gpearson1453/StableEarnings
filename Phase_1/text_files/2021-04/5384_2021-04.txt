@@ -2328,7 +2328,7 @@ L bf
 battled every step
 2Apr21 11RP3
 9
-Hallelujah 21 (Calderon, Francisco)
+Hallelujah-21 (Calderon, Francisco)
 124
 L bf
 8
@@ -2439,7 +2439,7 @@ Apollitical B Hope
 3.00
 2.20
 9
-Hallelujah 21
+Hallelujah-21
 2.20
 Wager Type
 Winning Numbers
@@ -2477,7 +2477,7 @@ Apollitical B Hope
 3Head
 2Neck
 9
-Hallelujah 21
+Hallelujah-21
 6
 4Head
 3Neck

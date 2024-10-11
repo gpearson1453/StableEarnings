@@ -274,7 +274,7 @@ A Tres of Eagle (Castro, Ruben)
 dueled,even terms
 10Jul21 8RUI9
 2
-First Prize Dash 2 (Ramirez, Esgar)
+First-Prize-Dash-2 (Ramirez, Esgar)
 126 L bk
 2
 3
@@ -380,7 +380,7 @@ A Tres of Eagle
 3.00
 2.20
 2
-First Prize Dash 2
+First-Prize-Dash-2
 4.20
 Wager Type
 Winning Numbers
@@ -437,7 +437,7 @@ A Tres of Eagle
 1Head
 11/2
 2
-First Prize Dash 2
+First-Prize-Dash-2
 3
 3Head
 41

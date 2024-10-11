@@ -2950,7 +2950,7 @@ American Skandal (Ramos, Adrian)
 evenly, no bid
 23Jul21 1RUI9
 4
-Jm Corona 08 (Ortiz, Jose)
+Jm-Corona-08 (Ortiz, Jose)
 126 L b
 4
 6
@@ -3081,7 +3081,7 @@ American Skandal
 61 1/4
 61 3/4
 4
-Jm Corona 08
+Jm-Corona-08
 6
 71 1/2
 72 3/4

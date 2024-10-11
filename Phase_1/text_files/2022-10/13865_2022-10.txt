@@ -2363,7 +2363,7 @@ Just a Perfect Grace (Ramirez, Jr., Francisco)
 came up empty
 4Sep22 7RUI3
 9
-First Prize Dash 2 (Ramirez, Esgar)
+First-Prize-Dash-2 (Ramirez, Esgar)
 125 L bf
 9
 6
@@ -2525,7 +2525,7 @@ Just a Perfect Grace
 43/4
 62
 9
-First Prize Dash 2
+First-Prize-Dash-2
 6
 61
 61

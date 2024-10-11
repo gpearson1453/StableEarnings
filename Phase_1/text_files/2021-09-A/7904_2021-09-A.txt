@@ -286,7 +286,7 @@ All Heart (Raudales, Rolando)
 even effort
 12Jun21 4FMT2
 10
-Rc 5 (Valles Jr., Gonzalo)
+Rc-5 (Valles Jr., Gonzalo)
 129 bk
 10
 8
@@ -436,7 +436,7 @@ All Heart
 31
 43/4
 10
-Rc 5
+Rc-5
 8
 82 1/4
 82 1/2
@@ -808,7 +808,7 @@ Rock Da Candy Tree (Klaiber, Justine)
 game effort
 25Jul21 9FMT2
 2
-Hallelujah 21 (Torres, Daniel)
+Hallelujah-21 (Torres, Daniel)
 125 L bf
 2
 4
@@ -942,7 +942,7 @@ Rock Da Candy Tree
 2Head
 41 3/4
 2
-Hallelujah 21
+Hallelujah-21
 4
 31/2
 31/2

@@ -1408,7 +1408,7 @@ One Famous Lil Lady (Calderon, Francisco)
 dueled, outfinished,
 21Aug22 3RUI8
 5
-First Prize Dash 2 (Ramirez, Esgar)
+First-Prize-Dash-2 (Ramirez, Esgar)
 126 L bf
 4
 3
@@ -1480,7 +1480,7 @@ One Famous Lil Lady
 3.20
 2.40
 5
-First Prize Dash 2
+First-Prize-Dash-2
 4.00
 Wager Type
 Winning Numbers
@@ -1517,7 +1517,7 @@ One Famous Lil Lady
 21/2
 21/2
 5
-First Prize Dash 2
+First-Prize-Dash-2
 3
 31/2
 31 1/2

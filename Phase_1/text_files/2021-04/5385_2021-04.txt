@@ -2539,7 +2539,7 @@ Swags
 11/2
 13/4
 2
-Shazooms Lucky Charm1
+Shazooms Lucky Charm 1
 21/2
 23/4
 6

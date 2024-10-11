@@ -1898,7 +1898,7 @@ Delight Us All (Ramirez, Esgar)
 steadied early, up
 17Apr21 11RP9
 4
-DQ-First Prize Dash 2 (Herrera, Raul)
+DQ-First-Prize-Dash-2 (Herrera, Raul)
 124 L bfk
 4
 1
@@ -2006,7 +2006,7 @@ Breeder: McColee Land & Livestock Llc
 Owner: Reliance Ranches LLC
 Trainer: Robbins, Mike
 Disqualification(s):
-# 4 First Prize Dash 2 from 2 to 9
+# 4 First-Prize-Dash-2 from 2 to 9
 Total WPS Pool: $35,103
 Pgm Horse
 Win
@@ -2018,7 +2018,7 @@ Delight Us All
 3.40
 2.60
 4
-First Prize Dash 2
+First-Prize-Dash-2
 4.20
 3.00
 9
@@ -2053,7 +2053,7 @@ Delight Us All
 31/2
 1Neck
 4
-First Prize Dash 2
+First-Prize-Dash-2
 1
 1Head
 1Head
