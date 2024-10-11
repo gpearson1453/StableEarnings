@@ -2877,7 +2877,7 @@ Start
 Str
 Fin
 1
-Investmentstrategy (GB)2
+Investmentstrategy (GB) 2
 52 1/4
 31 1/2
 21/2
