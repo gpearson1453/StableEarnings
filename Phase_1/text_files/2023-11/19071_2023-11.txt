@@ -2260,7 +2260,7 @@ bfk
 cruised home
 24Sep23 8WRD7
 8
-Rc 2 (Fonseca-Soto, Fernando)
+Rc-2 (Fonseca-Soto, Fernando)
 126
 L b
 7
@@ -2367,7 +2367,7 @@ Chavez Legacy
 5.40
 3.20
 8
-Rc 2
+Rc-2
 9.60
 3.60
 3
@@ -2408,7 +2408,7 @@ Chavez Legacy
 2Head
 11 1/4
 8
-Rc 2
+Rc-2
 6
 41/2
 21 1/4

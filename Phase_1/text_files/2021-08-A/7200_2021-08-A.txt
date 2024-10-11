@@ -2307,7 +2307,7 @@ Apollitical Fool (Martinez, Jose)
 no menace
 7Jul21 8HOU5
 2
-Phantom 24 (Romero, Josh)
+Phantom-24 (Romero, Josh)
 125 L k
 2
 6
@@ -2453,7 +2453,7 @@ Apollitical Fool
 61
 51 1/4
 2
-Phantom 24
+Phantom-24
 6
 4Neck
 43/4

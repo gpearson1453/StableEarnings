@@ -1146,7 +1146,7 @@ Kold Kash (Silva, Agustin)
 awkward strt, late bid
 5Aug21 10HOU6
 2
-Phantom 24 (Romero, Josh)
+Phantom-24 (Romero, Josh)
 129 L k
 2
 1
@@ -1277,7 +1277,7 @@ Kold Kash
 51 1/4
 42 1/4
 2
-Phantom 24
+Phantom-24
 1
 21/2
 4Neck

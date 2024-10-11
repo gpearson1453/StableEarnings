@@ -808,7 +808,7 @@ L bfk
 bumped hard
 17Oct22 7WRD2
 5
-Phantom 24 (Torres, Jorge)
+Phantom-24 (Torres, Jorge)
 125
 L
 5
@@ -902,7 +902,7 @@ Im Louisiana Too
 62 1/4
 63 1/4
 5
-Phantom 24
+Phantom-24
 7
 52
 73 1/4

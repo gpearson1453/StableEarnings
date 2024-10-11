@@ -1386,7 +1386,7 @@ L b
 second step stumble
 14May23 9RP6
 3
-Rc 2 (Vega, Randy)
+Rc-2 (Vega, Randy)
 126
 L b
 3
@@ -1472,7 +1472,7 @@ Trainer: Loza, Mario
 New Trainer: Samuel E. Valdivia
 New Owner: Rhonda Valdivia
 Claiming Prices:
-1 - Linneys Big Bat: $15,000; 7 - Lil Sugar Mama: $15,000; 3 - Rc 2: $15,000; 6 - G Henry: $15,000; 5 - Paint Me Sweet
+1 - Linneys Big Bat: $15,000; 7 - Lil Sugar Mama: $15,000; 3 - Rc-2: $15,000; 6 - G Henry: $15,000; 5 - Paint Me Sweet
 G: $15,000; 9 - Wild Bout Dashin: $15,000; 4 - Memories of Dynasty: $15,000; 2 - Kg Iwalktheline: $15,000;
 Scratched Horse(s): Eye North (Veterinarian)
 Total WPS Pool: $3,820
@@ -1490,7 +1490,7 @@ Lil Sugar Mama
 8.00
 4.40
 3
-Rc 2
+Rc-2
 3.40
 Wager Type
 Winning Numbers
@@ -1536,7 +1536,7 @@ Lil Sugar Mama
 2Head
 2Neck
 3
-Rc 2
+Rc-2
 4
 3Head
 3Neck

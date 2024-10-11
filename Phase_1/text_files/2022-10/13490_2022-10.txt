@@ -1510,7 +1510,7 @@ L bfk
 late rally
 17Aug22 7RET4
 5
-Phantom 24 (Torres, Jorge)
+Phantom-24 (Torres, Jorge)
 125
 L
 5
@@ -1637,7 +1637,7 @@ Just B You
 63/4
 41
 5
-Phantom 24
+Phantom-24
 5
 53/4
 51 1/4

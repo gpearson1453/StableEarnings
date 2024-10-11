@@ -1661,7 +1661,7 @@ L bk
 finished strong
 20Sep22 8WRD9
 3
-Rc 2 (Fonseca-Soto, Fernando)
+Rc-2 (Fonseca-Soto, Fernando)
 127
 L b
 3
@@ -1757,7 +1757,7 @@ Breeder: Double A Ranch
 Owner: Double A Ranch, Inc.
 Trainer: Gonzalez, Jorge
 Claiming Prices:
-10 - Follies Special Dash: $10,000; 7 - Corazon Dulce: $10,000; 5 - Excalibor: $10,000; 3 - Rc 2: $10,000; 1 - The405:
+10 - Follies Special Dash: $10,000; 7 - Corazon Dulce: $10,000; 5 - Excalibor: $10,000; 3 - Rc-2: $10,000; 1 - The405:
 $10,000; 8 - A Lotta Shaken: $10,000; 4 - Du Eufuala: $10,000; 6 - Chelin Cash: $10,000; 9 - Wing Ding Doux: $10,000;
 2 - Wowser: $10,000;
 Dead Heats:
@@ -1825,7 +1825,7 @@ Excalibor
 4Neck
 3Neck
 3
-Rc 2
+Rc-2
 2
 2Head
 41/2

@@ -3088,7 +3088,7 @@ Jess Sweet Intention (Ortiz, Jose)
 hard bump break
 ---
 10
-Rc 2 (Cunningham, Travis)
+Rc-2 (Cunningham, Travis)
 124 L b
 8
 8
@@ -3217,7 +3217,7 @@ Jess Sweet Intention
 62 1/2
 63 1/2
 10
-Rc 2
+Rc-2
 8
 83 1/4
 76

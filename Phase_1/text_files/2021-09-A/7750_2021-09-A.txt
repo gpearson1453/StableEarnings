@@ -206,7 +206,7 @@ After Chad (Jimenez, Santiago)
 2path move just missed
 27Aug21 5ELK6
 5
-Stupendous 109 (Birdrattler, Richard)
+Stupendous-109 (Birdrattler, Richard)
 124 B b
 5
 2
@@ -264,7 +264,7 @@ After Chad
 5.40
 3.20
 5
-Stupendous 109
+Stupendous-109
 4.00
 Wager Type
 Winning Numbers
@@ -301,7 +301,7 @@ After Chad
 22
 2Nose
 5
-Stupendous 109
+Stupendous-109
 2
 23
 32 1/2

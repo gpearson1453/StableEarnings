@@ -1619,7 +1619,7 @@ L k
 stp slw, closed late
 9Jul23 8FMT3
 2
-Rc 2 (Fonseca-Soto, Fernando)
+Rc-2 (Fonseca-Soto, Fernando)
 126
 L b
 2
@@ -1678,7 +1678,7 @@ Trainer: Rodriguez-Garcia, Erik
 Dead Heats:
 4th place - # 7 Jk Catch the Spirit
 4th place - # 9 Bv Sweet Caroline
-7th place - # 2 Rc 2
+7th place - # 2 Rc-2
 7th place - # 6 Storm of Coronas
 Total WPS Pool: $8,840
 Pgm Horse
@@ -1761,7 +1761,7 @@ Chicks Are Kool Jess
 101 1/4
 61 3/4
 2
-Rc 2
+Rc-2
 8
 53/4
 72 1/4

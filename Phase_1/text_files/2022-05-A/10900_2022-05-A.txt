@@ -1825,7 +1825,7 @@ L hk
 brshd, evenly
 28Apr22 11RP10
 5
-Phantom 24 (Romero, Josh)
+Phantom-24 (Romero, Josh)
 128
 L k
 5
@@ -1863,7 +1863,7 @@ New Trainer: Oscar Nunez
 New Owner: Oscar Nunez
 Claiming Prices:
 1 - Gettingafterit: $20,000; 3 - Valtrata: $20,000; 10 - Eye Spy Capi: $20,000; 2 - Kg Therunninkind: $20,000; 8 -
-Relentless Anvil: $20,000; 9 - Evitoo: $20,000; 6 - Bye Bye Coaltrain: $20,000; 5 - Phantom 24: $20,000; 4 -
+Relentless Anvil: $20,000; 9 - Evitoo: $20,000; 6 - Bye Bye Coaltrain: $20,000; 5 - Phantom-24: $20,000; 4 -
 Metickulous: $20,000;
 Scratched Horse(s): Jess Ride My Wagon (Veterinarian)
 Total WPS Pool: $21,054
@@ -1944,7 +1944,7 @@ Bye Bye Coaltrain
 51 3/4
 72 1/4
 5
-Phantom 24
+Phantom-24
 8
 83
 83 1/4

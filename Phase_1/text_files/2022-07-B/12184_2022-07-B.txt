@@ -621,7 +621,7 @@ Won Oak (Gervais, Holly)
 chased 2pth no rally
 25Sep21 6POD6
 5
-Stupendous 109 (Wertz, Denny)
+Stupendous-109 (Wertz, Denny)
 130 B b
 5
 5
@@ -702,7 +702,7 @@ Won Oak
 47
 49 1/2
 5
-Stupendous 109
+Stupendous-109
 5
 511 1/2
 510

@@ -831,7 +831,7 @@ L b
 changed lane
 5Nov23 11WRD2
 6
-Rc 2 (Escobedo, Edwin)
+Rc-2 (Escobedo, Edwin)
 126
 L b
 6
@@ -854,7 +854,7 @@ New Owner: Equestix Consulting LLC
 Claiming Prices:
 2 - Chloe for Gold: $20,000; 8 - Lou de Lou Who: $20,000; 5 - Breitling Dynasty: $20,000; 10 - Painted Rare: $20,000; 9
 - Ur Not Foolin Me: $20,000; 3 - Sug La Blue: $20,000; 1 - Superstition: $20,000; 4 - Special Dipper: $20,000; 7 - Stolin
-Home Brew: $20,000; 6 - Rc 2: $20,000;
+Home Brew: $20,000; 6 - Rc-2: $20,000;
 Total WPS Pool: $14,191
 Pgm Horse
 Win
@@ -939,7 +939,7 @@ Stolin Home Brew
 92
 93
 6
-Rc 2
+Rc-2
 7
 102
 103 1/2

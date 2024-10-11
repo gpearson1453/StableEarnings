@@ -292,7 +292,7 @@ Hrh Tres Royale (Thomas, Todd)
 caught at wire
 4Sep21 2ELK3
 3
-Stupendous 109 (Flores, Jesus)
+Stupendous-109 (Flores, Jesus)
 136 B b
 3
 3
@@ -319,7 +319,7 @@ Cbf Cash Man
 2
 Hrh Tres Royale
 3
-Stupendous 109
+Stupendous-109
 Wager Type
 Winning Numbers
 Payoff
@@ -351,7 +351,7 @@ Hrh Tres Royale
 1Neck
 2Nose
 3
-Stupendous 109
+Stupendous-109
 3
 31/2
 33/4

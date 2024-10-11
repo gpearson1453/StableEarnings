@@ -837,7 +837,7 @@ B b
 no menace
 11Sep21 2BKF1
 3
-Stupendous 109 (Virgen, Jesus)
+Stupendous-109 (Virgen, Jesus)
 130
 B b
 3
@@ -918,7 +918,7 @@ Amalia Marie
 51 3/4
 54 1/4
 3
-Stupendous 109
+Stupendous-109
 3
 62 1/2
 64 3/4

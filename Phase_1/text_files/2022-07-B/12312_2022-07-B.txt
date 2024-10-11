@@ -247,7 +247,7 @@ Kr Runaway Foose, Chestnut Colt, by Foose out of Kr Montana Cartel, by Southern 
 Breeder: Mary Kyler
 Owner: Jess I. Meineke
 Trainer: Sandoval, Joseph
-Scratched Horse(s): Stupendous 109 (Veterinarian)
+Scratched Horse(s): Stupendous-109 (Veterinarian)
 Total WPS Pool: $2,689
 Pgm Horse
 Win

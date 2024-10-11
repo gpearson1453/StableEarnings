@@ -999,7 +999,7 @@ A Seperate Secret (Smith, Taylor)
 inside bid for second
 31Jul21 5GF2
 4
-Stupendous 109 (Butterfly, Preston)
+Stupendous-109 (Butterfly, Preston)
 133 B b
 3
 1
@@ -1045,7 +1045,7 @@ A Seperate Secret
 2.80
 2.10
 4
-Stupendous 109
+Stupendous-109
 2.10
 Wager Type
 Winning Numbers
@@ -1082,7 +1082,7 @@ A Seperate Secret
 33
 22
 4
-Stupendous 109
+Stupendous-109
 1
 1Head
 23

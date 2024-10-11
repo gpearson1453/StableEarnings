@@ -1749,7 +1749,7 @@ Odds Ind. Time
 Sp. In. Comments
 3Oct21 7WRD2
 10
-Phantom 24 (Romero, Josh)
+Phantom-24 (Romero, Josh)
 128 L hk
 10
 6
@@ -1879,7 +1879,7 @@ Ab What a Kiss (Cruz, Roman)
 lost contact
 Run-Up: 0 feet
 Winner:
-Phantom 24, Brown Filly, by Phantom Menace out of Twntyfour Karat Rock, by Rock Solid Jess. Foaled Feb 19, 2019 in Texas.
+Phantom-24, Brown Filly, by Phantom Menace out of Twntyfour Karat Rock, by Rock Solid Jess. Foaled Feb 19, 2019 in Texas.
 Breeder: Rockin J Running Horses
 Owner: Rockin J Running Horses
 Trainer: Johnson, Tammy
@@ -1889,7 +1889,7 @@ Win
 Place
 Show
 10
-Phantom 24
+Phantom-24
 7.60
 4.80
 3.80
@@ -1931,7 +1931,7 @@ Str1
 Str
 Fin
 10
-Phantom 24
+Phantom-24
 6
 3Head
 3Head

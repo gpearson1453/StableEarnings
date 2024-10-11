@@ -962,7 +962,7 @@ L bk
 no threat
 6Nov22 5WRD7
 5
-Phantom 24 (Smith, Cody)
+Phantom-24 (Smith, Cody)
 127
 L
 5
@@ -984,7 +984,7 @@ New Trainer: Antonio S. Martinez
 New Owner: Efren Hernandez
 Claiming Prices:
 2 - Jessa Jett: $10,000; 3 - Chocolatepaintedkiss: $10,000; 6 - Hi Jazzin Soldier: $10,000; 7 - Jewels Wagon: $10,000;
-4 - Iwillshine: $10,000; 1 - Ground Wire: $10,000; 5 - Phantom 24: $10,000;
+4 - Iwillshine: $10,000; 1 - Ground Wire: $10,000; 5 - Phantom-24: $10,000;
 Total WPS Pool: $4,440
 Pgm Horse
 Win
@@ -1062,7 +1062,7 @@ Ground Wire
 51
 63 1/4
 5
-Phantom 24
+Phantom-24
 7
 711 1/4
 716 1/2

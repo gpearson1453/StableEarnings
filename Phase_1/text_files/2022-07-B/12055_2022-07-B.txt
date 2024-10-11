@@ -1934,7 +1934,7 @@ L bk
 steadily faded
 26Jun22 10FMT6
 3
-Rc 2 (Pedraza, Jasten)
+Rc-2 (Pedraza, Jasten)
 124
 L b
 2
@@ -1965,7 +1965,7 @@ Owner: Longino Garcia
 Trainer: Garcia, Longino
 Claiming Prices:
 9 - Vf Braya Six: $15,000; 6 - Coronas Fast Chic: $15,000; 1 - Romantic Sweetgirl: $15,000; 5 - Relentless Dream:
-$15,000; 8 - Valiants Wild Card: $15,000; 3 - Rc 2: $15,000; 4 - Sizzlin Red Rose: $15,000;
+$15,000; 8 - Valiants Wild Card: $15,000; 3 - Rc-2: $15,000; 4 - Sizzlin Red Rose: $15,000;
 Scratched Horse(s): Chirona (Veterinarian), Sunsetby the Wagon (Stewards)
 Total WPS Pool: $7,868
 Pgm Horse
@@ -2039,7 +2039,7 @@ Valiants Wild Card
 51 1/2
 52 1/2
 3
-Rc 2
+Rc-2
 6
 66 1/2
 67 1/2

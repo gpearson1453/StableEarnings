@@ -789,7 +789,7 @@ LA b
 not a factor
 1Aug21 7GF3
 6
-Stupendous 109 (Birdrattler, Richard)
+Stupendous-109 (Birdrattler, Richard)
 124
 B bf
 5
@@ -871,7 +871,7 @@ Cartels Breakout
 53
 53
 6
-Stupendous 109
+Stupendous-109
 5
 63 1/2
 63 3/4

@@ -1302,7 +1302,7 @@ L b
 game winner
 12Sep21 6WRD5
 3
-Phantom 24 (Romero, Josh)
+Phantom-24 (Romero, Josh)
 128
 L fk
 3
@@ -1422,7 +1422,7 @@ Cuz Eyema Hot Chick
 6.80
 5.80
 3
-Phantom 24
+Phantom-24
 10.00
 7.60
 10
@@ -1463,7 +1463,7 @@ Cuz Eyema Hot Chick
 1Neck
 1Head
 3
-Phantom 24
+Phantom-24
 3
 2Neck
 2Head

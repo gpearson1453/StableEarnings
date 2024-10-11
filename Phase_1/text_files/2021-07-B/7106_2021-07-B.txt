@@ -702,7 +702,7 @@ b
 broke best held
 27Jul18 3GF4
 1
-Stupendous 109 (Birdrattler, Shance)
+Stupendous-109 (Birdrattler, Shance)
 126
 B bf
 1
@@ -742,7 +742,7 @@ Janes One Spot
 3.60
 2.10
 1
-Stupendous 109
+Stupendous-109
 2.10
 3
 Quake Time
@@ -765,7 +765,7 @@ Janes One Spot
 13/4
 1Neck
 1
-Stupendous 109
+Stupendous-109
 3
 23/4
 2Neck

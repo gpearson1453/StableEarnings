@@ -112,7 +112,7 @@ Itsjustamatteroftime (Baca, Benito)
 bit fractious
 31Jul21 12RUI7
 7
-Rc 2 (Rivas, Juan)
+Rc-2 (Rivas, Juan)
 126 L b
 6
 8
@@ -211,7 +211,7 @@ Itsjustamatteroftime
 62 1/4
 74
 7
-Rc 2
+Rc-2
 8
 82 1/2
 83

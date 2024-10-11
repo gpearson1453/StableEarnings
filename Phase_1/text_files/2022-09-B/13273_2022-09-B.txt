@@ -1782,7 +1782,7 @@ L bk
 evenly
 16Jul22 10FMT6
 6
-Rc 2 (Fonseca-Soto, Fernando)
+Rc-2 (Fonseca-Soto, Fernando)
 126
 L b
 6
@@ -1899,7 +1899,7 @@ One Kinda Prize
 81
 82 1/4
 6
-Rc 2
+Rc-2
 9
 101 1/2
 93

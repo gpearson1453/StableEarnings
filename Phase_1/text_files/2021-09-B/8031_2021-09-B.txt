@@ -59,7 +59,7 @@ Runn Red Runn (Smith, Cody)
 speed, caught late
 14Aug21 1RUI8
 4
-Rc 2 (Klaiber, Justine)
+Rc-2 (Klaiber, Justine)
 124 L b
 4
 1
@@ -128,11 +128,11 @@ Peace Sign, Brown Filly, by Forest Peace out of Cuties Last Sign, by First Class
 Breeder: Susan M Cornwall
 Owner: Susan M. Cornwall
 Trainer: Johnson, Tammy
-1 Claimed Horse(s): Rc 2
+1 Claimed Horse(s): Rc-2
 New Trainer: Haley N. Hobbs
 New Owner: Lizandro Daniel Lopez-Padilla
 Claiming Prices:
-7 - Peace Sign: $5,000; 8 - Jtc Lil Wayne: $5,000; 2 - Runn Red Runn: $5,000; 4 - Rc 2: $5,000; 6 - Ravens Sis: $5,000;
+7 - Peace Sign: $5,000; 8 - Jtc Lil Wayne: $5,000; 2 - Runn Red Runn: $5,000; 4 - Rc-2: $5,000; 6 - Ravens Sis: $5,000;
 5 - Jess a Tambien Cat: $5,000; 1 - Magnifasent Seven: $5,000; 3 - Kool Miss Dokey: $5,000;
 Total WPS Pool: $2,449
 Pgm Horse
@@ -192,7 +192,7 @@ Runn Red Runn
 11
 31/2
 4
-Rc 2
+Rc-2
 1
 21/2
 21

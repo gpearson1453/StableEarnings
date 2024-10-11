@@ -1822,7 +1822,7 @@ L bk
 veered in sharply
 13Nov21 9WRD10
 8
-Rc 2 (Fonseca-Soto, Fernando)
+Rc-2 (Fonseca-Soto, Fernando)
 128
 L b
 8
@@ -1965,7 +1965,7 @@ Capi Candoit
 63/4
 51 3/4
 8
-Rc 2
+Rc-2
 6
 71
 61 3/4

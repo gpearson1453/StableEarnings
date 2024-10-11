@@ -2639,7 +2639,7 @@ L bf
 off step slow
 8Jun24 8FMT6
 2
-Rc 2 (Samaniego, Andrew)
+Rc-2 (Samaniego, Andrew)
 128
 L b
 2
@@ -2670,7 +2670,7 @@ Breeder: Silvia Robles
 Owner: Tovars Little Farm LLC
 Trainer: Licona-Vazquez, Juvenal
 Dead Heats:
-9th place - # 2 Rc 2
+9th place - # 2 Rc-2
 9th place - # 8 Relentless Design
 Total WPS Pool: $9,237
 Pgm Horse
@@ -2771,7 +2771,7 @@ Ernest
 81
 82 1/4
 2
-Rc 2
+Rc-2
 8
 91 1/2
 93 3/4

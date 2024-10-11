@@ -1234,7 +1234,7 @@ L bk
 much the best
 3Oct22 7WRD5
 6
-Phantom 24 (Torres, Jorge)
+Phantom-24 (Torres, Jorge)
 125
 L
 6
@@ -1340,7 +1340,7 @@ Rl Hondo
 3.60
 2.60
 6
-Phantom 24
+Phantom-24
 14.60
 5.00
 3
@@ -1381,7 +1381,7 @@ Rl Hondo
 1Head
 13/4
 6
-Phantom 24
+Phantom-24
 3
 2Head
 23/4

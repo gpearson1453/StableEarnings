@@ -1551,7 +1551,7 @@ L b
 even effort outside
 16May24 4RP10
 2
-Rc 2 (Alvarez, Jr., David)
+Rc-2 (Alvarez, Jr., David)
 127
 L b
 2
@@ -1667,7 +1667,7 @@ Quick On the Dash
 41 1/2
 51 1/4
 2
-Rc 2
+Rc-2
 7
 62 1/4
 61 3/4

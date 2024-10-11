@@ -2604,7 +2604,7 @@ Stel Cartel (Dominguez, Jonathan)
 lacked room early
 31Mar22 11RP12
 10
-Phantom 24 (Romero, Josh)
+Phantom-24 (Romero, Josh)
 128 L k
 10
 11
@@ -2753,7 +2753,7 @@ Stel Cartel
 93 3/4
 95
 10
-Phantom 24
+Phantom-24
 11
 114 1/2
 104

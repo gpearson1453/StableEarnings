@@ -782,7 +782,7 @@ Rock City Kid (Vivanco, Luis)
 broke through gate
 15May22 8RP8
 4
-Phantom 24 (Espinosa, Pedro)
+Phantom-24 (Espinosa, Pedro)
 126 L k
 4
 6
@@ -853,7 +853,7 @@ Owner: Billy Brian Holson
 Trainer: Triana, Juan
 Claiming Prices:
 8 - Infamous Ash: $10,000; 7 - Vodoo Cartel: $10,000; 10 - R Sweet Legacy: $10,000; 5 - Rock City Kid: $10,000; 4 -
-Phantom 24: $10,000; 3 - Oc Lucky Girl: $10,000; 1 - Classy Cherry Cola: $10,000; 6 - Teller Ima Fast Man: $10,000; 2
+Phantom-24: $10,000; 3 - Oc Lucky Girl: $10,000; 1 - Classy Cherry Cola: $10,000; 6 - Teller Ima Fast Man: $10,000; 2
 - Sissys Moon: $10,000;
 Scratched Horse(s): Zsuzannah (Stewards)
 Total WPS Pool: $16,051
@@ -928,7 +928,7 @@ Rock City Kid
 41 1/2
 41 1/4
 4
-Phantom 24
+Phantom-24
 6
 2Head
 31 1/2

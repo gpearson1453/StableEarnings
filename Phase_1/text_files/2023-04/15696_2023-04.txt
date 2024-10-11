@@ -556,7 +556,7 @@ L bk
 all out, prevailed
 9Oct22 8WRD4
 1
-Rc 2 (Romero, Josh)
+Rc-2 (Romero, Josh)
 128
 L b
 1
@@ -687,7 +687,7 @@ Rainbow Dash Af
 New Trainer: Jose E. Gamez
 New Owner: Erasmo Montero
 Claiming Prices:
-7 - Cc Ranger Tom: $20,000; 1 - Rc 2: $20,000; 6 - Kory Be Kool: $20,000; 3 - Cartels Dasher: $20,000; 8 - Ms Azteca
+7 - Cc Ranger Tom: $20,000; 1 - Rc-2: $20,000; 6 - Kory Be Kool: $20,000; 3 - Cartels Dasher: $20,000; 8 - Ms Azteca
 Fast Dash: $20,000; 10 - Make It Captain: $20,000; 2 - Kool Ka Ching: $20,000; 9 - Hired Then Fired: $20,000; 5 -
 Rainbow Dash Af: $20,000; 4 - Painted War Hawk: $20,000;
 Total WPS Pool: $30,090
@@ -701,7 +701,7 @@ Cc Ranger Tom
 4.80
 3.00
 1
-Rc 2
+Rc-2
 22.60
 9.40
 6
@@ -734,7 +734,7 @@ Cc Ranger Tom
 1Nose
 1Head
 1
-Rc 2
+Rc-2
 2
 2Nose
 2Head

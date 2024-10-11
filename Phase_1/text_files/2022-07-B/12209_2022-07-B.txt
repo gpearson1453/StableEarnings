@@ -522,7 +522,7 @@ Owner: Clifton G. Dennis
 Trainer: Dennis, Clifton
 Disqualification(s):
 # 6 Won Oak from 4 to 5
-Scratched Horse(s): Stupendous 109 (Veterinarian)
+Scratched Horse(s): Stupendous-109 (Veterinarian)
 Total WPS Pool: $3,064
 Pgm Horse
 Win

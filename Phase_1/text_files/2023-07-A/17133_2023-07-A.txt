@@ -1463,7 +1463,7 @@ L b
 popped, outkicked
 1Jul23 7FMT3
 5
-Rc 2 (Romero, Josh)
+Rc-2 (Romero, Josh)
 126
 L b
 3
@@ -1564,7 +1564,7 @@ Cuz Eyema Hot Chick
 6.60
 4.40
 5
-Rc 2
+Rc-2
 8.20
 Wager Type
 Winning Numbers
@@ -1606,7 +1606,7 @@ Cuz Eyema Hot Chick
 *
 23/4
 5
-Rc 2
+Rc-2
 3
 *
 31

@@ -131,7 +131,7 @@ Odds Ind. Time
 Sp. In. Comments
 10Sep21 3BKF3
 2
-Stupendous 109 (Flores, Jesus)
+Stupendous-109 (Flores, Jesus)
 136
 B b
 2
@@ -183,7 +183,7 @@ B b
 no threat
 Run-Up: 0 feet
 Winner:
-Stupendous 109, Brown Gelding, by Azoom out of Shawnee Royale, by Royal Quick Dash. Foaled Feb 21, 2014 in AB.
+Stupendous-109, Brown Gelding, by Azoom out of Shawnee Royale, by Royal Quick Dash. Foaled Feb 21, 2014 in AB.
 Breeder: Buckey or Beverly Stockwell
 Owner: Wayne A. Hall
 Trainer: Meineke, Jess
@@ -193,7 +193,7 @@ Win
 Place
 Show
 2
-Stupendous 109
+Stupendous-109
 6.00
 5.20
 2.10
@@ -230,7 +230,7 @@ Start
 Str
 Fin
 2
-Stupendous 109
+Stupendous-109
 1
 1Head
 1Neck
