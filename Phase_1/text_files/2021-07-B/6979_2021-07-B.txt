@@ -1921,7 +1921,7 @@ Beach Runaway (Rodriguez, German)
 no impact
 3Jul21 3IND2
 9
-Eagle Force 1 (Packer, Berkley)
+Eagle-Force-1 (Packer, Berkley)
 126 L b
 9
 6
@@ -2051,7 +2051,7 @@ Beach Runaway
 86 1/4
 87 1/2
 9
-Eagle Force 1
+Eagle-Force-1
 6
 93 3/4
 96 3/4

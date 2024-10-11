@@ -1242,7 +1242,7 @@ Jess Send Fletcher (Hernandez, Jr., Ricardo)
 dueled early, faded
 ---
 6
-First Cash Warrior 3 (Vidana, Cipriano)
+First-Cash-Warrior-3 (Vidana, Cipriano)
 124 L b
 5
 8
@@ -1363,7 +1363,7 @@ Jess Send Fletcher
 41
 73
 6
-First Cash Warrior 3
+First-Cash-Warrior-3
 8
 82 3/4
 82 3/4

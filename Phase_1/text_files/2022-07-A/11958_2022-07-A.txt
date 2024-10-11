@@ -1466,7 +1466,7 @@ Jess Right On Cue (Ramirez, Esgar)
 no factor
 22May22 10RP1
 3
-Whiskey 918 (Vallejo, Rodrigo)
+Whiskey-918 (Vallejo, Rodrigo)
 126 L bfk
 3
 9
@@ -1577,7 +1577,7 @@ Jess Right On Cue
 95 1/2
 95 3/4
 3
-Whiskey 918
+Whiskey-918
 9
 103
 106

@@ -571,7 +571,7 @@ Dennarro (Aguirre-Erives, Cristian)
 chased runaway winner
 ---
 2
-Witten 82 (Klaiber, Justine)
+Witten-82 (Klaiber, Justine)
 124 L bf
 2
 7
@@ -697,7 +697,7 @@ Dennarro
 53 1/2
 54 1/2
 2
-Witten 82
+Witten-82
 7
 71 1/2
 63 3/4

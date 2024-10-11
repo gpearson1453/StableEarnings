@@ -2313,7 +2313,7 @@ Dashing Chapo (Becerra, Jr., Sergio)
 slammed start,fin well
 4Mar22 6SUN2
 5
-Witten 82 (Sigala, Alfredo)
+Witten-82 (Sigala, Alfredo)
 126 L bk
 4
 3
@@ -2456,7 +2456,7 @@ Dashing Chapo
 42
 31 1/2
 5
-Witten 82
+Witten-82
 3
 21/2
 31 1/2

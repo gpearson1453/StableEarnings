@@ -112,7 +112,7 @@ bf
 stumbled, no threat
 25May21 6DED8
 1
-First Cash Warrior 3 (Trujillo, Jr., Mario)
+First-Cash-Warrior-3 (Trujillo, Jr., Mario)
 126
 L f
 1
@@ -221,7 +221,7 @@ Heza Kool Rogue
 84 1/4
 75 1/4
 1
-First Cash Warrior 3
+First-Cash-Warrior-3
 6
 73 1/4
 85 1/4

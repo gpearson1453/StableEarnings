@@ -1666,7 +1666,7 @@ L bk
 improved outside
 14Jul21 1DED4
 3
-Zaxo 13 (Castaneda, Noe)
+Zaxo-13 (Castaneda, Noe)
 124
 L bf
 3
@@ -1823,7 +1823,7 @@ Shesabadmoonrising
 61 1/4
 43/4
 3
-Zaxo 13
+Zaxo-13
 6
 43/4
 51

@@ -1914,7 +1914,7 @@ Heavy Haul (Gutierrez-Sosa, Eduardo)
 late bid inside
 22Jun21 2GRP7
 6
-Js Royal 613 (Gonzalez, Luis)
+Js-Royal-613 (Gonzalez, Luis)
 126 BL bf
 5
 2
@@ -2031,7 +2031,7 @@ Heavy Haul
 54
 43 3/4
 6
-Js Royal 613
+Js-Royal-613
 2
 21
 32 1/2

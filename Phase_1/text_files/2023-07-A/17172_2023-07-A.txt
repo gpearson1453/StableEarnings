@@ -877,7 +877,7 @@ Romanian, Brown Gelding, by Fly Chisholm Fly out of Watch My Six, by Demons Bego
 Breeder: Gilberto Madrigal
 Owner: Gilberto Madrigal
 Trainer: Madrigal, Gilberto
-Scratched Horse(s): Dynasty Sky Vm (Stewards), Fierce Heart (Stewards), Js Royal 613 (Stewards)
+Scratched Horse(s): Dynasty Sky Vm (Stewards), Fierce Heart (Stewards), Js-Royal-613 (Stewards)
 Total WPS Pool: $4,578
 Pgm Horse
 Win

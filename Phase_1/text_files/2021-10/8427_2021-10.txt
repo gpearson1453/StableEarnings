@@ -1220,7 +1220,7 @@ Trainer: Ellis, Trey
 Claiming Prices:
 7 - Corona Ultra: $20,000; 2 - Sissi Stoli: $20,000; 9 - One Sweet Man: $20,000; 6 - Mr Crawfish: $20,000; 1 - Fanci
 Guns: $20,000; 3 - Streak N Jet: $20,000; 10 - Mr Tacubaya: $20,000; 5 - Tdz Wave Bye You: $20,000;
-Scratched Horse(s): Coronas Fly Boy (Veterinarian), First Cash Warrior 3 (Veterinarian)
+Scratched Horse(s): Coronas Fly Boy (Veterinarian), First-Cash-Warrior-3 (Veterinarian)
 Total WPS Pool: $17,574
 Pgm Horse
 Win

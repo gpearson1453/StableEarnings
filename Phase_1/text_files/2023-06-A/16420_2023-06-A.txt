@@ -585,7 +585,7 @@ Claiming Prices:
 3 - Jess Siete Cartel: $10,000; 5 - Take the Fasttrain: $10,000; 6 - Miss Runaway Dove: $10,000; 4 - Tailor Cartel:
 $10,000; 2 - Princess Piloto: $10,000; 1 - Bjs Toast to Cartel: $10,000; 8 - Streakin Highball: $10,000; 9 - Tippy the
 Train: $10,000; 10 - Buckle Up Lets Fly: $10,000;
-Scratched Horse(s): First Cash Warrior 3 (Veterinarian)
+Scratched Horse(s): First-Cash-Warrior-3 (Veterinarian)
 Total WPS Pool: $18,415
 Pgm Horse
 Win

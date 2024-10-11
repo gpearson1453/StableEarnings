@@ -1082,7 +1082,7 @@ BL bf
 bumped at start
 15May21 10LBT3
 4
-Lola 157 (Valenzuela, Jesus)
+Lola-157 (Valenzuela, Jesus)
 122
 BL b
 4
@@ -1158,7 +1158,7 @@ Rasing the Bar
 62 3/4
 63 3/4
 4
-Lola 157
+Lola-157
 7
 62 1/4
 75 3/4

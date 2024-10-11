@@ -1351,7 +1351,7 @@ Apolitical Thunder (Amaya, Daniel)
 no late gain
 11Sep22 4ALB1
 2
-Witten 82 (Silva, Agustin)
+Witten-82 (Silva, Agustin)
 126 L bfk
 2
 4
@@ -1484,7 +1484,7 @@ Apolitical Thunder
 43/4
 41
 2
-Witten 82
+Witten-82
 4
 43/4
 53/4

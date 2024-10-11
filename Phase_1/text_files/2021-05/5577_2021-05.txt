@@ -1034,7 +1034,7 @@ Rare B (Vivanco, Luis)
 driving finish
 ---
 5
-Jm Jesse James 123 (Duran, Nestor)
+Jm-Jesse-James-123 (Duran, Nestor)
 124 L b
 5
 4
@@ -1153,7 +1153,7 @@ Rare B
 3.00
 2.20
 5
-Jm Jesse James 123
+Jm-Jesse-James-123
 4.60
 3.20
 3
@@ -1213,7 +1213,7 @@ Rare B
 11/2
 13/4
 5
-Jm Jesse James 123
+Jm-Jesse-James-123
 4
 2Head
 21/2

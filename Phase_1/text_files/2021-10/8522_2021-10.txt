@@ -1107,7 +1107,7 @@ L bf
 brk in,brush,dueled
 6Oct21 8EVD5
 4
-Zaxo 13 (Castaneda, Noe)
+Zaxo-13 (Castaneda, Noe)
 124
 L bf
 4
@@ -1230,7 +1230,7 @@ Dlj Jess Thrill Me
 5.40
 3.60
 4
-Zaxo 13
+Zaxo-13
 3.80
 Wager Type
 Winning Numbers
@@ -1272,7 +1272,7 @@ Dlj Jess Thrill Me
 1Head
 21/2
 4
-Zaxo 13
+Zaxo-13
 2
 31/2
 33/4

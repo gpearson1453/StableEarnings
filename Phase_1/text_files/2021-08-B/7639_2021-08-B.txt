@@ -298,7 +298,7 @@ Mound Valley Eagle (Valenzuela, Jesus)
 big late kick
 8Aug21 10WYO6
 2
-Lola 157 (Lusk, Tyson)
+Lola-157 (Lusk, Tyson)
 130 BL b
 2
 3
@@ -382,7 +382,7 @@ Mound Valley Eagle
 3.40
 2.60
 2
-Lola 157
+Lola-157
 2.60
 Wager Type
 Winning Numbers
@@ -423,7 +423,7 @@ Mound Valley Eagle
 2Neck
 2Head
 2
-Lola 157
+Lola-157
 3
 43/4
 31 1/4

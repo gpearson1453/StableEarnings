@@ -1673,7 +1673,7 @@ Dashing Illusions (Tapia, Emilio)
 tight brk, shifted in
 9Jul21 6RUI4
 5
-Witten 82 (Brooks, Jimmy)
+Witten-82 (Brooks, Jimmy)
 124 L bfk
 5
 8
@@ -1797,7 +1797,7 @@ Dashing Illusions
 72 3/4
 74 3/4
 5
-Witten 82
+Witten-82
 8
 71 1/2
 83 1/4

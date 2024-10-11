@@ -2701,7 +2701,7 @@ The Dream (Medina, Alejandro)
 reluctant to load
 ---
 6
-Whiskey 918 (Andrade, Jr., Oscar)
+Whiskey-918 (Andrade, Jr., Oscar)
 128 L bfk
 6
 8
@@ -2833,7 +2833,7 @@ The Dream
 82 1/2
 84 1/4
 6
-Whiskey 918
+Whiskey-918
 8
 92 1/2
 94

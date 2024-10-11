@@ -2187,7 +2187,7 @@ Kiss My Shazoom (Sanchez, Ramon)
 bobbled brk
 25Jun21 7RUI4
 6
-Whiskey 918 (Vallejo, Rodrigo)
+Whiskey-918 (Vallejo, Rodrigo)
 124 L bfk
 6
 4
@@ -2323,7 +2323,7 @@ Kiss My Shazoom
 61 1/4
 61 3/4
 6
-Whiskey 918
+Whiskey-918
 4
 72
 72 3/4

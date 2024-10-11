@@ -788,7 +788,7 @@ Odds Ind. Time
 Sp. In. Comments
 7May21 3RP6
 1
-Witten 82 (Brooks, Jimmy)
+Witten-82 (Brooks, Jimmy)
 124 L bf
 1
 1
@@ -905,7 +905,7 @@ Her Sweet Special (Packer, Berkley)
 no factor
 Run-Up: 0 feet
 Winner:
-Witten 82, Bay Gelding, by Hes Relentless out of Fleet Elis, by Fishers Dash. Foaled Apr 20, 2019 in Texas.
+Witten-82, Bay Gelding, by Hes Relentless out of Fleet Elis, by Fishers Dash. Foaled Apr 20, 2019 in Texas.
 Breeder: Bullard Farms
 Owner: Ed Melzer
 Trainer: Willis, Eddie
@@ -916,7 +916,7 @@ Win
 Place
 Show
 1
-Witten 82
+Witten-82
 4.60
 3.00
 2.20
@@ -950,7 +950,7 @@ Str1
 Str
 Fin
 1
-Witten 82
+Witten-82
 1
 11
 12
@@ -1301,7 +1301,7 @@ Fires Relentless (Pulido, Juan)
 dueled, driving finish
 9May21 3RP6
 6
-Dynasty 727 (Esqueda, Cristian)
+Dynasty-727 (Esqueda, Cristian)
 124 L bfk
 6
 3
@@ -1433,7 +1433,7 @@ Fires Relentless
 4.20
 2.60
 6
-Dynasty 727
+Dynasty-727
 6.00
 3.60
 10
@@ -1472,7 +1472,7 @@ Fires Relentless
 11/2
 13/4
 6
-Dynasty 727
+Dynasty-727
 3
 1Head
 21/2

@@ -865,7 +865,7 @@ L b
 speed, finished well
 8May21 9HOU6
 7
-Sero 13 (Sanchez, Eddie)
+Sero-13 (Sanchez, Eddie)
 124
 L bk
 6
@@ -948,7 +948,7 @@ Breeder: Lester Colomb Jr
 Owner: Lester Colomb, Jr.
 Trainer: Weeks, Kenneth
 Claiming Prices:
-4 - Patriot Fireworks: $50,000; 7 - Sero 13: $50,000; 6 - Mr Perfect Tlc: $50,000; 8 - King Alexi: $50,000; 3 - Kooln
+4 - Patriot Fireworks: $50,000; 7 - Sero-13: $50,000; 6 - Mr Perfect Tlc: $50,000; 8 - King Alexi: $50,000; 3 - Kooln
 Inseprable: $50,000; 1 - Coco Moon Eagle: $50,000; 2 - Clown N Dash: $50,000;
 Scratched Horse(s): Jet Black Runner (Veterinarian)
 Total WPS Pool: $10,900
@@ -962,7 +962,7 @@ Patriot Fireworks
 6.60
 2.60
 7
-Sero 13
+Sero-13
 3.60
 2.20
 6
@@ -1011,7 +1011,7 @@ Patriot Fireworks
 11
 13/4
 7
-Sero 13
+Sero-13
 1
 21
 23/4

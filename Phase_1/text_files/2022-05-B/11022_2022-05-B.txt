@@ -2251,7 +2251,7 @@ Odds Ind. Time
 Sp. In. Comments
 7May22 4RP3
 9
-Whiskey 918 (Flores, James)
+Whiskey-918 (Flores, James)
 124 L bfk
 9
 5
@@ -2381,7 +2381,7 @@ Hallelujah-21 (Calderon, Francisco)
 awkward brk,lost jock
 Run-Up: 0 feet
 Winner:
-Whiskey 918, Sorrel Gelding, by Apollitical Jess out of First Carolina, by Mr Jess Perry. Foaled Mar 29, 2019 in Oklahoma.
+Whiskey-918, Sorrel Gelding, by Apollitical Jess out of First Carolina, by Mr Jess Perry. Foaled Mar 29, 2019 in Oklahoma.
 Breeder: William E Smith
 Owner: William E. Smith
 Trainer: Taylor, M.
@@ -2391,7 +2391,7 @@ Win
 Place
 Show
 9
-Whiskey 918
+Whiskey-918
 8.40
 4.00
 2.80
@@ -2437,7 +2437,7 @@ Str 1
 Str
 Fin
 9
-Whiskey 918
+Whiskey-918
 5
 43/4
 2Head

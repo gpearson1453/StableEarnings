@@ -528,7 +528,7 @@ Odds Ind. Time
 Sp. In. Comments
 29May21 6LBT6
 4
-Lola 157 (Moreno, Cesar)
+Lola-157 (Moreno, Cesar)
 124 BL b
 4
 2
@@ -658,7 +658,7 @@ Pod (Marin, Never)
 lost all chance
 Run-Up: 0 feet
 Winner:
-Lola 157, Brown Filly, by Kiss My Hocks out of Mia Ta Fame, by Dash Ta Fame. Foaled May 11, 2019 in Utah.
+Lola-157, Brown Filly, by Kiss My Hocks out of Mia Ta Fame, by Dash Ta Fame. Foaled May 11, 2019 in Utah.
 Breeder: Richard S Frandsen
 Owner: Blake Isom
 Trainer: Moosman, Riley
@@ -668,7 +668,7 @@ Win
 Place
 Show
 4
-Lola 157
+Lola-157
 19.80
 10.20
 4.80
@@ -706,7 +706,7 @@ Str 1
 Str
 Fin
 4
-Lola 157
+Lola-157
 2
 2Head
 1Head

@@ -1397,7 +1397,7 @@ A Dash N Time (Valenzuela, Raul)
 stumbled badly
 17Sep21 6LS4
 8
-Jm Jesse James 123 (Ramirez, Jr., Raul)
+Jm-Jesse-James-123 (Ramirez, Jr., Raul)
 125 L bk
 8
 4
@@ -1517,7 +1517,7 @@ A Dash N Time
 64 1/4
 72 3/4
 8
-Jm Jesse James 123
+Jm-Jesse-James-123
 4
 93
 87 3/4
@@ -2925,7 +2925,7 @@ Runaway Aj (Ortiz, Jose)
 no rally
 24Sep21 9LS2
 3
-Whiskey 918 (Vallejo, Rodrigo)
+Whiskey-918 (Vallejo, Rodrigo)
 124 L bfk
 3
 4
@@ -3068,7 +3068,7 @@ Runaway Aj
 84 1/4
 73 1/4
 3
-Whiskey 918
+Whiskey-918
 4
 61 1/4
 62 1/4

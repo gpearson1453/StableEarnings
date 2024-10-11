@@ -1602,7 +1602,7 @@ Jess Scare Me (Reyes, Cristian)
 moved up, no threat
 24Jul21 8IND9
 2
-Eagle Force 1 (Packer, Berkley)
+Eagle-Force-1 (Packer, Berkley)
 126 L b
 2
 4
@@ -1728,7 +1728,7 @@ Jess Scare Me
 53
 33 1/4
 2
-Eagle Force 1
+Eagle-Force-1
 4
 41 3/4
 43

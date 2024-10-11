@@ -1583,7 +1583,7 @@ L bf
 bit fractious gate
 29May21 11RUI9
 1
-Whiskey 918 (Vallejo, Rodrigo)
+Whiskey-918 (Vallejo, Rodrigo)
 124
 L bfk
 1
@@ -1739,7 +1739,7 @@ Honey Budder
 31
 31 3/4
 1
-Whiskey 918
+Whiskey-918
 7
 51 1/4
 41 3/4

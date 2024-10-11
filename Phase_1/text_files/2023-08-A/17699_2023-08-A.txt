@@ -921,7 +921,7 @@ El Moro Prieto (Guerrero, Jose)
 no speed
 9Aug23 4TIL6
 3
-Js Royal 613 (Garcia, Erick)
+Js-Royal-613 (Garcia, Erick)
 126 BL b
 3
 5
@@ -1004,7 +1004,7 @@ El Moro Prieto
 58
 511 1/2
 3
-Js Royal 613
+Js-Royal-613
 5
 67
 614

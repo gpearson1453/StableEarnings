@@ -2283,7 +2283,7 @@ Dangerous Dude (Jimenez, David)
 solid effort
 24Jul21 4WYO1
 10
-Lola 157 (Canales, Jesus)
+Lola-157 (Canales, Jesus)
 126 BL b
 8
 8
@@ -2401,7 +2401,7 @@ Dangerous Dude
 51 1/4
 51 3/4
 10
-Lola 157
+Lola-157
 8
 61/2
 61 1/4

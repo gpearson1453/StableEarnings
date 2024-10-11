@@ -1457,7 +1457,7 @@ El Moro Prieto (Gutierrez-Sosa, Eduardo)
 off slow very wide
 10Dec18 2PM8
 2
-Js Royal 613 (Smith, Taylor)
+Js-Royal-613 (Smith, Taylor)
 121 BL bf
 2
 3
@@ -1544,7 +1544,7 @@ El Moro Prieto
 58
 58 1/2
 2
-Js Royal 613
+Js-Royal-613
 3
 43
 68 1/4

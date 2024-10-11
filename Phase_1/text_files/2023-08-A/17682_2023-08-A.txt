@@ -612,7 +612,7 @@ B bf
 knocked sideways
 1Jul23 1GRP5
 4
-Js Royal 613 (Garcia, Erick)
+Js-Royal-613 (Garcia, Erick)
 128
 BL bf
 4
@@ -702,7 +702,7 @@ Glow N Eagle
 53 1/2
 53 1/4
 4
-Js Royal 613
+Js-Royal-613
 6
 65 1/2
 65 1/2

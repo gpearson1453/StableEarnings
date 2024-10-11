@@ -655,7 +655,7 @@ Odds Ind. Time
 Sp. In. Comments
 30Jul22 10ALB4
 4
-Witten 82 (Silva, Agustin)
+Witten-82 (Silva, Agustin)
 126 L bfk
 4
 1
@@ -746,7 +746,7 @@ La Cuchara (Becerra, Jr., Sergio)
 off step slow
 Run-Up: 0 feet
 Winner:
-Witten 82, Bay Gelding, by Hes Relentless out of Fleet Elis, by Fishers Dash. Foaled Apr 20, 2019 in Texas.
+Witten-82, Bay Gelding, by Hes Relentless out of Fleet Elis, by Fishers Dash. Foaled Apr 20, 2019 in Texas.
 Breeder: Bullard Farms
 Owner: Mario Dominguez
 Trainer: Honesto, Joe
@@ -756,7 +756,7 @@ Win
 Place
 Show
 4
-Witten 82
+Witten-82
 12.60
 9.80
 4.80
@@ -790,7 +790,7 @@ Str 1
 Str
 Fin
 4
-Witten 82
+Witten-82
 1
 11/2
 1Head

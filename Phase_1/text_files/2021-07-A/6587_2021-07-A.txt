@@ -551,7 +551,7 @@ Nocatchinga Corona (Esqueda, Erik)
 surged late
 3Jun21 9IND1
 7
-Eagle Force 1 (Beltran, Jose)
+Eagle-Force-1 (Beltran, Jose)
 128 L b
 7
 4
@@ -670,7 +670,7 @@ Nocatchinga Corona
 9.20
 5.20
 7
-Eagle Force 1
+Eagle-Force-1
 5.40
 4.40
 3
@@ -717,7 +717,7 @@ Nocatchinga Corona
 31
 1Neck
 7
-Eagle Force 1
+Eagle-Force-1
 4
 1Neck
 11

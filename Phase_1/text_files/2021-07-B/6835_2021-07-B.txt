@@ -1418,7 +1418,7 @@ A Fast Ribbon (Romero, Josh)
 dueled, faltered
 7May21 5HOU2
 9
-Jm Jesse James 123 (Rivera, Ali)
+Jm-Jesse-James-123 (Rivera, Ali)
 124 L bf
 9
 2
@@ -1559,7 +1559,7 @@ A Fast Ribbon
 31/2
 43/4
 9
-Jm Jesse James 123
+Jm-Jesse-James-123
 2
 1Head
 53/4

@@ -809,7 +809,7 @@ Odds Ind. Time
 Sp. In. Comments
 3Jul21 9WYO8
 3
-Lola 157 (Valenzuela, Jesus)
+Lola-157 (Valenzuela, Jesus)
 126 BL b
 3
 1
@@ -926,7 +926,7 @@ Obi One Kenobi (Teeter, Nakia)
 no excuse
 Run-Up: 0 feet
 Winner:
-Lola 157, Brown Filly, by Kiss My Hocks out of Mia Ta Fame, by Dash Ta Fame. Foaled May 11, 2019 in Utah.
+Lola-157, Brown Filly, by Kiss My Hocks out of Mia Ta Fame, by Dash Ta Fame. Foaled May 11, 2019 in Utah.
 Breeder: Richard S Frandsen
 Owner: Blake Isom
 Trainer: Moosman, Riley
@@ -937,7 +937,7 @@ Win
 Place
 Show
 3
-Lola 157
+Lola-157
 6.20
 3.60
 3.20
@@ -975,7 +975,7 @@ Str 1
 Str
 Fin
 3
-Lola 157
+Lola-157
 1
 1Head
 1Neck

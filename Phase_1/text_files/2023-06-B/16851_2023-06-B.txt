@@ -1144,7 +1144,7 @@ Romanian (Afanador, Jesus)
 broke in air
 10Jun23 5UN6
 4
-Js Royal 613 (Jensen, Vladimir)
+Js-Royal-613 (Jensen, Vladimir)
 126 BL bf
 4
 4
@@ -1249,7 +1249,7 @@ Romanian
 48
 47 3/4
 4
-Js Royal 613
+Js-Royal-613
 4
 45 1/2
 58 1/2

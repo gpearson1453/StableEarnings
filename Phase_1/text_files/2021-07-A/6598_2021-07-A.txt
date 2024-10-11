@@ -1884,7 +1884,7 @@ Miss Eye Sito (Cervantes, Oscar)
 clean trip mid
 19Jun21 3WYO1
 1
-Lola 157 (Lusk, Tyson)
+Lola-157 (Lusk, Tyson)
 124 BL b
 1
 8
@@ -2001,7 +2001,7 @@ Miss Eye Sito
 61 3/4
 72
 1
-Lola 157
+Lola-157
 8
 83/4
 81 3/4

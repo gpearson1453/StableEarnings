@@ -554,7 +554,7 @@ Heza Fast Tac (Aquino, Jasiel)
 broke out, gamely late
 19Nov21 5EVD3
 10
-Zaxo 13 (Hernandez, Rene)
+Zaxo-13 (Hernandez, Rene)
 128 L bk
 10
 9
@@ -653,7 +653,7 @@ Trainer: Rubalcava, Martin
 New Trainer: Salvador G. Flores
 New Owner: Salvador G. Flores
 Claiming Prices:
-6 - Tdz Perrysroyalpain: $5,000; 8 - Florentine Dash: $5,000; 7 - Heza Fast Tac: $5,000; 10 - Zaxo 13: $5,000; 5 -
+6 - Tdz Perrysroyalpain: $5,000; 8 - Florentine Dash: $5,000; 7 - Heza Fast Tac: $5,000; 10 - Zaxo-13: $5,000; 5 -
 Cheaper Than Gas: $5,000; 4 - Ttt Dashin by James: $5,000; 1 - Miss La Panther: $5,000; 3 - One Sweet Tap: $5,000;
 2 - Star Dancing Eagle: $5,000; 9 - Skreamin Eagle: $5,000;
 Total WPS Pool: $23,116
@@ -722,7 +722,7 @@ Heza Fast Tac
 31/2
 3Neck
 10
-Zaxo 13
+Zaxo-13
 9
 81
 61

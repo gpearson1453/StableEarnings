@@ -1438,7 +1438,7 @@ BL b
 up for 2nd
 ---
 3
-Lola 157 (Cervantes, Oscar)
+Lola-157 (Cervantes, Oscar)
 122
 BL b
 3
@@ -1513,7 +1513,7 @@ Empowered to Prosper 3
 23/4
 21 1/2
 3
-Lola 157
+Lola-157
 2
 41/2
 33/4

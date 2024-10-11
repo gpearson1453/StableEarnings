@@ -2014,7 +2014,7 @@ Black Diamond B (Ramirez, Jr., Raul)
 cruised
 21Aug21 9RUI7
 9
-Whiskey 918 (Vallejo, Rodrigo)
+Whiskey-918 (Vallejo, Rodrigo)
 124 L bfk
 9
 7
@@ -2146,7 +2146,7 @@ Black Diamond B
 3.00
 2.40
 9
-Whiskey 918
+Whiskey-918
 3.60
 3.20
 6
@@ -2189,7 +2189,7 @@ Black Diamond B
 1Head
 11 1/4
 9
-Whiskey 918
+Whiskey-918
 7
 74 1/2
 73 1/4

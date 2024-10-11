@@ -636,7 +636,7 @@ Romanian (Scriver, Joree)
 huggd rail,game effort
 24May21 7GRP6
 4
-Js Royal 613 (Smith, Taylor)
+Js-Royal-613 (Smith, Taylor)
 126 BL bf
 4
 1
@@ -694,7 +694,7 @@ Romanian
 7.40
 3.00
 4
-Js Royal 613
+Js-Royal-613
 2.60
 Wager Type
 Winning Numbers
@@ -727,7 +727,7 @@ Romanian
 21
 22 1/4
 4
-Js Royal 613
+Js-Royal-613
 1
 21
 32 1/2

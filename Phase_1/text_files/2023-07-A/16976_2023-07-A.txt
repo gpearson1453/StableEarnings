@@ -73,7 +73,7 @@ El Alazan Gunner (Lopez, Jaime)
 good try
 24Jun23 7GRP5
 4
-Js Royal 613 (Garcia, Erick)
+Js-Royal-613 (Garcia, Erick)
 126 BL bf
 4
 5
@@ -150,7 +150,7 @@ El Alazan Gunner
 42 1/2
 42
 4
-Js Royal 613
+Js-Royal-613
 5
 54 1/2
 55 1/2

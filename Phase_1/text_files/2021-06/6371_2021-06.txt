@@ -298,7 +298,7 @@ Sheza Flying Chick (Gonzalez, Luis)
 good try
 11Jun21 5UN3
 8
-Js Royal 613 (Smith, Taylor)
+Js-Royal-613 (Smith, Taylor)
 126 BL bf
 7
 8
@@ -405,7 +405,7 @@ Sheza Flying Chick
 62 3/4
 63 1/2
 8
-Js Royal 613
+Js-Royal-613
 8
 85 1/2
 83

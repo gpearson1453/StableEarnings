@@ -772,7 +772,7 @@ A Tres of Eagle (Soto, Jhaciel)
 denied in duel
 6Nov21 12LS8
 6
-Whiskey 918 (Vallejo, Rodrigo)
+Whiskey-918 (Vallejo, Rodrigo)
 124 L bfk
 6
 5
@@ -895,7 +895,7 @@ A Tres of Eagle
 2.20
 2.10
 6
-Whiskey 918
+Whiskey-918
 4.00
 Wager Type
 Winning Numbers
@@ -932,7 +932,7 @@ A Tres of Eagle
 2Head
 2Head
 6
-Whiskey 918
+Whiskey-918
 5
 53/4
 31

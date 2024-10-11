@@ -611,7 +611,7 @@ Easy Separatist (Baca, Benito)
 second flight duel
 8May20 8RP10
 2
-Dynasty 727 (Martinez, Jr., Joel)
+Dynasty-727 (Martinez, Jr., Joel)
 127 L bfk
 2
 6
@@ -737,7 +737,7 @@ Easy Separatist
 42
 53
 2
-Dynasty 727
+Dynasty-727
 6
 61/2
 62 1/4

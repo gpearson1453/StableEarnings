@@ -2156,7 +2156,7 @@ Lethal Fast Cash (Ramirez, Froylan)
 bumped, no threat
 ---
 1
-Sero 13 (Sanchez, Eddie)
+Sero-13 (Sanchez, Eddie)
 127 L bk
 1
 1
@@ -2278,7 +2278,7 @@ Lethal Fast Cash
 63 1/4
 52 3/4
 1
-Sero 13
+Sero-13
 1
 21/2
 51 3/4
@@ -2404,7 +2404,7 @@ Akurit (Espinosa, Pedro)
 shied, bobbled late
 ---
 1
-Maciguem 420 (Suarez, Noe)
+Maciguem-420 (Suarez, Noe)
 130 L bf
 1
 5
@@ -2544,7 +2544,7 @@ Akurit
 63 3/4
 65 1/2
 1
-Maciguem 420
+Maciguem-420
 5
 61/2
 73 3/4
