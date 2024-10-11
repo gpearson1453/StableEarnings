@@ -348,7 +348,7 @@ Moonflasheagle (Hernandez, Alan)
 came in after brk
 28Nov21 1ZIA5
 10
-Rc 3 (Alvarez, Jose)
+Rc-3 (Alvarez, Jose)
 129 b
 10
 4
@@ -478,7 +478,7 @@ Moonflasheagle
 82
 72 1/4
 10
-Rc 3
+Rc-3
 4
 71
 71 3/4

@@ -87,7 +87,7 @@ L bf
 bumped hard late
 17Jul20 12FMT8
 4
-Bug Cartel 56 (Fonseca-Soto, Fernando)
+Bug-Cartel-56 (Fonseca-Soto, Fernando)
 126
 L bf
 4
@@ -135,7 +135,7 @@ New Trainer: Joaquin Lopez
 New Owner: Joaquin Lopez
 Claiming Prices:
 7 - Anna Tambien: $6,250; 8 - Torretto: $6,250; 3 - Bv My Guy: $6,250; 2 - Top Dollar: $6,250; 6 - Dilly Dilly Hurray:
-$6,250; 4 - Bug Cartel 56: $6,250; 5 - Cc Collarbone: $6,250; 1 - A Maidens Grace: $6,250;
+$6,250; 4 - Bug-Cartel-56: $6,250; 5 - Cc Collarbone: $6,250; 1 - A Maidens Grace: $6,250;
 Total WPS Pool: $11,996
 Pgm Horse
 Win
@@ -200,7 +200,7 @@ Dilly Dilly Hurray
 51 1/4
 52 1/4
 4
-Bug Cartel 56
+Bug-Cartel-56
 4
 71 3/4
 62 1/2

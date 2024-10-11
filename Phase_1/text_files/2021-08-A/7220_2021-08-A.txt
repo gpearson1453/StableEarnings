@@ -1098,7 +1098,7 @@ Dm Runaway Talent (Fierro, Rodolfo)
 dueled, tired
 25Jun21 3HOU2
 8
-DQ-Fabulous Desperate 1 (Alvarez, Arturo)
+DQ-Fabulous-Desperate-1 (Alvarez, Arturo)
 124 L bfk
 8
 1
@@ -1193,11 +1193,11 @@ Breeder: Bobby D Cox
 Owner: Jose E. Guzman
 Trainer: Mejia, Jacobo
 Claiming Prices:
-9 - Assaulte: $15,000; 6 - Sheza Louisiana Blue: $15,000; 4 - Dm Runaway Talent: $15,000; 8 - Fabulous Desperate 1:
+9 - Assaulte: $15,000; 6 - Sheza Louisiana Blue: $15,000; 4 - Dm Runaway Talent: $15,000; 8 - Fabulous-Desperate-1:
 $15,000; 10 - Env Express: $15,000; 3 - Dashing Kopper: $15,000; 5 - Sir Runaway Perry: $15,000; 2 - Brother Jess:
 $15,000; 1 - C of a Heartbreak: $15,000; 7 - Favorite Torero Gmc: $15,000;
 Disqualification(s):
-# 8 Fabulous Desperate 1 from 4 to 9
+# 8 Fabulous-Desperate-1 from 4 to 9
 Total WPS Pool: $18,120
 Pgm Horse
 Win
@@ -1281,7 +1281,7 @@ Dm Runaway Talent
 1Head
 31
 8
-Fabulous Desperate 1
+Fabulous-Desperate-1
 1
 43/4
 41 1/4

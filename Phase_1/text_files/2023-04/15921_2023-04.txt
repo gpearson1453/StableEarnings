@@ -1606,7 +1606,7 @@ Blindedbythegees (Hebert, Tracy)
 hstld ins,angl,move up
 31Mar23 1SUN4
 7
-Rc 3 (Garcia, Jr., Noe)
+Rc-3 (Garcia, Jr., Noe)
 128 bf
 7
 4
@@ -1734,7 +1734,7 @@ Blindedbythegees
 42
 32 1/4
 7
-Rc 3
+Rc-3
 4
 21/2
 31 1/2

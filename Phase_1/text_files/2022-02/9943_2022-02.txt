@@ -58,7 +58,7 @@ American Skandal (Flores-Garcia, Luis)
 bumped into foe brk
 22Jan22 2SUN8
 6
-Rc 3 (Ramos, Christian)
+Rc-3 (Ramos, Christian)
 126 bf
 6
 2
@@ -212,7 +212,7 @@ American Skandal
 43/4
 31
 6
-Rc 3
+Rc-3
 2
 2Head
 31/2

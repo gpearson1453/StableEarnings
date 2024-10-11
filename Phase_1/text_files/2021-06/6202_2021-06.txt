@@ -1591,7 +1591,7 @@ L bfk
 denied in duel
 20May21 6RP4
 1
-Bug Cartel 56 (Raudales, Rolando)
+Bug-Cartel-56 (Raudales, Rolando)
 126
 L bf
 1
@@ -1651,7 +1651,7 @@ Trainer: Alexander, L.
 New Trainer: Rick Sorrells
 New Owner: Rick Sorrells
 Claiming Prices:
-7 - Jess Frosted: $5,000; 5 - Separate Lashes: $5,000; 1 - Bug Cartel 56: $5,000; 6 - Df Fabulous Jo: $5,000; 3 - Orbita:
+7 - Jess Frosted: $5,000; 5 - Separate Lashes: $5,000; 1 - Bug-Cartel-56: $5,000; 6 - Df Fabulous Jo: $5,000; 3 - Orbita:
 $5,000; 2 - A Maidens Grace: $5,000;
 Scratched Horse(s): Kool Effort (Veterinarian)
 Total WPS Pool: $7,064
@@ -1669,7 +1669,7 @@ Separate Lashes
 14.80
 4.60
 1
-Bug Cartel 56
+Bug-Cartel-56
 2.60
 Wager Type
 Winning Numbers
@@ -1711,7 +1711,7 @@ Separate Lashes
 2Head
 21/2
 1
-Bug Cartel 56
+Bug-Cartel-56
 4
 31/2
 31 1/4

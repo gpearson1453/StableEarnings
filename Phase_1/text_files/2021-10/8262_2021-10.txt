@@ -1625,7 +1625,7 @@ L bfk
 late effort
 23Jul21 10FMT5
 2
-Bug Cartel 56 (Navarrete, Jr., Eugenio)
+Bug-Cartel-56 (Navarrete, Jr., Eugenio)
 127
 L bf
 2
@@ -1679,7 +1679,7 @@ New Trainer: Luz Chavira
 New Owner: Kevin David Guereca
 Claiming Prices:
 7 - Krangke: $5,000; 10 - Dyaub: $5,000; 3 - Tootsie Roll On: $5,000; 1 - Bentayga: $5,000; 5 - La Plumita: $5,000; 4 -
-Six Moons Jody: $5,000; 8 - Lips of Sabrina: $5,000; 2 - Bug Cartel 56: $5,000; 6 - High Six Jess: $5,000; 9 - Jess
+Six Moons Jody: $5,000; 8 - Lips of Sabrina: $5,000; 2 - Bug-Cartel-56: $5,000; 6 - High Six Jess: $5,000; 9 - Jess
 Charger Bar: $5,000;
 Total WPS Pool: $6,055
 Pgm Horse
@@ -1769,7 +1769,7 @@ Lips of Sabrina
 81 1/4
 71 1/2
 2
-Bug Cartel 56
+Bug-Cartel-56
 7
 73/4
 82

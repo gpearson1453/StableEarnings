@@ -125,7 +125,7 @@ bk
 bumped, no threat
 ---
 5
-Fabulous Desperate 1 (Rodriguez, Everardo)
+Fabulous-Desperate-1 (Rodriguez, Everardo)
 122
 L bfk
 5
@@ -221,7 +221,7 @@ Alejandra the Great
 81
 83 3/4
 5
-Fabulous Desperate 1
+Fabulous-Desperate-1
 9
 91 1/2
 94
@@ -426,7 +426,7 @@ Mo Delirio
 1Head
 1Neck
 9
-Shazooms Lucky Charm6
+Shazooms Lucky Charm 6
 2Head
 2Neck
 3

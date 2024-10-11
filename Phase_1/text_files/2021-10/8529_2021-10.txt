@@ -2852,7 +2852,7 @@ Cardi B Corona (Guillen Chacon, Carlos)
 not enough late
 8Jul21 10HOU2
 2
-Hawk 71 (Villatoro, Noe)
+Hawk-71 (Villatoro, Noe)
 124 L bfk
 2
 8
@@ -3055,7 +3055,7 @@ Cardi B Corona
 53/4
 42 3/4
 2
-Hawk 71
+Hawk-71
 8
 2Head
 21/2

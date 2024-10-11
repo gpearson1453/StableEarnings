@@ -46,7 +46,7 @@ Stuffinyourpockets (Rivera, Alonso)
 no match,up for place
 5Jun22 4RUI6
 2
-Rc 3 (Pulido, Juan)
+Rc-3 (Pulido, Juan)
 126 b
 2
 2
@@ -169,7 +169,7 @@ Stuffinyourpockets
 10.20
 6.60
 2
-Rc 3
+Rc-3
 6.20
 Wager Type
 Winning Numbers
@@ -206,7 +206,7 @@ Stuffinyourpockets
 32
 22
 2
-Rc 3
+Rc-3
 2
 21
 22

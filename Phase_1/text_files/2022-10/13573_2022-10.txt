@@ -21,7 +21,7 @@ Odds Ind. Time
 Sp. In. Comments
 12Aug22 6RUI3
 2
-Rc 3 (Garcia, Jr., Noe)
+Rc-3 (Garcia, Jr., Noe)
 126 bf
 2
 1
@@ -151,12 +151,12 @@ Impressive Brook (Vazquez, Jose)
 bumped hard, break,
 Run-Up: 0 feet
 Winner:
-Rc 3, Bay Gelding, by Capo de Capi out of Spit Curl Jessy, by Spit Curl Jess. Foaled Feb 03, 2019 in Oklahoma.
+Rc-3, Bay Gelding, by Capo de Capi out of Spit Curl Jessy, by Spit Curl Jess. Foaled Feb 03, 2019 in Oklahoma.
 Breeder: Rodrigo Covarrubias
 Owner: Ebert Munoz
 Trainer: Munoz, Ebert
 Claiming Prices:
-2 - Rc 3: $15,000; 10 - Five Bucks: $15,000; 4 - Kool Kue Blue: $15,000; 3 - Alexander C: $15,000; 1 - Code Talker
+2 - Rc-3: $15,000; 10 - Five Bucks: $15,000; 4 - Kool Kue Blue: $15,000; 3 - Alexander C: $15,000; 1 - Code Talker
 Eleven: $20,000; 9 - Next Princess: $20,000; 6 - Pc Surfer: $20,000; 5 - Rts Volcoms Princess: $15,000; 7 -
 Reasonably: $15,000; 8 - Impressive Brook: $15,000;
 Scratched Horse(s): Impresionanti (Stewards), Send Me Runnin (Stewards)
@@ -166,7 +166,7 @@ Win
 Place
 Show
 2
-Rc 3
+Rc-3
 3.40
 2.60
 2.20
@@ -200,7 +200,7 @@ Str 1
 Str
 Fin
 2
-Rc 3
+Rc-3
 1
 11
 11

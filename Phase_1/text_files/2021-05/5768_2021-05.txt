@@ -1380,7 +1380,7 @@ L b
 clean trip
 23Apr21 7RP3
 7
-Bug Cartel 56 (Pulido, Juan)
+Bug-Cartel-56 (Pulido, Juan)
 126
 L bf
 7
@@ -1469,7 +1469,7 @@ Vf Rosies Prize
 New Trainer: Harvey Baeza
 New Owner: Javier Alvarez, Jr.
 Claiming Prices:
-9 - Jewels Wagon: $6,250; 2 - Vf Rosies Prize: $6,250; 8 - Another Quick Shot: $6,250; 7 - Bug Cartel 56: $6,250; 6 -
+9 - Jewels Wagon: $6,250; 2 - Vf Rosies Prize: $6,250; 8 - Another Quick Shot: $6,250; 7 - Bug-Cartel-56: $6,250; 6 -
 Mirandasbabylota: $6,250; 4 - High Six Jess: $6,250; 3 - Bv My Guy: $6,250; 5 - Great Master: $6,250; 1 - T Post:
 $6,250;
 Total WPS Pool: $13,556
@@ -1530,7 +1530,7 @@ Another Quick Shot
 43/4
 33/4
 7
-Bug Cartel 56
+Bug-Cartel-56
 3
 31/2
 41

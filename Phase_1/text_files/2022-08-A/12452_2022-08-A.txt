@@ -337,7 +337,7 @@ Trainer: Vickery, Bret
 Claiming Prices:
 2 - A Political Habit: $20,000; 1 - Fast Candy: $20,000; 9 - Louisianapaintwagon: $20,000; 7 - Bp Southern N Fancy:
 $20,000; 6 - Fiesty Six: $20,000; 5 - Seza Bold Jesse: $20,000; 8 - Ice Muss: $20,000; 4 - The405: $20,000;
-Scratched Horse(s): Golden Ticket (Veterinarian), Rc 3 (Stewards)
+Scratched Horse(s): Golden Ticket (Veterinarian), Rc-3 (Stewards)
 Total WPS Pool: $26,509
 Pgm Horse
 Win

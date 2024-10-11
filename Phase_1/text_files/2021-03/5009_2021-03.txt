@@ -2088,7 +2088,7 @@ L bf
 no impact
 8Mar21 3RP6
 6
-Stiletto X 3 (Camacho, Kevin)
+Stiletto-X-3 (Camacho, Kevin)
 129
 L bfk
 6
@@ -2212,7 +2212,7 @@ Anomali
 62 1/4
 62
 6
-Stiletto X 3
+Stiletto-X-3
 7
 72 3/4
 72 1/2

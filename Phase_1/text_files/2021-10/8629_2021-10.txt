@@ -99,7 +99,7 @@ L bk
 steady effort
 3Oct21 8WRD8
 2
-Bug Cartel 56 (Navarrete, Jr., Eugenio)
+Bug-Cartel-56 (Navarrete, Jr., Eugenio)
 126
 L bk
 2
@@ -148,7 +148,7 @@ Rodriguez-Garcia
 New Owner: Jose Gerardo Bernal
 Claiming Prices:
 7 - R Secret Weapon: $5,000; 3 - High Six Jess: $5,000; 6 - Another Quick Shot: $5,000; 1 - Doctor Chicote: $5,000; 4 -
-Chelin Cash: $5,000; 5 - Daddys Dime: $5,000; 2 - Bug Cartel 56: $5,000; 8 - Jess Charger Bar: $5,000; 9 - Deplorable
+Chelin Cash: $5,000; 5 - Daddys Dime: $5,000; 2 - Bug-Cartel-56: $5,000; 8 - Jess Charger Bar: $5,000; 9 - Deplorable
 Cat: $5,000;
 Total WPS Pool: $3,278
 Pgm Horse
@@ -219,7 +219,7 @@ Daddys Dime
 63/4
 61 1/4
 2
-Bug Cartel 56
+Bug-Cartel-56
 1
 73/4
 72 1/2

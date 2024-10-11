@@ -1767,7 +1767,7 @@ Odds Ind. Time
 Sp. In. Comments
 10Apr21 3RP8
 6
-Vf Red Surprise 3 (Vega, Randy)
+Vf-Red-Surprise-3 (Vega, Randy)
 124
 L b
 6
@@ -1884,12 +1884,12 @@ L b
 bore in, bumped
 Run-Up: 0 feet
 Winner:
-Vf Red Surprise 3, Sorrel Filly, by First Prize Stanley out of Red Temptress, by Rolls of Romance. Foaled Apr 13, 2018 in Oklahoma.
+Vf-Red-Surprise-3, Sorrel Filly, by First Prize Stanley out of Red Temptress, by Rolls of Romance. Foaled Apr 13, 2018 in Oklahoma.
 Breeder: Victory Farms
 Owner: Antonio Mora
 Trainer: Espiritu, Lucio
 Claiming Prices:
-6 - Vf Red Surprise 3: $15,000; 7 - Hot Candy Man: $15,000; 1 - Eye My Fabulous Gal: $15,000; 10 - Cannons Fury:
+6 - Vf-Red-Surprise-3: $15,000; 7 - Hot Candy Man: $15,000; 1 - Eye My Fabulous Gal: $15,000; 10 - Cannons Fury:
 $15,000; 2 - Nsm Zoomer: $15,000; 9 - Sfs Your Starlight: $15,000; 5 - Soverynne: $15,000; 4 - Nsm Disco Dancer:
 $15,000; 3 - Zooming Big Dreams: $15,000;
 Scratched Horse(s): Angels First Wagon (Trainer)
@@ -1899,7 +1899,7 @@ Win
 Place
 Show
 6
-Vf Red Surprise 3
+Vf-Red-Surprise-3
 19.80
 8.20
 3.80
@@ -1936,7 +1936,7 @@ Start
 Str
 Fin
 6
-Vf Red Surprise 3
+Vf-Red-Surprise-3
 2
 2Head
 1Neck

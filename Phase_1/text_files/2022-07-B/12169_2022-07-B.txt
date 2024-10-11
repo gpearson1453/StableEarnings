@@ -2421,7 +2421,7 @@ I Dee Udas Ka Sudas (Valenzuela, Raul)
 even throughout
 18Jun22 1RUI3
 2
-Rc 3 (Pulido, Juan)
+Rc-3 (Pulido, Juan)
 126 bf
 2
 1
@@ -2559,7 +2559,7 @@ I Dee Udas Ka Sudas
 41
 51/2
 2
-Rc 3
+Rc-3
 1
 71
 72 1/4

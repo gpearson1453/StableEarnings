@@ -1869,7 +1869,7 @@ L bfk
 gaining at finish
 13Jun21 9FMT3
 4
-Bug Cartel 56 (Guillen Chacon, Carlos)
+Bug-Cartel-56 (Guillen Chacon, Carlos)
 126
 L bf
 4
@@ -1982,7 +1982,7 @@ Feature Mr Zoomin
 43/4
 41 1/4
 4
-Bug Cartel 56
+Bug-Cartel-56
 5
 51 3/4
 52 3/4

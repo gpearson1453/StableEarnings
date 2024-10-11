@@ -767,7 +767,7 @@ Dougan (Martinez, Edgar)
 steady effort
 8Oct22 1ZIA1
 6
-Rc 3 (Garcia, Jr., Noe)
+Rc-3 (Garcia, Jr., Noe)
 126 bf
 6
 2
@@ -907,7 +907,7 @@ Dougan
 32
 32 3/4
 6
-Rc 3
+Rc-3
 2
 42
 42

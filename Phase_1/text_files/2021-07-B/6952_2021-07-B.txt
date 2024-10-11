@@ -2210,7 +2210,7 @@ L bfk
 solid effort
 10Jul21 9FMT5
 7
-Bug Cartel 56 (Romero, Josh)
+Bug-Cartel-56 (Romero, Josh)
 127
 L bf
 6
@@ -2351,7 +2351,7 @@ Savin Time
 43/4
 41 1/2
 7
-Bug Cartel 56
+Bug-Cartel-56
 6
 63/4
 51 1/2

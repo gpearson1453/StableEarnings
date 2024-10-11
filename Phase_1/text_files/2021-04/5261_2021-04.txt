@@ -644,7 +644,7 @@ Jasmine Cartel (Ramirez, Jr., Francisco)
 sluggish start
 14Mar21 5RP6
 3
-Vf Red Surprise 3 (Escobedo, Edwin)
+Vf-Red-Surprise-3 (Escobedo, Edwin)
 126 L b
 3
 4
@@ -769,7 +769,7 @@ Jasmine Cartel
 81 3/4
 72 1/2
 3
-Vf Red Surprise 3
+Vf-Red-Surprise-3
 4
 51 1/4
 51 1/2

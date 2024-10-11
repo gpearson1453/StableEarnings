@@ -12,7 +12,7 @@ def replace_string_in_file(file_path, target_string, replacement_string):
             file_contents = f.read()
 
         # If the target string is found, proceed with replacement
-        if target_string in file_contents:
+        if target_string in file_contents[file_contents.find('Past Performance Running Line Preview'):]:
             updated_contents = file_contents.replace(target_string, replacement_string)
 
             # Only write back to the file if changes were made
@@ -47,7 +47,7 @@ folder_to_search = 'text_files'  # Replace with the name of your folder
 target_string = 'old_string'  # Replace with the string you want to replace
 replacement_string = 'new_string'  # Replace with the replacement string
 
-names = []
+names = ['Stiletto X 3', 'Hawk 71', 'Fabulous Desperate 1', 'Vf Red Surprise 3', 'Bug Cartel 56', 'Rc 3', 'Lucky Star 123']
 
 # Single run
 # process_folder(folder_to_search, target_string, replacement_string)

@@ -1314,7 +1314,7 @@ Trainer: Valdez Jr., Rosendo
 Claiming Prices:
 5 - Louisianas Girl: $10,000; 4 - Two Nine Go: $10,000; 6 - Toasta Patriot Chick: $10,000; 9 - Fdd Abcallie Grand:
 $10,000;
-Scratched Horse(s): Lucky Star 123 (Veterinarian), Seis Train B (Veterinarian)
+Scratched Horse(s): Lucky-Star-123 (Veterinarian), Seis Train B (Veterinarian)
 Total WPS Pool: $15,166
 Pgm Horse
 Win

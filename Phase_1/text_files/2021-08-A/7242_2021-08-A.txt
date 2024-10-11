@@ -1308,7 +1308,7 @@ L bk
 good try
 21May21 9RP3
 6
-Rc 3 (Aldrete, Hector)
+Rc-3 (Aldrete, Hector)
 124
 L bf
 5
@@ -1445,7 +1445,7 @@ Special Eagle V
 43/4
 33/4
 6
-Rc 3
+Rc-3
 3
 31/2
 41

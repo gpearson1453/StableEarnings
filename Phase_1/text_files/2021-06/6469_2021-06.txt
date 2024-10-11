@@ -904,7 +904,7 @@ Odds Ind. Time
 Sp. In. Comments
 30May21 8RP1
 1
-Vf Red Surprise 3 (Perez, Antonio)
+Vf-Red-Surprise-3 (Perez, Antonio)
 127
 L b
 1
@@ -1008,7 +1008,7 @@ L b
 brk in, slow to gather
 Run-Up: 0 feet
 Winner:
-Vf Red Surprise 3, Sorrel Filly, by First Prize Stanley out of Red Temptress, by Rolls of Romance. Foaled Apr 13, 2018 in Oklahoma.
+Vf-Red-Surprise-3, Sorrel Filly, by First Prize Stanley out of Red Temptress, by Rolls of Romance. Foaled Apr 13, 2018 in Oklahoma.
 Breeder: Victory Farms
 Owner: Antonio Mora
 Trainer: Espiritu, Lucio
@@ -1018,7 +1018,7 @@ Win
 Place
 Show
 1
-Vf Red Surprise 3
+Vf-Red-Surprise-3
 20.00
 6.00
 3.60
@@ -1055,7 +1055,7 @@ Start
 Str
 Fin
 1
-Vf Red Surprise 3
+Vf-Red-Surprise-3
 1
 11
 11

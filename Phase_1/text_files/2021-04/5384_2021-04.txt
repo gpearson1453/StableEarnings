@@ -1613,7 +1613,7 @@ L b
 drifted in and out
 26Mar21 1RP6
 2
-Bug Cartel 56 (Pulido, Juan)
+Bug-Cartel-56 (Pulido, Juan)
 126
 L bf
 2
@@ -1702,7 +1702,7 @@ El Sebitas
 New Trainer: Rodrigo Covarrubias
 New Owner: Rodrigo Covarrubias
 Claiming Prices:
-8 - A Hope and a Prayer: $5,000; 7 - El Sebitas: $5,000; 2 - Bug Cartel 56: $5,000; 1 - Great Master: $5,000; 6 - Kool
+8 - A Hope and a Prayer: $5,000; 7 - El Sebitas: $5,000; 2 - Bug-Cartel-56: $5,000; 1 - Great Master: $5,000; 6 - Kool
 Lady Success: $5,000; 4 - Another Quick Shot: $5,000; 5 - Royal Power Play: $5,000; 3 - A Maidens Grace: $5,000;
 Dead Heats:
 4th place - # 1 Great Master
@@ -1722,7 +1722,7 @@ El Sebitas
 3.80
 3.40
 2
-Bug Cartel 56
+Bug-Cartel-56
 5.20
 Wager Type
 Winning Numbers
@@ -1764,7 +1764,7 @@ El Sebitas
 63/4
 21
 2
-Bug Cartel 56
+Bug-Cartel-56
 1
 21/2
 31 1/4

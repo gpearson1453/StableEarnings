@@ -662,7 +662,7 @@ Passionforpassing (Leyva, Joel)
 dueled, just missed,
 5Sep21 2ALB2
 1
-Rc 3 (Enriquez, Jacob)
+Rc-3 (Enriquez, Jacob)
 126 bf
 1
 2
@@ -786,7 +786,7 @@ Passionforpassing
 25.00
 10.80
 1
-Rc 3
+Rc-3
 3.60
 Wager Type
 Winning Numbers
@@ -823,7 +823,7 @@ Passionforpassing
 31/2
 2Head
 1
-Rc 3
+Rc-3
 2
 11/2
 11/2

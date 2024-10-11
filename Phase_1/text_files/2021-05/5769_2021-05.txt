@@ -2315,7 +2315,7 @@ Oldtimehero (Vega, Jose)
 game second
 1Apr21 9RP8
 7
-Hawk 71 (Vivanco, Luis)
+Hawk-71 (Vivanco, Luis)
 125 L bfk
 7
 5
@@ -2440,7 +2440,7 @@ Oldtimehero
 5.40
 5.80
 7
-Hawk 71
+Hawk-71
 4.60
 Wager Type
 Winning Numbers
@@ -2504,7 +2504,7 @@ Oldtimehero
 31/2
 2Neck
 7
-Hawk 71
+Hawk-71
 5
 2Head
 21/2

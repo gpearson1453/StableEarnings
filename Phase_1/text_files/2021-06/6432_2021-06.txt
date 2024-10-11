@@ -474,7 +474,7 @@ Jees Baby (Aguilar, Jacobo)
 dueled, won head bob
 13Mar21 1LAD9
 10
-Fabulous Desperate 1 (Villatoro, Noe)
+Fabulous-Desperate-1 (Villatoro, Noe)
 125 L bfk
 7
 1
@@ -556,14 +556,14 @@ Jees Baby, Sorrel Filly, by Wonder Boy Perry out of Miss Yuracy Iliana, by Game 
 Breeder: Yeudiel Cancino
 Owner: Elizabeth Sanchez-Munoz
 Trainer: Poteet, Don
-2 Claimed Horse(s): Fabulous Desperate 1
+2 Claimed Horse(s): Fabulous-Desperate-1
 New Trainer: Porfirio Fierro
 New Owner: Sergio Martinez
 Pyc Dakota Gold
 New Trainer: Martin Rodriguez
 New Owner: Joel A. Vazquez
 Claiming Prices:
-9 - Jees Baby: $5,000; 10 - Fabulous Desperate 1: $5,000; 4 - Glimps of a Winner: $5,000; 1 - Pyc Dakota Gold:
+9 - Jees Baby: $5,000; 10 - Fabulous-Desperate-1: $5,000; 4 - Glimps of a Winner: $5,000; 1 - Pyc Dakota Gold:
 $5,000; 6 - Dolls Regal Prize: $5,000; 8 - Z On the Run: $5,000; 7 - Bogarts Flash: $5,000;
 Scratched Horse(s): Dbd Celebratemehome (Gate), Famous Vivia (Veterinarian), Miss Bogaringa (Veterinarian)
 Total WPS Pool: $19,804
@@ -577,7 +577,7 @@ Jees Baby
 5.00
 3.40
 10
-Fabulous Desperate 1
+Fabulous-Desperate-1
 4.20
 3.20
 4
@@ -625,7 +625,7 @@ Jees Baby
 2Head
 1Nose
 10
-Fabulous Desperate 1
+Fabulous-Desperate-1
 1
 1Head
 1Head

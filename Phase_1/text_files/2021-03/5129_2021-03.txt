@@ -950,7 +950,7 @@ L bf
 impressive closing bid
 ---
 5
-Rc 3 (Delgado, Oscar)
+Rc-3 (Delgado, Oscar)
 128
 b
 5
@@ -1082,7 +1082,7 @@ Runawave Wagon
 8.20
 4.40
 5
-Rc 3
+Rc-3
 9.20
 5.40
 4
@@ -1127,7 +1127,7 @@ Runawave Wagon
 21/2
 11/2
 5
-Rc 3
+Rc-3
 1
 11/2
 21/2

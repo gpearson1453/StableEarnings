@@ -1079,7 +1079,7 @@ L bfk
 pressed,drifted out
 22Jul22 10RUI6
 1
-Rc 3 (Pulido, Juan)
+Rc-3 (Pulido, Juan)
 126
 b
 1
@@ -1138,7 +1138,7 @@ Gorjus Temptress
 3.80
 2.20
 1
-Rc 3
+Rc-3
 2.10
 Wager Type
 Winning Numbers
@@ -1172,7 +1172,7 @@ Gorjus Temptress
 21/2
 2Neck
 1
-Rc 3
+Rc-3
 1
 31/2
 31/2

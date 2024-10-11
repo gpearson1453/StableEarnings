@@ -2055,7 +2055,7 @@ L bk
 contended, missed
 28Mar21 5RP2
 9
-Rc 3 (Delgado, Oscar)
+Rc-3 (Delgado, Oscar)
 128
 b
 8
@@ -2153,11 +2153,11 @@ Trainer: Carter, Troy
 2 Claimed Horse(s): Jess Sooo Tempting
 New Trainer: Harvey Baeza
 New Owner: Javier Alvarez, Jr.
-Rc 3
+Rc-3
 New Trainer: Ebert Munoz
 New Owner: Ebert Munoz
 Claiming Prices:
-10 - Ferarri B a Prize: $20,000; 7 - Kg Therunninkind: $20,000; 9 - Rc 3: $20,000; 4 - Jess Sooo Tempting: $20,000; 2 -
+10 - Ferarri B a Prize: $20,000; 7 - Kg Therunninkind: $20,000; 9 - Rc-3: $20,000; 4 - Jess Sooo Tempting: $20,000; 2 -
 Jess Dash Susie: $20,000; 5 - Hes Leaving You: $20,000; 6 - Evitoo: $20,000; 3 - Miss Pyc to You: $20,000; 8 -
 Gungho Kitty: $20,000;
 Scratched Horse(s): Shaytabulous (Veterinarian)
@@ -2176,7 +2176,7 @@ Kg Therunninkind
 5.60
 2.60
 9
-Rc 3
+Rc-3
 3.40
 Wager Type
 Winning Numbers
@@ -2214,7 +2214,7 @@ Kg Therunninkind
 3Head
 23/4
 9
-Rc 3
+Rc-3
 1
 1Nose
 31

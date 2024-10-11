@@ -179,7 +179,7 @@ Dean Miracles Vike (Bachicha, Jr., Elliot)
 speed all the way,
 7Aug21 6RUI4
 10
-Rc 3 (Enriquez, Jacob)
+Rc-3 (Enriquez, Jacob)
 124 L bf
 8
 8
@@ -286,7 +286,7 @@ Dean Miracles Vike
 4.20
 3.00
 10
-Rc 3
+Rc-3
 3.00
 2.60
 7
@@ -325,7 +325,7 @@ Dean Miracles Vike
 11/2
 11
 10
-Rc 3
+Rc-3
 8
 43/4
 21/2

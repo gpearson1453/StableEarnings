@@ -60,7 +60,7 @@ Gotta Pop Hero (Aldrete, Hector)
 between, empty
 17Mar23 3SUN6
 7
-Rc 3 (Rivas, Juan)
+Rc-3 (Rivas, Juan)
 128 bf
 7
 5
@@ -130,7 +130,7 @@ Breeder: Brereton C. Jones
 Owner: Green, Greg and Fuhs, Michael
 Trainer: Green, Greg
 Claiming Prices:
-8 - Bye: $15,000; 6 - Wisho: $15,000; 5 - Gotta Pop Hero: $15,000; 7 - Rc 3: $15,000; 3 - Zest: $15,000; 4 - High On
+8 - Bye: $15,000; 6 - Wisho: $15,000; 5 - Gotta Pop Hero: $15,000; 7 - Rc-3: $15,000; 3 - Zest: $15,000; 4 - High On
 Cuervo: $15,000; 2 - Slr Woodrow F Call: $15,000; 1 - Dealing Spades: $15,000;
 Scratched Horse(s): Miss Lordosis (Also-Eligible), Richards the Dream (Also-Eligible)
 Total WPS Pool: $7,939
@@ -191,7 +191,7 @@ Gotta Pop Hero
 41 1/4
 36 1/2
 7
-Rc 3
+Rc-3
 5
 2Head
 31

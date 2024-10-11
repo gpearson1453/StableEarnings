@@ -1125,7 +1125,7 @@ L bfk
 game effort
 11Feb20 6LAD4
 2
-Lucky Star 123 (Aquino, Jasiel)
+Lucky-Star-123 (Aquino, Jasiel)
 126
 L bfk
 2
@@ -1222,7 +1222,7 @@ Da Pool Do
 *
 61 3/4
 2
-Lucky Star 123
+Lucky-Star-123
 7
 *
 72 1/4

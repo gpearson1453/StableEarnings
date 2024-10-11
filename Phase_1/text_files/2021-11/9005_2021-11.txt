@@ -72,7 +72,7 @@ Jammas Powertrain (Cordova, Oscar)
 no match late,
 12Oct21 4ZIA3
 3
-Rc 3 (Ruiz, Jose)
+Rc-3 (Ruiz, Jose)
 128 b
 3
 1
@@ -219,7 +219,7 @@ Jammas Powertrain
 3Head
 43/4
 3
-Rc 3
+Rc-3
 1
 11/2
 1Head

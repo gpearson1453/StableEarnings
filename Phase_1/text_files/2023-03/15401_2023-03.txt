@@ -540,7 +540,7 @@ Wisho (Villanueva, J.)
 4-w, never fired
 10Feb23 5SUN2
 5
-Rc 3 (Amparan, Francisco)
+Rc-3 (Amparan, Francisco)
 128 bf
 5
 1
@@ -641,7 +641,7 @@ Wisho
 73 1/4
 53 1/2
 5
-Rc 3
+Rc-3
 1
 31/2
 42 1/4

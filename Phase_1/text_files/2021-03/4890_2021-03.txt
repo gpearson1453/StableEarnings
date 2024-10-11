@@ -554,7 +554,7 @@ L bf
 bumped at start
 ---
 4
-Stiletto X 3 (Camacho, Kevin)
+Stiletto-X-3 (Camacho, Kevin)
 124
 L bf
 4
@@ -668,7 +668,7 @@ Candied Cat
 43
 64
 4
-Stiletto X 3
+Stiletto-X-3
 7
 75
 75

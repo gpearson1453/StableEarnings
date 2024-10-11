@@ -2391,7 +2391,7 @@ L bk
 dueled, lost head bob
 20May21 10HOU3
 4
-Hawk 71 (Vivanco, Luis)
+Hawk-71 (Vivanco, Luis)
 125
 L bfk
 3
@@ -2504,7 +2504,7 @@ Shesa Sizzlin Blood
 5.00
 3.60
 4
-Hawk 71
+Hawk-71
 2.60
 Wager Type
 Winning Numbers
@@ -2574,7 +2574,7 @@ Shesa Sizzlin Blood
 2Head
 2Nose
 4
-Hawk 71
+Hawk-71
 5
 31
 31

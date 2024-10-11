@@ -2025,7 +2025,7 @@ Fly Miss Corona Jess (Torres, Jorge)
 never a factor
 12Mar21 2RP5
 1
-Hawk 71 (Calderon, Francisco)
+Hawk-71 (Calderon, Francisco)
 124 L bfk
 1
 5
@@ -2140,7 +2140,7 @@ Fly Miss Corona Jess
 73 3/4
 74 1/4
 1
-Hawk 71
+Hawk-71
 5
 83 1/4
 84 3/4

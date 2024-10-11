@@ -875,7 +875,7 @@ Tickle This Ivory (Ramirez, Ricky)
 evenly
 27Feb22 1SUN4
 2
-Rc 3 (Pulido, Juan)
+Rc-3 (Pulido, Juan)
 126 bf
 2
 2
@@ -1028,7 +1028,7 @@ Tickle This Ivory
 52 3/4
 53 1/4
 2
-Rc 3
+Rc-3
 2
 61/2
 63 1/4
