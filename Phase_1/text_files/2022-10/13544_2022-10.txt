@@ -1588,7 +1588,7 @@ Brooklynns Train (Candanosa, Bryan)
 bounced between early
 30Jul22 7RET3
 4
-Louie 123 (Urieta, Jr., Victor)
+Louie-123 (Urieta, Jr., Victor)
 126 bf
 4
 7
@@ -1684,7 +1684,7 @@ Breeder: Linda Erika Velasco
 Owner: Lynda Erica Velasco
 Trainer: Rhodes, Dustin
 Claiming Prices:
-2 - Brooklynns Train: $16,000; 4 - Louie 123: $16,000; 6 - Cf High Rate: $16,000; 1 - Star Buxx: $16,000; 3 - Kk Famous
+2 - Brooklynns Train: $16,000; 4 - Louie-123: $16,000; 6 - Cf High Rate: $16,000; 1 - Star Buxx: $16,000; 3 - Kk Famous
 Maid: $16,000; 8 - Vodoo Cartel: $16,000; 5 - Tsunami Mommie: $16,000; 7 - Zoomalott: $16,000;
 Total WPS Pool: $20,507
 Pgm Horse
@@ -1697,7 +1697,7 @@ Brooklynns Train
 4.60
 3.20
 4
-Louie 123
+Louie-123
 2.40
 2.10
 6
@@ -1744,7 +1744,7 @@ Brooklynns Train
 11/2
 11 3/4
 4
-Louie 123
+Louie-123
 7
 81
 61

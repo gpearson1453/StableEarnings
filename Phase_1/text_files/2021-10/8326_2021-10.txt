@@ -262,7 +262,7 @@ L bf
 2nd wind, closed fast
 29Sep19 7PRM1
 7
-Dynasty Ice 123 (Andrade, Jr., Oscar)
+Dynasty-Ice-123 (Andrade, Jr., Oscar)
 126
 L bf
 5
@@ -319,7 +319,7 @@ Breeder: Mike Del Bosque
 Owner: Miguel Ortega
 Trainer: Gonzalez, Faviola
 Claiming Prices:
-4 - Ib-Hot-N-Famous-2: $10,000; 7 - Dynasty Ice 123: $10,000; 2 - Betrue Dash: $10,000; 5 - Primetime Chica: $10,000;
+4 - Ib-Hot-N-Famous-2: $10,000; 7 - Dynasty-Ice-123: $10,000; 2 - Betrue Dash: $10,000; 5 - Primetime Chica: $10,000;
 1 - Zef Garcia Seis: $10,000;
 Scratched Horse(s): High Rate of Motion (Veterinarian), Jessa Freightliner (Veterinarian), T Post (Stewards)
 Total WPS Pool: $12,801
@@ -333,7 +333,7 @@ Ib-Hot-N-Famous-2
 6.20
 3.60
 7
-Dynasty Ice 123
+Dynasty-Ice-123
 3.60
 2.80
 2
@@ -370,7 +370,7 @@ Ib-Hot-N-Famous-2
 2Head
 1Head
 7
-Dynasty Ice 123
+Dynasty-Ice-123
 4
 43/4
 2Head
@@ -2686,7 +2686,7 @@ Lz King of the Kings (Mendez, Francisco)
 bumped gate,mild kick
 3Jul20 11RUI7
 10
-Louie 123 (Urieta, Jr., Victor)
+Louie-123 (Urieta, Jr., Victor)
 124 bk
 10
 11
@@ -2864,7 +2864,7 @@ Lz King of the Kings
 92 1/2
 72
 10
-Louie 123
+Louie-123
 11
 113
 103

@@ -510,7 +510,7 @@ Odds Ind. Time
 Sp. In. Comments
 4Feb22 4SUN8
 5
-Dynasty Ice 123 (Calderon, Francisco)
+Dynasty-Ice-123 (Calderon, Francisco)
 126
 L bf
 4
@@ -601,7 +601,7 @@ k
 failed to threaten
 Run-Up: 0 feet
 Winner:
-Dynasty Ice 123, Sorrel Gelding, by Fdd Dynasty out of Tresor 123, by Tres Seis. Foaled Feb 26, 2014 in Michigan.
+Dynasty-Ice-123, Sorrel Gelding, by Fdd Dynasty out of Tresor 123, by Tres Seis. Foaled Feb 26, 2014 in Michigan.
 Breeder: T Bill Stables Inc
 Owner: Heavy Hitters Racing Stables
 Trainer: Driver, Jason
@@ -609,7 +609,7 @@ Trainer: Driver, Jason
 New Trainer: Tana Caldwell
 New Owner: Sonny Chance White
 Claiming Prices:
-5 - Dynasty Ice 123: $10,000; 6 - Relentlessly Royal: $10,000; 8 - Coronasandjambalaya: $10,000; 7 - Tjj Bodacious
+5 - Dynasty-Ice-123: $10,000; 6 - Relentlessly Royal: $10,000; 8 - Coronasandjambalaya: $10,000; 7 - Tjj Bodacious
 Boy: $10,000; 3 - Jess Sellers: $10,000; 4 - De Alli Cap: $10,000; 1 - Jess Frosted: $10,000;
 Scratched Horse(s): She Be Poppin (Veterinarian)
 Total WPS Pool: $19,581
@@ -618,7 +618,7 @@ Win
 Place
 Show
 5
-Dynasty Ice 123
+Dynasty-Ice-123
 9.00
 3.00
 2.40
@@ -651,7 +651,7 @@ Start
 Str
 Fin
 5
-Dynasty Ice 123
+Dynasty-Ice-123
 1
 11/2
 11 1/4

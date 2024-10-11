@@ -487,7 +487,7 @@ Chema, Sorrel Gelding, by Tac It Like a Man out of Look Whos Running, by Corona 
 Breeder: Double Bar S Ranch Llc
 Owner: Felipe Morales Martinez
 Trainer: Gold, Felesha
-Scratched Horse(s): Dynasty Ice 123 (Trainer), J V Two (Trainer), Jess Luscious Lips J (Trainer)
+Scratched Horse(s): Dynasty-Ice-123 (Trainer), J V Two (Trainer), Jess Luscious Lips J (Trainer)
 Total WPS Pool: $1,980
 Pgm Horse
 Win

@@ -695,7 +695,7 @@ Thorlentless B (Silva, Agustin)
 veer in,faded
 23Apr22 4SRP1
 1
-Dynasty Ice 123 (Guillen Chacon, Carlos)
+Dynasty-Ice-123 (Guillen Chacon, Carlos)
 128 L bf
 1
 10
@@ -809,7 +809,7 @@ Thorlentless B
 94 1/2
 96
 1
-Dynasty Ice 123
+Dynasty-Ice-123
 10
 105
 105 1/2

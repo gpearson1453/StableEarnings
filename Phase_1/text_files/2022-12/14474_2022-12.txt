@@ -2143,7 +2143,7 @@ Glamazon (Salazar, Jesus)
 bobbled,duck in, bumpd
 12Nov22 12LS11
 1
-Louie 123 (Herbert, Jose)
+Louie-123 (Herbert, Jose)
 126 bf
 1
 8
@@ -2250,7 +2250,7 @@ Glamazon
 61 1/4
 72
 1
-Louie 123
+Louie-123
 8
 82 3/4
 84

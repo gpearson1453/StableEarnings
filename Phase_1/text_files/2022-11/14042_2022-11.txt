@@ -2720,7 +2720,7 @@ Cj Classy Sassy Chic (Espinosa, Pedro)
 exchanged bumps early
 7Oct22 7LS2
 7
-Louie 123 (Urieta, Jr., Victor)
+Louie-123 (Urieta, Jr., Victor)
 126 bf
 7
 11
@@ -2878,7 +2878,7 @@ Cj Classy Sassy Chic
 92
 104 1/2
 7
-Louie 123
+Louie-123
 11
 123
 122 3/4

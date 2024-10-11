@@ -1614,7 +1614,7 @@ Notorious (Marquez, Angel)
 no final kick,
 14Jan23 4SUN7
 8
-Dynasty Ice 123 (Becerra, Jr., Sergio)
+Dynasty-Ice-123 (Becerra, Jr., Sergio)
 128 L bf
 8
 6
@@ -1742,7 +1742,7 @@ Notorious
 62 1/4
 72 1/2
 8
-Dynasty Ice 123
+Dynasty-Ice-123
 6
 71 1/2
 82 3/4

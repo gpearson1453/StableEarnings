@@ -2084,7 +2084,7 @@ Jess Botticelli (Martinez, Edgar)
 steady bid
 14Aug22 3ALB10
 1
-Dynasty Ice 123 (Guillen Chacon, Carlos)
+Dynasty-Ice-123 (Guillen Chacon, Carlos)
 128 L bf
 1
 5
@@ -2170,7 +2170,7 @@ Jess Botticelli
 3.60
 2.40
 1
-Dynasty Ice 123
+Dynasty-Ice-123
 6.40
 Wager Type
 Winning Numbers
@@ -2207,7 +2207,7 @@ Jess Botticelli
 21 1/2
 21 1/2
 1
-Dynasty Ice 123
+Dynasty-Ice-123
 5
 41 1/4
 31 1/2

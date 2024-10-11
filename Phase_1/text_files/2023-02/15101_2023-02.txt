@@ -1167,7 +1167,7 @@ Borose, Sorrel Gelding, by Feature Mr Bojangles out of Sister Shelley Rose, by L
 Breeder: Dream Walkin Farms Inc
 Owner: Heysol Howlet
 Trainer: Mendoza, Ramon
-Scratched Horse(s): Dynasty Ice 123 (Also-Eligible), Eyesa Forrest (Also-Eligible)
+Scratched Horse(s): Dynasty-Ice-123 (Also-Eligible), Eyesa Forrest (Also-Eligible)
 Total WPS Pool: $15,140
 Pgm Horse
 Win

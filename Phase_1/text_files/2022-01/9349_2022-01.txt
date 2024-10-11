@@ -506,7 +506,7 @@ L b
 good try,
 13Nov21 7LS3
 5
-Dynasty Ice 123 (Hernandez, Jr., Raul)
+Dynasty-Ice-123 (Hernandez, Jr., Raul)
 128
 L bf
 4
@@ -563,7 +563,7 @@ Breeder: P K Thomas
 Owner: Wallin, Kenneth L. and Cherie E.
 Trainer: Sedillo, Tony
 Claiming Prices:
-6 - Frisco Senator: $10,000; 5 - Dynasty Ice 123: $10,000; 1 - Lexy Fast Girl: $10,000;
+6 - Frisco Senator: $10,000; 5 - Dynasty-Ice-123: $10,000; 1 - Lexy Fast Girl: $10,000;
 Scratched Horse(s): Brookstone K (Stewards), Prime Cartel (Stewards)
 Total WPS Pool: $6,255
 Pgm Horse
@@ -619,7 +619,7 @@ Catch This Train
 31
 32
 5
-Dynasty Ice 123
+Dynasty-Ice-123
 4
 41 1/4
 42 1/4

@@ -856,7 +856,7 @@ Jess a Revenant (Iturralde, Omar)
 gave way,
 24Sep22 9ALB3
 6
-Dynasty Ice 123 (Silva, Agustin)
+Dynasty-Ice-123 (Silva, Agustin)
 128 L bf
 6
 5
@@ -996,7 +996,7 @@ Jess a Revenant
 51 3/4
 63
 6
-Dynasty Ice 123
+Dynasty-Ice-123
 5
 53/4
 72 3/4

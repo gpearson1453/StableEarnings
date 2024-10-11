@@ -1403,7 +1403,7 @@ Im Jess Torific (Rivera, Ali)
 dueled, out finished
 26May22 2HOU2
 8
-Louie 123 (Urieta, Jr., Victor)
+Louie-123 (Urieta, Jr., Victor)
 128 b
 8
 4
@@ -1514,7 +1514,7 @@ Im Jess Torific
 3.80
 2.20
 8
-Louie 123
+Louie-123
 2.40
 Wager Type
 Winning Numbers
@@ -1559,7 +1559,7 @@ Im Jess Torific
 2Head
 21/2
 8
-Louie 123
+Louie-123
 4
 41 3/4
 32

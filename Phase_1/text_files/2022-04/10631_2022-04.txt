@@ -930,7 +930,7 @@ Odds Ind. Time
 Sp. In. Comments
 4Dec21 6EVD3
 2
-Louie 123 (Urieta, Jr., Victor)
+Louie-123 (Urieta, Jr., Victor)
 128 b
 2
 5
@@ -1047,7 +1047,7 @@ Bokit Man (Vera, Eliazar)
 no factor
 Run-Up: 0 feet
 Winner:
-Louie 123, Bay Gelding, by The Louisiana Cartel out of Hot Cash 123, by Takin On the Cash. Foaled Feb 11, 2018 in Michigan.
+Louie-123, Bay Gelding, by The Louisiana Cartel out of Hot Cash 123, by Takin On the Cash. Foaled Feb 11, 2018 in Michigan.
 Breeder: Carolyn C Bay
 Owner: Belen Rodriguez
 Trainer: Diaz, Jr., Juan
@@ -1058,7 +1058,7 @@ Win
 Place
 Show
 2
-Louie 123
+Louie-123
 5.80
 4.60
 2.80
@@ -1109,7 +1109,7 @@ Str 1
 Str
 Fin
 2
-Louie 123
+Louie-123
 5
 3Head
 11

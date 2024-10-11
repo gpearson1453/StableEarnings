@@ -1659,7 +1659,7 @@ L bf
 sharp break, no match
 8Oct21 2LS2
 4
-Dynasty Ice 123 (Andrade, Jr., Oscar)
+Dynasty-Ice-123 (Andrade, Jr., Oscar)
 126
 L bf
 4
@@ -1755,7 +1755,7 @@ Breeder: Thomas & Elizabeth Mills
 Owner: Carlos Ponce
 Trainer: Neri, Alonso
 Claiming Prices:
-4 - Dynasty Ice 123: $10,000; 6 - Newarcos Legacy: $10,000; 7 - Movin D Bucks: $10,000; 8 - Hb Birdman: $10,000;
+4 - Dynasty-Ice-123: $10,000; 6 - Newarcos Legacy: $10,000; 7 - Movin D Bucks: $10,000; 8 - Hb Birdman: $10,000;
 Total WPS Pool: $32,058
 Pgm Horse
 Win
@@ -1771,7 +1771,7 @@ Painted Lil Perry
 7.00
 3.60
 4
-Dynasty Ice 123
+Dynasty-Ice-123
 2.80
 Wager Type
 Winning Numbers
@@ -1813,7 +1813,7 @@ Painted Lil Perry
 1Head
 21 1/4
 4
-Dynasty Ice 123
+Dynasty-Ice-123
 2
 31
 31 3/4

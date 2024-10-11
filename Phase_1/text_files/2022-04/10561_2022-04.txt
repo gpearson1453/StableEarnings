@@ -833,7 +833,7 @@ Odds Ind. Time
 Sp. In. Comments
 27Mar22 3RP1
 6
-Dynasty Ice 123 (Garcia, Jr., Noe)
+Dynasty-Ice-123 (Garcia, Jr., Noe)
 128 L bf
 6
 2
@@ -950,7 +950,7 @@ Jabbs First Lady (Sigala, Alfredo)
 bothered break
 Run-Up: 0 feet
 Winner:
-Dynasty Ice 123, Sorrel Gelding, by Fdd Dynasty out of Tresor 123, by Tres Seis. Foaled Feb 26, 2014 in Michigan.
+Dynasty-Ice-123, Sorrel Gelding, by Fdd Dynasty out of Tresor 123, by Tres Seis. Foaled Feb 26, 2014 in Michigan.
 Breeder: T Bill Stables Inc
 Owner: Heavy Hitters Racing Stables
 Trainer: Driver, Jason
@@ -964,7 +964,7 @@ Magna Moon
 New Trainer: Alfredo Gomez
 New Owner: Eleazar Garcia
 Claiming Prices:
-6 - Dynasty Ice 123: $10,000; 10 - Jess Botticelli: $10,000; 3 - Brookstone K: $10,000; 1 - Jrs Im the Man: $10,000; 4 -
+6 - Dynasty-Ice-123: $10,000; 10 - Jess Botticelli: $10,000; 3 - Brookstone K: $10,000; 1 - Jrs Im the Man: $10,000; 4 -
 Magna Moon: $10,000; 5 - On a Wagon: $10,000; 9 - Fredericos Fantasy: $10,000; 2 - Comin to Your Town: $10,000; 8
 - Jabbs First Lady: $10,000;
 Disqualification(s):
@@ -976,7 +976,7 @@ Win
 Place
 Show
 6
-Dynasty Ice 123
+Dynasty-Ice-123
 11.20
 4.20
 2.80
@@ -1014,7 +1014,7 @@ Str 1
 Str
 Fin
 6
-Dynasty Ice 123
+Dynasty-Ice-123
 2
 11/2
 11/2

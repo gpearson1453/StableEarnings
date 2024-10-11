@@ -298,7 +298,7 @@ Big Dynasty (Rivera, Ali)
 strong drive
 29Apr22 5HOU1
 4
-Louie 123 (Urieta, Jr., Victor)
+Louie-123 (Urieta, Jr., Victor)
 128 bf
 4
 7
@@ -430,7 +430,7 @@ Big Dynasty
 2.40
 2.20
 4
-Louie 123
+Louie-123
 4.20
 3.60
 7
@@ -469,7 +469,7 @@ Big Dynasty
 11/2
 11 1/4
 4
-Louie 123
+Louie-123
 7
 2Head
 21/2

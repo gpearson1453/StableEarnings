@@ -1150,7 +1150,7 @@ Louisiana Blue Fire (Garcia, Jr., Juan)
 best strides late
 11Nov21 6EVD2
 8
-Louie 123 (Urieta, Jr., Victor)
+Louie-123 (Urieta, Jr., Victor)
 126 bf
 8
 1
@@ -1249,7 +1249,7 @@ Louisiana Blue Fire
 9.40
 5.40
 8
-Louie 123
+Louie-123
 9.60
 Wager Type
 Winning Numbers
@@ -1294,7 +1294,7 @@ Louisiana Blue Fire
 5Neck
 21/2
 8
-Louie 123
+Louie-123
 1
 61/2
 6Neck

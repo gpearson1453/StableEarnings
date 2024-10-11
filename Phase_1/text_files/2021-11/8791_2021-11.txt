@@ -1116,7 +1116,7 @@ Never Bleu (Cabrera, Rolando)
 early bid, held late
 8Oct21 11LS8
 4
-Louie 123 (Urieta, Jr., Victor)
+Louie-123 (Urieta, Jr., Victor)
 126 bf
 4
 1
@@ -1223,7 +1223,7 @@ Never Bleu
 3.00
 2.10
 4
-Louie 123
+Louie-123
 3.20
 2.20
 9
@@ -1266,7 +1266,7 @@ Never Bleu
 11/2
 1Neck
 4
-Louie 123
+Louie-123
 1
 2Head
 21/2
