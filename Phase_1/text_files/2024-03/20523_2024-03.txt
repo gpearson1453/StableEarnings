@@ -208,7 +208,7 @@ The Sparks Interest (Belloc, Aaron)
 bumped start, up late
 15Feb24 3TUP3
 10
-Bo Times 9 (Figueroa, Cerapio)
+Bo-Times-9 (Figueroa, Cerapio)
 128 L b
 8
 1
@@ -318,7 +318,7 @@ The Sparks Interest
 2.60
 2.40
 10
-Bo Times 9
+Bo-Times-9
 2.40
 2.20
 8
@@ -366,7 +366,7 @@ The Sparks Interest
 2Head
 1Neck
 10
-Bo Times 9
+Bo-Times-9
 1
 1Head
 1Head

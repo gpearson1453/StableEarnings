@@ -296,7 +296,7 @@ Rockin Jo Kool (Belloc, Jr., Joseph)
 no match, 2nd best
 28Mar24 2TUP2
 6
-Bo Times 9 (Figueroa, Cerapio)
+Bo-Times-9 (Figueroa, Cerapio)
 128 L b
 6
 1
@@ -422,7 +422,7 @@ Rockin Jo Kool
 10.40
 5.40
 6
-Bo Times 9
+Bo-Times-9
 2.60
 Wager Type
 Winning Numbers
@@ -467,7 +467,7 @@ Rockin Jo Kool
 21/2
 21/2
 6
-Bo Times 9
+Bo-Times-9
 1
 31
 31

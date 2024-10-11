@@ -48,7 +48,7 @@ L bf
 dueled, outfinished,
 31Dec21 2TUP2
 9
-Bo Times 9 (Jasso, Mark)
+Bo-Times-9 (Jasso, Mark)
 126
 L b
 8
@@ -146,7 +146,7 @@ Wildroses101
 4.40
 3.20
 9
-Bo Times 9
+Bo-Times-9
 4.40
 Wager Type
 Winning Numbers
@@ -184,7 +184,7 @@ Wildroses101
 2Head
 2Nose
 9
-Bo Times 9
+Bo-Times-9
 7
 4Neck
 3Neck

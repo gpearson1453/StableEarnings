@@ -274,7 +274,7 @@ L bf
 dueled, best,
 15Feb20 7LA2
 5
-Bo Times 9 (Osuna, Martin)
+Bo-Times-9 (Osuna, Martin)
 126
 L b
 4
@@ -394,7 +394,7 @@ Walk to the Top
 6.80
 3.60
 5
-Bo Times 9
+Bo-Times-9
 8.20
 4.40
 1
@@ -435,7 +435,7 @@ Walk to the Top
 1Head
 1Head
 5
-Bo Times 9
+Bo-Times-9
 2
 2Head
 2Head

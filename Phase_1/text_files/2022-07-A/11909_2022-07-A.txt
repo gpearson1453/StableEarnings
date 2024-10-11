@@ -680,7 +680,7 @@ L bk
 bumped start
 27Feb22 5RIL1
 3
-Bo Times 9 (Belloc, Aaron)
+Bo-Times-9 (Belloc, Aaron)
 126
 L b
 3
@@ -778,7 +778,7 @@ Fastrak Required
 4.80
 2.60
 3
-Bo Times 9
+Bo-Times-9
 2.20
 Wager Type
 Winning Numbers
@@ -820,7 +820,7 @@ Fastrak Required
 2Head
 2Neck
 3
-Bo Times 9
+Bo-Times-9
 1
 31/2
 33/4

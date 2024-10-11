@@ -889,7 +889,7 @@ Odds Ind. Time
 Sp. In. Comments
 26Jan22 1TUP3
 4
-Bo Times 9 (Jasso, Mark)
+Bo-Times-9 (Jasso, Mark)
 126
 L b
 4
@@ -993,7 +993,7 @@ L b
 not persevered with
 Run-Up: 0 feet
 Winner:
-Bo Times 9, Brown Gelding, by Turbulent Times out of Chivatos Secret, by Dash to Chivato. Foaled Mar 01, 2017 in Utah.
+Bo-Times-9, Brown Gelding, by Turbulent Times out of Chivatos Secret, by Dash to Chivato. Foaled Mar 01, 2017 in Utah.
 Breeder: Michael W Isom
 Owner: Francisco J. Ayon
 Trainer: Botello, Heraclio
@@ -1003,7 +1003,7 @@ Win
 Place
 Show
 4
-Bo Times 9
+Bo-Times-9
 2.80
 2.40
 2.10
@@ -1040,7 +1040,7 @@ Start
 Str
 Fin
 4
-Bo Times 9
+Bo-Times-9
 2
 1Head
 11/2

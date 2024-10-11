@@ -2,7 +2,7 @@ ARIZONA DOWNS< - August 1, 2022 - Race 1
 CLAIMING - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON TWO RACES. Three Year Olds, 124 lbs.; Older, 126 lbs.
 Claiming Price $10,000. Arizona Bred Claiming Price $12,500. (NW2 L) Claiming Price: $12,500 - $10,000
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Bo Times 9 - 15.245 - August 1, 2022)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Bo-Times-9 - 15.245 - August 1, 2022)
 Purse: $6,800
 Includes: $4,400 Other Sources
 Available Money: $6,800
@@ -362,7 +362,7 @@ ARI/ZONA DOWNS - August 1, 2022 - Race 3
 ALLOWANCE - Quarter Horse
 FOR THREE YEAR OLDS AND UPWARD WHICH HAVE NEVER WON THREE RACES. Three Year Olds, 124 lbs.; Older, 126 lbs.
 (NW3 L)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Bo Times 9 - 15.245 - August 1, 2022)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Bo-Times-9 - 15.245 - August 1, 2022)
 Purse: $9,100
 Includes: $6,600 Other Sources
 Available Money: $9,100
@@ -381,7 +381,7 @@ Odds Ind. Time
 Sp. In. Comments
 9Jul22 4AZD3
 1
-Bo Times 9 (Belloc, Aaron)
+Bo-Times-9 (Belloc, Aaron)
 126
 L b
 1
@@ -485,7 +485,7 @@ L bfk
 broke awkwardly
 Run-Up: 0 feet
 Winner:
-Bo Times 9, Brown Gelding, by Turbulent Times out of Chivatos Secret, by Dash to Chivato. Foaled Mar 01, 2017 in Utah.
+Bo-Times-9, Brown Gelding, by Turbulent Times out of Chivatos Secret, by Dash to Chivato. Foaled Mar 01, 2017 in Utah.
 Breeder: Michael W Isom
 Owner: Francisco J. Ayon
 Trainer: Botello, Heraclio
@@ -495,7 +495,7 @@ Win
 Place
 Show
 1
-Bo Times 9
+Bo-Times-9
 5.80
 3.20
 2.80
@@ -536,7 +536,7 @@ Start
 Str
 Fin
 1
-Bo Times 9
+Bo-Times-9
 2
 11
 13/4

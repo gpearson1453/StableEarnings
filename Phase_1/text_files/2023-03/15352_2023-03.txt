@@ -268,7 +268,7 @@ L b
 Chased,surged,missed
 17Sep22 3AZD7
 3
-Bo Times 9 (Belloc, Aaron)
+Bo-Times-9 (Belloc, Aaron)
 126
 L b
 3
@@ -340,7 +340,7 @@ Tubac Royale
 4.60
 3.00
 3
-Bo Times 9
+Bo-Times-9
 2.60
 Wager Type
 Winning Numbers
@@ -382,7 +382,7 @@ Tubac Royale
 21
 2Nose
 3
-Bo Times 9
+Bo-Times-9
 3
 31 1/2
 3Head

@@ -534,7 +534,7 @@ Magical Chic (Belloc, Jr., Joseph)
 outnodded, just missed
 2Apr23 8RIL5
 5
-Bo Times 9 (Figueroa, Cerapio)
+Bo-Times-9 (Figueroa, Cerapio)
 128 L b
 5
 2
@@ -659,7 +659,7 @@ Magical Chic
 13.60
 8.20
 5
-Bo Times 9
+Bo-Times-9
 5.20
 Wager Type
 Winning Numbers
@@ -708,7 +708,7 @@ Magical Chic
 3Head
 2Nose
 5
-Bo Times 9
+Bo-Times-9
 2
 2Head
 2Head

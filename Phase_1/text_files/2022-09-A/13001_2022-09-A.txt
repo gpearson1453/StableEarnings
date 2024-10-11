@@ -204,7 +204,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 A[RIZONA DOWNS - September 5, 2022 - Race 2
 MAIDEN - Quarter Horse
 FOR ARIZONA BRED MAIDENS, TWO YEARS OLD. Weight, 124 lbs. (S)
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Bo Times 9 - 15.245 - August 1, 2022)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Bo-Times-9 - 15.245 - August 1, 2022)
 Purse: $8,100
 Includes: $4,600 Other Sources
 Available Money: $8,100
@@ -397,7 +397,7 @@ Copyright 2024 Equibase Company LLC. All Rights Reserved.
 ARIZONA DOWNS[ - September 5, 2022 - Race 3
 MAIDEN - Quarter Horse
 FOR MAIDENS, TWO YEARS OLD. Weight, 124 lbs.; Older, 126 lbs.
-Distance: Three Hundred Yards On The Dirt Current Track Record: (Bo Times 9 - 15.245 - August 1, 2022)
+Distance: Three Hundred Yards On The Dirt Current Track Record: (Bo-Times-9 - 15.245 - August 1, 2022)
 Purse: $8,100
 Includes: $4,600 Other Sources
 Available Money: $8,100
