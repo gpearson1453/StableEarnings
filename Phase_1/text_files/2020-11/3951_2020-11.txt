@@ -1564,7 +1564,7 @@ Start
 Str
 Fin
 3
-Technical Analysis (IRE)1
+Technical Analysis (IRE) 1
 31
 31 1/2
 32

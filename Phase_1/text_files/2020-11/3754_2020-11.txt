@@ -2408,7 +2408,7 @@ Be Quiet (Martinez, L.)
 late rally for win
 14May20 10RP1
 8
-Express Train No 9 (Torres, Daniel)
+Express-Train-No-9 (Torres, Daniel)
 126 L bfk
 8
 7
@@ -2540,7 +2540,7 @@ Be Quiet
 6.80
 3.40
 8
-Express Train No 9
+Express-Train-No-9
 3.20
 4.00
 3
@@ -2583,7 +2583,7 @@ Be Quiet
 82 1/2
 11/2
 8
-Express Train No 9
+Express-Train-No-9
 7
 61
 41 1/4

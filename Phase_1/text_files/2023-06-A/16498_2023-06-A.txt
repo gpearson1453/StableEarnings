@@ -1843,7 +1843,7 @@ L bk
 bp st,lug 1/8,outkickd
 30Apr23 9LA5
 2
-La Reina Del Sur 1 (Lara, Irving)
+La-Reina-Del-Sur-1 (Lara, Irving)
 126
 L bf
 2
@@ -1975,7 +1975,7 @@ Walk to the Top
 51 1/2
 52 1/4
 2
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 6
 63
 63 1/2

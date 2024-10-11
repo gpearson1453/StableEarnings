@@ -1412,7 +1412,7 @@ No Questions (Valenzuela, Luis)
 alterd 1/8,game effort
 25Jul20 5LA1
 7
-La Reina Del Sur 1 (Jasso, Mark)
+La-Reina-Del-Sur-1 (Jasso, Mark)
 124 L bf
 7
 1
@@ -1569,7 +1569,7 @@ No Questions
 61 3/4
 42 1/4
 7
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 1
 43/4
 41 3/4

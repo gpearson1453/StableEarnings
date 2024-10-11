@@ -1461,7 +1461,7 @@ Leah Carroll, Sorrel Filly, by Hes Relentless out of Viva La Blue, by Ocean Runa
 Breeder: Bobby Simmons
 Owner: Paul C. Jones
 Trainer: Jones, Paul
-Scratched Horse(s): La Reina Del Sur 1 (Stewards)
+Scratched Horse(s): La-Reina-Del-Sur-1 (Stewards)
 Total WPS Pool: $39,506
 Pgm Horse
 Win

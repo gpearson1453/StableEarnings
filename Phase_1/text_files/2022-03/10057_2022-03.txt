@@ -1872,7 +1872,7 @@ L bfk
 unable to match stride
 5Nov21 8WRD4
 1
-Express Train No 9 (Fonseca-Soto, Fernando)
+Express-Train-No-9 (Fonseca-Soto, Fernando)
 126
 L bfk
 1
@@ -1986,7 +1986,7 @@ Johnny de Capo
 31/2
 31 1/4
 1
-Express Train No 9
+Express-Train-No-9
 4
 43/4
 41 3/4

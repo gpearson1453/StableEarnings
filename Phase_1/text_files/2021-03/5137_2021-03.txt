@@ -669,7 +669,7 @@ Abbyslovintherain (Gutierrez, Elias)
 outrun,
 19Mar21 7LA5
 5
-La Reina Del Sur 1 (Jasso, Mark)
+La-Reina-Del-Sur-1 (Jasso, Mark)
 124 L bf
 5
 8
@@ -798,7 +798,7 @@ Abbyslovintherain
 85 1/2
 86
 5
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 8
 96 1/2
 96

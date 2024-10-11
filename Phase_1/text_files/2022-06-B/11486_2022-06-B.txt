@@ -1962,7 +1962,7 @@ C Storm Green, Sorrel Filly, by Zuccardi out of First Tempting, by First Down Da
 Breeder: Green D Ranch Llc
 Owner: Green D Ranch LLC
 Trainer: Aguilera, Jose
-Scratched Horse(s): Express Train No 9 (Veterinarian)
+Scratched Horse(s): Express-Train-No-9 (Veterinarian)
 Total WPS Pool: $6,952
 Pgm Horse
 Win

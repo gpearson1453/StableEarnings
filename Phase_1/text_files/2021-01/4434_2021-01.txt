@@ -1307,7 +1307,7 @@ La Estrella Corona (Lozano, Ruben)
 lug in,green 1/8
 14Nov20 8LA5
 1
-La Reina Del Sur 1 (Leon, Juan)
+La-Reina-Del-Sur-1 (Leon, Juan)
 127 L b
 1
 2
@@ -1406,7 +1406,7 @@ La Estrella Corona
 52 1/4
 53 1/4
 1
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 2
 51
 62 3/4

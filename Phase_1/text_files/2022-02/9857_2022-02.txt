@@ -1551,7 +1551,7 @@ L
 away best, driving
 29Mar21 3TUP9
 5
-La Reina Del Sur 1 (Aceves, Rodrigo)
+La-Reina-Del-Sur-1 (Aceves, Rodrigo)
 125
 L bf
 5
@@ -1618,7 +1618,7 @@ Fool This Kid
 4.60
 3.20
 5
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 4.60
 3.40
 3
@@ -1651,7 +1651,7 @@ Fool This Kid
 *
 11/2
 5
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 3
 *
 21/2

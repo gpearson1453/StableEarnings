@@ -1184,7 +1184,7 @@ L b
 broke out,solid effort
 19Feb21 6LA1
 6
-La Reina Del Sur 1 (Franco, Cesar)
+La-Reina-Del-Sur-1 (Franco, Cesar)
 119
 L bf
 5
@@ -1326,7 +1326,7 @@ Makalerina
 *
 41/2
 6
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 1
 *
 51/2

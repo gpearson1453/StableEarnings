@@ -1004,7 +1004,7 @@ Odds Ind. Time
 Sp. In. Comments
 23Jan21 7LA6
 1
-La Reina Del Sur 1 (Franco, Cesar)
+La-Reina-Del-Sur-1 (Franco, Cesar)
 119
 L bf
 1
@@ -1082,7 +1082,7 @@ L bf
 off slow
 Run-Up: 0 feet
 Winner:
-La Reina Del Sur 1, Bay Filly, by Favorite Cartel out of Go First N Famous, by One Famous Eagle. Foaled Feb 28, 2018 in California.
+La-Reina-Del-Sur-1, Bay Filly, by Favorite Cartel out of Go First N Famous, by One Famous Eagle. Foaled Feb 28, 2018 in California.
 Breeder: Abel Reyes
 Owner: Abel Reyes
 Trainer: Farias, Adan
@@ -1092,7 +1092,7 @@ Win
 Place
 Show
 1
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 4.20
 3.60
 2.60
@@ -1129,7 +1129,7 @@ Start
 Str
 Fin
 1
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 1
 *
 1Neck

@@ -1740,7 +1740,7 @@ L bf
 broke in, no impact
 28Jan23 7LA4
 1
-La Reina Del Sur 1 (Gasca, Erasmo)
+La-Reina-Del-Sur-1 (Gasca, Erasmo)
 126
 L bf
 1
@@ -1845,7 +1845,7 @@ Dollys Talent
 *
 51 3/4
 1
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 6
 *
 62

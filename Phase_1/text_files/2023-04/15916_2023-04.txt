@@ -1601,7 +1601,7 @@ L b
 brk out,lost bob 3rd
 12Mar23 10LA6
 6
-La Reina Del Sur 1 (Gasca, Erasmo)
+La-Reina-Del-Sur-1 (Gasca, Erasmo)
 126
 L bf
 6
@@ -1690,7 +1690,7 @@ Chicks Interest
 *
 43/4
 6
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 4
 *
 51 1/2

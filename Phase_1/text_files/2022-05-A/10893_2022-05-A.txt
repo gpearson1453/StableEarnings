@@ -1462,7 +1462,7 @@ b
 floated out start
 10Apr22 10LA6
 2
-La Reina Del Sur 1 (Aceves, Rodrigo)
+La-Reina-Del-Sur-1 (Aceves, Rodrigo)
 126
 L bf
 2
@@ -1552,7 +1552,7 @@ Racie
 *
 61 1/4
 2
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 7
 *
 72

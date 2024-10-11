@@ -1631,7 +1631,7 @@ L b
 game effort
 11Jul21 11FMT9
 10
-Express Train No 9 (Klaiber, Justine)
+Express-Train-No-9 (Klaiber, Justine)
 126
 L bfk
 9
@@ -1782,7 +1782,7 @@ Holderdeal
 *
 31 1/4
 10
-Express Train No 9
+Express-Train-No-9
 5
 *
 41 1/4

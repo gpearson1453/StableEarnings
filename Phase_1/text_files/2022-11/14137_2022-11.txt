@@ -2156,7 +2156,7 @@ Df Fabulous Jackie, Bay Filly, by One Fabulous Eagle out of Eyema Candy Tree, by
 Breeder: Darling Farms
 Owner: Ford, Richard E. and Sorenson, Fred
 Trainer: Collier, Jimmy
-Scratched Horse(s): Express Train No 9 (Stewards), Hs Princess (Stewards)
+Scratched Horse(s): Express-Train-No-9 (Stewards), Hs Princess (Stewards)
 Total WPS Pool: $12,542
 Pgm Horse
 Win

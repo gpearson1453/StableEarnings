@@ -1793,7 +1793,7 @@ Go to Girl (Peinado, Oscar)
 step slw,brushd,nokick
 20Feb22 9LA2
 6
-La Reina Del Sur 1 (Aceves, Rodrigo)
+La-Reina-Del-Sur-1 (Aceves, Rodrigo)
 124 L bf
 6
 4
@@ -1917,7 +1917,7 @@ Go to Girl
 51 1/4
 51 3/4
 6
-La Reina Del Sur 1
+La-Reina-Del-Sur-1
 4
 51
 61 3/4
