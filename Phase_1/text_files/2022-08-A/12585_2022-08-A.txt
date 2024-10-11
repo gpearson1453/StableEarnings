@@ -936,7 +936,7 @@ Rypchord (Aldrete, Hector)
 bmp early,outrun
 29Sep21 1ARP4
 2
-Black Hawk 777 (Vera, Gerardo)
+Black-Hawk-777 (Vera, Gerardo)
 128 L b
 2
 8
@@ -1064,7 +1064,7 @@ Rypchord
 82
 72 3/4
 2
-Black Hawk 777
+Black-Hawk-777
 8
 61 1/4
 61 1/4

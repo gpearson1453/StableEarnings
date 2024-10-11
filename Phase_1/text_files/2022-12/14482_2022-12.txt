@@ -838,7 +838,7 @@ Runningonfire (Becerra, Jr., Sergio)
 lacked rally
 29Oct22 4ZIA6
 7
-Black Hawk 777 (Gomez, Reyes)
+Black-Hawk-777 (Gomez, Reyes)
 128 L b
 7
 2
@@ -965,7 +965,7 @@ Runningonfire
 63
 53 1/4
 7
-Black Hawk 777
+Black-Hawk-777
 2
 41 1/2
 52 1/2

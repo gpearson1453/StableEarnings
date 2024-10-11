@@ -363,7 +363,7 @@ Nobadtest (Fonseca-Soto, Fernando)
 failed to menace
 13Aug21 2ARP3
 6
-Black Hawk 777 (Meza, Manuel)
+Black-Hawk-777 (Meza, Manuel)
 124 B bf
 6
 2
@@ -498,7 +498,7 @@ Nobadtest
 102
 72
 6
-Black Hawk 777
+Black-Hawk-777
 2
 51/2
 71

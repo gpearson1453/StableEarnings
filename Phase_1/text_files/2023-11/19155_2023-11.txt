@@ -613,7 +613,7 @@ Kickin Moon (Rubio, Joshua)
 no menace
 20Sep23 4ALB9
 4
-Black Hawk 777 (Enriquez, Jose)
+Black-Hawk-777 (Enriquez, Jose)
 128 L b
 4
 9
@@ -646,7 +646,7 @@ Trainer: Martinez, Edwin
 Claiming Prices:
 2 - Babyitshotoutside: $15,000; 1 - Flash Coltrane: $20,000; 5 - Kvn Disco: $15,000; 7 - Leave It to Corona: $15,000; 11
 - Zulu Diamond: $20,000; 10 - Feature This Dream: $15,000; 8 - Osbaldo Lucky Boy: $20,000; 3 - Kickin Moon:
-$15,000; 4 - Black Hawk 777: $15,000; 9 - Sa El Mosco: $15,000;
+$15,000; 4 - Black-Hawk-777: $15,000; 9 - Sa El Mosco: $15,000;
 Disqualification(s):
 #11 Zulu Diamond from 5 to 7
 Scratched Horse(s): Dupontes Courage (Veterinarian), Return to Fire (Also-Eligible)
@@ -738,7 +738,7 @@ Kickin Moon
 93 1/2
 83 1/4
 4
-Black Hawk 777
+Black-Hawk-777
 9
 91 1/2
 83

@@ -289,7 +289,7 @@ Odds Ind. Time
 Sp. In. Comments
 17Dec22 4ZIA6
 6
-Black Hawk 777 (Tapia, Emilio)
+Black-Hawk-777 (Tapia, Emilio)
 128 L b
 5
 2
@@ -419,12 +419,12 @@ Right Down Moonshine (Marquez, Larry)
 no response
 Run-Up: 0 feet
 Winner:
-Black Hawk 777, Sorrel Horse, by Volcom out of Hawk All the Way, by Hawkish. Foaled May 01, 2018 in Colorado.
+Black-Hawk-777, Sorrel Horse, by Volcom out of Hawk All the Way, by Hawkish. Foaled May 01, 2018 in Colorado.
 Breeder: Jose A Ceballos
 Owner: Jose A. Ceballos
 Trainer: DeHerrera, Jose
 Claiming Prices:
-6 - Black Hawk 777: $10,000; 11 - Jess Rideaway: $10,000; 5 - Ts I Need a Corona: $10,000; 7 - La Mexicana Perry:
+6 - Black-Hawk-777: $10,000; 11 - Jess Rideaway: $10,000; 5 - Ts I Need a Corona: $10,000; 7 - La Mexicana Perry:
 $10,000; 3 - La Bala: $10,000; 10 - A Corona Zoomer: $10,000; 1 - Tm Taki Taki: $10,000; 2 - La July: $10,000; 9 -
 Katchmewhenucan: $10,000; 8 - Right Down Moonshine: $10,000;
 Scratched Horse(s): Jess Worthi (Also-Eligible), La Zetita Ck (Stewards)
@@ -434,7 +434,7 @@ Win
 Place
 Show
 6
-Black Hawk 777
+Black-Hawk-777
 11.60
 7.20
 4.00
@@ -468,7 +468,7 @@ Str1
 Str
 Fin
 6
-Black Hawk 777
+Black-Hawk-777
 2
 11/2
 1Head

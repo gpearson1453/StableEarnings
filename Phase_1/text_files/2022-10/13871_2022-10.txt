@@ -885,7 +885,7 @@ L bk
 bumped hard, break,
 14Aug22 4ALB7
 3
-Black Hawk 777 (Vera, Gerardo)
+Black-Hawk-777 (Vera, Gerardo)
 128
 L b
 3
@@ -1019,7 +1019,7 @@ I Aint Jo Dynasty
 51 1/4
 51 3/4
 3
-Black Hawk 777
+Black-Hawk-777
 6
 71 3/4
 62

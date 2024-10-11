@@ -254,7 +254,7 @@ Jess Golondrina (Garcia, Ramiro)
 bobbled, kept to task
 ---
 2
-Black Hawk 777 (Journet, Jarred)
+Black-Hawk-777 (Journet, Jarred)
 124 B bf
 2
 3
@@ -338,7 +338,7 @@ Jess Golondrina
 2.40
 2.20
 2
-Black Hawk 777
+Black-Hawk-777
 2.40
 Wager Type
 Winning Numbers
@@ -383,7 +383,7 @@ Jess Golondrina
 21/2
 21/2
 2
-Black Hawk 777
+Black-Hawk-777
 3
 31/2
 31 1/2

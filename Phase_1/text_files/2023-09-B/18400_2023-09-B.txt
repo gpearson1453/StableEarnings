@@ -879,7 +879,7 @@ Wallstreet Prince (Reyes, Cristian)
 off slow
 30Apr23 2SRP1
 10
-Black Hawk 777 (Tapia, Emilio)
+Black-Hawk-777 (Tapia, Emilio)
 128 L bf
 9
 8
@@ -899,7 +899,7 @@ Trainer: Chavez, Alejandro
 Claiming Prices:
 6 - Daddys Fanatic: $15,000; 1 - Southern Fires: $15,000; 5 - Osbaldo Lucky Boy: $15,000; 7 - Million Air Eagle:
 $15,000; 9 - Murphy Goode: $15,000; 4 - Flash Coltrane: $15,000; 8 - Cool Lips: $15,000; 3 - Wallstreet Prince:
-$15,000; 10 - Black Hawk 777: $15,000;
+$15,000; 10 - Black-Hawk-777: $15,000;
 Scratched Horse(s): Bp Valiant Eagle (Veterinarian), Getcha Romance (Also-Eligible)
 Total WPS Pool: $14,165
 Pgm Horse
@@ -989,7 +989,7 @@ Wallstreet Prince
 61 3/4
 82
 10
-Black Hawk 777
+Black-Hawk-777
 8
 82 1/2
 98 1/4

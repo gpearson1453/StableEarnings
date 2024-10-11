@@ -2005,7 +2005,7 @@ Owner: Triple Enterprises, Inc.
 Trainer: Armendariz, Jr., Ricardo
 Disqualification(s):
 # 6 Tickle This Ivory from 4 to 9
-Scratched Horse(s): Black Hawk 777 (Stewards), Ivory Keys (Stewards), Wl Soulja Boy (Stewards)
+Scratched Horse(s): Black-Hawk-777 (Stewards), Ivory Keys (Stewards), Wl Soulja Boy (Stewards)
 Total WPS Pool: $9,469
 Pgm Horse
 Win

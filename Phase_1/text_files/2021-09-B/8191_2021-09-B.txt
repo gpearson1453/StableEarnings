@@ -58,7 +58,7 @@ BL b
 away well no gain
 27Aug21 2ARP8
 5
-Black Hawk 777 (Journet, Jarred)
+Black-Hawk-777 (Journet, Jarred)
 124
 B bf
 5
@@ -186,7 +186,7 @@ Rich and Sassy
 21/2
 31
 5
-Black Hawk 777
+Black-Hawk-777
 2
 43/4
 41 1/2
