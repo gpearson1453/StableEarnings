@@ -36,6 +36,8 @@ def process_single_file(file_path):
                 or 'Cancelled - Management Decision' in segment 
                 or 'Cancelled - Track Conditions' in segment
                 or 'Cancelled - Equipment Malfunction' in segment
+                or 'CANCELLED - Thoroughbred' in segment
+                or 'CANCELLED - Quarter Horse' in segment
                 or 'declared no contest' in segment):
                 continue
 
@@ -92,7 +94,7 @@ def process_files(folder_path, output_excel_file):
             print(f)
 
 if __name__ == "__main__":
-    folder_path = r'text_files\2020-12'
+    folder_path = r'text_files\2020-06'
     #folder_path = 'testing_files'
     output_excel_file = 'select_race_data.xlsx'
     process_files(folder_path, output_excel_file)

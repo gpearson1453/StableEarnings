@@ -35,6 +35,9 @@ def process_single_file(file_path):
             if ('Cancelled - Weather' in segment 
                 or 'Cancelled - Management Decision' in segment 
                 or 'Cancelled - Track Conditions' in segment
+                or 'Cancelled - Equipment Malfunction' in segment
+                or 'CANCELLED - Thoroughbred' in segment
+                or 'CANCELLED - Quarter Horse' in segment
                 or 'declared no contest' in segment):
                 continue
 
