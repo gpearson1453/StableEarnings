@@ -1806,7 +1806,7 @@ Omg Its Jess (Mendez, Francisco)
 bid, second best
 4May23 8HOU1
 3
-Sereptah R3 (Giles, Francisco)
+Sereptah-R3 (Giles, Francisco)
 125 bk
 3
 5
@@ -1929,7 +1929,7 @@ Omg Its Jess
 8.00
 6.20
 3
-Sereptah R3
+Sereptah-R3
 10.60
 Wager Type
 Winning Numbers
@@ -1974,7 +1974,7 @@ Omg Its Jess
 21
 21
 3
-Sereptah R3
+Sereptah-R3
 5
 21
 32

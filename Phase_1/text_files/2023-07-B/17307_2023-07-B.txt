@@ -2466,7 +2466,7 @@ Louisiana Moves (Luna, Gerardo)
 broke out, no threat
 14Jun23 2DED2
 5
-Sereptah R3 (Giles, Francisco)
+Sereptah-R3 (Giles, Francisco)
 125 bk
 5
 3
@@ -2599,7 +2599,7 @@ Louisiana Moves
 82 1/2
 73
 5
-Sereptah R3
+Sereptah-R3
 3
 81 1/2
 72

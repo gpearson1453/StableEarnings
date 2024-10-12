@@ -401,7 +401,7 @@ BL b
 mild bid game 3rd
 22Jul23 3WYO8
 3
-Trump 45 (Virgen, Jesus)
+Trump-45 (Virgen, Jesus)
 132
 BL b
 3
@@ -485,7 +485,7 @@ Raise Prime Cash
 31 3/4
 32 1/4
 3
-Trump 45
+Trump-45
 4
 42 3/4
 44 1/4

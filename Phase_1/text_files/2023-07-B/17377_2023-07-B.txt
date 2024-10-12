@@ -611,7 +611,7 @@ There He Goes (Saenz, Joe)
 steady effort
 9Jul23 3WYO7
 1
-Trump 45 (Rivas, Juan)
+Trump-45 (Rivas, Juan)
 128 BL b
 1
 2
@@ -727,7 +727,7 @@ There He Goes
 61
 73 3/4
 1
-Trump 45
+Trump-45
 2
 41/2
 71 1/4

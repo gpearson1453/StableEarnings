@@ -2382,7 +2382,7 @@ Tiffany Twistedd (Garcia, Juan)
 no threat
 ---
 6
-DQ-Sereptah R3 (Aquino, Vidal)
+DQ-Sereptah-R3 (Aquino, Vidal)
 130 b
 6
 9
@@ -2413,7 +2413,7 @@ Breeder: Adam B Smith
 Owner: Adam B. Smith
 Trainer: Keeton, Toby
 Disqualification(s):
-# 6 Sereptah R3 from 9 to 10
+# 6 Sereptah-R3 from 9 to 10
 Total WPS Pool: $14,335
 Pgm Horse
 Win
@@ -2536,7 +2536,7 @@ Tiffany Twistedd
 62 1/2
 83 1/4
 6
-Sereptah R3
+Sereptah-R3
 9
 103
 95 3/4

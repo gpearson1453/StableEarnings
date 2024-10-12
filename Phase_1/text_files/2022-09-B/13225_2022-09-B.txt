@@ -711,7 +711,7 @@ BL b
 easy winner
 4Sep22 3SWF1
 8
-Hit On 17 (Ramos, Manuel)
+Hit-On-17 (Ramos, Manuel)
 131
 BL bk
 8
@@ -817,7 +817,7 @@ Dynasty Switch
 3.00
 2.80
 8
-Hit On 17
+Hit-On-17
 3.20
 2.60
 5
@@ -858,7 +858,7 @@ Dynasty Switch
 11 1/2
 11 1/2
 8
-Hit On 17
+Hit-On-17
 4
 62
 21 1/2

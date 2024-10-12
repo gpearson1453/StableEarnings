@@ -624,7 +624,7 @@ A b
 just missed
 23Jul22 6WYO3
 5
-Trump 45 (Marin, Never)
+Trump-45 (Marin, Never)
 130
 BL f
 5
@@ -696,7 +696,7 @@ Okey Prissy Mountain
 3.80
 2.80
 5
-Trump 45
+Trump-45
 5.00
 Wager Type
 Winning Numbers
@@ -738,7 +738,7 @@ Okey Prissy Mountain
 31/2
 21
 5
-Trump 45
+Trump-45
 3
 21/2
 31 1/4

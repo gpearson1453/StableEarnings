@@ -586,7 +586,7 @@ Raise Prime Cash (Del Cid, Ricardo)
 evenly effort
 24Sep22 3SWF5
 7
-Trump 45 (Lusk, Tyson)
+Trump-45 (Lusk, Tyson)
 130 BL b
 7
 4
@@ -715,7 +715,7 @@ Raise Prime Cash
 72 1/4
 73 1/2
 7
-Trump 45
+Trump-45
 4
 93/4
 83 1/4

@@ -71,7 +71,7 @@ Cd Little Panther (Linan, Francisco)
 steady effort
 4Jun22 8WYO6
 3
-Hit On 17 (Carrillo, Daniel)
+Hit-On-17 (Carrillo, Daniel)
 128 BL bk
 3
 10
@@ -221,7 +221,7 @@ Cd Little Panther
 42 1/2
 43 3/4
 3
-Hit On 17
+Hit-On-17
 10
 81/2
 63

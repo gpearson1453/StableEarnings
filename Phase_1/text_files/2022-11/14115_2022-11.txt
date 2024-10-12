@@ -2424,7 +2424,7 @@ Red Reason (Rivera, Ali)
 broke in, led, caught
 22Oct22 7LS3
 4
-Sereptah R3 (Pulido, Juan)
+Sereptah-R3 (Pulido, Juan)
 124 bk
 4
 1
@@ -2496,7 +2496,7 @@ Red Reason
 2.40
 2.10
 4
-Sereptah R3
+Sereptah-R3
 3.40
 Wager Type
 Winning Numbers
@@ -2546,7 +2546,7 @@ Red Reason
 11/2
 2Neck
 4
-Sereptah R3
+Sereptah-R3
 1
 21/2
 32

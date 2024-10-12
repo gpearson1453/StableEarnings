@@ -599,7 +599,7 @@ Jp El Huerfanito (Trujillo, Mario)
 big debut
 10Feb23 7LAD2
 3
-Sereptah R3 (Luna, Ubaldo)
+Sereptah-R3 (Luna, Ubaldo)
 126 bk
 3
 4
@@ -705,7 +705,7 @@ Jp El Huerfanito
 4.60
 3.40
 3
-Sereptah R3
+Sereptah-R3
 3.60
 2.80
 6
@@ -748,7 +748,7 @@ Jp El Huerfanito
 3Head
 1Neck
 3
-Sereptah R3
+Sereptah-R3
 4
 2Head
 2Head

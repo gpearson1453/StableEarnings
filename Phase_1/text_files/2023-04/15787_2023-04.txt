@@ -1645,7 +1645,7 @@ Pepsi Grey (Ramirez, Froylan)
 broke in start, bump
 23Mar23 4LAD2
 1
-Sereptah R3 (Ramirez, Jr., Raul)
+Sereptah-R3 (Ramirez, Jr., Raul)
 126 bk
 1
 6
@@ -1763,7 +1763,7 @@ Pepsi Grey
 62 3/4
 65 1/4
 1
-Sereptah R3
+Sereptah-R3
 6
 51 1/4
 73 3/4

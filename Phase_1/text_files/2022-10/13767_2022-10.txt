@@ -1596,7 +1596,7 @@ Sheza Serious Dash (Mata, Edgar)
 bumped early
 23Sep22 4LS2
 7
-Sereptah R3 (Urieta, Jr., Victor)
+Sereptah-R3 (Urieta, Jr., Victor)
 124 bk
 4
 2
@@ -1681,7 +1681,7 @@ Sheza Serious Dash
 2.80
 2.20
 7
-Sereptah R3
+Sereptah-R3
 2.60
 Wager Type
 Winning Numbers
@@ -1735,7 +1735,7 @@ Sheza Serious Dash
 3Head
 21/2
 7
-Sereptah R3
+Sereptah-R3
 2
 71/2
 61

@@ -1067,7 +1067,7 @@ L bk
 no threat
 3Jul19 11DED10
 7
-Calcetin M28 (Hernandez, H.)
+Calcetin-M28 (Hernandez, H.)
 128
 L bfk
 7
@@ -1111,14 +1111,14 @@ Breeder: Stronjai Martin-Lewis
 Owner: Carlos Ponce
 Trainer: Diaz, Jr., Juan
 Claiming Prices:
-7 - Calcetin M28: $10,000; 3 - First Ladybug Doc: $10,000;
+7 - Calcetin-M28: $10,000; 3 - First Ladybug Doc: $10,000;
 Dead Heats:
 3rd place - # 4 Wave Shine
 3rd place - # 9 Gianni Jefe
 5th place - # 8 Inseperably
 5th place - #10 Ms Somethin Bad
 7th place - # 1 Tee Isabelle
-7th place - # 7 Calcetin M28
+7th place - # 7 Calcetin-M28
 9th place - # 2 Daddy Sweet Princess
 9th place - # 3 First Ladybug Doc
 Total WPS Pool: $16,772
@@ -1218,7 +1218,7 @@ Tee Isabelle
 *
 71
 7
-Calcetin M28
+Calcetin-M28
 7
 *
 71

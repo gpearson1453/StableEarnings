@@ -1871,7 +1871,7 @@ Electric Cartel, Brown Gelding, by Majestic Cartel out of Shez Electrafyin, by R
 Breeder: Charles and Maurice Necaise
 Owner: Sergio Lozano
 Trainer: Barrera, Jorge
-Scratched Horse(s): Sereptah R3 (Veterinarian)
+Scratched Horse(s): Sereptah-R3 (Veterinarian)
 Total WPS Pool: $15,942
 Pgm Horse
 Win

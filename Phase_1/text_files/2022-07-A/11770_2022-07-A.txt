@@ -2579,7 +2579,7 @@ Miranda Simply (Garcia, Juan)
 bore in
 16Jun22 10HOU10
 9
-Sereptah R3 (Aquino, Vidal)
+Sereptah-R3 (Aquino, Vidal)
 130 b
 9
 10
@@ -2706,7 +2706,7 @@ Miranda Simply
 93 1/2
 95
 9
-Sereptah R3
+Sereptah-R3
 10
 103 3/4
 104

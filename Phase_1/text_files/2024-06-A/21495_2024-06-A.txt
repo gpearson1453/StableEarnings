@@ -1717,7 +1717,7 @@ Odds Ind. Time
 Sp. In. Comments
 3May24 6HOU6
 9
-Sereptah R3 (Urieta, Jr., Victor)
+Sereptah-R3 (Urieta, Jr., Victor)
 128 bk
 9
 2
@@ -1847,7 +1847,7 @@ Louisiana Boss Man (Reyes, Eric)
 no factor
 Run-Up: 0 feet
 Winner:
-Sereptah R3, Gray Filly, by Howdoyalikemesofar out of Giacomo Girl, by Giacomo. Foaled Mar 22, 2020 in SK.
+Sereptah-R3, Gray Filly, by Howdoyalikemesofar out of Giacomo Girl, by Giacomo. Foaled Mar 22, 2020 in SK.
 Breeder: Rafter 3 Holdings
 Owner: Rafter 3 Holdings
 Trainer: Almaguer, Angel
@@ -1858,7 +1858,7 @@ Im So Relentless
 New Trainer: Roberto G. Madrigal
 New Owner: Roberto G. Madrigal
 Claiming Prices:
-9 - Sereptah R3: $7,500; 8 - High Flying Hawk: $7,500; 4 - Im So Relentless: $7,500; 2 - Fast Bar Cartel: $7,500; 5 -
+9 - Sereptah-R3: $7,500; 8 - High Flying Hawk: $7,500; 4 - Im So Relentless: $7,500; 2 - Fast Bar Cartel: $7,500; 5 -
 Lethal Fast Cash: $7,500; 7 - Zoomin Game: $7,500; 3 - Air Lights: $7,500; 1 - Missy Mtz Piloto: $7,500; 6 -
 Frontclassrunner: $7,500; 10 - Louisiana Boss Man: $7,500;
 Total WPS Pool: $26,051
@@ -1867,7 +1867,7 @@ Win
 Place
 Show
 9
-Sereptah R3
+Sereptah-R3
 27.80
 8.40
 6.00
@@ -1909,7 +1909,7 @@ Str1
 Str
 Fin
 9
-Sereptah R3
+Sereptah-R3
 2
 2Head
 2Head

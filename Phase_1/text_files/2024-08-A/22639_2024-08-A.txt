@@ -58,7 +58,7 @@ BL
 game third
 26Jul24 2POD2
 2
-Trump 45 (Ayala, Eric)
+Trump-45 (Ayala, Eric)
 126
 BL b
 1
@@ -143,7 +143,7 @@ Jesses Flys
 31
 32 1/4
 2
-Trump 45
+Trump-45
 3
 41 1/4
 42 1/4

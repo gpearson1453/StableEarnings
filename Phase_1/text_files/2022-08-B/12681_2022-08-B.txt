@@ -1332,7 +1332,7 @@ Sipping Fast (Martinez, Jose)
 no menace
 1Jul22 11RET10
 2
-Sereptah R3 (Hernandez, Jr., Raul)
+Sereptah-R3 (Hernandez, Jr., Raul)
 126 bk
 2
 5
@@ -1390,7 +1390,7 @@ Owner: Rose Mary Chandler
 Trainer: Keeton, Toby
 Claiming Prices:
 10 - Jess Rite: $20,000; 7 - Superfragilistic: $20,000; 1 - Jc Wild Whiskey: $20,000; 9 - Eagles Shot: $20,000; 6 - Valiant
-Regard: $20,000; 8 - Sipping Fast: $20,000; 2 - Sereptah R3: $20,000; 3 - Rb American Patriot: $20,000; 4 - Lewy Lewi:
+Regard: $20,000; 8 - Sipping Fast: $20,000; 2 - Sereptah-R3: $20,000; 3 - Rb American Patriot: $20,000; 4 - Lewy Lewi:
 $20,000; 5 - Heza Mighty Cartel: $20,000;
 Total WPS Pool: $14,208
 Pgm Horse
@@ -1476,7 +1476,7 @@ Sipping Fast
 61 3/4
 62 3/4
 2
-Sereptah R3
+Sereptah-R3
 5
 21/2
 72

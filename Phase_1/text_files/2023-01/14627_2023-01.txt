@@ -1440,7 +1440,7 @@ Constellation (Espinosa, Pedro)
 improved effort
 1Dec22 6LS3
 2
-Sereptah R3 (Alvarez, Arturo)
+Sereptah-R3 (Alvarez, Arturo)
 126 bk
 2
 5
@@ -1586,7 +1586,7 @@ Constellation
 41 3/4
 42 3/4
 2
-Sereptah R3
+Sereptah-R3
 5
 41/2
 51 3/4

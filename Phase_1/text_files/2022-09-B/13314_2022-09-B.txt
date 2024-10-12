@@ -624,7 +624,7 @@ Girl Deal (Vivanco, Luis)
 prevailed
 19Aug22 6RET7
 6
-Sereptah R3 (Hernandez, Jr., Raul)
+Sereptah-R3 (Hernandez, Jr., Raul)
 126 bk
 6
 3
@@ -723,7 +723,7 @@ Trainer: Hinojosa, Isidro
 New Trainer: Don R. Poteet
 New Owner: Riley S Aguilar
 Claiming Prices:
-3 - Girl Deal: $12,500; 6 - Sereptah R3: $12,500; 4 - Fancy Tale: $12,500; 7 - Power Chic: $12,500; 2 - Five Star Chick:
+3 - Girl Deal: $12,500; 6 - Sereptah-R3: $12,500; 4 - Fancy Tale: $12,500; 7 - Power Chic: $12,500; 2 - Five Star Chick:
 $12,500; 1 - Racy Sky: $12,500; 5 - Sheza Serious Dash: $12,500; 8 - Dance for Coronas: $12,500;
 Total WPS Pool: $13,091
 Pgm Horse
@@ -736,7 +736,7 @@ Girl Deal
 6.80
 4.00
 6
-Sereptah R3
+Sereptah-R3
 26.60
 8.80
 4
@@ -779,7 +779,7 @@ Girl Deal
 11/2
 1Neck
 6
-Sereptah R3
+Sereptah-R3
 3
 51/2
 41

@@ -598,7 +598,7 @@ Momys Little Corona (Roche, Luis)
 solid effort
 25May24 5POD7
 4
-Trump 45 (Romero, Raphael)
+Trump-45 (Romero, Raphael)
 126 BL b
 4
 3
@@ -687,7 +687,7 @@ Momys Little Corona
 31 3/4
 32 3/4
 4
-Trump 45
+Trump-45
 3
 3Head
 41 3/4

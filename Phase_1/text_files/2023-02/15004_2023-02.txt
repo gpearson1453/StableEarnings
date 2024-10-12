@@ -1444,7 +1444,7 @@ Salty Dog (Ramirez, Jr., Raul)
 drftd in, speedy
 5Jan23 7LAD5
 3
-Sereptah R3 (Gutierrez, Arnulfo)
+Sereptah-R3 (Gutierrez, Arnulfo)
 126 bk
 3
 3
@@ -1579,7 +1579,7 @@ Salty Dog
 7.00
 5.80
 3
-Sereptah R3
+Sereptah-R3
 46.80
 11.60
 6
@@ -1626,7 +1626,7 @@ Salty Dog
 1Head
 1Neck
 3
-Sereptah R3
+Sereptah-R3
 3
 2Head
 2Head

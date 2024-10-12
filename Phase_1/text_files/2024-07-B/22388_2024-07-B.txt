@@ -197,7 +197,7 @@ Gray Eagle Moon (Benavides, Manuel)
 strong drive
 7Jun24 8HOU1
 5
-Sereptah R3 (Urieta, Jr., Victor)
+Sereptah-R3 (Urieta, Jr., Victor)
 128 bk
 5
 1
@@ -309,7 +309,7 @@ Trainer: Cordova, Jackie
 New Trainer: Luis Daniel Garcia
 New Owner: Luis Daniel Garcia
 Claiming Prices:
-4 - Gray Eagle Moon: $7,500; 5 - Sereptah R3: $7,500; 3 - The Huerfanita: $7,500; 2 - Filly Gaga: $7,500; 9 - Wicked
+4 - Gray Eagle Moon: $7,500; 5 - Sereptah-R3: $7,500; 3 - The Huerfanita: $7,500; 2 - Filly Gaga: $7,500; 9 - Wicked
 and Fast: $7,500; 6 - D Fast Noon Prize: $7,500; 1 - Aint I a Kings Girl: $7,500; 7 - Bar Money Cartel: $7,500; 10 - Jjs
 Dashin Boston: $7,500;
 Scratched Horse(s): Linneys Big Bat (Veterinarian)
@@ -324,7 +324,7 @@ Gray Eagle Moon
 3.80
 2.80
 5
-Sereptah R3
+Sereptah-R3
 13.40
 7.60
 3
@@ -363,7 +363,7 @@ Gray Eagle Moon
 11/2
 11 1/4
 5
-Sereptah R3
+Sereptah-R3
 1
 2Head
 21/2

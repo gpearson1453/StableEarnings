@@ -860,7 +860,7 @@ Absolut Keerash (Teeter, Nakia)
 clean trip mid
 11May24 2POD4
 10
-Trump 45 (Figueroa, Jose)
+Trump-45 (Figueroa, Jose)
 127 BL b
 10
 7
@@ -1003,7 +1003,7 @@ Absolut Keerash
 61 1/2
 62
 10
-Trump 45
+Trump-45
 7
 71
 72 1/2

@@ -240,7 +240,7 @@ Astieker (Gutierrez, Arnulfo)
 solid rally, just up
 19May23 8HOU3
 2
-Sereptah R3 (Luna, Ubaldo)
+Sereptah-R3 (Luna, Ubaldo)
 124 bk
 2
 1
@@ -347,7 +347,7 @@ Astieker
 3.40
 2.60
 2
-Sereptah R3
+Sereptah-R3
 9.40
 7.20
 3
@@ -386,7 +386,7 @@ Astieker
 2Head
 11/2
 2
-Sereptah R3
+Sereptah-R3
 1
 11/2
 1Head

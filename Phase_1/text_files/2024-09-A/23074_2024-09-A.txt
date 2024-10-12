@@ -1581,7 +1581,7 @@ L bfk
 stiff drive
 27Jul24 2RET2
 10
-Sereptah R3 (Vera, Eliazar)
+Sereptah-R3 (Vera, Eliazar)
 128
 bk
 10
@@ -1703,7 +1703,7 @@ Breeder: Bob Moore Farms Llc
 Owner: Juan Nunez
 Trainer: Fierro, Victor
 Claiming Prices:
-10 - Sereptah R3: $7,500; 4 - Miss Eden Sue: $7,500; 9 - Mp Misslilrockstar: $7,500; 8 - Tinys Ivan Jewel: $7,500; 7 -
+10 - Sereptah-R3: $7,500; 4 - Miss Eden Sue: $7,500; 9 - Mp Misslilrockstar: $7,500; 8 - Tinys Ivan Jewel: $7,500; 7 -
 Boomin With Eagles: $7,500; 3 - Texas Bonita Seis: $7,500;
 Total WPS Pool: $18,702
 Pgm Horse
@@ -1716,7 +1716,7 @@ Tumbling Dice
 4.20
 4.40
 10
-Sereptah R3
+Sereptah-R3
 18.60
 9.40
 4
@@ -1757,7 +1757,7 @@ Tumbling Dice
 11/2
 1Head
 10
-Sereptah R3
+Sereptah-R3
 7
 61 1/4
 2Head

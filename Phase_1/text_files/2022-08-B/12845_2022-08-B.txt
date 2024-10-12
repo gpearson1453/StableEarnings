@@ -486,7 +486,7 @@ Odds Ind. Time
 Sp. In. Comments
 14Aug22 4ONE3
 1
-Trump 45 (Lusk, Tyson)
+Trump-45 (Lusk, Tyson)
 131 BL bf
 1
 1
@@ -590,7 +590,7 @@ Chasin the Dynasty (Valenzuela, Jesus)
 bore out start
 Run-Up: 0 feet
 Winner:
-Trump 45, Bay Gelding, by Jr Dynasty Mountain out of Too Regulated, by Sir Antonio. Foaled Apr 21, 2020 in Utah.
+Trump-45, Bay Gelding, by Jr Dynasty Mountain out of Too Regulated, by Sir Antonio. Foaled Apr 21, 2020 in Utah.
 Breeder: Chad Poulsen
 Owner: Chad Poulsen
 Trainer: Hadley, Jordan
@@ -600,7 +600,7 @@ Win
 Place
 Show
 1
-Trump 45
+Trump-45
 9.60
 5.80
 4.00
@@ -638,7 +638,7 @@ Str 1
 Str
 Fin
 1
-Trump 45
+Trump-45
 1
 1Nose
 1Neck

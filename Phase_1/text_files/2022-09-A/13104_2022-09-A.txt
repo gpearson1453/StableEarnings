@@ -625,7 +625,7 @@ BL b
 won easily
 27Aug22 3SWF1
 4
-Trump 45 (Larsen, Shaunda)
+Trump-45 (Larsen, Shaunda)
 124
 BL bf
 4
@@ -718,7 +718,7 @@ Pappauino
 5.20
 3.60
 4
-Trump 45
+Trump-45
 3.40
 2.60
 5
@@ -759,7 +759,7 @@ Pappauino
 1Neck
 13/4
 4
-Trump 45
+Trump-45
 4
 2Neck
 23/4

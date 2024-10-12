@@ -486,7 +486,7 @@ Capos Lady (Villa, Oscar)
 game third
 11Aug24 1ONE4
 1
-Trump 45 (Ayala, Eric)
+Trump-45 (Ayala, Eric)
 126 BL
 1
 4
@@ -587,7 +587,7 @@ Capos Lady
 31
 31
 1
-Trump 45
+Trump-45
 4
 43/4
 41 1/4

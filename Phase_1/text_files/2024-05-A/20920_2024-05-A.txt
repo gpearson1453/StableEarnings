@@ -1149,7 +1149,7 @@ L bk
 no menace
 8Dec23 6EVD9
 6
-Sereptah R3 (Morales, Adrian)
+Sereptah-R3 (Morales, Adrian)
 128
 bk
 6
@@ -1252,7 +1252,7 @@ Tres Eclipse
 51/2
 51 1/2
 6
-Sereptah R3
+Sereptah-R3
 6
 63 1/2
 63

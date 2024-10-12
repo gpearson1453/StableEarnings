@@ -621,7 +621,7 @@ B b
 even effort
 3Jul22 1GRP5
 9
-Cold Brew 2020 (Figueroa, Jose)
+Cold-Brew-2020 (Figueroa, Jose)
 124
 BL bf
 9
@@ -733,7 +733,7 @@ Fivebarsdarkbeauty
 6.60
 3.80
 9
-Cold Brew 2020
+Cold-Brew-2020
 6.20
 Wager Type
 Winning Numbers
@@ -776,7 +776,7 @@ Fivebarsdarkbeauty
 41/2
 31
 9
-Cold Brew 2020
+Cold-Brew-2020
 3
 3Neck
 41 3/4

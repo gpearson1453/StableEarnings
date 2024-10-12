@@ -1490,7 +1490,7 @@ Odds Ind. Time
 Sp. In. Comments
 21Apr23 7HOU7
 7
-Sereptah R3 (Giles, Francisco)
+Sereptah-R3 (Giles, Francisco)
 125 bk
 7
 8
@@ -1607,7 +1607,7 @@ Rb Lacys Dynasty (Suarez, Noe)
 bumped start
 Run-Up: 0 feet
 Winner:
-Sereptah R3, Gray Filly, by Howdoyalikemesofar out of Giacomo Girl, by Giacomo. Foaled Mar 22, 2020 in SK.
+Sereptah-R3, Gray Filly, by Howdoyalikemesofar out of Giacomo Girl, by Giacomo. Foaled Mar 22, 2020 in SK.
 Breeder: Rafter 3 Holdings
 Owner: Rafter 3 Holdings
 Trainer: Almaguer, Angel
@@ -1617,7 +1617,7 @@ Win
 Place
 Show
 7
-Sereptah R3
+Sereptah-R3
 37.80
 13.80
 8.40
@@ -1659,7 +1659,7 @@ Str 1
 Str
 Fin
 7
-Sereptah R3
+Sereptah-R3
 8
 81
 71/2

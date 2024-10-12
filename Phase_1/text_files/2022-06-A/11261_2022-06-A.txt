@@ -1654,7 +1654,7 @@ Yallneedjesus (Bobroff, Jacquelyn)
 evenly effort
 ---
 7
-Hit On 17 (Carrillo, Daniel)
+Hit-On-17 (Carrillo, Daniel)
 129 CL b
 6
 7
@@ -1759,7 +1759,7 @@ Yallneedjesus
 52 1/4
 54 3/4
 7
-Hit On 17
+Hit-On-17
 7
 5Neck
 62 3/4

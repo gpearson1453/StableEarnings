@@ -466,7 +466,7 @@ Odds Ind. Time
 Sp. In. Comments
 30Jul22 1WYO5
 7
-Hit On 17 (Ramos, Manuel)
+Hit-On-17 (Ramos, Manuel)
 131 BL b
 6
 3
@@ -557,7 +557,7 @@ Bdr Slew Down (Larsen, Shaunda)
 no factor
 Run-Up: 0 feet
 Winner:
-Hit On 17, Gray Filly, by Oceans Apart out of Stealing the Scene, by Eg Special Ways. Foaled Mar 30, 2020 in Wyoming.
+Hit-On-17, Gray Filly, by Oceans Apart out of Stealing the Scene, by Eg Special Ways. Foaled Mar 30, 2020 in Wyoming.
 Breeder: Moonshine Racing
 Owner: Moonshine Racing
 Trainer: Young, Robert
@@ -568,7 +568,7 @@ Win
 Place
 Show
 7
-Hit On 17
+Hit-On-17
 25.20
 9.00
 2.80
@@ -606,7 +606,7 @@ Str 1
 Str
 Fin
 7
-Hit On 17
+Hit-On-17
 3
 4Head
 13/4

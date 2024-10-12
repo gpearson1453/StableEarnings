@@ -31,7 +31,7 @@ BL b
 broke sharp,all out
 19Jun22 5GRP2
 3
-DQ-Cold Brew 2020 (Guerrero, Jose)
+DQ-Cold-Brew-2020 (Guerrero, Jose)
 123
 BL bf
 3
@@ -88,7 +88,7 @@ Breeder: McColee Land & Livestock Llc
 Owner: Rodney Lowe
 Trainer: Magallanes, Hector
 Disqualification(s):
-# 3 Cold Brew 2020 from 2 to 5
+# 3 Cold-Brew-2020 from 2 to 5
 Scratched Horse(s): Chicks Black Feather (Stewards)
 Total WPS Pool: $2,133
 Pgm Horse
@@ -130,7 +130,7 @@ Chisum
 11
 11 1/4
 3
-Cold Brew 2020
+Cold-Brew-2020
 2
 21
 21 1/4

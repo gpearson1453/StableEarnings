@@ -784,7 +784,7 @@ Grover (Jimenez, Santiago)
 bmped brk, drifted out
 ---
 5
-Cold Brew 2020 (Lopez, Jaime)
+Cold-Brew-2020 (Lopez, Jaime)
 125 BL bf
 5
 5
@@ -877,7 +877,7 @@ Grover
 3.40
 6.00
 5
-Cold Brew 2020
+Cold-Brew-2020
 3.80
 3.80
 6
@@ -912,7 +912,7 @@ Grover
 12
 12
 5
-Cold Brew 2020
+Cold-Brew-2020
 5
 22
 22

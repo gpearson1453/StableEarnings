@@ -1015,7 +1015,7 @@ Jr Pahranagat Man (Dominguez, Joe)
 no factor
 ---
 6
-Trump 45 (Lusk, Tyson)
+Trump-45 (Lusk, Tyson)
 131 CL b
 6
 9
@@ -1138,7 +1138,7 @@ Jr Pahranagat Man
 63
 64
 6
-Trump 45
+Trump-45
 9
 91
 74
