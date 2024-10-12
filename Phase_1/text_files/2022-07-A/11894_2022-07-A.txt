@@ -1740,7 +1740,7 @@ Bv Wildflower (Gutierrez, Gonzalo)
 second step stutter
 20Jun22 5PRM5
 2
-Angel 937 (Smith, Cody)
+Angel-937 (Smith, Cody)
 127 L b
 2
 4
@@ -1842,7 +1842,7 @@ Bv Wildflower
 54
 43 3/4
 2
-Angel 937
+Angel-937
 4
 31/2
 43

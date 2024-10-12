@@ -1346,7 +1346,7 @@ Power Up (Luna, Ubaldo)
 dueled, outfinished
 29Mar22 4LAD1
 6
-Miss Covid 2020 (Rodriguez, Everardo)
+Miss-Covid-2020 (Rodriguez, Everardo)
 124 L bfk
 6
 7
@@ -1474,7 +1474,7 @@ Power Up
 2Head
 41/2
 6
-Miss Covid 2020
+Miss-Covid-2020
 7
 72 3/4
 71/2
@@ -1883,7 +1883,7 @@ Bella Marie, Black Filly, by Apollitical Blood out of Bellas Leaving You, by Cor
 Breeder: Dan Mars Racing
 Owner: Schaefer, Sr, Clinton and Schaefer, Jr, Clinton
 Trainer: Bustamante, David
-Scratched Horse(s): Bad Mammie 23 (Stewards)
+Scratched Horse(s): Bad-Mammie-23 (Stewards)
 Total WPS Pool: $20,600
 Pgm Horse
 Win

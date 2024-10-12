@@ -1584,7 +1584,7 @@ Jrs Tonyas Majestic (Rivera, Ali)
 broke in, even try
 5Aug22 9RET2
 4
-Wagons Ho 509 (Aguilar-Orozco, Heriberto)
+Wagons-Ho-509 (Aguilar-Orozco, Heriberto)
 122 L bfk
 4
 3
@@ -1727,7 +1727,7 @@ Jrs Tonyas Majestic
 72
 51 3/4
 4
-Wagons Ho 509
+Wagons-Ho-509
 3
 43/4
 41 1/2

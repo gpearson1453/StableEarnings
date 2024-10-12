@@ -422,7 +422,7 @@ Odds Ind. Time
 Sp. In. Comments
 12Mar23 8RP3
 4
-Angel 937 (Torres, Jorge)
+Angel-937 (Torres, Jorge)
 126
 L b
 3
@@ -513,7 +513,7 @@ b
 broke in a tangle
 Run-Up: 0 feet
 Winner:
-Angel 937, Brown Filly, by Tres Seis out of First Lady Amber, by Heza Fast Man. Foaled Feb 26, 2020 in Oklahoma.
+Angel-937, Brown Filly, by Tres Seis out of First Lady Amber, by Heza Fast Man. Foaled Feb 26, 2020 in Oklahoma.
 Breeder: Blessed River Ltd
 Owner: Anna Cullum
 Trainer: Crawford, Clinton
@@ -524,7 +524,7 @@ Win
 Place
 Show
 4
-Angel 937
+Angel-937
 3.84
 2.92
 2.58
@@ -565,7 +565,7 @@ Start
 Str
 Fin
 4
-Angel 937
+Angel-937
 1
 1Head
 1Head

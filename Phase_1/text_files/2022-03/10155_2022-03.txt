@@ -750,7 +750,7 @@ bf
 outrun,
 ---
 2
-Ms Ferrari Sz18 (Sigala, Alfredo)
+Ms-Ferrari-Sz18 (Sigala, Alfredo)
 128
 f
 2
@@ -858,7 +858,7 @@ Daddys Vixen
 61
 85 1/2
 2
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 8
 93
 97 1/4

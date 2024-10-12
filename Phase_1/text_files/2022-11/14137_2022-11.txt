@@ -73,7 +73,7 @@ Solid Wager (Amaya, Daniel)
 needed bid
 13Nov22 5ZIA4
 7
-Ms Ferrari Sz18 (Marquez, Larry)
+Ms-Ferrari-Sz18 (Marquez, Larry)
 128 b
 6
 5
@@ -168,7 +168,7 @@ Solid Wager
 41 1/2
 41 3/4
 7
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 5
 52 1/2
 52 1/2

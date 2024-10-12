@@ -2408,7 +2408,7 @@ L bf
 strong finish
 7Jul23 7FMT5
 10
-Angel 937 (Martinez, L.)
+Angel-937 (Martinez, L.)
 128
 L b
 9
@@ -2553,7 +2553,7 @@ Fabulously Fearless
 41
 33/4
 10
-Angel 937
+Angel-937
 4
 61 1/4
 41

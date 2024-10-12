@@ -756,7 +756,7 @@ L bk
 no threat
 18Mar22 4SUN9
 3
-Ms Ferrari Sz18 (Martinez, Edgar)
+Ms-Ferrari-Sz18 (Martinez, Edgar)
 128
 b
 3
@@ -871,7 +871,7 @@ Next Princess
 71 3/4
 63 1/4
 3
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 7
 61 3/4
 73 1/2

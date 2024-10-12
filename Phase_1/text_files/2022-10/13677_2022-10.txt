@@ -1301,7 +1301,7 @@ Dashing Sheetz (Hernandez, Alan)
 bumped start, evenly
 28Aug22 1ALB4
 2
-Ms Ferrari Sz18 (Rodriguez, Jose)
+Ms-Ferrari-Sz18 (Rodriguez, Jose)
 128 b
 2
 7
@@ -1428,7 +1428,7 @@ Dashing Sheetz
 53
 52 3/4
 2
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 7
 51 3/4
 63 1/2

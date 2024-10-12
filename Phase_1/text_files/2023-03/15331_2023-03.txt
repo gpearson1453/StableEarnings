@@ -368,7 +368,7 @@ Luci Blue (Rivera, Ali)
 best of others
 11Feb23 7LAD2
 6
-Bad Mammie 23 (Cabrera, Rolando)
+Bad-Mammie-23 (Cabrera, Rolando)
 126 L k
 6
 5
@@ -491,7 +491,7 @@ Luci Blue
 61 1/4
 62 1/2
 6
-Bad Mammie 23
+Bad-Mammie-23
 5
 53/4
 71 1/2
@@ -1617,7 +1617,7 @@ Toast to Blue (Rodriguez, Everardo)
 inside duel
 17Dec22 8EVD6
 4
-Cole Train 2 (Urieta, Jr., Victor)
+Cole-Train-2 (Urieta, Jr., Victor)
 126 bfk
 4
 3
@@ -1765,7 +1765,7 @@ Toast to Blue
 2Neck
 31 1/2
 4
-Cole Train 2
+Cole-Train-2
 3
 41/2
 41/2

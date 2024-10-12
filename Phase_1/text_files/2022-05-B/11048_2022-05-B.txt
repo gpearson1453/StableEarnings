@@ -1626,7 +1626,7 @@ L bk
 solid rally,best late
 5May22 6DED5
 6
-Miss Covid 2020 (Ramirez, J.)
+Miss-Covid-2020 (Ramirez, J.)
 124
 L bfk
 5
@@ -1733,7 +1733,7 @@ Mollys Leaving You
 3.60
 2.80
 6
-Miss Covid 2020
+Miss-Covid-2020
 6.40
 4.20
 1
@@ -1774,7 +1774,7 @@ Mollys Leaving You
 31
 1Neck
 6
-Miss Covid 2020
+Miss-Covid-2020
 3
 21
 2Neck

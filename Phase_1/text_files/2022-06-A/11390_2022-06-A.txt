@@ -1192,7 +1192,7 @@ L b
 bumped start,willing
 30May22 4RUI6
 7
-Ms Ferrari Sz18 (Dominguez, Sergio)
+Ms-Ferrari-Sz18 (Dominguez, Sergio)
 128
 b
 6
@@ -1250,7 +1250,7 @@ Owner: Robert Van Crowell
 Trainer: Crowell, Robert
 Claiming Prices:
 9 - Mapple Valley: $10,000; 6 - He Is Already Gone: $10,000; 3 - Jess a Major: $15,000; 4 - Jesses Best Effort: $15,000;
-7 - Ms Ferrari Sz18: $15,000; 2 - El Nuevo Profeta: $15,000; 5 - Teller Dragon: $10,000; 8 - Tee Quick: $10,000;
+7 - Ms-Ferrari-Sz18: $15,000; 2 - El Nuevo Profeta: $15,000; 5 - Teller Dragon: $10,000; 8 - Tee Quick: $10,000;
 Dead Heats:
 3rd place - # 3 Jess a Major
 3rd place - # 4 Jesses Best Effort
@@ -1325,7 +1325,7 @@ Jesses Best Effort
 31
 33/4
 7
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 7
 52
 51 1/2

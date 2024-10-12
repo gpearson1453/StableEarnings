@@ -1732,7 +1732,7 @@ Shez Twister (Rivera, Alonso)
 bumped both sides
 11Jun22 6RUI5
 10
-Ms Ferrari Sz18 (Dominguez, Sergio)
+Ms-Ferrari-Sz18 (Dominguez, Sergio)
 128 b
 9
 9
@@ -1838,7 +1838,7 @@ Shez Twister
 86 1/4
 85 1/4
 10
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 9
 83 1/2
 96 1/4

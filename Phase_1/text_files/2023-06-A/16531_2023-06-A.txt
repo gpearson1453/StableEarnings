@@ -1704,7 +1704,7 @@ L bf
 solid rally, just up
 12May23 1DED7
 1
-Bad Mammie 23 (Alvarez, David)
+Bad-Mammie-23 (Alvarez, David)
 126
 L fk
 1
@@ -1802,11 +1802,11 @@ Trainer: Cezar, Jerry
 2 Claimed Horse(s): Alekca
 New Trainer: Shelton J. Zenon, Sr.
 New Owner: Samantha Y. Rodriguez
-Bad Mammie 23
+Bad-Mammie-23
 New Trainer: Martin Gallegos
 New Owner: Jose Pizano
 Claiming Prices:
-2 - Alekca: $7,500; 1 - Bad Mammie 23: $7,500; 6 - Story Time Tee: $7,500; 3 - One Sweet Butter: $7,500; 10 - Ekg Im
+2 - Alekca: $7,500; 1 - Bad-Mammie-23: $7,500; 6 - Story Time Tee: $7,500; 3 - One Sweet Butter: $7,500; 10 - Ekg Im
 Dashing: $7,500; 7 - Jmg an Unquiet Mind: $7,500; 5 - Strawfly Nellie: $7,500; 9 - Bc Mary Jeaux Jet: $7,500;
 Scratched Horse(s): Auntie Row (Veterinarian), Im Perfect Tlc (Veterinarian)
 Total WPS Pool: $13,639
@@ -1820,7 +1820,7 @@ Alekca
 7.40
 5.40
 1
-Bad Mammie 23
+Bad-Mammie-23
 2.20
 2.10
 6
@@ -1869,7 +1869,7 @@ Alekca
 2Head
 1Nose
 1
-Bad Mammie 23
+Bad-Mammie-23
 2
 1Head
 2Nose

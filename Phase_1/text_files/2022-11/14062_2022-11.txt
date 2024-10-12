@@ -983,7 +983,7 @@ Dashing Sheetz (Becerra, Jr., Sergio)
 prompted, outfinished
 23Oct22 3ZIA2
 8
-Ms Ferrari Sz18 (Marquez, Larry)
+Ms-Ferrari-Sz18 (Marquez, Larry)
 128 b
 7
 4
@@ -1134,7 +1134,7 @@ Dashing Sheetz
 3Head
 31/2
 8
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 4
 53/4
 51/2

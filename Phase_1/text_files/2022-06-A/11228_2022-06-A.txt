@@ -2311,7 +2311,7 @@ Odds Ind. Time
 Sp. In. Comments
 14May22 2HOU2
 2
-Wagons Ho 509 (Aguilar-Orozco, Heriberto)
+Wagons-Ho-509 (Aguilar-Orozco, Heriberto)
 124 L bfk
 2
 6
@@ -2441,7 +2441,7 @@ Bpthevalentinehero (Herbert, Jose)
 faltered
 Run-Up: 0 feet
 Winner:
-Wagons Ho 509, Bay Gelding, by Wagon Tales out of Lil Teller Dash, by Teller Cartel. Foaled Feb 27, 2020 in Texas.
+Wagons-Ho-509, Bay Gelding, by Wagon Tales out of Lil Teller Dash, by Teller Cartel. Foaled Feb 27, 2020 in Texas.
 Breeder: Scarlett Hill Farm Inc
 Owner: Armando Cortez
 Trainer: Huitron, Josue
@@ -2451,7 +2451,7 @@ Win
 Place
 Show
 2
-Wagons Ho 509
+Wagons-Ho-509
 6.20
 4.60
 3.00
@@ -2516,7 +2516,7 @@ Str 1
 Str
 Fin
 2
-Wagons Ho 509
+Wagons-Ho-509
 6
 1Head
 11

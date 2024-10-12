@@ -2296,7 +2296,7 @@ L bfk
 dueled, gamely
 ---
 3
-Wagons Ho 509 (Vital, Humberto)
+Wagons-Ho-509 (Vital, Humberto)
 122
 L bfk
 3
@@ -2379,7 +2379,7 @@ Breeder: Jerry Windham
 Owner: Lance R. Moore
 Trainer: Rhodes, Dustin
 Dead Heats:
-4th place - # 3 Wagons Ho 509
+4th place - # 3 Wagons-Ho-509
 4th place - # 8 Rain in the Dough
 Disqualification(s):
 # 1 Jess Pf Flyer from 1 to 9
@@ -2449,7 +2449,7 @@ Beaus First Dynasty
 31
 31 1/4
 3
-Wagons Ho 509
+Wagons-Ho-509
 6
 42
 42 1/4

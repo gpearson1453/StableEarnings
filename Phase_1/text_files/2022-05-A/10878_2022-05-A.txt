@@ -278,7 +278,7 @@ Moonflash Winners (Urieta, Jr., Victor)
 dueled, driving finish
 13Mar22 10LAD3
 5
-Wagons Ho 509 (Aguilar-Orozco, Heriberto)
+Wagons-Ho-509 (Aguilar-Orozco, Heriberto)
 124 L bfk
 5
 3
@@ -410,7 +410,7 @@ Moonflash Winners
 5.00
 4.80
 5
-Wagons Ho 509
+Wagons-Ho-509
 4.80
 3.00
 6
@@ -449,7 +449,7 @@ Moonflash Winners
 1Head
 11/2
 5
-Wagons Ho 509
+Wagons-Ho-509
 3
 1Head
 2Head

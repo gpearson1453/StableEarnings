@@ -2350,7 +2350,7 @@ Amaryillis (Martinez, Luis)
 bmpd brk
 31Dec22 4SUN4
 7
-Ms Ferrari Sz18 (Nieto-Saenz, Jorge)
+Ms-Ferrari-Sz18 (Nieto-Saenz, Jorge)
 128 b
 7
 2
@@ -2463,7 +2463,7 @@ Amaryillis
 72
 72 1/4
 7
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 2
 82
 83 1/2

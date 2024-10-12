@@ -2522,7 +2522,7 @@ Miss Racy Moonflash (Tapia, Emilio)
 game 2nd
 11Oct23 1ALB2
 3
-Ms Ferrari Sz18 (Marquez, Larry)
+Ms-Ferrari-Sz18 (Marquez, Larry)
 128 bf
 2
 2
@@ -2633,7 +2633,7 @@ Miss Racy Moonflash
 3.40
 2.60
 3
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 6.20
 Wager Type
 Winning Numbers
@@ -2696,7 +2696,7 @@ Miss Racy Moonflash
 2Head
 21/2
 3
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 2
 31/2
 3Head

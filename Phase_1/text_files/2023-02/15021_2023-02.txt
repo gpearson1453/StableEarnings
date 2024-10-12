@@ -1293,7 +1293,7 @@ Ab Chalalo (Ramirez, Jr., Raul)
 floatd in,got bob
 25Nov22 9EVD8
 4
-Bad Mammie 23 (Cabrera, Rolando)
+Bad-Mammie-23 (Cabrera, Rolando)
 126 L k
 4
 1
@@ -1399,7 +1399,7 @@ Ab Chalalo
 3.40
 2.60
 4
-Bad Mammie 23
+Bad-Mammie-23
 3.00
 2.60
 2
@@ -1446,7 +1446,7 @@ Ab Chalalo
 1Head
 1Neck
 4
-Bad Mammie 23
+Bad-Mammie-23
 1
 1Nose
 2Head

@@ -1422,7 +1422,7 @@ Mollys Leaving You (Luna, Ubaldo)
 dueled late,prevailed
 3Jun22 10HOU1
 6
-Wagons Ho 509 (Aguilar-Orozco, Heriberto)
+Wagons-Ho-509 (Aguilar-Orozco, Heriberto)
 124 L bfk
 6
 4
@@ -1528,7 +1528,7 @@ Mollys Leaving You
 4.20
 3.80
 6
-Wagons Ho 509
+Wagons-Ho-509
 3.40
 2.80
 3
@@ -1571,7 +1571,7 @@ Mollys Leaving You
 2Head
 11/2
 6
-Wagons Ho 509
+Wagons-Ho-509
 4
 3Head
 1Head

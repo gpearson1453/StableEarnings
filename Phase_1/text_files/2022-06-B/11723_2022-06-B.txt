@@ -408,7 +408,7 @@ Odds Ind. Time
 Sp. In. Comments
 25May22 8DED2
 1
-Miss Covid 2020 (Huerta, Roman)
+Miss-Covid-2020 (Huerta, Roman)
 122 L bfk
 1
 1
@@ -512,12 +512,12 @@ Lezgo Brandon (Pina, Modesto)
 awkward st, no bid
 Run-Up: 0 feet
 Winner:
-Miss Covid 2020, Sorrel Filly, by Five Bar Cartel out of One Fancy Eagle, by One Famous Eagle. Foaled Jan 02, 2020 in Louisiana.
+Miss-Covid-2020, Sorrel Filly, by Five Bar Cartel out of One Fancy Eagle, by One Famous Eagle. Foaled Jan 02, 2020 in Louisiana.
 Breeder: Earl Landry Jr/Randy Rodrigue
 Owner: Priscilla Rodriguez
 Trainer: Trejo, Martin
 Claiming Prices:
-1 - Miss Covid 2020: $50,000; 8 - Rh Senor Milagro: $50,000; 5 - Wow Its Jess: $50,000; 7 - Miss Pilotos Train:
+1 - Miss-Covid-2020: $50,000; 8 - Rh Senor Milagro: $50,000; 5 - Wow Its Jess: $50,000; 7 - Miss Pilotos Train:
 $50,000; 6 - Look Jet: $50,000; 4 - Ericks First Wagon: $50,000; 3 - Rapid Eyes: $50,000; 2 - Lezgo Brandon: $50,000;
 Total WPS Pool: $13,473
 Pgm Horse
@@ -525,7 +525,7 @@ Win
 Place
 Show
 1
-Miss Covid 2020
+Miss-Covid-2020
 9.80
 5.00
 4.00
@@ -570,7 +570,7 @@ Str1
 Str
 Fin
 1
-Miss Covid 2020
+Miss-Covid-2020
 1
 12
 12

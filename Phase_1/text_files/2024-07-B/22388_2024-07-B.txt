@@ -467,7 +467,7 @@ bk
 broke sharp, led,tired
 2Jun24 7RUI8
 10
-Dream 19 (Benavides, Manuel)
+Dream-19 (Benavides, Manuel)
 128
 L bh
 9
@@ -563,7 +563,7 @@ Breeder: John Boegner
 Owner: John Boegner
 Trainer: Boegner, John
 Claiming Prices:
-3 - Texas Teller: $10,000; 7 - Panama Unit: $10,000; 10 - Dream 19: $10,000; 2 - Streakin Patron: $10,000; 1 - Nine O:
+3 - Texas Teller: $10,000; 7 - Panama Unit: $10,000; 10 - Dream-19: $10,000; 2 - Streakin Patron: $10,000; 1 - Nine O:
 $10,000; 8 - Princess Kadena: $10,000; 9 - Regal King: $10,000; 4 - Jettpearl: $10,000; 6 - Lil Bayley Girl: $10,000;
 Scratched Horse(s): Stabby Joe (Stewards)
 Total WPS Pool: $20,945
@@ -581,7 +581,7 @@ Panama Unit
 3.80
 2.80
 10
-Dream 19
+Dream-19
 3.40
 Wager Type
 Winning Numbers
@@ -623,7 +623,7 @@ Panama Unit
 1Head
 21/2
 10
-Dream 19
+Dream-19
 2
 4Neck
 31/2

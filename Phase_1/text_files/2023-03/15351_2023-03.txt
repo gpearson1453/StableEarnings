@@ -1841,7 +1841,7 @@ Eyem Onn Fire (Valenzuela, Raul)
 long duel, edged
 8Jul22 10FMT5
 1
-Angel 937 (Torres, Jorge)
+Angel-937 (Torres, Jorge)
 124 L b
 1
 2
@@ -1937,7 +1937,7 @@ Breeder: Roy Garza
 Owner: Mauricio Garza
 Trainer: Melton, Waylan
 Dead Heats:
-3rd place - # 1 Angel 937
+3rd place - # 1 Angel-937
 3rd place - # 2 Jl Apollitical Miss
 Total WPS Pool: $37,018
 Pgm Horse
@@ -1954,7 +1954,7 @@ Eyem Onn Fire
 14.40
 8.40
 1
-Angel 937
+Angel-937
 8.60
 2
 Jl Apollitical Miss
@@ -2006,7 +2006,7 @@ Eyem Onn Fire
 3Head
 21/2
 1
-Angel 937
+Angel-937
 2
 2Head
 2Head

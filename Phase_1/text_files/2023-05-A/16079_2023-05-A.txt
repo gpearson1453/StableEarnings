@@ -100,7 +100,7 @@ L b
 bobbled, no threat
 11Mar23 2LAD7
 8
-Bad Mammie 23 (Luna, Ubaldo)
+Bad-Mammie-23 (Luna, Ubaldo)
 126
 L k
 7
@@ -145,7 +145,7 @@ Owner: Stephen A. Tate
 Trainer: Keith, Dale
 Claiming Prices:
 9 - Zoom All by Myself: $15,000; 10 - Tee Frere: $15,000; 4 - Jrs Majestic Prince: $15,000; 1 - Czar of Czars: $15,000; 3
-- Bjs Ima Gonna Fly: $15,000; 6 - Tg Coup Azoom: $15,000; 8 - Bad Mammie 23: $15,000; 7 - Jtf Diamond: $15,000; 5 -
+- Bjs Ima Gonna Fly: $15,000; 6 - Tg Coup Azoom: $15,000; 8 - Bad-Mammie-23: $15,000; 7 - Jtf Diamond: $15,000; 5 -
 Favorite First Lady: $15,000;
 Scratched Horse(s): Cr Black Penny (Stewards)
 Total WPS Pool: $12,690
@@ -217,7 +217,7 @@ Tg Coup Azoom
 61
 61
 8
-Bad Mammie 23
+Bad-Mammie-23
 8
 71
 71

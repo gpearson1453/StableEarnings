@@ -60,7 +60,7 @@ b
 steadily, not enough
 9Dec23 8ZIA6
 4
-Ms Ferrari Sz18 (Carbajal, Kevin)
+Ms-Ferrari-Sz18 (Carbajal, Kevin)
 133
 bf
 4
@@ -213,7 +213,7 @@ Kool N Ez
 31
 31 1/4
 4
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 3
 42
 42 1/2

@@ -1230,7 +1230,7 @@ L bf
 late surge for place
 ---
 7
-Miss Covid 2020 (Rodriguez, Everardo)
+Miss-Covid-2020 (Rodriguez, Everardo)
 122
 L bfk
 7
@@ -1340,7 +1340,7 @@ Onemorewildtrain
 3.20
 2.40
 7
-Miss Covid 2020
+Miss-Covid-2020
 2.80
 Wager Type
 Winning Numbers
@@ -1393,7 +1393,7 @@ Onemorewildtrain
 3Head
 2Head
 7
-Miss Covid 2020
+Miss-Covid-2020
 2
 2Head
 3Head
@@ -1962,7 +1962,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 2
-Cole Train 2 (Urieta, Jr., Victor)
+Cole-Train-2 (Urieta, Jr., Victor)
 122
 bfk
 2
@@ -2001,7 +2001,7 @@ L b
 closed well late
 ---
 3
-Bad Mammie 23 (Rodriguez, Everardo)
+Bad-Mammie-23 (Rodriguez, Everardo)
 122
 L bk
 3
@@ -2092,7 +2092,7 @@ L bfk
 showed little
 Run-Up: 0 feet
 Winner:
-Cole Train 2, Sorrel Gelding, by Freighttrain B out of Histori, by Dominyun. Foaled Mar 27, 2020 in Louisiana.
+Cole-Train-2, Sorrel Gelding, by Freighttrain B out of Histori, by Dominyun. Foaled Mar 27, 2020 in Louisiana.
 Breeder: Kenneth R Fletcher
 Owner: Rodriguez, Felix and Holguin, Sergio
 Trainer: Neri, Alonso
@@ -2102,7 +2102,7 @@ Win
 Place
 Show
 2
-Cole Train 2
+Cole-Train-2
 9.00
 5.80
 3.60
@@ -2143,7 +2143,7 @@ Start
 Str
 Fin
 2
-Cole Train 2
+Cole-Train-2
 3
 1Neck
 11 1/2
@@ -2158,7 +2158,7 @@ One Fine Beast
 41 1/4
 32
 3
-Bad Mammie 23
+Bad-Mammie-23
 1
 31 1/4
 42 1/4

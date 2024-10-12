@@ -561,7 +561,7 @@ Mescalero (Andrade, Jr., Oscar)
 came in start
 21Apr23 10SRP8
 8
-Ms Ferrari Sz18 (Amaya, Daniel)
+Ms-Ferrari-Sz18 (Amaya, Daniel)
 128 bf
 8
 1
@@ -673,7 +673,7 @@ Mescalero
 72
 72 1/4
 8
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 1
 81 1/2
 83

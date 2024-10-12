@@ -1851,7 +1851,7 @@ One Dashing Dove (Rodriguez, Jose)
 late effort
 25Nov22 12EVD2
 5
-Cole Train 2 (Urieta, Jr., Victor)
+Cole-Train-2 (Urieta, Jr., Victor)
 124 bfk
 5
 9
@@ -2035,7 +2035,7 @@ One Dashing Dove
 51 1/2
 52 1/4
 5
-Cole Train 2
+Cole-Train-2
 9
 63/4
 62

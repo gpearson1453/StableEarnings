@@ -74,7 +74,7 @@ Betsy Bet (Cano, Porfirio)
 fought gamely
 16Jun23 3RUI9
 10
-Ms Ferrari Sz18 (Marquez, Larry)
+Ms-Ferrari-Sz18 (Marquez, Larry)
 128 b
 10
 1
@@ -217,7 +217,7 @@ Betsy Bet
 41 1/4
 41 1/2
 10
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 1
 2Head
 51 1/4

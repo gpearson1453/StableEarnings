@@ -1687,7 +1687,7 @@ Diamondonatrain (Alvarez, Arturo)
 no real threat
 25Jun22 7DED2
 4
-Bad Mammie 23 (Ramirez, J.)
+Bad-Mammie-23 (Ramirez, J.)
 124 L k
 4
 3
@@ -1813,7 +1813,7 @@ Diamondonatrain
 82 3/4
 82
 4
-Bad Mammie 23
+Bad-Mammie-23
 3
 53/4
 93

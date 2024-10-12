@@ -61,7 +61,7 @@ Tictaccartel (Marquez, Larry)
 no match late,
 21Aug22 3ALB8
 7
-Ms Ferrari Sz18 (Medrano, Albert)
+Ms-Ferrari-Sz18 (Medrano, Albert)
 128 b
 7
 3
@@ -211,7 +211,7 @@ Tictaccartel
 32 1/2
 33
 7
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 3
 41 1/2
 42 1/2

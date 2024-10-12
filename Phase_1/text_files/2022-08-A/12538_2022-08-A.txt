@@ -1560,7 +1560,7 @@ Pretty Piloto (Garcia, Jr., Juan)
 strong finish, best
 16Jul22 7DED9
 2
-Bad Mammie 23 (Alvarez, David)
+Bad-Mammie-23 (Alvarez, David)
 124 L k
 1
 1
@@ -1667,7 +1667,7 @@ Pretty Piloto
 5.60
 3.60
 2
-Bad Mammie 23
+Bad-Mammie-23
 5.40
 4.00
 3
@@ -1718,7 +1718,7 @@ Pretty Piloto
 21
 11
 2
-Bad Mammie 23
+Bad-Mammie-23
 1
 11
 11

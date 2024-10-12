@@ -1690,7 +1690,7 @@ L bk
 hopped start
 19Sep23 11WRD4
 5
-Angel 937 (Gutierrez, Gonzalo)
+Angel-937 (Gutierrez, Gonzalo)
 129
 L bf
 5
@@ -1818,7 +1818,7 @@ Dog House Rose
 83/4
 72 1/4
 5
-Angel 937
+Angel-937
 4
 61/2
 82 1/4

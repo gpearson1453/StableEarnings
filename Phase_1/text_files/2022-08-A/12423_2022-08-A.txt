@@ -1975,7 +1975,7 @@ Ponte Duro (Rivera, Ali)
 dueled, driving finish
 9Jul22 7DED2
 9
-Wagons Ho 509 (Aguilar-Orozco, Heriberto)
+Wagons-Ho-509 (Aguilar-Orozco, Heriberto)
 124 L bfk
 9
 2
@@ -2107,7 +2107,7 @@ Ponte Duro
 3.20
 3.00
 9
-Wagons Ho 509
+Wagons-Ho-509
 2.60
 2.80
 2
@@ -2150,7 +2150,7 @@ Ponte Duro
 1Head
 11
 9
-Wagons Ho 509
+Wagons-Ho-509
 2
 2Head
 2Head

@@ -1598,7 +1598,7 @@ Wild Train Fortune (Ortiz, Gilbert)
 evenly effort
 6Oct22 6EVD7
 9
-Miss Covid 2020 (Rodriguez, Everardo)
+Miss-Covid-2020 (Rodriguez, Everardo)
 124 L bfk
 9
 2
@@ -1747,7 +1747,7 @@ Wild Train Fortune
 43/4
 41 3/4
 9
-Miss Covid 2020
+Miss-Covid-2020
 2
 91 3/4
 51 1/4
@@ -2151,7 +2151,7 @@ Fast Dash N Perry (Garcia, Jr., Juan)
 late interest
 20Oct22 5EVD3
 3
-Bad Mammie 23 (Rodriguez, Everardo)
+Bad-Mammie-23 (Rodriguez, Everardo)
 124 L k
 3
 8
@@ -2267,7 +2267,7 @@ Fast Dash N Perry
 82
 72 1/2
 3
-Bad Mammie 23
+Bad-Mammie-23
 8
 2Head
 71 3/4
@@ -2814,7 +2814,7 @@ Jess Sea Louisiana (Hernandez, Jr., Ricardo)
 gate to wire
 28May22 6DED1
 7
-Cole Train 2 (Urieta, Jr., Victor)
+Cole-Train-2 (Urieta, Jr., Victor)
 124 bfk
 7
 9
@@ -2933,7 +2933,7 @@ Jess Sea Louisiana
 2.40
 2.10
 7
-Cole Train 2
+Cole-Train-2
 3.60
 3.00
 8
@@ -2976,7 +2976,7 @@ Jess Sea Louisiana
 11 1/2
 11 1/2
 7
-Cole Train 2
+Cole-Train-2
 9
 51/2
 21 1/2

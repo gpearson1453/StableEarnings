@@ -284,7 +284,7 @@ Odds Ind. Time
 Sp. In. Comments
 5Mar22 9LAD1
 9
-Cole Train 2 (Urieta, Jr., Victor)
+Cole-Train-2 (Urieta, Jr., Victor)
 124 bk
 9
 6
@@ -401,7 +401,7 @@ Msm Another Cartel (Rodriguez, Everardo)
 showed little
 Run-Up: 0 feet
 Winner:
-Cole Train 2, Sorrel Gelding, by Freighttrain B out of Histori, by Dominyun. Foaled Mar 27, 2020 in Louisiana.
+Cole-Train-2, Sorrel Gelding, by Freighttrain B out of Histori, by Dominyun. Foaled Mar 27, 2020 in Louisiana.
 Breeder: Kenneth R Fletcher
 Owner: Rodriguez, Felix and Holguin, Sergio
 Trainer: Neri, Alonso
@@ -411,7 +411,7 @@ Win
 Place
 Show
 9
-Cole Train 2
+Cole-Train-2
 3.60
 2.80
 2.40
@@ -449,7 +449,7 @@ Str1
 Str
 Fin
 9
-Cole Train 2
+Cole-Train-2
 6
 51 1/4
 21/2

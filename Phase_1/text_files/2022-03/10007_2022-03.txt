@@ -2257,7 +2257,7 @@ L b
 inched away
 ---
 7
-Angel 937 (Torres, Jorge)
+Angel-937 (Torres, Jorge)
 124
 L bf
 7
@@ -2375,7 +2375,7 @@ Cartels Dasher
 17.20
 10.60
 7
-Angel 937
+Angel-937
 6.80
 4.40
 4
@@ -2412,7 +2412,7 @@ Cartels Dasher
 11
 11 1/4
 7
-Angel 937
+Angel-937
 4
 21
 21 1/4

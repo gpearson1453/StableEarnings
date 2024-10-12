@@ -1005,7 +1005,7 @@ L bk
 steady effort
 3Sep22 7DED4
 5
-Bad Mammie 23 (Alvarez, David)
+Bad-Mammie-23 (Alvarez, David)
 129
 L k
 5
@@ -1127,7 +1127,7 @@ Bella Can Fly
 7.60
 3.80
 5
-Bad Mammie 23
+Bad-Mammie-23
 2.20
 Wager Type
 Winning Numbers
@@ -1169,7 +1169,7 @@ Bella Can Fly
 2Head
 2Nose
 5
-Bad Mammie 23
+Bad-Mammie-23
 4
 3Neck
 3Neck

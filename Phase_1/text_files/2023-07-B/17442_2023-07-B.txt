@@ -530,7 +530,7 @@ L bhfk
 drift out early
 7Jun23 8DED2
 7
-Bad Mammie 23 (Aquino, Jasiel)
+Bad-Mammie-23 (Aquino, Jasiel)
 126
 L fk
 7
@@ -639,7 +639,7 @@ Dianetogetanywhere
 63 3/4
 63 1/2
 7
-Bad Mammie 23
+Bad-Mammie-23
 5
 74 1/4
 75 1/2

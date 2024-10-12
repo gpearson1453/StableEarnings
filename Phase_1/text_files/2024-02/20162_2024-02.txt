@@ -1381,7 +1381,7 @@ A Political Sign (Barraza, Brian)
 faded,
 10Dec23 1ZIA5
 9
-Dream 19 (Benavides, Manuel)
+Dream-19 (Benavides, Manuel)
 128 L b
 9
 1
@@ -1514,7 +1514,7 @@ A Political Sign
 52 3/4
 63 1/4
 9
-Dream 19
+Dream-19
 1
 21 1/2
 73

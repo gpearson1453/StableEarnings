@@ -1628,7 +1628,7 @@ Jmg an Unquiet Mind (Edison, Randy)
 solid try
 5Mar22 9LAD4
 5
-Bad Mammie 23 (Cabrera, Rolando)
+Bad-Mammie-23 (Cabrera, Rolando)
 122 L k
 5
 4
@@ -1778,7 +1778,7 @@ Jmg an Unquiet Mind
 43
 42
 5
-Bad Mammie 23
+Bad-Mammie-23
 4
 32
 32

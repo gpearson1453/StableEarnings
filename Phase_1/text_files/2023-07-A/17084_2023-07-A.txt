@@ -1319,7 +1319,7 @@ Rubys Night Out (Gutierrez, Gonzalo)
 battled, edged
 13May23 11RP4
 2
-Angel 937 (Benn, Cordarelton)
+Angel-937 (Benn, Cordarelton)
 127 L bf
 2
 2
@@ -1426,7 +1426,7 @@ Rubys Night Out
 21/2
 41
 2
-Angel 937
+Angel-937
 2
 1Head
 31/2

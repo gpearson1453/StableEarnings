@@ -590,7 +590,7 @@ Feature Me Dancing (Vera, Gerardo)
 outrun,
 22Jul22 3RUI5
 8
-Ms Ferrari Sz18 (Medrano, Albert)
+Ms-Ferrari-Sz18 (Medrano, Albert)
 128 b
 8
 5
@@ -609,7 +609,7 @@ Owner: Leroy E. Salazar
 Trainer: Salazar, Leroy
 Claiming Prices:
 5 - Mr P A: $8,000; 1 - My Regards to You: $8,000; 6 - Tesguino Special: $8,000; 3 - Cartel Kip: $8,000; 2 - Jess
-Another Call: $8,000; 7 - Dream Lucky Charm: $8,000; 4 - Feature Me Dancing: $8,000; 8 - Ms Ferrari Sz18: $8,000;
+Another Call: $8,000; 7 - Dream Lucky Charm: $8,000; 4 - Feature Me Dancing: $8,000; 8 - Ms-Ferrari-Sz18: $8,000;
 Total WPS Pool: $17,904
 Pgm Horse
 Win
@@ -692,7 +692,7 @@ Feature Me Dancing
 73
 73 1/4
 8
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 5
 83 1/4
 84

@@ -624,7 +624,7 @@ L k
 broke slowly
 4Jun23 3RUI8
 5
-Ms Ferrari Sz18 (Aldrete, Hector)
+Ms-Ferrari-Sz18 (Aldrete, Hector)
 128
 b
 5
@@ -734,7 +734,7 @@ Diamond Bridge
 81 1/2
 82 1/4
 5
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 3
 71 1/2
 92 1/2

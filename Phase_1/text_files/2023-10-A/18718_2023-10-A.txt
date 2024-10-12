@@ -34,7 +34,7 @@ Love for Woodbridge (Enriquez, Jose)
 strong outside drive
 9Sep23 1ALB5
 3
-Ms Ferrari Sz18 (Marquez, Larry)
+Ms-Ferrari-Sz18 (Marquez, Larry)
 128 bf
 3
 2
@@ -154,7 +154,7 @@ Love for Woodbridge
 21.40
 12.00
 3
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 36.40
 11.00
 6
@@ -185,7 +185,7 @@ Love for Woodbridge
 31
 11/2
 3
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 2
 21/2
 21/2

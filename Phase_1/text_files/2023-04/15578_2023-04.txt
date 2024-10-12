@@ -1370,7 +1370,7 @@ Genuine Betrayal (Rivera, Ali)
 no threat
 11Mar23 7LAD4
 8
-Cole Train 2 (Herbert, Jose)
+Cole-Train-2 (Herbert, Jose)
 126 bfk
 8
 10
@@ -1489,7 +1489,7 @@ Genuine Betrayal
 92 1/2
 94 1/4
 8
-Cole Train 2
+Cole-Train-2
 10
 102 1/4
 104 1/2

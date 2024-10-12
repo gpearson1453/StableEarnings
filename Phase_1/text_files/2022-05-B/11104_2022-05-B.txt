@@ -1250,7 +1250,7 @@ Odds Ind. Time
 Sp. In. Comments
 6May22 2DED1
 3
-Cole Train 2 (Urieta, Jr., Victor)
+Cole-Train-2 (Urieta, Jr., Victor)
 124 bfk
 3
 1
@@ -1341,7 +1341,7 @@ Rogue From the South (Garcia, Jr., Juan)
 broke awkwardly,nobid
 Run-Up: 0 feet
 Winner:
-Cole Train 2, Sorrel Gelding, by Freighttrain B out of Histori, by Dominyun. Foaled Mar 27, 2020 in Louisiana.
+Cole-Train-2, Sorrel Gelding, by Freighttrain B out of Histori, by Dominyun. Foaled Mar 27, 2020 in Louisiana.
 Breeder: Kenneth R Fletcher
 Owner: Rodriguez, Felix and Holguin, Sergio
 Trainer: Madrigal, Roberto
@@ -1352,7 +1352,7 @@ Win
 Place
 Show
 3
-Cole Train 2
+Cole-Train-2
 6.80
 4.20
 3.20
@@ -1394,7 +1394,7 @@ Str1
 Str
 Fin
 3
-Cole Train 2
+Cole-Train-2
 1
 11/2
 11

@@ -2558,7 +2558,7 @@ L b
 hard try
 2Apr23 3SRM1
 10
-Angel 937 (Torres, Jorge)
+Angel-937 (Torres, Jorge)
 124
 L b
 10
@@ -2711,7 +2711,7 @@ Raci B
 4Neck
 31 1/4
 10
-Angel 937
+Angel-937
 5
 3Head
 41 1/4

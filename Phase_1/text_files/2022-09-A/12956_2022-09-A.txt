@@ -1328,7 +1328,7 @@ L bfk
 mild bid, evenly
 18Aug22 5DED6
 10
-Miss Covid 2020 (Huerta, Roman)
+Miss-Covid-2020 (Huerta, Roman)
 122
 L bk
 10
@@ -1461,7 +1461,7 @@ Shes Jessa an Eagle
 62 1/4
 61
 10
-Miss Covid 2020
+Miss-Covid-2020
 10
 93 1/2
 71
@@ -1555,7 +1555,7 @@ New Blend (Rodriguez, Leonardo)
 late rush, up for show
 12Aug22 7DED2
 4
-Bad Mammie 23 (Alvarez, David)
+Bad-Mammie-23 (Alvarez, David)
 122 L k
 4
 1
@@ -1712,7 +1712,7 @@ New Blend
 62 3/4
 3Head
 4
-Bad Mammie 23
+Bad-Mammie-23
 1
 12
 12

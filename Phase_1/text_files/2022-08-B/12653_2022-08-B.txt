@@ -1061,7 +1061,7 @@ Fast I Am (Luna, Ubaldo)
 awkward st, no threat
 29Jun22 3DED1
 7
-Miss Covid 2020 (Huerta, Roman)
+Miss-Covid-2020 (Huerta, Roman)
 122 L bfk
 6
 4
@@ -1178,7 +1178,7 @@ Fast I Am
 61 3/4
 52 3/4
 7
-Miss Covid 2020
+Miss-Covid-2020
 4
 51 1/4
 72

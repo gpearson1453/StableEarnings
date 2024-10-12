@@ -1484,7 +1484,7 @@ L bfk
 crowhoppd out at st
 5Mar22 10RP2
 3
-Angel 937 (Calderon, Francisco)
+Angel-937 (Calderon, Francisco)
 124
 L bf
 3
@@ -1597,7 +1597,7 @@ Lovin Lithe
 92
 83 1/4
 3
-Angel 937
+Angel-937
 6
 71 3/4
 93 1/2

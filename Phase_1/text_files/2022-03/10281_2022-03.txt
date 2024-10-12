@@ -645,7 +645,7 @@ Odds Ind. Time
 Sp. In. Comments
 5Mar22 6LAD3
 2
-Miss Covid 2020 (Rodriguez, Everardo)
+Miss-Covid-2020 (Rodriguez, Everardo)
 122
 L bfk
 2
@@ -749,7 +749,7 @@ L f
 not a threat
 Run-Up: 0 feet
 Winner:
-Miss Covid 2020, Sorrel Filly, by Five Bar Cartel out of One Fancy Eagle, by One Famous Eagle. Foaled Jan 02, 2020 in Louisiana.
+Miss-Covid-2020, Sorrel Filly, by Five Bar Cartel out of One Fancy Eagle, by One Famous Eagle. Foaled Jan 02, 2020 in Louisiana.
 Breeder: Earl Landry Jr/Randy Rodrigue
 Owner: Priscilla Rodriguez
 Trainer: Trejo, Martin
@@ -759,7 +759,7 @@ Win
 Place
 Show
 2
-Miss Covid 2020
+Miss-Covid-2020
 4.00
 2.60
 2.20
@@ -800,7 +800,7 @@ Start
 Str
 Fin
 2
-Miss Covid 2020
+Miss-Covid-2020
 3
 11
 11 3/4

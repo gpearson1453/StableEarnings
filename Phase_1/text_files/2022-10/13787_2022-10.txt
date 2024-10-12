@@ -481,7 +481,7 @@ Thank U Next B (Tapia, Emilio)
 in hand
 15Oct22 6ZIA6
 5
-Ms Ferrari Sz18 (Marquez, Larry)
+Ms-Ferrari-Sz18 (Marquez, Larry)
 128 b
 5
 3
@@ -601,7 +601,7 @@ Thank U Next B
 6.80
 4.40
 5
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 43.60
 36.80
 4
@@ -636,7 +636,7 @@ Thank U Next B
 11
 11 3/4
 5
-Ms Ferrari Sz18
+Ms-Ferrari-Sz18
 3
 31
 21

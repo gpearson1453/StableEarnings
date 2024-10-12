@@ -99,7 +99,7 @@ L f
 no threat
 ---
 8
-Dream 19 (Vera, Gerardo)
+Dream-19 (Vera, Gerardo)
 128
 L bf
 7
@@ -186,7 +186,7 @@ Candy Face
 62
 63 3/4
 8
-Dream 19
+Dream-19
 7
 73 1/2
 76 1/2

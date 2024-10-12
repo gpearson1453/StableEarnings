@@ -1355,7 +1355,7 @@ One Off (Cabrera, Rolando)
 popped, fell back
 3Sep22 6DED7
 8
-Miss Covid 2020 (Rodriguez, Everardo)
+Miss-Covid-2020 (Rodriguez, Everardo)
 124 L bfk
 8
 5
@@ -1498,7 +1498,7 @@ One Off
 92
 61
 8
-Miss Covid 2020
+Miss-Covid-2020
 5
 63/4
 51
