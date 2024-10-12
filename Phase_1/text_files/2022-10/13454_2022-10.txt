@@ -1575,7 +1575,7 @@ Macsimizer (Urieta, Jr., Victor)
 bounced between early
 16Sep22 10LS1
 3
-Chance 123 (Candanosa, Bryan)
+Chance-123 (Candanosa, Bryan)
 124 L bk
 3
 7
@@ -1671,7 +1671,7 @@ Breeder: Slash Z Land & Cattle
 Owner: Mi Cielo Ranch
 Trainer: Gonzales III, James
 Dead Heats:
-3rd place - # 3 Chance 123
+3rd place - # 3 Chance-123
 3rd place - # 5 Bogart Train
 Scratched Horse(s): Th Mai Tai Tom (Gate)
 Total WPS Pool: $40,173
@@ -1689,7 +1689,7 @@ Macsimizer
 4.40
 3.20
 3
-Chance 123
+Chance-123
 3.00
 5
 Bogart Train
@@ -1750,7 +1750,7 @@ Macsimizer
 1Head
 2Neck
 3
-Chance 123
+Chance-123
 7
 51/2
 4Neck

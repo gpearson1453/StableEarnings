@@ -2351,7 +2351,7 @@ Vf Wheely Sixty (Hernandez, H.)
 bumped, no menace
 14May22 10HOU8
 6
-Rapid Menace 509 (Duran, Nestor)
+Rapid-Menace-509 (Duran, Nestor)
 124 L bk
 6
 8
@@ -2489,7 +2489,7 @@ Vf Wheely Sixty
 61 1/2
 64
 6
-Rapid Menace 509
+Rapid-Menace-509
 8
 81 1/2
 72 1/2

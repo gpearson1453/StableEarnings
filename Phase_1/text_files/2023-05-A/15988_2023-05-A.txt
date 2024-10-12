@@ -1597,7 +1597,7 @@ L b
 no real threat
 9Jul22 4DED4
 10
-Jewel 63 (Luna, Ubaldo)
+Jewel-63 (Luna, Ubaldo)
 126
 L bf
 10
@@ -1722,7 +1722,7 @@ Majestics Best Game
 82
 72 3/4
 10
-Jewel 63
+Jewel-63
 9
 92
 82 3/4

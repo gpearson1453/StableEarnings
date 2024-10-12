@@ -641,6 +641,7 @@ $0.50 Pick 3
 41,757
 Past Performance Running Line Preview
 Pgm Horse Name
+Start
 1/4
 1/2
 3/4
@@ -649,6 +650,7 @@ Str
 Fin
 10
 Duvet Day (IRE)
+7
 76 1/2
 43 1/2
 43
@@ -657,6 +659,7 @@ Duvet Day (IRE)
 12 3/4
 4
 Quality Star
+3
 32 1/2
 32 1/2
 32
@@ -665,6 +668,7 @@ Quality Star
 22 3/4
 6
 Joyful Applause
+1
 11/2
 1Head
 11/2
@@ -673,6 +677,7 @@ Joyful Applause
 34 1/2
 3
 Under One Sky
+4
 42 1/2
 77 1/2
 64
@@ -681,6 +686,7 @@ Under One Sky
 44 3/4
 2
 English Treasure
+10
 109 1/2
 1010 3/4
 106 1/2
@@ -689,6 +695,7 @@ English Treasure
 55 1/4
 5
 Red Light Racer
+8
 88
 89 1/2
 85
@@ -697,6 +704,7 @@ Red Light Racer
 66 1/2
 1
 Pure Country
+2
 21/2
 2Head
 21/2
@@ -705,6 +713,7 @@ Pure Country
 78
 9
 Pretty Provocative
+6
 65
 67
 53 1/2
@@ -713,6 +722,7 @@ Pretty Provocative
 810 1/2
 8
 Cinq Souers
+9
 99
 910 1/2
 96
@@ -721,6 +731,7 @@ Cinq Souers
 937
 7
 Start Class
+5
 53
 54 1/2
 75

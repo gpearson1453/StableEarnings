@@ -763,7 +763,7 @@ Odds Ind. Time
 Sp. In. Comments
 9Jul22 11RUI5
 8
-Chance 123 (Candanosa, Bryan)
+Chance-123 (Candanosa, Bryan)
 125 L b
 8
 3
@@ -893,7 +893,7 @@ Good Friend (Ramirez, Ricky)
 hopped start,sanwiched
 Run-Up: 0 feet
 Winner:
-Chance 123, Bay Gelding, by Fdd Dynasty out of Tresor 123, by Tres Seis. Foaled Mar 05, 2020 in Michigan.
+Chance-123, Bay Gelding, by Fdd Dynasty out of Tresor 123, by Tres Seis. Foaled Mar 05, 2020 in Michigan.
 Breeder: Carolyn C Bay
 Owner: Carolyn C. Bay
 Trainer: Jungers, Marc
@@ -906,7 +906,7 @@ Win
 Place
 Show
 8
-Chance 123
+Chance-123
 7.00
 4.00
 2.80
@@ -940,7 +940,7 @@ Str 1
 Str
 Fin
 8
-Chance 123
+Chance-123
 3
 1Head
 11

@@ -1311,7 +1311,7 @@ Blue Bueno, Bay Filly, by Jet Black Patriot out of McM Fast Dashin Blue, by Jess
 Breeder: Donald Lane Sargent
 Owner: Noe R. Sanchez
 Trainer: Sanchez, Noe
-Scratched Horse(s): Jewel 63 (Veterinarian)
+Scratched Horse(s): Jewel-63 (Veterinarian)
 Total WPS Pool: $9,874
 Pgm Horse
 Win

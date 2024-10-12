@@ -533,7 +533,7 @@ Henry D (Lopez, Henry)
 drifted late,outkicked
 17Sep22 5LA3
 8
-Fired Up for This 1 (Cervantes, Armando)
+Fired-Up-for-This-1 (Cervantes, Armando)
 129 b
 8
 1
@@ -653,7 +653,7 @@ Henry D
 23/4
 43/4
 8
-Fired Up for This 1
+Fired-Up-for-This-1
 1
 21
 61 3/4

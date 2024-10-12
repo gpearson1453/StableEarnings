@@ -98,7 +98,7 @@ L bf
 bumped, erratic
 5May22 3DED6
 6
-One Sweet Lady 1 (Alvarez, David)
+One-Sweet-Lady-1 (Alvarez, David)
 122
 L bk
 6
@@ -139,7 +139,7 @@ New Trainer: Ayde Garza
 New Owner: Horacio Munoz
 Claiming Prices:
 2 - Devilwithablackdress: $7,500; 8 - Heza Righteous Man: $7,500; 3 - Carters Diamonds: $7,500; 4 - Eagle Prize:
-$7,500; 1 - Anonymous B: $7,500; 7 - Shakin Piloto: $7,500; 6 - One Sweet Lady 1: $7,500; 5 - Lrh Twisted Sister:
+$7,500; 1 - Anonymous B: $7,500; 7 - Shakin Piloto: $7,500; 6 - One-Sweet-Lady-1: $7,500; 5 - Lrh Twisted Sister:
 $7,500;
 Total WPS Pool: $19,633
 Pgm Horse
@@ -210,7 +210,7 @@ Shakin Piloto
 63 1/2
 63
 6
-One Sweet Lady 1
+One-Sweet-Lady-1
 8
 75 1/2
 74 1/4

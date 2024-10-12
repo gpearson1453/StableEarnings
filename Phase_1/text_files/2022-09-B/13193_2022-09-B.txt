@@ -2354,7 +2354,7 @@ Odds Ind. Time
 Sp. In. Comments
 19Aug22 4RUI2
 9
-Chance 123 (Candanosa, Bryan)
+Chance-123 (Candanosa, Bryan)
 124 L bk
 9
 7
@@ -2484,7 +2484,7 @@ Daring Goodtime (Ramirez, Jr., Raul)
 faded,
 Run-Up: 0 feet
 Winner:
-Chance 123, Bay Gelding, by Fdd Dynasty out of Tresor 123, by Tres Seis. Foaled Mar 05, 2020 in Michigan.
+Chance-123, Bay Gelding, by Fdd Dynasty out of Tresor 123, by Tres Seis. Foaled Mar 05, 2020 in Michigan.
 Breeder: Carolyn C Bay
 Owner: Carolyn C. Bay
 Trainer: Jungers, Marc
@@ -2494,7 +2494,7 @@ Win
 Place
 Show
 9
-Chance 123
+Chance-123
 13.60
 5.40
 4.60
@@ -2558,7 +2558,7 @@ Str 1
 Str
 Fin
 9
-Chance 123
+Chance-123
 7
 71
 4Neck

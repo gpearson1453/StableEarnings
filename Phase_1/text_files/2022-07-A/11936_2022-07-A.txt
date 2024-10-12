@@ -2730,7 +2730,7 @@ Streakin Candy Kiss (Becerra, Jr., Sergio)
 bumped start,evenly
 11Jun22 1RUI3
 8
-Chance 123 (Garcia, Jr., Noe)
+Chance-123 (Garcia, Jr., Noe)
 124 L bfk
 6
 5
@@ -2825,7 +2825,7 @@ Streakin Candy Kiss
 41 1/2
 41 3/4
 8
-Chance 123
+Chance-123
 5
 51 1/4
 53

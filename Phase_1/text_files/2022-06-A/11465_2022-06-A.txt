@@ -1712,7 +1712,7 @@ L bf
 bid,drift out,weakened
 19May22 4DED7
 9
-Hobo 63 (Garcia, Jr., Juan)
+Hobo-63 (Garcia, Jr., Juan)
 126
 L bfk
 8
@@ -1786,7 +1786,7 @@ New Trainer: Miguel Pizana
 New Owner: Emmanuel Villarreal
 Claiming Prices:
 1 - Zoom N Tacotina: $7,500; 6 - Eyesa Fast Prize: $7,500; 4 - Shezadashingreatness: $7,500; 2 - Ah Twisted Sister:
-$7,500; 9 - Hobo 63: $7,500; 7 - Go Little Vick Cash: $7,500; 5 - Sassy Pink Cartel: $7,500; 10 - Jl Sassy Jet Patriot:
+$7,500; 9 - Hobo-63: $7,500; 7 - Go Little Vick Cash: $7,500; 5 - Sassy Pink Cartel: $7,500; 10 - Jl Sassy Jet Patriot:
 $7,500; 3 - Rose Jess: $7,500;
 Scratched Horse(s): Ms Johnny Mae Carter (Veterinarian)
 Total WPS Pool: $9,773
@@ -1866,7 +1866,7 @@ Ah Twisted Sister
 21
 41 3/4
 9
-Hobo 63
+Hobo-63
 6
 52 1/4
 52 1/4

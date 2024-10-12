@@ -2494,7 +2494,7 @@ Nala Stone (Ramirez, Armando)
 no threat
 ---
 3
-Rapid Menace 509 (Martinez, Jose)
+Rapid-Menace-509 (Martinez, Jose)
 125 L bk
 3
 9
@@ -2641,7 +2641,7 @@ Nala Stone
 43
 74 1/4
 3
-Rapid Menace 509
+Rapid-Menace-509
 9
 92
 85 1/4

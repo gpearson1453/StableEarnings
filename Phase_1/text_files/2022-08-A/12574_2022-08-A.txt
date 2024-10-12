@@ -1802,7 +1802,7 @@ The Train Station (Leon, Juan)
 broke out,drifted late
 29May22 2LA7
 3
-Fired Up for This 1 (Ayala, Jesus)
+Fired-Up-for-This-1 (Ayala, Jesus)
 126 b
 3
 6
@@ -1952,7 +1952,7 @@ The Train Station
 82
 72 3/4
 3
-Fired Up for This 1
+Fired-Up-for-This-1
 6
 71/2
 71 1/4

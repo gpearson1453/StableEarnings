@@ -776,7 +776,7 @@ Atom Eve B (Alvarez, Arturo)
 drifted out
 ---
 1
-Hobo 63 (Luna, Ubaldo)
+Hobo-63 (Luna, Ubaldo)
 126 bf
 1
 2
@@ -893,7 +893,7 @@ Atom Eve B
 61 1/4
 63/4
 1
-Hobo 63
+Hobo-63
 2
 4Neck
 73 1/4

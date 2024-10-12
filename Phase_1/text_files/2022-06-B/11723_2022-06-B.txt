@@ -701,7 +701,7 @@ L bk
 early bid, weakened
 21May22 1DED7
 5
-One Sweet Lady 1 (Alvarez, Jr., David)
+One-Sweet-Lady-1 (Alvarez, Jr., David)
 122
 L bk
 5
@@ -765,7 +765,7 @@ New Trainer: Martin Gallegos
 New Owner: Vista Del Sol, Inc.
 Claiming Prices:
 2 - Deuces Gone Rogue: $5,000; 7 - Fdd Lady Patriot: $5,000; 3 - Locomotive: $5,000; 1 - Annie Likes Corona: $5,000;
-5 - One Sweet Lady 1: $5,000; 6 - Im That Royal Guy: $5,000; 4 - Handling Business: $5,000; 8 - Matthewfivesixseven:
+5 - One-Sweet-Lady-1: $5,000; 6 - Im That Royal Guy: $5,000; 4 - Handling Business: $5,000; 8 - Matthewfivesixseven:
 $5,000;
 Total WPS Pool: $10,513
 Pgm Horse
@@ -834,7 +834,7 @@ Annie Likes Corona
 21/2
 41
 5
-One Sweet Lady 1
+One-Sweet-Lady-1
 7
 51 1/4
 51 1/4

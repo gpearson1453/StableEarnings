@@ -820,7 +820,7 @@ High Weeds (Esqueda, Erik)
 closing
 20Jul22 10IND1
 3
-Rc Solider 4 (Vazquez-Gomez, Giovani)
+Rc-Solider-4 (Vazquez-Gomez, Giovani)
 129 bf
 3
 1
@@ -965,7 +965,7 @@ High Weeds
 51
 41 1/4
 3
-Rc Solider 4
+Rc-Solider-4
 1
 1Neck
 1Head

@@ -1765,7 +1765,7 @@ Jess a Comet Ride (De La Torre, Julio)
 off bit slow,in tight
 9Oct22 3LA5
 8
-Fired Up for This 1 (Cervantes, Armando)
+Fired-Up-for-This-1 (Cervantes, Armando)
 126 b
 8
 1
@@ -1896,7 +1896,7 @@ Jess a Comet Ride
 61 3/4
 62
 8
-Fired Up for This 1
+Fired-Up-for-This-1
 1
 4Neck
 72 1/2

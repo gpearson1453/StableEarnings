@@ -2096,7 +2096,7 @@ L b
 slight stumble start
 ---
 8
-Rc Solider 4 (Vazquez-Gomez, Giovani)
+Rc-Solider-4 (Vazquez-Gomez, Giovani)
 131
 bf
 8
@@ -2234,7 +2234,7 @@ Wl Pandemic
 51 1/4
 61 3/4
 8
-Rc Solider 4
+Rc-Solider-4
 5
 71 1/2
 72

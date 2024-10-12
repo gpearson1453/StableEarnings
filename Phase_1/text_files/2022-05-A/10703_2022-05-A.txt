@@ -599,7 +599,7 @@ Gypsy Rogue (Trujillo, Mario)
 mild bid, evenly
 ---
 6
-One Sweet Lady 1 (Alvarez, David)
+One-Sweet-Lady-1 (Alvarez, David)
 124 L bfk
 6
 5
@@ -727,7 +727,7 @@ Gypsy Rogue
 52 1/2
 63/4
 6
-One Sweet Lady 1
+One-Sweet-Lady-1
 5
 72 3/4
 73

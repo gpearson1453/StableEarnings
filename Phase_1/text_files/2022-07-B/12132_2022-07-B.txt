@@ -2311,7 +2311,7 @@ Odds Ind. Time
 Sp. In. Comments
 2Jul22 16IND3
 9
-Rc Solider 4 (Vazquez-Gomez, Giovani)
+Rc-Solider-4 (Vazquez-Gomez, Giovani)
 131
 bf
 9
@@ -2441,7 +2441,7 @@ L bf
 bumped st, forced out
 Run-Up: 0 feet
 Winner:
-Rc Solider 4, Bay Colt, by Bv Travelin Soldier out of Sweet First Jean, by Sweet First Down. Foaled Mar 15, 2020 in Kansas.
+Rc-Solider-4, Bay Colt, by Bv Travelin Soldier out of Sweet First Jean, by Sweet First Down. Foaled Mar 15, 2020 in Kansas.
 Breeder: Robert Rodgers
 Owner: Jose Manjarrez
 Trainer: Vazquez, Jessica
@@ -2451,7 +2451,7 @@ Win
 Place
 Show
 9
-Rc Solider 4
+Rc-Solider-4
 25.60
 7.40
 4.40
@@ -2496,7 +2496,7 @@ Start
 Str
 Fin
 9
-Rc Solider 4
+Rc-Solider-4
 2
 1Head
 1Head

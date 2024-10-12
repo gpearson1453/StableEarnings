@@ -2074,7 +2074,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 1
-Jewel 63 (Hernandez, Eleazar)
+Jewel-63 (Hernandez, Eleazar)
 124 L b
 1
 1
@@ -2178,7 +2178,7 @@ Jmg an Unquiet Mind (Maldonado, Floriberto)
 tight early,checked
 Run-Up: 0 feet
 Winner:
-Jewel 63, Brown Filly, by Carters Cartel out of Jewels Chicawa, by First Down Jewel. Foaled Apr 07, 2020 in Louisiana.
+Jewel-63, Brown Filly, by Carters Cartel out of Jewels Chicawa, by First Down Jewel. Foaled Apr 07, 2020 in Louisiana.
 Breeder: Kirt B Chaisson
 Owner: SLC Racing, LLC
 Trainer: Hernandez, Leonel
@@ -2188,7 +2188,7 @@ Win
 Place
 Show
 1
-Jewel 63
+Jewel-63
 10.80
 5.60
 2.80
@@ -2238,7 +2238,7 @@ Str1
 Str
 Fin
 1
-Jewel 63
+Jewel-63
 1
 11
 11

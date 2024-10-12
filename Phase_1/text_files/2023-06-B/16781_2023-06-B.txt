@@ -2129,7 +2129,7 @@ Just a Blue Peanut (Diaz, Edgar)
 slight bobble st,brshd
 8Oct22 5IND6
 4
-Rc Solider 4 (Vazquez-Gomez, Giovani)
+Rc-Solider-4 (Vazquez-Gomez, Giovani)
 131 bf
 4
 5
@@ -2253,7 +2253,7 @@ Just a Blue Peanut
 102
 92 1/4
 4
-Rc Solider 4
+Rc-Solider-4
 5
 63/4
 81 1/2

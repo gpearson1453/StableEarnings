@@ -964,7 +964,7 @@ Poor Man Blues (Pina, Rolando)
 no menace,mid-pack
 13Aug22 4IND5
 3
-Rc Solider 4 (Vazquez-Gomez, Giovani)
+Rc-Solider-4 (Vazquez-Gomez, Giovani)
 130 bf
 3
 6
@@ -1089,7 +1089,7 @@ Poor Man Blues
 42
 53
 3
-Rc Solider 4
+Rc-Solider-4
 6
 41
 52

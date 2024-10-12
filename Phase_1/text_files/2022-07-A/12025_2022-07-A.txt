@@ -2069,7 +2069,7 @@ bf
 off slow, no bid
 16Jun22 8DED5
 9
-Hobo 63 (Luna, Ubaldo)
+Hobo-63 (Luna, Ubaldo)
 126
 L bfk
 9
@@ -2086,7 +2086,7 @@ Sheza Loto Ticket, Gray Filly, by Mr Piloto out of Fishers Jetsetter, by Fishers
 Breeder: Steve M Duhon
 Owner: Fausto G. Mendoza
 Trainer: Huitron, Joel
-3 Claimed Horse(s): Hobo 63
+3 Claimed Horse(s): Hobo-63
 New Trainer: Ruben Chavez
 New Owner: Ruben Chavez
 Jrs Martini Tee
@@ -2098,7 +2098,7 @@ New Owner: Vista Del Sol, Inc.
 Claiming Prices:
 8 - Sheza Loto Ticket: $5,000; 1 - Nl Lindas Alazoom: $5,000; 10 - Jj One Sweet Corona: $5,000; 6 - Jrs Martini Tee:
 $5,000; 7 - Tm Louisiana Beduino: $5,000; 4 - Go Little Vick Cash: $5,000; 5 - Ima Calente Kid: $5,000; 3 - Jewels
-Struttin: $5,000; 2 - Twobit Dixie Darlin: $5,000; 9 - Hobo 63: $5,000;
+Struttin: $5,000; 2 - Twobit Dixie Darlin: $5,000; 9 - Hobo-63: $5,000;
 Total WPS Pool: $28,485
 Pgm Horse
 Win
@@ -2202,7 +2202,7 @@ Twobit Dixie Darlin
 92
 96 1/4
 9
-Hobo 63
+Hobo-63
 10
 105
 1011

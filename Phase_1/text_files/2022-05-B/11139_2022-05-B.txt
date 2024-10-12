@@ -333,7 +333,7 @@ Hay Shaker (Lopez, Henry)
 broke in,lacked rally
 7May22 7LA1
 6
-Fired Up for This 1 (Cervantes, Armando)
+Fired-Up-for-This-1 (Cervantes, Armando)
 126 b
 6
 7
@@ -443,7 +443,7 @@ Hay Shaker
 51 1/4
 62 1/4
 6
-Fired Up for This 1
+Fired-Up-for-This-1
 7
 81 1/2
 82 1/4

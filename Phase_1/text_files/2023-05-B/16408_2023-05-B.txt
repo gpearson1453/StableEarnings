@@ -1637,7 +1637,7 @@ L bf
 bumped, drifted in
 6May23 7DED8
 6
-Jewel 63 (Ortiz, Gilbert)
+Jewel-63 (Ortiz, Gilbert)
 126
 L bf
 5
@@ -1742,7 +1742,7 @@ Jess Perry Pretty
 83 1/2
 85
 6
-Jewel 63
+Jewel-63
 9
 94 1/2
 96

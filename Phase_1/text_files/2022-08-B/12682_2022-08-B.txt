@@ -823,7 +823,7 @@ Bp Hes Dauntless (Flores, James)
 dueled, best,
 22Jul22 4RUI1
 3
-Chance 123 (Candanosa, Bryan)
+Chance-123 (Candanosa, Bryan)
 125 L bk
 3
 3
@@ -955,7 +955,7 @@ Bp Hes Dauntless
 6.00
 4.40
 3
-Chance 123
+Chance-123
 9.00
 5.80
 4
@@ -990,7 +990,7 @@ Bp Hes Dauntless
 1Head
 11/2
 3
-Chance 123
+Chance-123
 3
 3Head
 2Head

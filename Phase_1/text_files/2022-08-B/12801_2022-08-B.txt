@@ -927,7 +927,7 @@ Odds Ind. Time
 Sp. In. Comments
 29Jun22 4DED5
 5
-One Sweet Lady 1 (Edison, Randy)
+One-Sweet-Lady-1 (Edison, Randy)
 122 L b
 4
 1
@@ -1043,7 +1043,7 @@ Heza Righteous Man (Rodriguez, Jose)
 duck in, lost rider
 Run-Up: 0 feet
 Winner:
-One Sweet Lady 1, Sorrel Filly, by One Sweet Jess out of Look At Your Faith, by Look Forward. Foaled Jan 25, 2020 in Louisiana.
+One-Sweet-Lady-1, Sorrel Filly, by One Sweet Jess out of Look At Your Faith, by Look Forward. Foaled Jan 25, 2020 in Louisiana.
 Breeder: Charles Ray Pourciau
 Owner: Charles R. Pourciau
 Trainer: Roberts, Sr., Kenneth
@@ -1054,7 +1054,7 @@ Jess Set the Bar
 New Trainer: Jorge G. Lopez
 New Owner: Zach Stevenson
 Claiming Prices:
-5 - One Sweet Lady 1: $5,000; 9 - Hometown Bar: $5,000; 10 - Jess Set the Bar: $5,000; 3 - Ttt Ivan Moonwalker:
+5 - One-Sweet-Lady-1: $5,000; 9 - Hometown Bar: $5,000; 10 - Jess Set the Bar: $5,000; 3 - Ttt Ivan Moonwalker:
 $5,000; 7 - Tc Jess Sabrina: $5,000; 6 - Dotties Caliente: $5,000; 8 - Biloxi Jewel: $5,000; 2 - Heza Dashing Rogue:
 $5,000; 1 - Heza Righteous Man: $5,000;
 Scratched Horse(s): Inseperable Dream (Veterinarian)
@@ -1064,7 +1064,7 @@ Win
 Place
 Show
 5
-One Sweet Lady 1
+One-Sweet-Lady-1
 27.00
 12.00
 7.00
@@ -1115,7 +1115,7 @@ Str1
 Str
 Fin
 5
-One Sweet Lady 1
+One-Sweet-Lady-1
 1
 21/2
 21/2

@@ -1810,7 +1810,7 @@ One Eye Angel (Hernandez, Rene)
 awkward st, no bid
 15Jul22 9DED10
 10
-Hobo 63 (Aguilar-Orozco, Heriberto)
+Hobo-63 (Aguilar-Orozco, Heriberto)
 126 L b
 8
 6
@@ -1832,7 +1832,7 @@ New Trainer: Phillip Calais, Jr.
 New Owner: Gilbert Matthews
 Claiming Prices:
 6 - Mr Secret Lee: $5,000; 5 - Shiney Things: $5,000; 4 - Blue Bye Patriot: $5,000; 2 - Mr Jespo Bell: $5,000; 3 - Jw
-Elijah Comment: $5,000; 9 - Hookedonsevennseven: $5,000; 8 - One Eye Angel: $5,000; 10 - Hobo 63: $5,000;
+Elijah Comment: $5,000; 9 - Hookedonsevennseven: $5,000; 8 - One Eye Angel: $5,000; 10 - Hobo-63: $5,000;
 Dead Heats:
 5th place - # 3 Jw Elijah Comment
 5th place - # 9 Hookedonsevennseven
@@ -1934,7 +1934,7 @@ One Eye Angel
 74 1/2
 75
 10
-Hobo 63
+Hobo-63
 6
 82 1/2
 85 1/2

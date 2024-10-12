@@ -1199,7 +1199,7 @@ Start
 Str
 Fin
 4
-Technical Analysis (IRE)3
+Technical Analysis (IRE) 3
 11 1/2
 11/2
 11 1/2

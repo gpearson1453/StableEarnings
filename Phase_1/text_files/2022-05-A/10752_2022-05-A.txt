@@ -1229,7 +1229,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 6
-Fired Up for This 1 (Cervantes, Armando)
+Fired-Up-for-This-1 (Cervantes, Armando)
 126
 b
 6
@@ -1320,7 +1320,7 @@ b
 pinballed start
 Run-Up: 0 feet
 Winner:
-Fired Up for This 1, Sorrel Colt, by Corona Cartel out of Lady Perry On Fire, by Walk Thru Fire. Foaled Jan 28, 2020 in Utah.
+Fired-Up-for-This-1, Sorrel Colt, by Corona Cartel out of Lady Perry On Fire, by Walk Thru Fire. Foaled Jan 28, 2020 in Utah.
 Breeder: McColee Land & Livestock Llc
 Owner: Saxton, Travis and Wendy
 Trainer: Arrossa, Monty
@@ -1331,7 +1331,7 @@ Win
 Place
 Show
 6
-Fired Up for This 1
+Fired-Up-for-This-1
 4.00
 2.80
 2.40
@@ -1368,7 +1368,7 @@ Start
 Str
 Fin
 6
-Fired Up for This 1
+Fired-Up-for-This-1
 1
 11/2
 11
