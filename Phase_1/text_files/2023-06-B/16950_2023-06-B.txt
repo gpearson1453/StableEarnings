@@ -1754,7 +1754,7 @@ L b
 bid, faded
 2Jun23 1RP4
 3
-Vr El 440 (Perez, Antonio)
+Vr-El-440 (Perez, Antonio)
 126
 L bk
 3
@@ -1786,7 +1786,7 @@ Owner: Ramon Berumen
 Trainer: Covarrubias, Rodrigo
 Claiming Prices:
 7 - Polliticalescalation: $15,000; 1 - A Chick for You Mom: $15,000; 2 - Sassy Double: $15,000; 6 - Dan Delion: $15,000;
-10 - Paint Me a Redneck: $15,000; 4 - Fantastic Flemings: $15,000; 3 - Vr El 440: $15,000; 8 - Pyc Summit: $15,000;
+10 - Paint Me a Redneck: $15,000; 4 - Fantastic Flemings: $15,000; 3 - Vr-El-440: $15,000; 8 - Pyc Summit: $15,000;
 Scratched Horse(s): A Little Bit Chicky (Veterinarian), Blue Two (Trainer)
 Total WPS Pool: $7,240
 Pgm Horse
@@ -1865,7 +1865,7 @@ Fantastic Flemings
 62 1/4
 62 3/4
 3
-Vr El 440
+Vr-El-440
 8
 72 1/2
 73
@@ -2234,7 +2234,7 @@ L bfk
 broke inward
 13May23 2RP1
 7
-Rc Secret 6 (Romero, Josh)
+Rc-Secret-6 (Romero, Josh)
 124
 L b
 7
@@ -2367,7 +2367,7 @@ Inseparable Friends
 61 3/4
 62 3/4
 7
-Rc Secret 6
+Rc-Secret-6
 8
 72
 73

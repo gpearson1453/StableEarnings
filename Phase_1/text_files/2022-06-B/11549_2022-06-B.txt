@@ -1160,7 +1160,7 @@ b
 drft/bp erly,2nd best
 29May22 10LA7
 2
-Stella Girl 47 (Lopez, Henry)
+Stella-Girl-47 (Lopez, Henry)
 126
 b
 2
@@ -1218,7 +1218,7 @@ Elise Matisse
 2.20
 2.10
 2
-Stella Girl 47
+Stella-Girl-47
 3.20
 Wager Type
 Winning Numbers
@@ -1256,7 +1256,7 @@ Elise Matisse
 23/4
 21 1/4
 2
-Stella Girl 47
+Stella-Girl-47
 5
 31
 32

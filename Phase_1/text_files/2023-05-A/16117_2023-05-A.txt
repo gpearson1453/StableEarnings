@@ -289,7 +289,7 @@ Odds Ind. Time
 Sp. In. Comments
 20Apr23 10RP7
 10
-Rc Secret 6 (Salazar, Jesus)
+Rc-Secret-6 (Salazar, Jesus)
 124 L b
 9
 2
@@ -406,12 +406,12 @@ Pr Moonkruzer (Ramirez, Alexis)
 lost path early
 Run-Up: 0 feet
 Winner:
-Rc Secret 6, Gray Filly, by Hez Our Secret out of Nocoronajustbud, by Strawflyin Buds. Foaled Feb 22, 2020 in Oklahoma.
+Rc-Secret-6, Gray Filly, by Hez Our Secret out of Nocoronajustbud, by Strawflyin Buds. Foaled Feb 22, 2020 in Oklahoma.
 Breeder: Rodrigo Covarrubias
 Owner: Vaqueros Racing LLC
 Trainer: Covarrubias, Rodrigo
 Claiming Prices:
-10 - Rc Secret 6: $20,000; 4 - Goodgollymissmollie: $20,000; 5 - Cryptic Ruler: $20,000; 1 - Ms Relentless Moon:
+10 - Rc-Secret-6: $20,000; 4 - Goodgollymissmollie: $20,000; 5 - Cryptic Ruler: $20,000; 1 - Ms Relentless Moon:
 $20,000; 8 - Hear My Echo V: $20,000; 6 - Painted Spirits: $20,000; 2 - Rc Es Lijera: $20,000; 7 - Pitchalilfit: $20,000; 3
 - Pr Moonkruzer: $20,000;
 Scratched Horse(s): Call It Corona (Gate) (Earned $90.00)
@@ -421,7 +421,7 @@ Win
 Place
 Show
 10
-Rc Secret 6
+Rc-Secret-6
 8.20
 4.20
 3.00
@@ -463,7 +463,7 @@ Str1
 Str
 Fin
 10
-Rc Secret 6
+Rc-Secret-6
 2
 2Head
 1Head

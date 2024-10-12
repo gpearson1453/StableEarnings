@@ -2209,7 +2209,7 @@ L f
 awkward start
 ---
 4
-Carls Hindsight 2020 (Candanosa, Bryan)
+Carls-Hindsight-2020 (Candanosa, Bryan)
 125
 L bf
 4
@@ -2350,7 +2350,7 @@ Send Me Furrst
 53
 53 1/2
 4
-Carls Hindsight 2020
+Carls-Hindsight-2020
 7
 73 1/2
 63 3/4

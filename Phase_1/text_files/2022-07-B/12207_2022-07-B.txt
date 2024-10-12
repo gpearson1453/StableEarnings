@@ -1392,7 +1392,7 @@ Chew N Candy (Romero, Josh)
 respectable debut
 15May22 4RP4
 7
-Rc Secret 6 (Salazar, Jesus)
+Rc-Secret-6 (Salazar, Jesus)
 124 L b
 7
 6
@@ -1546,7 +1546,7 @@ Chew N Candy
 31/2
 41 3/4
 7
-Rc Secret 6
+Rc-Secret-6
 6
 3Head
 51 1/4

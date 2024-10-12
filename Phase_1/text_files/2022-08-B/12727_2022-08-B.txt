@@ -1810,7 +1810,7 @@ All Forgotten (Leon, Juan)
 off slow, lost path
 31Jul22 5LA3
 6
-Stella Girl 47 (Lara, Irving)
+Stella-Girl-47 (Lara, Irving)
 127 b
 5
 2
@@ -1962,7 +1962,7 @@ All Forgotten
 72
 72 1/2
 6
-Stella Girl 47
+Stella-Girl-47
 2
 33/4
 51 1/2

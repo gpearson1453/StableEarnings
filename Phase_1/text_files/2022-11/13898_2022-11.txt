@@ -998,7 +998,7 @@ Pitchalilfit (Smith, Cody)
 failed to menace
 2Oct22 7WRD8
 3
-Vr El 440 (Salazar, Jesus)
+Vr-El-440 (Salazar, Jesus)
 124 L b
 2
 7
@@ -1017,7 +1017,7 @@ Owner: Painted Faith Racing
 Trainer: Keener, Dee
 Claiming Prices:
 1 - Pfr Coopsbestproject: $10,000; 6 - Wild Bout Dashin: $10,000; 7 - Royal Tumble: $10,000; 4 - Turbo Toasted Dash:
-$10,000; 5 - Beau Lota: $10,000; 8 - Pitchalilfit: $10,000; 3 - Vr El 440: $10,000;
+$10,000; 5 - Beau Lota: $10,000; 8 - Pitchalilfit: $10,000; 3 - Vr-El-440: $10,000;
 Scratched Horse(s): Apollitical Yankee (Stewards)
 Total WPS Pool: $11,973
 Pgm Horse
@@ -1108,7 +1108,7 @@ Pitchalilfit
 62 1/2
 62 1/2
 3
-Vr El 440
+Vr-El-440
 7
 63/4
 72 3/4

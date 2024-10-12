@@ -1585,7 +1585,7 @@ Chibs (Gutierrez, Gonzalo)
 unable to match
 30Jun23 9FMT7
 6
-Vr El 440 (Perez, Antonio)
+Vr-El-440 (Perez, Antonio)
 126 L bk
 5
 7
@@ -1623,7 +1623,7 @@ New Trainer: Mary Meza
 New Owner: Juan Carlos Meza
 Claiming Prices:
 4 - Genuine Blue Corona: $10,000; 9 - Jk Blue Hero: $10,000; 5 - Anna Jess Chacha: $10,000; 2 - Cecis Desert
-Wonder: $10,000; 8 - Paint Me a Redneck: $10,000; 1 - Chibs: $10,000; 6 - Vr El 440: $10,000; 7 - Fantastic Flemings:
+Wonder: $10,000; 8 - Paint Me a Redneck: $10,000; 1 - Chibs: $10,000; 6 - Vr-El-440: $10,000; 7 - Fantastic Flemings:
 $10,000;
 Scratched Horse(s): Cartel Little Okey (Veterinarian)
 Total WPS Pool: $4,930
@@ -1722,7 +1722,7 @@ Chibs
 63/4
 61 3/4
 6
-Vr El 440
+Vr-El-440
 7
 81
 71 3/4

@@ -1714,7 +1714,7 @@ Fancy Prized Wagon (Cruz, Roman)
 late try
 19Sep22 12WRD9
 7
-Rc Secret 6 (Valles Jr., Gonzalo)
+Rc-Secret-6 (Valles Jr., Gonzalo)
 129 L b
 6
 8
@@ -1772,7 +1772,7 @@ Owner: Stephen M. Harris
 Trainer: Crawford, Clinton
 Claiming Prices:
 10 - Paradise Purl: $15,000; 9 - Sherman T Potter: $15,000; 6 - Blue Two: $15,000; 4 - Apollitical Dancer: $15,000; 8 -
-Fancy Prized Wagon: $15,000; 7 - Rc Secret 6: $15,000; 5 - Barrabas Jess: $15,000; 2 - Passing Ethics: $15,000; 3 - A
+Fancy Prized Wagon: $15,000; 7 - Rc-Secret-6: $15,000; 5 - Barrabas Jess: $15,000; 2 - Passing Ethics: $15,000; 3 - A
 Little Bit Chicky: $15,000;
 Scratched Horse(s): Coronaspursesnatcher (Gate)
 Total WPS Pool: $7,298
@@ -1862,7 +1862,7 @@ Fancy Prized Wagon
 61 1/4
 54
 7
-Rc Secret 6
+Rc-Secret-6
 8
 6Neck
 51 1/4

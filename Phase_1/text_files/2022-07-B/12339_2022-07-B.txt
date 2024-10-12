@@ -888,7 +888,7 @@ Kr Bikini Bar (Lozano, Ruben)
 came in/bp,shied 1/16
 9Jul22 8LA5
 5
-Stella Girl 47 (Ayala, Jesus)
+Stella-Girl-47 (Ayala, Jesus)
 126 b
 5
 1
@@ -972,7 +972,7 @@ Kr Bikini Bar
 6.20
 4.00
 5
-Stella Girl 47
+Stella-Girl-47
 3.00
 Wager Type
 Winning Numbers
@@ -1013,7 +1013,7 @@ Kr Bikini Bar
 21 1/2
 21 1/2
 5
-Stella Girl 47
+Stella-Girl-47
 1
 31 1/4
 31 1/2

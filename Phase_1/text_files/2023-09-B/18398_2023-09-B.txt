@@ -1937,7 +1937,7 @@ Memories of Dynasty (Cruz, Roman)
 close up, no kick
 11Aug23 3PRM5
 4
-Rc Secret 6 (Salazar, Jesus)
+Rc-Secret-6 (Salazar, Jesus)
 124 L b
 4
 8
@@ -1985,7 +1985,7 @@ New Trainer: Shae L. Cox
 New Owner: SLC Racing, LLC
 Claiming Prices:
 10 - Hes Appropriate: $15,000; 6 - Redd Dirt Runner: $15,000; 9 - Vf Bomb Shell: $15,000; 1 - Chew N Candy: $15,000;
-8 - Eyema Lady Soldier: $15,000; 5 - Make It Captain: $15,000; 2 - Memories of Dynasty: $15,000; 4 - Rc Secret 6:
+8 - Eyema Lady Soldier: $15,000; 5 - Make It Captain: $15,000; 2 - Memories of Dynasty: $15,000; 4 - Rc-Secret-6:
 $15,000; 3 - Phunatic: $15,000; 7 - A a Potrillo: $15,000;
 Total WPS Pool: $3,546
 Pgm Horse
@@ -2077,7 +2077,7 @@ Memories of Dynasty
 61
 73
 4
-Rc Secret 6
+Rc-Secret-6
 8
 83/4
 81 1/4

@@ -2148,7 +2148,7 @@ Nomad Too (Aceves, Rodrigo)
 lug out early,evenly
 3Apr22 6LA1
 2
-Stella Girl 47 (Nicasio, Jose)
+Stella-Girl-47 (Nicasio, Jose)
 126 b
 2
 7
@@ -2278,7 +2278,7 @@ Nomad Too
 61 1/4
 62
 2
-Stella Girl 47
+Stella-Girl-47
 7
 72 1/2
 74 1/4

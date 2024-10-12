@@ -420,7 +420,7 @@ L fk
 clr path, propelled
 13Nov22 7WRD4
 1
-Rc Secret 6 (Garcia, Ramiro)
+Rc-Secret-6 (Garcia, Ramiro)
 124
 L b
 1
@@ -490,7 +490,7 @@ Breeder: J Garvan Kelly/Nancy Yearsley
 Owner: Dusty Rose Ranch LLC
 Trainer: Capps, Stacey
 Claiming Prices:
-2 - Honour Bright: $20,000; 1 - Rc Secret 6: $20,000; 4 - Goodgollymissmollie: $20,000; 5 - Sassy Double: $20,000; 6 -
+2 - Honour Bright: $20,000; 1 - Rc-Secret-6: $20,000; 4 - Goodgollymissmollie: $20,000; 5 - Sassy Double: $20,000; 6 -
 Orbium: $20,000; 3 - Dangerous Deva: $20,000;
 Total WPS Pool: $14,439
 Pgm Horse
@@ -503,7 +503,7 @@ Honour Bright
 2.60
 2.20
 1
-Rc Secret 6
+Rc-Secret-6
 4.60
 2.80
 4
@@ -536,7 +536,7 @@ Honour Bright
 11/2
 11/2
 1
-Rc Secret 6
+Rc-Secret-6
 2
 21/2
 21/2

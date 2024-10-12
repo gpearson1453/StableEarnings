@@ -60,7 +60,7 @@ Chick Painted Blonde (Castro, Ruben)
 foatd out,best of rest
 ---
 1
-Vr El 440 (Dominguez, Jonathan)
+Vr-El-440 (Dominguez, Jonathan)
 124 L b
 1
 3
@@ -133,7 +133,7 @@ Trainer: Willis, Eddie
 New Trainer: Roberto Duenes
 New Owner: Edgar L. Mejia
 Claiming Prices:
-10 - Bv Hear My Word: $15,000; 2 - Pevs Dirty Socks: $15,000; 9 - Chick Painted Blonde: $15,000; 1 - Vr El 440:
+10 - Bv Hear My Word: $15,000; 2 - Pevs Dirty Socks: $15,000; 9 - Chick Painted Blonde: $15,000; 1 - Vr-El-440:
 $15,000; 3 - Mts Hero: $15,000; 5 - Silver Beemer: $15,000; 4 - Redoinit: $15,000; 8 - Jabo: $15,000;
 Scratched Horse(s): A Shades of Cold (Veterinarian), Famous Painted Wagon (Veterinarian)
 Total WPS Pool: $8,748
@@ -194,7 +194,7 @@ Chick Painted Blonde
 33
 32 1/2
 1
-Vr El 440
+Vr-El-440
 3
 32
 44

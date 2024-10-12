@@ -1422,7 +1422,7 @@ L b
 asked w/o response
 19Sep23 9WRD8
 10
-Rc Secret 6 (Cruz, Roman)
+Rc-Secret-6 (Cruz, Roman)
 124
 L b
 10
@@ -1455,7 +1455,7 @@ Trainer: Whitekiller, Matt
 Claiming Prices:
 8 - Diamond Tales: $15,000; 1 - Hide Yer Crazee: $15,000; 2 - Jtc Rainbow Cash: $15,000; 3 - Make It Captain:
 $15,000; 7 - High Weeds: $15,000; 6 - Shawbrother: $15,000; 5 - Mitey Defiant: $15,000; 4 - Asouthern Belle Star:
-$15,000; 10 - Rc Secret 6: $15,000; 9 - Vf Bomb Shell: $15,000;
+$15,000; 10 - Rc-Secret-6: $15,000; 9 - Vf Bomb Shell: $15,000;
 Total WPS Pool: $5,448
 Pgm Horse
 Win
@@ -1547,7 +1547,7 @@ Asouthern Belle Star
 63/4
 83
 10
-Rc Secret 6
+Rc-Secret-6
 7
 92 3/4
 94 3/4

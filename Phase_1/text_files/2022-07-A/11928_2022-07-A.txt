@@ -1535,7 +1535,7 @@ Mas Interest (Aceves, Rodrigo)
 bump hard st,evenly
 19Jun22 7LA3
 7
-Stella Girl 47 (Lopez, Henry)
+Stella-Girl-47 (Lopez, Henry)
 126 b
 5
 1
@@ -1650,7 +1650,7 @@ Mas Interest
 43/4
 41
 7
-Stella Girl 47
+Stella-Girl-47
 1
 41/2
 51

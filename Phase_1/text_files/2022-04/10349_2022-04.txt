@@ -997,7 +997,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 4
-Stella Girl 47 (Sanchez, Ramon)
+Stella-Girl-47 (Sanchez, Ramon)
 126
 b
 4
@@ -1075,7 +1075,7 @@ Wenonah Dash (Lopez, Henry)
 stumbled sharply start
 Run-Up: 0 feet
 Winner:
-Stella Girl 47, Bay Filly, by Stel Corona out of Gm Silver Dreams, by Royal Quick Dash. Foaled Mar 04, 2020 in Utah.
+Stella-Girl-47, Bay Filly, by Stel Corona out of Gm Silver Dreams, by Royal Quick Dash. Foaled Mar 04, 2020 in Utah.
 Breeder: Steven G McIntyre
 Owner: Jones, Paul C., Thompson Racing Inc. and McIntyre, Steven G.
 Trainer: Jones, Paul
@@ -1085,7 +1085,7 @@ Win
 Place
 Show
 4
-Stella Girl 47
+Stella-Girl-47
 11.80
 4.00
 3.20
@@ -1126,7 +1126,7 @@ Start
 Str
 Fin
 4
-Stella Girl 47
+Stella-Girl-47
 1
 1Neck
 1Neck

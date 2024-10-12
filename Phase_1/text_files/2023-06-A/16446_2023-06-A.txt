@@ -60,7 +60,7 @@ L b
 close up, outfnshd
 21May23 6RP5
 6
-Vr El 440 (Escobedo, Edwin)
+Vr-El-440 (Escobedo, Edwin)
 124
 L bk
 5
@@ -133,7 +133,7 @@ Trainer: Licona-Vazquez, Juvenal
 New Trainer: Ivan Carnero
 New Owner: Polo Vazquez
 Claiming Prices:
-7 - A a Potrillo: $10,000; 3 - Farmersonly Chickman: $10,000; 4 - Yo Adrine: $10,000; 6 - Vr El 440: $10,000; 1 - Mc
+7 - A a Potrillo: $10,000; 3 - Farmersonly Chickman: $10,000; 4 - Yo Adrine: $10,000; 6 - Vr-El-440: $10,000; 1 - Mc
 Shes Flying: $10,000; 2 - Barrabas Jess: $10,000; 9 - Balance Be Gone: $10,000; 8 - Speedwagon Express: $10,000;
 Scratched Horse(s): Relentless Speed (Veterinarian)
 Total WPS Pool: $6,476
@@ -189,7 +189,7 @@ Yo Adrine
 43/4
 33/4
 6
-Vr El 440
+Vr-El-440
 2
 53/4
 43/4

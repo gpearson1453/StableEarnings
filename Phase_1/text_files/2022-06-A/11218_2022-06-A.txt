@@ -972,7 +972,7 @@ Pop Sugar Susie (Romero, Josh)
 bmpd out at start
 15May22 4RP8
 5
-Vr El 440 (Cruz, Roman)
+Vr-El-440 (Cruz, Roman)
 124 L b
 5
 5
@@ -991,7 +991,7 @@ Owner: Janet Martinez
 Trainer: Chavira, Luz
 Claiming Prices:
 3 - Sara Getin: $15,000; 2 - Smokin On the Beach: $15,000; 1 - Miss Dashin Tambien: $15,000; 4 - Pop Sugar Susie:
-$15,000; 5 - Vr El 440: $15,000;
+$15,000; 5 - Vr-El-440: $15,000;
 Disqualification(s):
 # 2 Smokin On the Beach from 2 to 5
 Total WPS Pool: $2,836
@@ -1058,7 +1058,7 @@ Pop Sugar Susie
 43
 45
 5
-Vr El 440
+Vr-El-440
 5
 53
 54 1/2

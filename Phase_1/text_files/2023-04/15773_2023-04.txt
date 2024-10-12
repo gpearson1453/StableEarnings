@@ -2291,7 +2291,7 @@ Xplosive Fire (Escobedo, Edwin)
 lost path late
 23Mar23 3RP2
 1
-Rc Secret 6 (Garcia, Ramiro)
+Rc-Secret-6 (Garcia, Ramiro)
 124 L b
 1
 4
@@ -2415,7 +2415,7 @@ Xplosive Fire
 61
 62 1/2
 1
-Rc Secret 6
+Rc-Secret-6
 4
 61/2
 72

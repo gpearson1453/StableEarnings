@@ -1395,7 +1395,7 @@ L b
 dueled all the way
 18Oct22 9WRD6
 8
-Rc Secret 6 (Gutierrez, Gonzalo)
+Rc-Secret-6 (Gutierrez, Gonzalo)
 129
 L b
 8
@@ -1491,7 +1491,7 @@ Breeder: Michelle Meiwes
 Owner: Jo Rice
 Trainer: Olmstead, Jason
 Claiming Prices:
-10 - Best N Class: $15,000; 1 - Don Boot Wagon: $15,000; 6 - Dangerous Deva: $15,000; 8 - Rc Secret 6: $15,000; 4 -
+10 - Best N Class: $15,000; 1 - Don Boot Wagon: $15,000; 6 - Dangerous Deva: $15,000; 8 - Rc-Secret-6: $15,000; 4 -
 Eagles N Corona: $15,000; 3 - Myrelentless: $15,000; 2 - Chew N Candy: $15,000; 9 - Cartelz Cowboy: $15,000; 5 -
 Wind It Up Miss Judy: $15,000; 7 - Six de Fame: $15,000;
 Total WPS Pool: $5,923
@@ -1556,7 +1556,7 @@ Dangerous Deva
 4Neck
 31/2
 8
-Rc Secret 6
+Rc-Secret-6
 9
 71/2
 43/4

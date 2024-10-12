@@ -489,7 +489,7 @@ Charlies Politician (Torres, Jorge)
 even finish
 30Jun23 11FMT7
 7
-Rc Secret 6 (Estrada, Giovany)
+Rc-Secret-6 (Estrada, Giovany)
 125 BL b
 7
 5
@@ -623,7 +623,7 @@ Charlies Politician
 41 1/2
 41
 7
-Rc Secret 6
+Rc-Secret-6
 5
 61 3/4
 63

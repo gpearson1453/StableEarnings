@@ -897,7 +897,7 @@ T Money (Hernandez, Rene)
 bumped, no threat
 25Jun22 6DED6
 8
-Carls Hindsight 2020 (Rodriguez, Everardo)
+Carls-Hindsight-2020 (Rodriguez, Everardo)
 122 L bf
 7
 7
@@ -927,7 +927,7 @@ Moonin Cindys Eagle, Sorrel Gelding, by Moonin the Eagle out of Streakin Cindy, 
 Breeder: Russell P Mowad
 Owner: Giddy Up Racing (Jeff L. Pope)
 Trainer: Meche, Robi
-2 Claimed Horse(s): Carls Hindsight 2020
+2 Claimed Horse(s): Carls-Hindsight-2020
 New Trainer: Noe R. Sanchez
 New Owner: Gerardo Rodriguez
 Jrs Hez Majestic
@@ -935,7 +935,7 @@ New Trainer: Ruben Chavez
 New Owner: Rosendo Valdez
 Claiming Prices:
 7 - Moonin Cindys Eagle: $10,000; 9 - Little Bill Daggett: $10,000; 6 - Tee Gabe: $10,000; 4 - Jrs Hez Majestic: $10,000;
-1 - Game Train: $10,000; 3 - Favdashineagle: $10,000; 10 - T Money: $10,000; 8 - Carls Hindsight 2020: $10,000; 5 -
+1 - Game Train: $10,000; 3 - Favdashineagle: $10,000; 10 - T Money: $10,000; 8 - Carls-Hindsight-2020: $10,000; 5 -
 Jnj a Game Jess: $10,000;
 Scratched Horse(s): Photo Shop (Veterinarian)
 Total WPS Pool: $11,143
@@ -1036,7 +1036,7 @@ T Money
 83 1/2
 72 1/2
 8
-Carls Hindsight 2020
+Carls-Hindsight-2020
 7
 71
 72 1/2

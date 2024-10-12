@@ -240,7 +240,7 @@ L bk
 powerful effort
 13Nov23 9WRD4
 5
-Rc Secret 6 (Gutierrez, Gonzalo)
+Rc-Secret-6 (Gutierrez, Gonzalo)
 127
 L bk
 5
@@ -363,7 +363,7 @@ Memories of Dynasty
 6.40
 3.80
 5
-Rc Secret 6
+Rc-Secret-6
 5.00
 3.40
 10
@@ -405,7 +405,7 @@ Memories of Dynasty
 1Head
 1Head
 5
-Rc Secret 6
+Rc-Secret-6
 2
 2Head
 2Head

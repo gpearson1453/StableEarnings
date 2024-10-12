@@ -2505,7 +2505,7 @@ L
 out finished
 24Jul22 7FMT5
 9
-Rc Secret 6 (Valles Jr., Gonzalo)
+Rc-Secret-6 (Valles Jr., Gonzalo)
 129
 L b
 9
@@ -2626,7 +2626,7 @@ Kari L Cartel
 71
 82 1/4
 9
-Rc Secret 6
+Rc-Secret-6
 10
 105 1/2
 94 3/4
