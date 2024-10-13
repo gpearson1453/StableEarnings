@@ -48,8 +48,8 @@ target_string = 'old_string'  # Replace with the string you want to replace
 replacement_string = 'new_string'  # Replace with the replacement string
 
 #this should contain tuples
-both_names = [('One Handsomeprospect1', 'One Handsomeprospect 1'), ('One Handsomeprospect2', 'One Handsomeprospect 2'), ('One Handsomeprospect3', 'One Handsomeprospect 3'), ('One Handsomeprospect4', 'One Handsomeprospect 4'), ('One Handsomeprospect5', 'One Handsomeprospect 5'),
-                ('One Handsomeprospect6', 'One Handsomeprospect 6'), ('One Handsomeprospect7', 'One Handsomeprospect 7'), ('One Handsomeprospect8', 'One Handsomeprospect 8'), ('One Handsomeprospect9', 'One Handsomeprospect 9'), ('One Handsomeprospect10', 'One Handsomeprospect 10')]
+both_names = [('Queens Royal Wagoncp1', 'Queens Royal Wagoncp 1'), ('Queens Royal Wagoncp2', 'Queens Royal Wagoncp 2'), ('Queens Royal Wagoncp3', 'Queens Royal Wagoncp 3'), ('Queens Royal Wagoncp4', 'Queens Royal Wagoncp 4'), ('Queens Royal Wagoncp5', 'Queens Royal Wagoncp 5'),
+                ('Queens Royal Wagoncp6', 'Queens Royal Wagoncp 6'), ('Queens Royal Wagoncp7', 'Queens Royal Wagoncp 7'), ('Queens Royal Wagoncp8', 'Queens Royal Wagoncp 8'), ('Queens Royal Wagoncp9', 'Queens Royal Wagoncp 9'), ('Queens Royal Wagoncp10', 'Queens Royal Wagoncp 10')]
 
 #this should not contain tuples
 names = []

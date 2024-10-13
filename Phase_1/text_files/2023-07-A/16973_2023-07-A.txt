@@ -1687,7 +1687,7 @@ L bfh
 unruly loading
 ---
 8
-Corona Bug 2020 (Ernst, Bryan)
+Corona-Bug-2020 (Ernst, Bryan)
 126
 bh
 7
@@ -1788,7 +1788,7 @@ Wagon
 75 1/4
 76
 8
-Corona Bug 2020
+Corona-Bug-2020
 8
 86 3/4
 86 3/4

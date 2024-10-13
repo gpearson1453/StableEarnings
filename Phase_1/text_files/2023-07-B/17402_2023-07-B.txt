@@ -2372,7 +2372,7 @@ Eyesa Special Shera (Peralta, Luis)
 solid effort
 ---
 7
-Degree 212 (Ramos, Manuel)
+Degree-212 (Ramos, Manuel)
 131 CL b
 6
 7
@@ -2491,7 +2491,7 @@ Eyesa Special Shera
 53 1/4
 68 3/4
 7
-Degree 212
+Degree-212
 7
 71 3/4
 84 1/2

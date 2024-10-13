@@ -1616,7 +1616,7 @@ El Camalion (Torres, Daniel)
 dueled all the way
 16Jul23 4FMT6
 2
-Corona Bug 2020 (Benn, Cordarelton)
+Corona-Bug-2020 (Benn, Cordarelton)
 129 L b
 2
 5
@@ -1686,7 +1686,7 @@ Owner: SLC Racing, LLC
 Trainer: Cox, Shae
 Claiming Prices:
 10 - Blazin Legacy: $10,000; 8 - Cecis Desert Wonder: $10,000; 7 - Lottappeal: $10,000; 6 - El Camalion: $10,000; 2 -
-Corona Bug 2020: $10,000; 9 - Pitchalilfit: $10,000; 4 - Llervitaz: $10,000; 3 - Anna Jess Chacha: $10,000; 1 - Roll On
+Corona-Bug-2020: $10,000; 9 - Pitchalilfit: $10,000; 4 - Llervitaz: $10,000; 3 - Anna Jess Chacha: $10,000; 1 - Roll On
 Corona: $10,000;
 Scratched Horse(s): Lota Blue Bayou (Veterinarian)
 Total WPS Pool: $5,381
@@ -1761,7 +1761,7 @@ El Camalion
 5Head
 43 1/2
 2
-Corona Bug 2020
+Corona-Bug-2020
 5
 1Head
 2Nose

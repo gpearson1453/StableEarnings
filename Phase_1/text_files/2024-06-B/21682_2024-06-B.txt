@@ -582,7 +582,7 @@ Tiny Capitan (Canales, Jesus)
 early speed caught
 26Aug23 2SWF5
 6
-Degree 212 (Ramos, Manuel)
+Degree-212 (Ramos, Manuel)
 131 BL bf
 6
 8
@@ -725,7 +725,7 @@ Tiny Capitan
 3Neck
 31 3/4
 6
-Degree 212
+Degree-212
 8
 81
 63/4

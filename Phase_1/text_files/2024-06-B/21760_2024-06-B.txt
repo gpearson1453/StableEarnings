@@ -967,7 +967,7 @@ L b
 forward, no match
 24Oct23 10WRD7
 4
-Corona Bug 2020 (Ernst, Bryan)
+Corona-Bug-2020 (Ernst, Bryan)
 126
 L b
 4
@@ -1076,7 +1076,7 @@ Breeder: Tim O'Roark/Rhonda Williams
 Owner: Martin Herrera
 Trainer: Mancillas, Juliana
 Claiming Prices:
-9 - Pyc Bac for Fun: $7,500; 3 - Zoom N Cartel: $7,500; 4 - Corona Bug 2020: $7,500; 1 - This Chicks Got Back:
+9 - Pyc Bac for Fun: $7,500; 3 - Zoom N Cartel: $7,500; 4 - Corona-Bug-2020: $7,500; 1 - This Chicks Got Back:
 $7,500; 10 - Corona Vip: $7,500; 2 - Streking Chang: $7,500; 8 - Icu Luchen: $7,500; 7 - Mreyeshinebright: $7,500; 5 -
 Lucki Charms: $7,500; 6 - Speedi Eagle: $7,500;
 Total WPS Pool: $4,144
@@ -1094,7 +1094,7 @@ Zoom N Cartel
 4.20
 3.00
 4
-Corona Bug 2020
+Corona-Bug-2020
 5.20
 Wager Type
 Winning Numbers
@@ -1136,7 +1136,7 @@ Zoom N Cartel
 31
 23/4
 4
-Corona Bug 2020
+Corona-Bug-2020
 3
 41
 31

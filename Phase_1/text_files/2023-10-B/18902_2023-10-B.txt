@@ -2253,7 +2253,7 @@ A Chick for You Mom (Ramirez, Alexis)
 erratic trip
 8Oct23 6WRD4
 3
-Corona Bug 2020 (Gutierrez, Gonzalo)
+Corona-Bug-2020 (Gutierrez, Gonzalo)
 129 L b
 3
 9
@@ -2311,7 +2311,7 @@ Owner: Ezequiel Hernandez-Gallardo
 Trainer: Alexander, L.
 Claiming Prices:
 8 - Anna Jess Chacha: $7,500; 10 - Lady Flemings: $7,500; 2 - Paint Me a Redneck: $7,500; 5 - Mr Chachel: $7,500; 4
-- Star of the Nile: $7,500; 7 - A Chick for You Mom: $7,500; 3 - Corona Bug 2020: $7,500; 1 - Ballyhoo Doux: $7,500; 6 -
+- Star of the Nile: $7,500; 7 - A Chick for You Mom: $7,500; 3 - Corona-Bug-2020: $7,500; 1 - Ballyhoo Doux: $7,500; 6 -
 Jts Classic Wagon: $7,500; 9 - Wishing and Hopeing: $7,500;
 Total WPS Pool: $4,579
 Pgm Horse
@@ -2401,7 +2401,7 @@ A Chick for You Mom
 61
 62 3/4
 3
-Corona Bug 2020
+Corona-Bug-2020
 9
 73/4
 71 1/4

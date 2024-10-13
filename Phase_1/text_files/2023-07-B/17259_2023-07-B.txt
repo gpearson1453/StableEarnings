@@ -748,7 +748,7 @@ Stylenattitude (Esqueda, Erik)
 second flight fight
 1Jul23 8FMT8
 4
-Corona Bug 2020 (Ernst, Bryan)
+Corona-Bug-2020 (Ernst, Bryan)
 127 b
 4
 6
@@ -835,7 +835,7 @@ Stylenattitude
 41 1/4
 52
 4
-Corona Bug 2020
+Corona-Bug-2020
 6
 63/4
 61 3/4

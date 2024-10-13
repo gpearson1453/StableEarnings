@@ -773,7 +773,7 @@ Odds Ind. Time
 Sp. In. Comments
 22Jun24 5FMT3
 3
-Corona Bug 2020 (Ernst, Bryan)
+Corona-Bug-2020 (Ernst, Bryan)
 127
 L bh
 2
@@ -851,12 +851,12 @@ b
 out of it early
 Run-Up: 0 feet
 Winner:
-Corona Bug 2020, Sorrel Filly, by Racy Casanova out of Beckys Corona Baby, by Wicked George. Foaled Mar 10, 2020 in Arkansas.
+Corona-Bug-2020, Sorrel Filly, by Racy Casanova out of Beckys Corona Baby, by Wicked George. Foaled Mar 10, 2020 in Arkansas.
 Breeder: Jacqueline L Long
 Owner: Jacqueline Long
 Trainer: Long, Robert
 Claiming Prices:
-3 - Corona Bug 2020: $7,500; 6 - Barrilito: $7,500; 4 - Jess a Lil Flirt: $7,500; 2 - Streking Chang: $7,500; 5 - Pyc
+3 - Corona-Bug-2020: $7,500; 6 - Barrilito: $7,500; 4 - Jess a Lil Flirt: $7,500; 2 - Streking Chang: $7,500; 5 - Pyc
 Summit: $7,500; 7 - Marco Polo Us: $7,500;
 Scratched Horse(s): Beau Lota (Gate), Fly Bye Patty (Veterinarian)
 Total WPS Pool: $2,815
@@ -865,7 +865,7 @@ Win
 Place
 Show
 3
-Corona Bug 2020
+Corona-Bug-2020
 15.20
 3.20
 2.10
@@ -906,7 +906,7 @@ Start
 Str
 Fin
 3
-Corona Bug 2020
+Corona-Bug-2020
 1
 11/2
 1Neck

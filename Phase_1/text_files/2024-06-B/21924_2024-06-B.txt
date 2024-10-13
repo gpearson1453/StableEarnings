@@ -636,7 +636,7 @@ Y O Zoomin Ollie (Lusk, Tyson)
 no final kick
 16Jun24 3WYO4
 1
-Degree 212 (Carrillo, Daniel)
+Degree-212 (Carrillo, Daniel)
 126 BL bf
 1
 7
@@ -762,7 +762,7 @@ Y O Zoomin Ollie
 63/4
 82 1/2
 1
-Degree 212
+Degree-212
 7
 81/2
 73/4
