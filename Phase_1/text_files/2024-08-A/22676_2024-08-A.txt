@@ -1401,7 +1401,7 @@ Mdc Leading Yall (Alvizo, Rene)
 no threat
 13Dec23 1EVD9
 9
-Jack 47 (Fierro, Rodolfo)
+Jack-47 (Fierro, Rodolfo)
 128 b
 9
 2
@@ -1527,7 +1527,7 @@ Mdc Leading Yall
 93 3/4
 84 3/4
 9
-Jack 47
+Jack-47
 2
 81 1/2
 83 3/4

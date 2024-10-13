@@ -125,7 +125,7 @@ L bhk
 bmp, dueled thru out
 2Nov23 3EVD7
 8
-Jack 47 (Cabrera, Rolando)
+Jack-47 (Cabrera, Rolando)
 124
 bk
 7
@@ -222,7 +222,7 @@ Fly Thru It
 71/2
 81 1/4
 8
-Jack 47
+Jack-47
 9
 92
 93 3/4

@@ -1033,7 +1033,7 @@ You Da Favorite (Enriquez, Jose)
 late kick
 ---
 7
-Pyc Lee 1 (Sigala, Alfredo)
+Pyc-Lee-1 (Sigala, Alfredo)
 124 f
 7
 4
@@ -1195,7 +1195,7 @@ You Da Favorite
 31/2
 31/2
 7
-Pyc Lee 1
+Pyc-Lee-1
 4
 31
 43/4

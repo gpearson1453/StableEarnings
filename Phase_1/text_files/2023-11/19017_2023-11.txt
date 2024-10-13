@@ -489,7 +489,7 @@ L
 remained back
 ---
 5
-Jack 47 (Luna, Ubaldo)
+Jack-47 (Luna, Ubaldo)
 125
 bk
 4
@@ -592,7 +592,7 @@ Sheza Fancy Eagle
 62 1/2
 64
 5
-Jack 47
+Jack-47
 7
 75 1/2
 76 3/4

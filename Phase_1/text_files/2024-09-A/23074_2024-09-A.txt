@@ -2481,7 +2481,7 @@ Cash Accountess (Garcia, Fermin Portillo)
 outrun
 14Aug24 6RET9
 7
-Jack 47 (Vivanco, Luis)
+Jack-47 (Vivanco, Luis)
 128 b
 6
 5
@@ -2513,7 +2513,7 @@ Owner: Christopher Soria
 Trainer: Madrigal, Roberto
 Dead Heats:
 8th place - # 2 Cash Accountess
-8th place - # 7 Jack 47
+8th place - # 7 Jack-47
 Scratched Horse(s): Clueless Hawkeye (Stewards), Lipan Cartel (Stewards)
 Total WPS Pool: $15,887
 Pgm Horse
@@ -2630,7 +2630,7 @@ Cash Accountess
 82
 83 3/4
 7
-Jack 47
+Jack-47
 5
 72
 71 1/2
