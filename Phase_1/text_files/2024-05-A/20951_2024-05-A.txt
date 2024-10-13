@@ -786,7 +786,7 @@ L bf
 driving finish
 16Mar24 4LAD7
 3
-A Koll Secret2 (Sandoval, Jose)
+A-Koll-Secret2 (Sandoval, Jose)
 125
 b
 3
@@ -872,10 +872,10 @@ Trainer: Boegner, John
 New Trainer: Roberto G. Madrigal
 New Owner: Fernando D. Beltran
 Claiming Prices:
-2 - No Tell Tellercartel: $5,000; 3 - A Koll Secret2: $5,000; 6 - Gallito Bar: $5,000; 1 - Ms Turna: $5,000; 7 - Snowflake
+2 - No Tell Tellercartel: $5,000; 3 - A-Koll-Secret2: $5,000; 6 - Gallito Bar: $5,000; 1 - Ms Turna: $5,000; 7 - Snowflake
 Dreaming: $5,000; 5 - Rapid Cartel Candy: $5,000; 4 - Cr Mi Corazoncito: $5,000;
 Dead Heats:
-2nd place - # 3 A Koll Secret2
+2nd place - # 3 A-Koll-Secret2
 2nd place - # 6 Gallito Bar
 Total WPS Pool: $15,427
 Pgm Horse
@@ -888,7 +888,7 @@ No Tell Tellercartel
 2.10
 2.10
 3
-A Koll Secret2
+A-Koll-Secret2
 3.00
 3.20
 6
@@ -942,7 +942,7 @@ No Tell Tellercartel
 11/2
 13/4
 3
-A Koll Secret2
+A-Koll-Secret2
 2
 31
 23/4

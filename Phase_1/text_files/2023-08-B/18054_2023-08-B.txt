@@ -1999,7 +1999,7 @@ Mks Tempting (Duran, Nestor)
 strong drive, best
 ---
 10
-Dancing Cowgirl 5678 (Martinez, Jose)
+Dancing-Cowgirl-5678 (Martinez, Jose)
 124 bfk
 10
 7
@@ -2131,7 +2131,7 @@ Mks Tempting
 2.60
 2.20
 10
-Dancing Cowgirl 5678
+Dancing-Cowgirl-5678
 11.40
 3.60
 8
@@ -2182,7 +2182,7 @@ Mks Tempting
 11
 13/4
 10
-Dancing Cowgirl 5678
+Dancing-Cowgirl-5678
 7
 82 1/4
 41 1/2

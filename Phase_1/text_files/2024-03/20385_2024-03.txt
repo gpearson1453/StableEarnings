@@ -669,7 +669,7 @@ Ajs Legacy (Garcia, Jr., Juan)
 one paced
 21Feb24 1LAD5
 8
-A Koll Secret2 (Macias, Brian)
+A-Koll-Secret2 (Macias, Brian)
 126 b
 8
 4
@@ -701,7 +701,7 @@ Owner: TG Horse Racing LLC
 Trainer: Martinez, Guillermo
 Claiming Prices:
 5 - Tg Mount Coup: $5,000; 6 - Jess Tiz an Ocean: $5,000; 2 - Spieth: $5,000; 7 - Corona Blu Pop Pop: $5,000; 4 - Br
-Strut Formargaret: $5,000; 3 - Ajs Legacy: $5,000; 8 - A Koll Secret2: $5,000; 1 - Saving Memo: $5,000;
+Strut Formargaret: $5,000; 3 - Ajs Legacy: $5,000; 8 - A-Koll-Secret2: $5,000; 1 - Saving Memo: $5,000;
 Scratched Horse(s): Making Seperate Ways (Veterinarian)
 Total WPS Pool: $8,889
 Pgm Horse
@@ -787,7 +787,7 @@ Ajs Legacy
 63/4
 62 3/4
 8
-A Koll Secret2
+A-Koll-Secret2
 4
 71
 71 1/4

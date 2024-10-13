@@ -477,7 +477,7 @@ Hock Tree Special (Luna, Ubaldo)
 outdueled late
 28Sep23 10LS3
 4
-Dancing Cowgirl 5678 (Ramirez, J.)
+Dancing-Cowgirl-5678 (Ramirez, J.)
 129 bfk
 4
 4
@@ -574,7 +574,7 @@ Hock Tree Special
 5.60
 3.80
 4
-Dancing Cowgirl 5678
+Dancing-Cowgirl-5678
 3.40
 Wager Type
 Winning Numbers
@@ -619,7 +619,7 @@ Hock Tree Special
 2Head
 2Neck
 4
-Dancing Cowgirl 5678
+Dancing-Cowgirl-5678
 4
 31/2
 31/2

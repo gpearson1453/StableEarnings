@@ -2188,7 +2188,7 @@ Rosie the Robot (Giles, Francisco)
 game effort,nt enough
 30Aug23 9RET2
 7
-Dancing Cowgirl 5678 (Rivera, Ali)
+Dancing-Cowgirl-5678 (Rivera, Ali)
 124 bfk
 7
 6
@@ -2312,7 +2312,7 @@ Rosie the Robot
 7.40
 3.80
 7
-Dancing Cowgirl 5678
+Dancing-Cowgirl-5678
 2.80
 Wager Type
 Winning Numbers
@@ -2380,7 +2380,7 @@ Rosie the Robot
 2Head
 21
 7
-Dancing Cowgirl 5678
+Dancing-Cowgirl-5678
 6
 53 1/4
 32 1/2

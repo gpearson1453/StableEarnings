@@ -74,7 +74,7 @@ Dash the Duck (O'Neal, Germarius)
 chased evenly
 23Jan24 3LAD5
 5
-A Koll Secret2 (Cabrera, Rolando)
+A-Koll-Secret2 (Cabrera, Rolando)
 126 b
 5
 3
@@ -190,7 +190,7 @@ Dash the Duck
 41
 41 1/2
 5
-A Koll Secret2
+A-Koll-Secret2
 3
 63/4
 61 1/4

@@ -2069,7 +2069,7 @@ Odds Ind. Time
 Sp. In. Comments
 17Nov23 3EVD3
 9
-Dancing Cowgirl 5678 (Herbert, Jose)
+Dancing-Cowgirl-5678 (Herbert, Jose)
 130 bk
 9
 8
@@ -2199,7 +2199,7 @@ Streakin Nice Heart (Vera, Eliazar)
 outrun, vanned off
 Run-Up: 0 feet
 Winner:
-Dancing Cowgirl 5678, Bay Filly, by Flying Cowboy-123 out of Grade One Winner, by Tres Seis. Foaled Mar 14, 2021 in Utah.
+Dancing-Cowgirl-5678, Bay Filly, by Flying Cowboy-123 out of Grade One Winner, by Tres Seis. Foaled Mar 14, 2021 in Utah.
 Breeder: Diane M Evans
 Owner: Ernesto Vazquez
 Trainer: Brooks, Jeffery
@@ -2209,7 +2209,7 @@ Win
 Place
 Show
 9
-Dancing Cowgirl 5678
+Dancing-Cowgirl-5678
 3.60
 2.60
 2.20
@@ -2274,7 +2274,7 @@ Str 1
 Str
 Fin
 9
-Dancing Cowgirl 5678
+Dancing-Cowgirl-5678
 8
 61/2
 4Neck

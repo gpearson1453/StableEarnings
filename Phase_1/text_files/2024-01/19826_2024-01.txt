@@ -515,7 +515,7 @@ Corona Blu Pop Pop (Aguilar, Claudio)
 finished strong
 13Dec23 8EVD8
 3
-A Koll Secret2 (Cabrera, Rolando)
+A-Koll-Secret2 (Cabrera, Rolando)
 126 b
 3
 2
@@ -560,7 +560,7 @@ Owner: Ray Stutts
 Trainer: Poteet, Don
 Claiming Prices:
 8 - Frontclassrunner: $5,000; 7 - Bugs Gone Rogue: $5,000; 9 - Jess Tiz an Ocean: $5,000; 10 - Corona Blu Pop Pop:
-$5,000; 3 - A Koll Secret2: $5,000; 2 - Ag Freaky Voodoo: $5,000; 1 - Flare Ups Farm Boss: $5,000;
+$5,000; 3 - A-Koll-Secret2: $5,000; 2 - Ag Freaky Voodoo: $5,000; 1 - Flare Ups Farm Boss: $5,000;
 Scratched Horse(s): Doc of the Bay (Veterinarian), Jees Cheyia (Gate), My Blue Jewels (Gate)
 Total WPS Pool: $35,536
 Pgm Horse
@@ -650,7 +650,7 @@ Corona Blu Pop Pop
 51
 41 1/2
 3
-A Koll Secret2
+A-Koll-Secret2
 2
 2Head
 3Head

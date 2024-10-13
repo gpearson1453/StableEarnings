@@ -1559,7 +1559,7 @@ Odds Ind. Time
 Sp. In. Comments
 3May24 10HOU1
 3
-Dancing Cowgirl 5678 (Herbert, Jose)
+Dancing-Cowgirl-5678 (Herbert, Jose)
 130 bk
 3
 5
@@ -1676,7 +1676,7 @@ Curlie Sue (Alvizo, Rene)
 bumped, no factor
 Run-Up: 0 feet
 Winner:
-Dancing Cowgirl 5678, Bay Filly, by Flying Cowboy-123 out of Grade One Winner, by Tres Seis. Foaled Mar 14, 2021 in Utah.
+Dancing-Cowgirl-5678, Bay Filly, by Flying Cowboy-123 out of Grade One Winner, by Tres Seis. Foaled Mar 14, 2021 in Utah.
 Breeder: Diane M Evans
 Owner: Ernesto Vazquez
 Trainer: Brooks, Jeffery
@@ -1689,7 +1689,7 @@ Win
 Place
 Show
 3
-Dancing Cowgirl 5678
+Dancing-Cowgirl-5678
 3.40
 2.80
 2.80
@@ -1735,7 +1735,7 @@ Str 1
 Str
 Fin
 3
-Dancing Cowgirl 5678
+Dancing-Cowgirl-5678
 5
 4Neck
 3Head

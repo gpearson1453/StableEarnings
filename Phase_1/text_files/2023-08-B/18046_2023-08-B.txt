@@ -884,7 +884,7 @@ Rally Actress (Castaneda, Noe)
 fractious,bid, fade
 ---
 8
-A Koll Secret2 (Segura, Cesar)
+A-Koll-Secret2 (Segura, Cesar)
 129 b
 8
 8
@@ -1012,7 +1012,7 @@ Rally Actress
 52 3/4
 66
 8
-A Koll Secret2
+A-Koll-Secret2
 8
 73 1/2
 73 3/4

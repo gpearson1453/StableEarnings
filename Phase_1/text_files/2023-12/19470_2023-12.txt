@@ -1849,7 +1849,7 @@ L b
 bumped foe midway
 9Nov23 7EVD9
 6
-A Koll Secret2 (Marquez, Juan)
+A-Koll-Secret2 (Marquez, Juan)
 124
 b
 5
@@ -1982,7 +1982,7 @@ A Better Affair
 51 1/4
 72 3/4
 6
-A Koll Secret2
+A-Koll-Secret2
 9
 82
 83 3/4
