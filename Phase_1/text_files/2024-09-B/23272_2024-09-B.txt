@@ -97,7 +97,7 @@ Eos Try Nasty (Ramirez, Angel)
 bumped back start
 Run-Up: 0 feet
 Winner:
-Cardiac Cowboy, Brown Gelding, by Flying Cowboy 123 out of Southard Cartel, by Carters Cartel. Foaled Mar 03, 2021 in Oklahoma.
+Cardiac Cowboy, Brown Gelding, by Flying Cowboy-123 out of Southard Cartel, by Carters Cartel. Foaled Mar 03, 2021 in Oklahoma.
 Breeder: Jo Rice
 Owner: Jo Rice
 Trainer: Olmstead, Jason
@@ -926,7 +926,7 @@ Odds Ind. Time
 Sp. In. Comments
 5Aug24 1PRM1
 1
-Cowboy 123 (Packer, Berkley)
+Cowboy-123 (Packer, Berkley)
 127 BL bf
 1
 1
@@ -1029,7 +1029,7 @@ Rio Winna (Esqueda, Cristian)
 steadily faded
 Run-Up: 0 feet
 Winner:
-Cowboy 123, Sorrel Gelding, by Flying Cowboy 123 out of Corona Carmelita, by Corona Cartel. Foaled Feb 24, 2021 in Iowa.
+Cowboy-123, Sorrel Gelding, by Flying Cowboy-123 out of Corona Carmelita, by Corona Cartel. Foaled Feb 24, 2021 in Iowa.
 Breeder: Paragon Farms Llc
 Owner: Stephen Moyle
 Trainer: Wessels, Alex
@@ -1040,7 +1040,7 @@ Win
 Place
 Show
 1
-Cowboy 123
+Cowboy-123
 4.60
 3.00
 2.20
@@ -1094,7 +1094,7 @@ Str 1
 Str
 Fin
 1
-Cowboy 123
+Cowboy-123
 1
 12
 12 1/2

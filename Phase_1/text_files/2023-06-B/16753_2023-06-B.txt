@@ -43,7 +43,7 @@ BL bf
 steadyeffort
 ---
 6
-Concordes 7 (Ayala, Eric)
+Concordes-7 (Ayala, Eric)
 126
 BL b
 5
@@ -99,7 +99,7 @@ Bw Just a Ruger
 2.10
 2.10
 6
-Concordes 7
+Concordes-7
 2.10
 Wager Type
 Winning Numbers
@@ -133,7 +133,7 @@ Bw Just a Ruger
 2Neck
 21
 6
-Concordes 7
+Concordes-7
 1
 31
 31 1/2
@@ -593,7 +593,7 @@ Fames Farm Boss (Villa, Oscar)
 faded
 ---
 4
-La Karmela 123 (Delgado, Luis)
+La-Karmela-123 (Delgado, Luis)
 135 B bf
 4
 5
@@ -687,7 +687,7 @@ Fames Farm Boss
 41 3/4
 42
 4
-La Karmela 123
+La-Karmela-123
 5
 54 1/4
 55 3/4

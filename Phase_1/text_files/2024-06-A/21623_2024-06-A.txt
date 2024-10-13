@@ -1499,7 +1499,7 @@ L bk
 outrun
 Run-Up: 0 feet
 Winner:
-Spicy Hot Cowgirl, Sorrel Filly, by Flying Cowboy 123 out of Srirracha, by Walk Thru Fire. Foaled Jan 31, 2021 in Texas.
+Spicy Hot Cowgirl, Sorrel Filly, by Flying Cowboy-123 out of Srirracha, by Walk Thru Fire. Foaled Jan 31, 2021 in Texas.
 Breeder: Mark E Rigby Dvm
 Owner: J.J. Racing
 Trainer: Guzman, Adan
@@ -2846,7 +2846,7 @@ L b
 broke in air, stumbled
 Run-Up: 0 feet
 Winner:
-Shez Flyn, Sorrel Filly, by Flying Cowboy 123 out of Shez Exposed, by Fdd Dynasty. Foaled Feb 17, 2022 in Texas.
+Shez Flyn, Sorrel Filly, by Flying Cowboy-123 out of Shez Exposed, by Fdd Dynasty. Foaled Feb 17, 2022 in Texas.
 Breeder: Paragon Farms Llc
 Owner: Melchor Mendez
 Trainer: Luna, Daniel

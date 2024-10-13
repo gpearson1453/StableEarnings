@@ -932,7 +932,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 5
-Jtc Covid19 (Benn, Cordarelton)
+Jtc-Covid19 (Benn, Cordarelton)
 129 L b
 5
 1
@@ -1023,12 +1023,12 @@ Jts Classic Wagon (Hernandez-Gallardo, Javier)
 lost footing at break
 Run-Up: 0 feet
 Winner:
-Jtc Covid19, Brown Filly, by Jess Twice Cash out of Cantwaitforacorona, by Fantastic Corona Jr. Foaled Apr 01, 2020 in Oklahoma.
+Jtc-Covid19, Brown Filly, by Jess Twice Cash out of Cantwaitforacorona, by Fantastic Corona Jr. Foaled Apr 01, 2020 in Oklahoma.
 Breeder: Ty Remington
 Owner: Ty Remington
 Trainer: Remington, Ty
 Claiming Prices:
-5 - Jtc Covid19: $7,500; 4 - Eyes On Me: $7,500; 3 - Jesss Glance: $7,500; 7 - Pitchalilfit: $7,500; 2 - Star of the Nile:
+5 - Jtc-Covid19: $7,500; 4 - Eyes On Me: $7,500; 3 - Jesss Glance: $7,500; 7 - Pitchalilfit: $7,500; 2 - Star of the Nile:
 $7,500; 1 - Jess Desert Rose: $7,500; 6 - Jts Classic Wagon: $7,500;
 Dead Heats:
 3rd place - # 3 Jesss Glance
@@ -1039,7 +1039,7 @@ Win
 Place
 Show
 5
-Jtc Covid19
+Jtc-Covid19
 30.60
 5.60
 14.00
@@ -1092,7 +1092,7 @@ Str 1
 Str
 Fin
 5
-Jtc Covid19
+Jtc-Covid19
 1
 1Head
 1Head

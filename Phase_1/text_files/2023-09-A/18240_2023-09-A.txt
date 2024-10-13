@@ -300,7 +300,7 @@ Queens Grace (Torres, Jorge)
 vied, outkicked
 8Jul23 2PRM2
 3
-Cowboy 123 (Ramirez, Angel)
+Cowboy-123 (Ramirez, Angel)
 124 BL bf
 2
 1
@@ -385,7 +385,7 @@ Queens Grace
 5.40
 3.60
 3
-Cowboy 123
+Cowboy-123
 2.60
 Wager Type
 Winning Numbers
@@ -434,7 +434,7 @@ Queens Grace
 3Head
 21/2
 3
-Cowboy 123
+Cowboy-123
 1
 1Head
 2Head
@@ -546,7 +546,7 @@ Officer Smith (Samaniego, Andrew)
 late improve
 28Jul23 2PRM4
 3
-Island Cowgurl 321 (Smith, Stormy)
+Island-Cowgurl-321 (Smith, Stormy)
 124 BL bf
 3
 3
@@ -691,7 +691,7 @@ Officer Smith
 53 1/2
 41 3/4
 3
-Island Cowgurl 321
+Island-Cowgurl-321
 3
 21
 21
@@ -870,7 +870,7 @@ Woman At Work (Smith, Stormy)
 steadily faded
 Run-Up: 0 feet
 Winner:
-Foxy Cowgirl, Sorrel Filly, by Flying Cowboy 123 out of Foxy Millie, by Valiant Hero. Foaled Feb 23, 2021 in Iowa.
+Foxy Cowgirl, Sorrel Filly, by Flying Cowboy-123 out of Foxy Millie, by Valiant Hero. Foaled Feb 23, 2021 in Iowa.
 Breeder: Christine A Hovey
 Owner: Luedemann, Paul, Wilmes, Corey and Xcel Farms
 Trainer: Hardy, Edward

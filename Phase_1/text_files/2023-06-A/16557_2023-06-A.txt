@@ -75,7 +75,7 @@ b
 crowded,late mild bid
 ---
 5
-St Paddy 109 (Gonzalez, Adrian)
+St-Paddy-109 (Gonzalez, Adrian)
 127
 bf
 4
@@ -152,7 +152,7 @@ Mountain Night Train
 31
 41 1/2
 5
-St Paddy 109
+St-Paddy-109
 3
 52 1/2
 54 1/4

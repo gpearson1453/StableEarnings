@@ -533,7 +533,7 @@ Ab Boogie, Bay Gelding, by Apollitical Blood out of Boogie Wagon, by Lil Kool Wa
 Breeder: Ruben Mojica
 Owner: Ruben Mojica
 Trainer: Campos, Manuel
-Scratched Horse(s): Cowboy 123 (Trainer) (Earned $1768.00), Go to the Wood (Stewards), Youre So Vain (Trainer) (Earned $1768.00)
+Scratched Horse(s): Cowboy-123 (Trainer) (Earned $1768.00), Go to the Wood (Stewards), Youre So Vain (Trainer) (Earned $1768.00)
 Total WPS Pool: $27,679
 Pgm Horse
 Win

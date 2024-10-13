@@ -1200,7 +1200,7 @@ L b
 shuffled back,
 Run-Up: 0 feet
 Winner:
-Kj Honktonk Cowgirl, Sorrel Filly, by Flying Cowboy 123 out of Xquizit, by Ivory James. Foaled Mar 25, 2022 in New Mexico.
+Kj Honktonk Cowgirl, Sorrel Filly, by Flying Cowboy-123 out of Xquizit, by Ivory James. Foaled Mar 25, 2022 in New Mexico.
 Breeder: John And/Or Kathy Lee
 Owner: Lee, John and Lee, Kathy
 Trainer: Giles, Wesley
@@ -2484,7 +2484,7 @@ L bf
 faltered,
 Run-Up: 0 feet
 Winner:
-Electrifying Cowboy, Sorrel Colt, by Flying Cowboy 123 out of Corona Carmelita, by Corona Cartel. Foaled Jan 07, 2022 in Texas.
+Electrifying Cowboy, Sorrel Colt, by Flying Cowboy-123 out of Corona Carmelita, by Corona Cartel. Foaled Jan 07, 2022 in Texas.
 Breeder: Paragon Farms Llc
 Owner: Tungsten Racing Partnership and Sugamosto, Ronald L.
 Trainer: Valenzuela, Eric
@@ -2910,7 +2910,7 @@ L bf
 good try,
 ---
 2
-Space Cowboy 123 (Ramirez, Esgar)
+Space Cowboy-123 (Ramirez, Esgar)
 128
 L bf
 2
@@ -3080,7 +3080,7 @@ Kj Born to Be Wild
 31/2
 31 1/4
 2
-Space Cowboy 123
+Space Cowboy-123
 9
 41 1/2
 43

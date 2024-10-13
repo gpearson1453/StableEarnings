@@ -1608,7 +1608,7 @@ Lucianna (Ramirez, Esgar)
 broke in, outrun
 Run-Up: 0 feet
 Winner:
-Sassy Angel, Sorrel Filly, by Flying Cowboy 123 out of Sassy Irish Lassie, by Walk Thru Fire. Foaled Feb 09, 2022 in Oklahoma.
+Sassy Angel, Sorrel Filly, by Flying Cowboy-123 out of Sassy Irish Lassie, by Walk Thru Fire. Foaled Feb 09, 2022 in Oklahoma.
 Breeder: Bollenbach Farms Lp
 Owner: Cornerstone Stables
 Trainer: Keeton, Toby
@@ -1751,7 +1751,7 @@ Kj Born to Be Wild (Ramos, Adrian)
 finished strong, best
 28Jun24 3RUI1
 1
-Lethal Cowboy 123 (Ramos, Christian)
+Lethal Cowboy-123 (Ramos, Christian)
 124 L bf
 1
 5
@@ -1883,7 +1883,7 @@ Kj Born to Be Wild
 3.60
 2.80
 1
-Lethal Cowboy 123
+Lethal Cowboy-123
 2.40
 2.20
 2
@@ -1918,7 +1918,7 @@ Kj Born to Be Wild
 1Head
 1Neck
 1
-Lethal Cowboy 123
+Lethal Cowboy-123
 5
 53/4
 2Head
@@ -2561,7 +2561,7 @@ Simple Boy Blu (Cardenas, Christian)
 no threat
 1Jun24 8RUI4
 3
-Space Cowboy 123 (Ramirez, Esgar)
+Space Cowboy-123 (Ramirez, Esgar)
 126 L b
 3
 1
@@ -2680,7 +2680,7 @@ Simple Boy Blu
 73 3/4
 63 1/2
 3
-Space Cowboy 123
+Space Cowboy-123
 1
 2Head
 63 1/4

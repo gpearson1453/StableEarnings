@@ -62,7 +62,7 @@ Dj Bright Ruby (Andros, Corrine)
 outward,closed late
 18Aug23 1CTM4
 3
-St Paddy 109 (Hernandez, O.)
+St-Paddy-109 (Hernandez, O.)
 130 bf
 3
 2
@@ -163,7 +163,7 @@ Dj Bright Ruby
 43/4
 3Neck
 3
-St Paddy 109
+St-Paddy-109
 2
 3Head
 3Head

@@ -21,7 +21,7 @@ Odds Ind. Time
 Sp. In. Comments
 22Jun24 3PRM4
 2
-Cowboy 123 (Packer, Berkley)
+Cowboy-123 (Packer, Berkley)
 127
 BL bf
 2
@@ -112,7 +112,7 @@ B bk
 slow start,no response
 Run-Up: 0 feet
 Winner:
-Cowboy 123, Sorrel Gelding, by Flying Cowboy 123 out of Corona Carmelita, by Corona Cartel. Foaled Feb 24, 2021 in Iowa.
+Cowboy-123, Sorrel Gelding, by Flying Cowboy-123 out of Corona Carmelita, by Corona Cartel. Foaled Feb 24, 2021 in Iowa.
 Breeder: Paragon Farms Llc
 Owner: Stephen Moyle
 Trainer: Wessels, Alex
@@ -122,7 +122,7 @@ Win
 Place
 Show
 2
-Cowboy 123
+Cowboy-123
 3.20
 2.60
 2.20
@@ -159,7 +159,7 @@ Start
 Str
 Fin
 2
-Cowboy 123
+Cowboy-123
 2
 11/2
 11

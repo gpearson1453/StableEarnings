@@ -781,7 +781,7 @@ Ab Boogie (Triana Jr., Alfredo)
 good effort,just missd
 9Sep23 2PRM3
 5
-Cowboy 123 (Packer, Berkley)
+Cowboy-123 (Packer, Berkley)
 125 BL bf
 5
 2
@@ -885,7 +885,7 @@ Go to the Wood (Esqueda, Cristian)
 reared st,vanned off
 Run-Up: 0 feet
 Winner:
-Foxy Cowgirl, Sorrel Filly, by Flying Cowboy 123 out of Foxy Millie, by Valiant Hero. Foaled Feb 23, 2021 in Iowa.
+Foxy Cowgirl, Sorrel Filly, by Flying Cowboy-123 out of Foxy Millie, by Valiant Hero. Foaled Feb 23, 2021 in Iowa.
 Breeder: Christine A Hovey
 Owner: Luedemann, Paul, Wilmes, Corey and Xcel Farms
 Trainer: Hardy, Edward
@@ -904,7 +904,7 @@ Ab Boogie
 6.80
 4.80
 5
-Cowboy 123
+Cowboy-123
 5.20
 Wager Type
 Winning Numbers
@@ -957,7 +957,7 @@ Ab Boogie
 11
 2Neck
 5
-Cowboy 123
+Cowboy-123
 2
 21/2
 31

@@ -1762,7 +1762,7 @@ L b
 geared down
 16Jun23 7FMT4
 6
-Rc He Lucky 10 (Navarrete, Jr., Eugenio)
+Rc-He-Lucky-10 (Navarrete, Jr., Eugenio)
 127
 L b
 6
@@ -1823,7 +1823,7 @@ New Trainer: Jose E. Gamez
 New Owner: Jose E. Gamez
 Claiming Prices:
 9 - Capsure the Magic: $10,000; 2 - Toxic Passion: $10,000; 3 - Holden My Prize: $10,000; 8 - Da Lights Out: $10,000;
-5 - Dona Perfumes: $10,000; 4 - Corona Vip: $10,000; 6 - Rc He Lucky 10: $10,000; 1 - Eyesa Blue B: $10,000; 10 -
+5 - Dona Perfumes: $10,000; 4 - Corona Vip: $10,000; 6 - Rc-He-Lucky-10: $10,000; 1 - Eyesa Blue B: $10,000; 10 -
 Speedi Eagle: $10,000; 7 - Jtc Flingn the Cash: $10,000;
 Total WPS Pool: $7,809
 Pgm Horse
@@ -1906,7 +1906,7 @@ Corona Vip
 61 3/4
 64 1/2
 6
-Rc He Lucky 10
+Rc-He-Lucky-10
 8
 72 3/4
 75

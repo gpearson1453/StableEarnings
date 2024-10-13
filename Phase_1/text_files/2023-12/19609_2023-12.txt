@@ -1544,7 +1544,7 @@ b
 steady effort
 25Nov23 9LA4
 2
-Lj Lucky 7 (Cervantes, Armando)
+Lj-Lucky-7 (Cervantes, Armando)
 126
 b
 2
@@ -1646,7 +1646,7 @@ Mr Favorite Jess
 43/4
 43/4
 2
-Lj Lucky 7
+Lj-Lucky-7
 4
 51 1/2
 52

@@ -1647,7 +1647,7 @@ Asymptomatic (De La Torre, Julio)
 no factor
 Run-Up: 0 feet
 Winner:
-Jr Cowboy Cadillac, Black Gelding, by Flying Cowboy 123 out of Jr Dash of Shania, by Foose. Foaled Apr 06, 2021 in Nevada.
+Jr Cowboy Cadillac, Black Gelding, by Flying Cowboy-123 out of Jr Dash of Shania, by Foose. Foaled Apr 06, 2021 in Nevada.
 Breeder: J R Stables
 Owner: J R Stable
 Trainer: Valenzuela, Kylie
@@ -2819,7 +2819,7 @@ Cc Dashing Brook (Cervantes, Oscar)
 clean trip
 24Jun23 6WYO4
 9
-Lj Lucky 7 (Bobroff, Jacquelyn)
+Lj-Lucky-7 (Bobroff, Jacquelyn)
 124 BL bf
 8
 3
@@ -2968,7 +2968,7 @@ Cc Dashing Brook
 41
 31
 9
-Lj Lucky 7
+Lj-Lucky-7
 3
 51/2
 61 1/2

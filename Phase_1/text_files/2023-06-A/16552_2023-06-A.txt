@@ -527,7 +527,7 @@ Mac Jet Run (Hernandez, Eleazar)
 bid, out finished
 ---
 6
-DQ-Jewel R3 (Garza-Cruz, Ricardo)
+DQ-Jewel-R3 (Garza-Cruz, Ricardo)
 126 bk
 5
 4
@@ -598,10 +598,10 @@ Owner: Terrazas Family
 Trainer: Terrazas III, Arturo
 Claiming Prices:
 10 - La Zooming First: $20,000; 5 - I Cartel: $20,000; 4 - Jess Being Rhay Rhay: $20,000; 3 - Mac Jet Run: $20,000; 6 -
-Jewel R3: $20,000; 9 - Send Me: $20,000; 1 - Talk to My Lips: $20,000; 8 - Amenspool: $20,000; 7 - Spittys Candy
+Jewel-R3: $20,000; 9 - Send Me: $20,000; 1 - Talk to My Lips: $20,000; 8 - Amenspool: $20,000; 7 - Spittys Candy
 Cartel: $20,000;
 Disqualification(s):
-# 6 Jewel R3 from 5 to 9
+# 6 Jewel-R3 from 5 to 9
 Scratched Horse(s): Phenomenalman (Veterinarian)
 Total WPS Pool: $12,550
 Pgm Horse
@@ -679,7 +679,7 @@ Mac Jet Run
 21/2
 41/2
 6
-Jewel R3
+Jewel-R3
 4
 43/4
 52 3/4

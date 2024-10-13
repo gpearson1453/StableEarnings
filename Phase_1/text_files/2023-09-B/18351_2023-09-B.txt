@@ -257,7 +257,7 @@ bfk
 lug in early,outkicked
 23Jul23 12WYO4
 3
-Lj Lucky 7 (Ayala, Jesus)
+Lj-Lucky-7 (Ayala, Jesus)
 126
 b
 3
@@ -355,7 +355,7 @@ B Cn You
 33/4
 51 1/4
 3
-Lj Lucky 7
+Lj-Lucky-7
 7
 61 3/4
 62

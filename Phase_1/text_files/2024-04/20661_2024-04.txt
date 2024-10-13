@@ -314,7 +314,7 @@ Uncle Bubb (Torres, Daniel)
 changed lane
 ---
 5
-Kool Cowboy 123 (Escobedo, Edwin)
+Kool Cowboy-123 (Escobedo, Edwin)
 124 L bf
 5
 5
@@ -353,7 +353,7 @@ Beepbeep Beepbeep (Cruz, Roman)
 little impact
 Run-Up: 0 feet
 Winner:
-Cowgirls Can Fly, Sorrel Filly, by Flying Cowboy 123 out of Check Out This Queen, by Check Him Out. Foaled Feb 15, 2022 in Oklahoma.
+Cowgirls Can Fly, Sorrel Filly, by Flying Cowboy-123 out of Check Out This Queen, by Check Him Out. Foaled Feb 15, 2022 in Oklahoma.
 Breeder: Pine Ridge Farm Llc
 Owner: Marisol Alvarado
 Trainer: Alcala, Leonardo
@@ -431,7 +431,7 @@ Uncle Bubb
 43
 53 1/2
 5
-Kool Cowboy 123
+Kool Cowboy-123
 5
 41
 63 1/4
@@ -1671,7 +1671,7 @@ Kurlin (Candanosa, Bryan)
 steadily faded
 Run-Up: 0 feet
 Winner:
-Master of Here, Brown Colt, by Flying Cowboy 123 out of Painted Up Knockout, by Pyc Paint Your Wagon. Foaled Jan 29, 2022 in Oklahoma.
+Master of Here, Brown Colt, by Flying Cowboy-123 out of Painted Up Knockout, by Pyc Paint Your Wagon. Foaled Jan 29, 2022 in Oklahoma.
 Breeder: Tracy M Trask
 Owner: Whitmire Ranch
 Trainer: Crawford, Clinton

@@ -405,7 +405,7 @@ Odds Ind. Time
 Sp. In. Comments
 17Jun24 8PRM5
 6
-Kool Cowboy 123 (Garcia, Ramiro)
+Kool Cowboy-123 (Garcia, Ramiro)
 124
 BL bfk
 6
@@ -496,7 +496,7 @@ BL bf
 brief bid, faded
 Run-Up: 0 feet
 Winner:
-Kool Cowboy 123, Sorrel Colt, by Flying Cowboy 123 out of Kool Fire, by Walk Thru Fire. Foaled Mar 05, 2022 in Oklahoma.
+Kool Cowboy-123, Sorrel Colt, by Flying Cowboy-123 out of Kool Fire, by Walk Thru Fire. Foaled Mar 05, 2022 in Oklahoma.
 Breeder: Jerry Cate
 Owner: Scheckel, Thomas J. and Tobin, Richard L.
 Trainer: Olmstead, Jason
@@ -506,7 +506,7 @@ Win
 Place
 Show
 6
-Kool Cowboy 123
+Kool Cowboy-123
 8.80
 3.60
 2.60
@@ -551,7 +551,7 @@ Start
 Str
 Fin
 6
-Kool Cowboy 123
+Kool Cowboy-123
 4
 41 1/2
 13/4
@@ -670,7 +670,7 @@ BL bfk
 brk in, needed more
 3Jul24 3PRM3
 3
-Island Cowgurl 321 (Smith, Stormy)
+Island-Cowgurl-321 (Smith, Stormy)
 125
 BL bf
 3
@@ -828,7 +828,7 @@ Jesstrong Corona
 55
 43/4
 3
-Island Cowgurl 321
+Island-Cowgurl-321
 4
 31
 51

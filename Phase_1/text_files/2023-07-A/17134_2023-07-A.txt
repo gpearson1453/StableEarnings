@@ -416,7 +416,7 @@ Timbers Beauty (Rizo, Alan)
 showed little
 24Jun23 1CTM1
 1
-St Paddy 109 (Marti, Alexander)
+St-Paddy-109 (Marti, Alexander)
 126 b
 1
 1
@@ -516,7 +516,7 @@ Timbers Beauty
 43
 54 1/4
 1
-St Paddy 109
+St-Paddy-109
 1
 43/4
 65

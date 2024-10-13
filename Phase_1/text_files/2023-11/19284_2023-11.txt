@@ -860,7 +860,7 @@ Dead Heats:
 5th place - # 8 Queen of Tide
 Disqualification(s):
 # 6 Curvee from 5 to 8
-Scratched Horse(s): Jtc Covid19 (Stewards), Party in the Wagon (Veterinarian), Valiant Bling (Gate)
+Scratched Horse(s): Jtc-Covid19 (Stewards), Party in the Wagon (Veterinarian), Valiant Bling (Gate)
 Total WPS Pool: $18,025
 Pgm Horse
 Win

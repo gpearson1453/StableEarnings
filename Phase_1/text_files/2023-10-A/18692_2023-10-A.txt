@@ -776,7 +776,7 @@ Speedi Eagle (Esqueda, Cristian)
 bumped, veered out
 16Jul23 9FMT7
 3
-Rc He Lucky 10 (Raudales, Rolando)
+Rc-He-Lucky-10 (Raudales, Rolando)
 124 L b
 3
 5
@@ -795,7 +795,7 @@ Owner: Juan Carlos Meza
 Trainer: Meza, Mary
 Claiming Prices:
 7 - Wranglers Tres: $7,500; 5 - Mount Tambien: $7,500; 1 - Shes Furrel Jessie: $7,500; 2 - Wl Bar Fight: $7,500; 6 - Lc
-Jj Tweddy Bird: $7,500; 4 - Speedi Eagle: $7,500; 3 - Rc He Lucky 10: $7,500;
+Jj Tweddy Bird: $7,500; 4 - Speedi Eagle: $7,500; 3 - Rc-He-Lucky-10: $7,500;
 Total WPS Pool: $4,110
 Pgm Horse
 Win
@@ -872,7 +872,7 @@ Speedi Eagle
 72 1/2
 64
 3
-Rc He Lucky 10
+Rc-He-Lucky-10
 5
 61
 62

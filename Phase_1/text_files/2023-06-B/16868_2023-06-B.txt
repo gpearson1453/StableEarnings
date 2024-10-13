@@ -1034,7 +1034,7 @@ BL bk
 follow leaders
 ---
 6
-Lj Lucky 7 (Bobroff, Jacquelyn)
+Lj-Lucky-7 (Bobroff, Jacquelyn)
 124
 CL b
 6
@@ -1191,7 +1191,7 @@ Hezallreadygone
 31
 31 1/2
 6
-Lj Lucky 7
+Lj-Lucky-7
 6
 41 1/4
 41 3/4

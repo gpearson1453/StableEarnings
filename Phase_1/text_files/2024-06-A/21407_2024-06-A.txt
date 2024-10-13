@@ -110,7 +110,7 @@ Bokit Man (Giles, Francisco)
 no threat
 Run-Up: 0 feet
 Winner:
-Just a Flyin Cowgirl, Bay Filly, by Flying Cowboy 123 out of Just Another Natural, by Furyofthewind. Foaled Mar 25, 2021 in Texas.
+Just a Flyin Cowgirl, Bay Filly, by Flying Cowboy-123 out of Just Another Natural, by Furyofthewind. Foaled Mar 25, 2021 in Texas.
 Breeder: T C Flack
 Owner: McGehee Horse and Cattle LLC
 Trainer: Barrett, Cecil
@@ -1377,7 +1377,7 @@ Apollitical Ike (Hernandez, Javier)
 hopped, stumbled start
 Run-Up: 0 feet
 Winner:
-Cowboy Away, Sorrel Gelding, by Flying Cowboy 123 out of Sfr Fire N Brimstone, by Walk Thru Fire. Foaled Apr 14, 2021 in Oklahoma.
+Cowboy Away, Sorrel Gelding, by Flying Cowboy-123 out of Sfr Fire N Brimstone, by Walk Thru Fire. Foaled Apr 14, 2021 in Oklahoma.
 Breeder: Saucer 5 Ranches Llc
 Owner: P and J Racing Ltd.
 Trainer: Lopez, Carlos
@@ -2145,7 +2145,7 @@ Relentless Snowdrop (Alvarez, Jose)
 outrun
 Run-Up: 0 feet
 Winner:
-Cowgurl Up, Sorrel Filly, by Flying Cowboy 123 out of Passem Up Perry, by Mr Jess Perry. Foaled Jan 27, 2021 in Texas.
+Cowgurl Up, Sorrel Filly, by Flying Cowboy-123 out of Passem Up Perry, by Mr Jess Perry. Foaled Jan 27, 2021 in Texas.
 Breeder: P & J Racing Ltd
 Owner: P and J Racing Ltd.
 Trainer: Keeton, Toby

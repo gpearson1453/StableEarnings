@@ -1506,7 +1506,7 @@ Mambacita (Ayala, Jesus)
 bit slow, no menace
 10Feb24 7LA3
 5
-Lj Lucky 7 (Nicasio, Eduardo)
+Lj-Lucky-7 (Nicasio, Eduardo)
 126 L b
 5
 10
@@ -1644,7 +1644,7 @@ Mambacita
 72
 92 3/4
 5
-Lj Lucky 7
+Lj-Lucky-7
 10
 108 1/4
 107 1/2

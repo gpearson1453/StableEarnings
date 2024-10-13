@@ -36,7 +36,7 @@ Ab Boogie (Triana Jr., Alfredo)
 finished willingly
 9Sep24 5PRM1
 1
-Cowboy 123 (Packer, Berkley)
+Cowboy-123 (Packer, Berkley)
 125 BL bf
 1
 1
@@ -143,7 +143,7 @@ Ab Boogie
 2.20
 2.20
 1
-Cowboy 123
+Cowboy-123
 2.60
 2.20
 2
@@ -182,7 +182,7 @@ Ab Boogie
 21
 11/2
 1
-Cowboy 123
+Cowboy-123
 1
 11
 11
@@ -704,7 +704,7 @@ Dash of Tres (Ramirez, Alexis)
 bumped start
 Run-Up: 0 feet
 Winner:
-Foxy Cowgirl, Sorrel Filly, by Flying Cowboy 123 out of Foxy Millie, by Valiant Hero. Foaled Feb 23, 2021 in Iowa.
+Foxy Cowgirl, Sorrel Filly, by Flying Cowboy-123 out of Foxy Millie, by Valiant Hero. Foaled Feb 23, 2021 in Iowa.
 Breeder: Christine A Hovey
 Owner: Luedemann, Paul, Wilmes, Corey and Morehead, Cole
 Trainer: Hardy, Edward
@@ -999,7 +999,7 @@ Divas Lil Wagon (Smith, Stormy)
 brief bid, faded
 Run-Up: 0 feet
 Winner:
-Prize Flyter, Sorrel Filly, by Flying Cowboy 123 out of Fast Prize Tacita, by Tac It Like a Man. Foaled Mar 06, 2022 in Iowa.
+Prize Flyter, Sorrel Filly, by Flying Cowboy-123 out of Fast Prize Tacita, by Tac It Like a Man. Foaled Mar 06, 2022 in Iowa.
 Breeder: Craig J Kirby
 Owner: LXXI Racing Stables
 Trainer: Wessels, Alex

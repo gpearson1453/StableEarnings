@@ -46,7 +46,7 @@ BL bk
 vied 2pth,nipped
 9Sep23 3PRM5
 3
-Island Cowgurl 321 (Smith, Stormy)
+Island-Cowgurl-321 (Smith, Stormy)
 125
 BL bf
 3
@@ -156,7 +156,7 @@ Jesstrong Corona
 3.20
 2.40
 3
-Island Cowgurl 321
+Island-Cowgurl-321
 5.40
 Wager Type
 Winning Numbers
@@ -194,7 +194,7 @@ Jesstrong Corona
 1Head
 2Nose
 3
-Island Cowgurl 321
+Island-Cowgurl-321
 2
 3Head
 3Head
@@ -885,7 +885,7 @@ Legacys Favorite (Dominguez, Jonathan)
 failed to respond
 Run-Up: 0 feet
 Winner:
-Flying Bandida, Gray Filly, by Flying Cowboy 123 out of Meaningful Memories, by Pyc Paint Your Wagon. Foaled Mar 13, 2022 in Oklahoma.
+Flying Bandida, Gray Filly, by Flying Cowboy-123 out of Meaningful Memories, by Pyc Paint Your Wagon. Foaled Mar 13, 2022 in Oklahoma.
 Breeder: Shari A Burger
 Owner: Burger, Shari and McBee, Vickie
 Trainer: Olmstead, Jason
@@ -1886,7 +1886,7 @@ Ivory Breeze Ms (Esqueda, Cristian)
 no late response
 11Apr24 2RP6
 8
-Kool Cowboy 123 (Garcia, Ramiro)
+Kool Cowboy-123 (Garcia, Ramiro)
 124 BL bfk
 7
 7
@@ -2035,7 +2035,7 @@ Ivory Breeze Ms
 32
 53 1/2
 8
-Kool Cowboy 123
+Kool Cowboy-123
 7
 83 3/4
 75 1/2

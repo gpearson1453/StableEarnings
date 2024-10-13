@@ -463,7 +463,7 @@ BL bf
 no factor
 Run-Up: 0 feet
 Winner:
-Dusty Cowboy, Bay Colt, by Flying Cowboy 123 out of Deans Dusty Bunny, by Dean Miracle. Foaled Feb 06, 2021 in Texas.
+Dusty Cowboy, Bay Colt, by Flying Cowboy-123 out of Deans Dusty Bunny, by Dean Miracle. Foaled Feb 06, 2021 in Texas.
 Breeder: Sissie & Bob McClure
 Owner: Jairo Montes
 Trainer: Montes, Jairo
@@ -1408,7 +1408,7 @@ Seperate Kisses, Brown Filly, by Separatist out of Kiss a Kardashian, by Jr Dyna
 Breeder: Five Livestock Company Llc
 Owner: Five Livestock Company LLC
 Trainer: Fregoso, Ramiro
-Scratched Horse(s): La Karmela 123 (Stewards) (Earned $300.00), Seattle Steel (Trainer)
+Scratched Horse(s): La-Karmela-123 (Stewards) (Earned $300.00), Seattle Steel (Trainer)
 Total WPS Pool: $1,110
 Pgm Horse
 Win

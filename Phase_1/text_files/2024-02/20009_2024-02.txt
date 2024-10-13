@@ -1448,7 +1448,7 @@ Mambacita (Ayala, Jesus)
 broke out, good try
 30Dec23 8LA5
 3
-Lj Lucky 7 (Nicasio, Eduardo)
+Lj-Lucky-7 (Nicasio, Eduardo)
 126 L b
 3
 3
@@ -1558,7 +1558,7 @@ Mambacita
 3.80
 3.00
 3
-Lj Lucky 7
+Lj-Lucky-7
 10.40
 Wager Type
 Winning Numbers
@@ -1599,7 +1599,7 @@ Mambacita
 2Neck
 23/4
 3
-Lj Lucky 7
+Lj-Lucky-7
 3
 43/4
 31/2

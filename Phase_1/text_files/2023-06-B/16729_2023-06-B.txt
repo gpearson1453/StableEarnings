@@ -1133,7 +1133,7 @@ b
 antsy,bp 1/8,lost path
 Run-Up: 0 feet
 Winner:
-Flying-Cowgirl-321, Chestnut Filly, by Flying Cowboy 123 out of Glimmer Mist, by First Down Dash. Foaled Mar 15, 2021 in Oregon.
+Flying-Cowgirl-321, Chestnut Filly, by Flying Cowboy-123 out of Glimmer Mist, by First Down Dash. Foaled Mar 15, 2021 in Oregon.
 Breeder: Donald C And/Or Peggy Boyle
 Owner: Boyle, Donald and Peggy
 Trainer: Jones, Paul
@@ -1528,7 +1528,7 @@ Cava John Cash (Gonzalez, Jesse)
 off slow
 Run-Up: 0 feet
 Winner:
-Wicked Cowgirl Smart, Bay Filly, by Flying Cowboy 123 out of Df I Aint Jo Wagon, by Pyc Paint Your Wagon. Foaled Mar 18, 2021 in Arizona.
+Wicked Cowgirl Smart, Bay Filly, by Flying Cowboy-123 out of Df I Aint Jo Wagon, by Pyc Paint Your Wagon. Foaled Mar 18, 2021 in Arizona.
 Breeder: J Lazy Six Ranch
 Owner: J Lazy Six Racing
 Trainer: Taylor, M.

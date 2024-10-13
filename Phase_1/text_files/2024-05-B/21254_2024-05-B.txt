@@ -138,7 +138,7 @@ Mannix (Marquez, Joesan)
 broke in, bumped
 Run-Up: 0 feet
 Winner:
-Electrifying Cowboy, Sorrel Colt, by Flying Cowboy 123 out of Corona Carmelita, by Corona Cartel. Foaled Jan 07, 2022 in Texas.
+Electrifying Cowboy, Sorrel Colt, by Flying Cowboy-123 out of Corona Carmelita, by Corona Cartel. Foaled Jan 07, 2022 in Texas.
 Breeder: Paragon Farms Llc
 Owner: Tungsten Racing Partnership and Sugamosto, Ronald L.
 Trainer: Valenzuela, Eric
@@ -905,7 +905,7 @@ Tres N Garters (Enriquez, Jose)
 brushed, crowded early
 Run-Up: 0 feet
 Winner:
-Tjr Flyingwithstyle, Sorrel Filly, by Flying Cowboy 123 out of Agoodnightkiss, by Furyofthewind. Foaled Mar 01, 2022 in Oklahoma.
+Tjr Flyingwithstyle, Sorrel Filly, by Flying Cowboy-123 out of Agoodnightkiss, by Furyofthewind. Foaled Mar 01, 2022 in Oklahoma.
 Breeder: Gene Schindler
 Owner: Triple One Ranch LLC
 Trainer: Keeton, Toby
@@ -2958,7 +2958,7 @@ Oso Pollitical (Castro, Ruben)
 broke in, trailed
 Run-Up: 0 feet
 Winner:
-Cowboy Blue Z, Bay Colt, by Flying Cowboy 123 out of Indescribaly Blue, by Pyc Paint Your Wagon. Foaled Jan 25, 2022 in Texas.
+Cowboy Blue Z, Bay Colt, by Flying Cowboy-123 out of Indescribaly Blue, by Pyc Paint Your Wagon. Foaled Jan 25, 2022 in Texas.
 Breeder: Slash Z Quarter Horses
 Owner: West Texas Racing Partners
 Trainer: Joiner, Michael
@@ -3453,7 +3453,7 @@ Iitza (Tapia, Emilio)
 outrun
 Run-Up: 0 feet
 Winner:
-Little Vaquero, Bay Colt, by Flying Cowboy 123 out of Lethal Lil, by Corona Cartel. Foaled Apr 02, 2022 in New Mexico.
+Little Vaquero, Bay Colt, by Flying Cowboy-123 out of Lethal Lil, by Corona Cartel. Foaled Apr 02, 2022 in New Mexico.
 Breeder: La Feliz Montana Ranch Llc
 Owner: La Feliz Montana Ranch LLC
 Trainer: Rodriguez, Xavier

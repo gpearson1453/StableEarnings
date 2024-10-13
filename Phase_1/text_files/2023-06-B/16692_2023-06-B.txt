@@ -1231,7 +1231,7 @@ L b
 btwn, outdueled
 ---
 2
-Rc He Lucky 10 (Esqueda, Erik)
+Rc-He-Lucky-10 (Esqueda, Erik)
 124
 L b
 2
@@ -1304,7 +1304,7 @@ Trainer: Velasquez, Cosme
 New Trainer: Luz Chavira
 New Owner: Janet Martinez
 Claiming Prices:
-8 - Bunny On Water: $10,000; 5 - Prized Blue Wagon: $10,000; 6 - Ab Cash Back: $10,000; 2 - Rc He Lucky 10:
+8 - Bunny On Water: $10,000; 5 - Prized Blue Wagon: $10,000; 6 - Ab Cash Back: $10,000; 2 - Rc-He-Lucky-10:
 $10,000; 1 - Miss Tambien Wrangle: $10,000; 9 - Grand Lake Cartel: $10,000; 4 - Kiss Me J Lo Baby: $10,000; 3 -
 Deesdrinking Doubles: $10,000;
 Scratched Horse(s): Juss Kamila (Veterinarian)
@@ -1370,7 +1370,7 @@ Ab Cash Back
 3Head
 33/4
 2
-Rc He Lucky 10
+Rc-He-Lucky-10
 7
 41 1/4
 42 1/4

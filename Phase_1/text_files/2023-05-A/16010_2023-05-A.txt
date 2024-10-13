@@ -337,7 +337,7 @@ Trainer: Lewis, Arnold
 Claiming Prices:
 10 - Determined: $15,000; 4 - Ej Lightning: $15,000; 2 - Yiayia: $15,000; 8 - Pf Glimpse Off: $15,000; 3 - Rios Royal
 Rose: $15,000; 7 - Jesssica Moon: $15,000; 1 - The Rezurrection: $15,000; 6 - Lethal Corona Bug: $15,000;
-Scratched Horse(s): Amos Moses 747 (Veterinarian), Hollys Daredevil (Veterinarian)
+Scratched Horse(s): Amos-Moses-747 (Veterinarian), Hollys Daredevil (Veterinarian)
 Total WPS Pool: $13,887
 Pgm Horse
 Win

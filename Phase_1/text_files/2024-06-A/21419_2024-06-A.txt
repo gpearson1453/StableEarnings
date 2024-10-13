@@ -837,7 +837,7 @@ DQ-Seattle Steel (Lopez, Jose)
 even bid
 12May24 1POD4
 3
-La Karmela 123 (Allala, Adrian)
+La-Karmela-123 (Allala, Adrian)
 128 BL bf
 3
 5
@@ -938,7 +938,7 @@ Seattle Steel
 43/4
 42 3/4
 3
-La Karmela 123
+La-Karmela-123
 5
 63/4
 51 1/4

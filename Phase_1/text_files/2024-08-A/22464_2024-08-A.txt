@@ -206,7 +206,7 @@ Jamez Bond (Gonzalez, Adrian)
 quickly away,unchalngd
 19Jul24 1CTM1
 6
-St Paddy 109 (Hernandez, O.)
+St-Paddy-109 (Hernandez, O.)
 130 bf
 6
 5
@@ -286,7 +286,7 @@ Jamez Bond
 4.90
 3.40
 6
-St Paddy 109
+St-Paddy-109
 3.70
 3.00
 5
@@ -321,7 +321,7 @@ Jamez Bond
 11
 11
 6
-St Paddy 109
+St-Paddy-109
 5
 31/2
 31

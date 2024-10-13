@@ -232,7 +232,7 @@ BL bf
 broke in,steady bid
 8Jul23 2PRM7
 1
-Island Cowgurl 321 (Torres, Jorge)
+Island-Cowgurl-321 (Torres, Jorge)
 124
 BL bf
 1
@@ -284,7 +284,7 @@ BL bfh
 broke in,brushed start
 Run-Up: 0 feet
 Winner:
-Summerhills Cowgirl, Sorrel Filly, by Flying Cowboy 123 out of Tellher to Fly, by Teller Cartel. Foaled Feb 08, 2021 in Iowa.
+Summerhills Cowgirl, Sorrel Filly, by Flying Cowboy-123 out of Tellher to Fly, by Teller Cartel. Foaled Feb 08, 2021 in Iowa.
 Breeder: Robert S & Sandra L Brown
 Owner: Thomas J. Scheckel
 Trainer: Campos, Manuel
@@ -350,7 +350,7 @@ Woman At Work
 4Neck
 31
 1
-Island Cowgurl 321
+Island-Cowgurl-321
 1
 2Head
 42 1/2

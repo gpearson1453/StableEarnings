@@ -335,7 +335,7 @@ Go to the Wood (Ramirez, Miguel)
 bumped 2xs after start
 Run-Up: 0 feet
 Winner:
-Foxy Cowgirl, Sorrel Filly, by Flying Cowboy 123 out of Foxy Millie, by Valiant Hero. Foaled Feb 23, 2021 in Iowa.
+Foxy Cowgirl, Sorrel Filly, by Flying Cowboy-123 out of Foxy Millie, by Valiant Hero. Foaled Feb 23, 2021 in Iowa.
 Breeder: Christine A Hovey
 Owner: Luedemann, Paul, Wilmes, Corey and Morehead, Cole
 Trainer: Hardy, Edward
@@ -506,7 +506,7 @@ Kool Lil Wink (Estrada, Giovany)
 up close,flattend late
 30Sep23 4PRM3
 3
-Cowboy 123 (Packer, Berkley)
+Cowboy-123 (Packer, Berkley)
 127 BL bf
 3
 5
@@ -634,7 +634,7 @@ Kool Lil Wink
 21/2
 32 1/4
 3
-Cowboy 123
+Cowboy-123
 5
 51 1/4
 43

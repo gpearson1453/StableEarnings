@@ -935,7 +935,7 @@ Rockin the Train (Marquez, Joesan)
 evenly, no kick
 14Jul24 3PRM1
 1
-Kool Cowboy 123 (Alvidrez, Armando)
+Kool Cowboy-123 (Alvidrez, Armando)
 124 BL bfk
 1
 2
@@ -1081,7 +1081,7 @@ Rockin the Train
 52 1/2
 41 3/4
 1
-Kool Cowboy 123
+Kool Cowboy-123
 2
 11/2
 31 1/2

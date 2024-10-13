@@ -438,7 +438,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 6
-Cowboy 123 (Packer, Berkley)
+Cowboy-123 (Packer, Berkley)
 127 BL bf
 5
 2
@@ -516,7 +516,7 @@ Ts Kool My Beer (Fonseca-Soto, Fernando)
 slammed back start
 Run-Up: 0 feet
 Winner:
-Cowboy 123, Sorrel Gelding, by Flying Cowboy 123 out of Corona Carmelita, by Corona Cartel. Foaled Feb 24, 2021 in Iowa.
+Cowboy-123, Sorrel Gelding, by Flying Cowboy-123 out of Corona Carmelita, by Corona Cartel. Foaled Feb 24, 2021 in Iowa.
 Breeder: Paragon Farms Llc
 Owner: Stephen Moyle
 Trainer: Wessels, Alex
@@ -529,7 +529,7 @@ Win
 Place
 Show
 6
-Cowboy 123
+Cowboy-123
 5.60
 3.00
 2.20
@@ -579,7 +579,7 @@ Str1
 Str
 Fin
 6
-Cowboy 123
+Cowboy-123
 2
 11/2
 11 1/2
@@ -684,7 +684,7 @@ Chloes Rockette (Escobedo, Edwin)
 slim lead,outkicked
 ---
 3
-Island Cowgurl 321 (Smith, Stormy)
+Island-Cowgurl-321 (Smith, Stormy)
 124 BL bf
 3
 5
@@ -823,7 +823,7 @@ Chloes Rockette
 2Head
 31 1/4
 3
-Island Cowgurl 321
+Island-Cowgurl-321
 5
 42
 52 3/4

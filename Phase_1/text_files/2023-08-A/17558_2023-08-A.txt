@@ -940,7 +940,7 @@ L bf
 unsettled at break
 19Jul23 5RET10
 2
-Jewel R3 (Morales, Adrian)
+Jewel-R3 (Morales, Adrian)
 125
 bk
 2
@@ -1014,7 +1014,7 @@ New Trainer: Luis Daniel Garcia
 New Owner: Luis Daniel Garcia
 Claiming Prices:
 3 - El Tres Soltero: $5,000; 1 - Jmg an Unquiet Mind: $5,000; 6 - Kk Executive Fury: $5,000; 9 - Princess Piloto: $5,000;
-2 - Jewel R3: $5,000; 10 - Jlc Fancy Nancy: $5,000; 8 - Highly Stylish: $5,000; 7 - Palmview Cartel: $5,000; 4 -
+2 - Jewel-R3: $5,000; 10 - Jlc Fancy Nancy: $5,000; 8 - Highly Stylish: $5,000; 7 - Palmview Cartel: $5,000; 4 -
 Hwchrome Painted Jet: $5,000;
 Scratched Horse(s): S Bigtime Sass (Veterinarian)
 Total WPS Pool: $6,214
@@ -1084,7 +1084,7 @@ Princess Piloto
 31 1/2
 43
 2
-Jewel R3
+Jewel-R3
 7
 52 1/4
 53 1/2

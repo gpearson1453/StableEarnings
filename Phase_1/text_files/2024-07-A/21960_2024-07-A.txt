@@ -403,7 +403,7 @@ Ought to Be Believin (Dominguez, Jonathan)
 just missed
 17Jun24 1PRM3
 8
-Island Cowgurl 321 (Smith, Stormy)
+Island-Cowgurl-321 (Smith, Stormy)
 125 BL bf
 7
 4
@@ -514,7 +514,7 @@ Ought to Be Believin
 14.40
 6.40
 8
-Island Cowgurl 321
+Island-Cowgurl-321
 4.20
 Wager Type
 Winning Numbers
@@ -567,7 +567,7 @@ Ought to Be Believin
 1Head
 2Neck
 8
-Island Cowgurl 321
+Island-Cowgurl-321
 4
 64
 42

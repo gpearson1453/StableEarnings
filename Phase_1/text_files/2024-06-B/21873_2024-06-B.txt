@@ -546,7 +546,7 @@ Odds Ind. Time
 Sp. In. Comments
 9Jun24 8RUI2
 5
-Lethal Cowboy 123 (Ramos, Christian)
+Lethal Cowboy-123 (Ramos, Christian)
 124 L bf
 5
 4
@@ -663,7 +663,7 @@ Tex the Legend (Garcia, Ramiro)
 outrun
 Run-Up: 0 feet
 Winner:
-Lethal Cowboy 123, Sorrel Gelding, by Flying Cowboy 123 out of Pretty Lethal, by First Down Dash. Foaled Mar 16, 2022 in California.
+Lethal Cowboy-123, Sorrel Gelding, by Flying Cowboy-123 out of Pretty Lethal, by First Down Dash. Foaled Mar 16, 2022 in California.
 Breeder: Veronica Gail Kawananakoa
 Owner: Caliche Walls Venture LLC, Isbell, Alan, Bland, Lance and Barton, Jimmy
 Trainer: Jungers, Marc
@@ -673,7 +673,7 @@ Win
 Place
 Show
 5
-Lethal Cowboy 123
+Lethal Cowboy-123
 3.20
 2.80
 2.10
@@ -707,7 +707,7 @@ Str 1
 Str
 Fin
 5
-Lethal Cowboy 123
+Lethal Cowboy-123
 4
 31
 1Head
@@ -1452,7 +1452,7 @@ Oso Pollitical (Medina, Alejandro)
 outrun
 Run-Up: 0 feet
 Winner:
-Little Vaquero, Bay Colt, by Flying Cowboy 123 out of Lethal Lil, by Corona Cartel. Foaled Apr 02, 2022 in New Mexico.
+Little Vaquero, Bay Colt, by Flying Cowboy-123 out of Lethal Lil, by Corona Cartel. Foaled Apr 02, 2022 in New Mexico.
 Breeder: La Feliz Montana Ranch Llc
 Owner: La Feliz Montana Ranch LLC
 Trainer: Rodriguez, Xavier
@@ -2691,7 +2691,7 @@ Mm Fraulein (Calderon, Francisco)
 outrun
 Run-Up: 0 feet
 Winner:
-Flyingfooserageous, Sorrel Filly, by Flying Cowboy 123 out of Bf Fooserageous, by Foose. Foaled Jan 03, 2022 in Utah.
+Flyingfooserageous, Sorrel Filly, by Flying Cowboy-123 out of Bf Fooserageous, by Foose. Foaled Jan 03, 2022 in Utah.
 Breeder: Kevin A Birrell
 Owner: Carroll, Ronald J. and Carroll, Sandra K.
 Trainer: Giles, Wesley
@@ -3476,7 +3476,7 @@ Jds Roustabout (Ramirez, Ricky)
 outrun
 Run-Up: 0 feet
 Winner:
-House of Lords, Chestnut Gelding, by Flying Cowboy 123 out of This Candys Okay, by Okey Dokey Dale. Foaled Feb 12, 2022 in Oklahoma.
+House of Lords, Chestnut Gelding, by Flying Cowboy-123 out of This Candys Okay, by Okey Dokey Dale. Foaled Feb 12, 2022 in Oklahoma.
 Breeder: Buck Way Ranch Llc
 Owner: Elizabeth Logan
 Trainer: Keener, Dee
@@ -4215,7 +4215,7 @@ Naidu (Escobedo, Edwin)
 bore out
 Run-Up: 0 feet
 Winner:
-Jessesflyincowgirl, Sorrel Filly, by Flying Cowboy 123 out of Jesses Dashair, by Dashair. Foaled Mar 28, 2022 in Oklahoma.
+Jessesflyincowgirl, Sorrel Filly, by Flying Cowboy-123 out of Jesses Dashair, by Dashair. Foaled Mar 28, 2022 in Oklahoma.
 Breeder: Celia Kinsey & Sandra Wood
 Owner: Frisky Fillies (Terraezas Family)
 Trainer: Wood, S.

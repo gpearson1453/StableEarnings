@@ -562,7 +562,7 @@ Odds Ind. Time
 Sp. In. Comments
 9Jun23 6FMT1
 2
-Jtc Covid19 (Martinez, L.)
+Jtc-Covid19 (Martinez, L.)
 124
 L b
 2
@@ -640,12 +640,12 @@ L bk
 no threat
 Run-Up: 0 feet
 Winner:
-Jtc Covid19, Brown Filly, by Jess Twice Cash out of Cantwaitforacorona, by Fantastic Corona Jr. Foaled Apr 01, 2020 in Oklahoma.
+Jtc-Covid19, Brown Filly, by Jess Twice Cash out of Cantwaitforacorona, by Fantastic Corona Jr. Foaled Apr 01, 2020 in Oklahoma.
 Breeder: Ty Remington
 Owner: Ty Remington
 Trainer: Remington, Ty
 Claiming Prices:
-2 - Jtc Covid19: $7,500; 4 - Rjt Jess Blue Bye U: $7,500; 3 - Wild Bout Dashin: $7,500; 1 - Global King: $7,500; 7 - Wing
+2 - Jtc-Covid19: $7,500; 4 - Rjt Jess Blue Bye U: $7,500; 3 - Wild Bout Dashin: $7,500; 1 - Global King: $7,500; 7 - Wing
 Ding Doux: $7,500; 5 - Good for a Corona: $7,500;
 Scratched Horse(s): Eye Do Tell (Trainer)
 Total WPS Pool: $4,764
@@ -654,7 +654,7 @@ Win
 Place
 Show
 2
-Jtc Covid19
+Jtc-Covid19
 13.00
 5.40
 4.80
@@ -703,7 +703,7 @@ Start
 Str
 Fin
 2
-Jtc Covid19
+Jtc-Covid19
 1
 1Head
 1Nose

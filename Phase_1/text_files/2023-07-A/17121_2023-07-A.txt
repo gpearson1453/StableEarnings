@@ -224,7 +224,7 @@ Five Bar Phi (Ramirez, Angel)
 kicked clear
 18Jun23 3PRM1
 6
-Cowboy 123 (Packer, Berkley)
+Cowboy-123 (Packer, Berkley)
 127 BL bf
 6
 6
@@ -289,7 +289,7 @@ Chloes Rockette (Escobedo, Edwin)
 failed to threaten
 18Jun23 4PRM4
 3
-Island Cowgurl 321 (Smith, Stormy)
+Island-Cowgurl-321 (Smith, Stormy)
 124 BL bf
 3
 4
@@ -359,7 +359,7 @@ Five Bar Phi
 3.00
 2.60
 6
-Cowboy 123
+Cowboy-123
 4.20
 3.20
 5
@@ -406,7 +406,7 @@ Five Bar Phi
 53/4
 1Neck
 6
-Cowboy 123
+Cowboy-123
 6
 4Neck
 3Head
@@ -436,7 +436,7 @@ Chloes Rockette
 81 1/2
 61 1/2
 3
-Island Cowgurl 321
+Island-Cowgurl-321
 4
 3Head
 4Neck

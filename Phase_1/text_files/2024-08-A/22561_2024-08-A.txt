@@ -1411,7 +1411,7 @@ b
 duel,wkn
 Run-Up: 0 feet
 Winner:
-Eos Keep Dreamin, Sorrel Filly, by Flying Cowboy 123 out of Too Much, by Walk Thru Fire. Foaled Apr 23, 2022 in Minnesota.
+Eos Keep Dreamin, Sorrel Filly, by Flying Cowboy-123 out of Too Much, by Walk Thru Fire. Foaled Apr 23, 2022 in Minnesota.
 Breeder: Corey G Wilmes
 Owner: Corey Wilmes
 Trainer: Hardy, Edward

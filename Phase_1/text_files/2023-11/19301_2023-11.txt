@@ -1702,7 +1702,7 @@ Sm Jess Corona (Aceves, Rodrigo)
 lug early,floated late
 16Sep23 2LA6
 5
-Lj Lucky 7 (Cervantes, Armando)
+Lj-Lucky-7 (Cervantes, Armando)
 126
 b
 5
@@ -1820,7 +1820,7 @@ Sm Jess Corona
 21/2
 31/2
 5
-Lj Lucky 7
+Lj-Lucky-7
 2
 31
 43/4

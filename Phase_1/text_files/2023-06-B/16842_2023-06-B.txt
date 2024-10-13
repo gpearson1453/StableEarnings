@@ -22,7 +22,7 @@ Odds Ind. Time
 Sp. In. Comments
 9Jun23 1CTM5
 7
-St Paddy 109 (Marti, Alexander)
+St-Paddy-109 (Marti, Alexander)
 124
 bf
 7
@@ -113,7 +113,7 @@ bf
 sandwiched leaving
 Run-Up: 0 feet
 Winner:
-St Paddy 109, Black Filly, by Kvn Corona out of See Me Do It Too, by Favorite Cartel. Foaled Mar 17, 2021 in AB.
+St-Paddy-109, Black Filly, by Kvn Corona out of See Me Do It Too, by Favorite Cartel. Foaled Mar 17, 2021 in AB.
 Breeder: Buckey &/Or Beverly Stockwell
 Owner: WT Ranches, Ltd.
 Trainer: Stockwell, Buckey
@@ -126,7 +126,7 @@ Win
 Place
 Show
 7
-St Paddy 109
+St-Paddy-109
 4.90
 2.60
 2.50
@@ -159,7 +159,7 @@ Start
 Str
 Fin
 7
-St Paddy 109
+St-Paddy-109
 5
 1Head
 11/2

@@ -447,7 +447,7 @@ Odds Ind. Time
 Sp. In. Comments
 28Sep23 6LS7
 5
-Jtc Covid19 (Candanosa, Bryan)
+Jtc-Covid19 (Candanosa, Bryan)
 125
 L bf
 5
@@ -564,7 +564,7 @@ b
 lunged,veer in 2 rail
 Run-Up: 0 feet
 Winner:
-Jtc Covid19, Brown Filly, by Jess Twice Cash out of Cantwaitforacorona, by Fantastic Corona Jr. Foaled Apr 01, 2020 in Oklahoma.
+Jtc-Covid19, Brown Filly, by Jess Twice Cash out of Cantwaitforacorona, by Fantastic Corona Jr. Foaled Apr 01, 2020 in Oklahoma.
 Breeder: Ty Remington
 Owner: Ty Remington
 Trainer: Remington, Ty
@@ -572,7 +572,7 @@ Trainer: Remington, Ty
 New Trainer: Arnold Lewis
 New Owner: Parker Flannery
 Claiming Prices:
-5 - Jtc Covid19: $5,000; 9 - Reckless Prize: $5,000; 7 - Sr Famous Esterlina: $5,000; 6 - Mg Boy Time: $5,000; 8 -
+5 - Jtc-Covid19: $5,000; 9 - Reckless Prize: $5,000; 7 - Sr Famous Esterlina: $5,000; 6 - Mg Boy Time: $5,000; 8 -
 Austin Cartel: $5,000; 4 - Mp Eye Fly: $5,000; 1 - Teller Ima Fast Man: $5,000; 3 - Rjt Jess Blue Bye U: $5,000; 2 -
 Americas Soldier: $5,000;
 Total WPS Pool: $7,694
@@ -581,7 +581,7 @@ Win
 Place
 Show
 5
-Jtc Covid19
+Jtc-Covid19
 13.80
 16.20
 7.60
@@ -622,7 +622,7 @@ Start
 Str
 Fin
 5
-Jtc Covid19
+Jtc-Covid19
 5
 1Head
 11/2
@@ -1880,7 +1880,7 @@ Wicked Ram (Rodriguez, Julio)
 brushed, no menace
 Run-Up: 0 feet
 Winner:
-Copper Pipes, Sorrel Gelding, by Flying Cowboy 123 out of Tacarosie, by Tac It Like a Man. Foaled Feb 16, 2021 in Texas.
+Copper Pipes, Sorrel Gelding, by Flying Cowboy-123 out of Tacarosie, by Tac It Like a Man. Foaled Feb 16, 2021 in Texas.
 Breeder: Rigby Castillo Racing/Mark Rigby
 Owner: Oscar Rivera Cardona
 Trainer: Morace, J.

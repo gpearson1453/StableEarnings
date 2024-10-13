@@ -834,7 +834,7 @@ b
 ftg,bpd st,outrun
 Run-Up: 0 feet
 Winner:
-Fire Tools 123, Chestnut Gelding, by Flying Cowboy 123 out of Notoolson Fire, by Walk Thru Fire. Foaled Apr 10, 2022 in California.
+Fire Tools 123, Chestnut Gelding, by Flying Cowboy-123 out of Notoolson Fire, by Walk Thru Fire. Foaled Apr 10, 2022 in California.
 Breeder: George & Sandra Villalobos
 Owner: CD Horses, Inc., Flores, Jose Antonio and Gordon, Robyn
 Trainer: Flores, Jose

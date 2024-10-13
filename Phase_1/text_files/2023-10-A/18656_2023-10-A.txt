@@ -254,7 +254,7 @@ Eye M (Botello, J.)
 bumped,late rally
 24Sep23 2CTD8
 3
-St Paddy 109 (Andros, Corrine)
+St-Paddy-109 (Andros, Corrine)
 124 bf
 3
 5
@@ -355,7 +355,7 @@ Eye M
 31
 32
 3
-St Paddy 109
+St-Paddy-109
 5
 61 1/2
 51 1/2

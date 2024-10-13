@@ -932,7 +932,7 @@ DQ-Checo Perez Tlc (Canales, Jesus)
 bothered foe dq 7th
 18Jun23 4JRM5
 2
-La Karmela 123 (Aguirre-Erives, Cristian)
+La-Karmela-123 (Aguirre-Erives, Cristian)
 126 BL b
 2
 8
@@ -1057,7 +1057,7 @@ Checo Perez Tlc
 64 1/2
 67 1/2
 2
-La Karmela 123
+La-Karmela-123
 8
 71
 75 1/2

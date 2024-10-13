@@ -919,7 +919,7 @@ L bfhk
 chngd lane, no bid
 9Jul23 4FMT1
 7
-Jtc Covid19 (Benn, Cordarelton)
+Jtc-Covid19 (Benn, Cordarelton)
 127
 L b
 6
@@ -954,7 +954,7 @@ New Trainer: Juliana Mancillas
 New Owner: Idanes G. Nunez-Trejo
 Claiming Prices:
 1 - None Bar Zevi: $15,000; 2 - Flyen Double: $15,000; 10 - No How: $15,000; 8 - Sara Getin: $15,000; 9 - Bbs Dash:
-$15,000; 4 - Weapon First Bug: $15,000; 3 - Painted in Scarlette: $15,000; 7 - Jtc Covid19: $15,000; 6 - Fancy Dreams
+$15,000; 4 - Weapon First Bug: $15,000; 3 - Painted in Scarlette: $15,000; 7 - Jtc-Covid19: $15,000; 6 - Fancy Dreams
 Bc: $15,000;
 Scratched Horse(s): Fire to the Rain (Veterinarian)
 Total WPS Pool: $5,082
@@ -1035,7 +1035,7 @@ Painted in Scarlette
 72 1/2
 74 3/4
 7
-Jtc Covid19
+Jtc-Covid19
 6
 82 1/2
 85 3/4

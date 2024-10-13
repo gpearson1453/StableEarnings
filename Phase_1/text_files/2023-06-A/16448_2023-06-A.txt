@@ -2374,7 +2374,7 @@ Dynamite Flash (Ruiz, Luis)
 dueled, faltered
 ---
 2
-Amos Moses 747 (Giles, Francisco)
+Amos-Moses-747 (Giles, Francisco)
 124 L bf
 2
 8
@@ -2431,7 +2431,7 @@ Breeder: Gerald Rich
 Owner: Young, Richard, Yates, Joe David and Stinebaugh, Zack
 Trainer: Stinebaugh, Zackary
 Dead Heats:
-7th place - # 2 Amos Moses 747
+7th place - # 2 Amos-Moses-747
 7th place - # 4 Jess Fast Man
 Total WPS Pool: $25,480
 Pgm Horse
@@ -2545,7 +2545,7 @@ Dynamite Flash
 6Neck
 63/4
 2
-Amos Moses 747
+Amos-Moses-747
 8
 81 1/2
 81 1/4

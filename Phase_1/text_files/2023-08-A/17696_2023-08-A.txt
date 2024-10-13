@@ -650,7 +650,7 @@ Gnarley (Giles, Francisco)
 no menace
 2Aug23 5RET5
 5
-Jewel R3 (Morales, Adrian)
+Jewel-R3 (Morales, Adrian)
 125 k
 5
 2
@@ -695,7 +695,7 @@ Owner: Double K Livestock, LLC
 Trainer: Camacho, Jose
 Claiming Prices:
 3 - Minnie Five Bar: $7,500; 6 - The Special Corona: $7,500; 7 - Heza Firstdown Champ: $7,500; 4 - Gnarley: $7,500; 5
-- Jewel R3: $7,500; 2 - Cr Lady Killer: $7,500; 1 - Rv Send a Candy Girl: $7,500;
+- Jewel-R3: $7,500; 2 - Cr Lady Killer: $7,500; 1 - Rv Send a Candy Girl: $7,500;
 Total WPS Pool: $13,353
 Pgm Horse
 Win
@@ -767,7 +767,7 @@ Gnarley
 52 1/2
 42 3/4
 5
-Jewel R3
+Jewel-R3
 2
 21/2
 42

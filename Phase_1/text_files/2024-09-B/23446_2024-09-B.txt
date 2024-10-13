@@ -251,7 +251,7 @@ DQ-Ms Mini Warrior (Tavares, Daniel)
 brokeinward,flattened
 6Sep24 2CTM4
 3
-St Paddy 109 (Hernandez, O.)
+St-Paddy-109 (Hernandez, O.)
 136 bf
 3
 5
@@ -298,7 +298,7 @@ Hez Hott Ur Nott
 6.20
 2.70
 3
-St Paddy 109
+St-Paddy-109
 3.00
 Wager Type
 Winning Numbers
@@ -345,7 +345,7 @@ Ms Mini Warrior
 3Head
 3Head
 3
-St Paddy 109
+St-Paddy-109
 5
 43/4
 54 3/4

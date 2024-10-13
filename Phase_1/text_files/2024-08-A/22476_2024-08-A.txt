@@ -256,7 +256,7 @@ BL bfhk 4
 bmpd back,lost chance
 Run-Up: 0 feet
 Winner:
-Cowboys R Myheros, Sorrel Gelding, by Flying Cowboy 123 out of Red Velvet Hero, by Valiant Hero. Foaled Mar 27, 2021 in Oklahoma.
+Cowboys R Myheros, Sorrel Gelding, by Flying Cowboy-123 out of Red Velvet Hero, by Valiant Hero. Foaled Mar 27, 2021 in Oklahoma.
 Breeder: Brenda Reiswig
 Owner: Brenda Reiswig
 Trainer: Olmstead, Jason
@@ -394,7 +394,7 @@ Ought to Be Believin (Dominguez, Jonathan)
 no final kick
 14Jul24 4PRM5
 7
-Island Cowgurl 321 (Smith, Stormy)
+Island-Cowgurl-321 (Smith, Stormy)
 125 BL b
 7
 1
@@ -491,7 +491,7 @@ Ought to Be Believin
 3.20
 2.20
 7
-Island Cowgurl 321
+Island-Cowgurl-321
 2.80
 Wager Type
 Winning Numbers
@@ -540,7 +540,7 @@ Ought to Be Believin
 1Head
 2Neck
 7
-Island Cowgurl 321
+Island-Cowgurl-321
 1
 42
 31 1/2

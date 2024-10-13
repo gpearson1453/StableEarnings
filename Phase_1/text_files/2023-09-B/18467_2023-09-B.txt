@@ -365,7 +365,7 @@ Hez Hott Ur Nott (Garcia, Daniel)
 bumped,lacked kick
 10Sep23 1CTD4
 1
-St Paddy 109 (Castillo, Ramiro)
+St-Paddy-109 (Castillo, Ramiro)
 124 bf
 1
 1
@@ -486,7 +486,7 @@ Hez Hott Ur Nott
 72 1/4
 74 3/4
 1
-St Paddy 109
+St-Paddy-109
 1
 71 1/2
 82 3/4

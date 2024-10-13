@@ -1352,7 +1352,7 @@ L bf
 solid effort outside
 16Mar24 7LA6
 5
-Lj Lucky 7 (Arriaga, Martin)
+Lj-Lucky-7 (Arriaga, Martin)
 128
 L b
 5
@@ -1449,7 +1449,7 @@ Skeet
 23/4
 31/2
 5
-Lj Lucky 7
+Lj-Lucky-7
 2
 43/4
 41/2

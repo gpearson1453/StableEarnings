@@ -1199,7 +1199,7 @@ L bfk
 rallied, gave way
 21Jul23 5FMT8
 5
-Jtc Covid19 (Benn, Cordarelton)
+Jtc-Covid19 (Benn, Cordarelton)
 128
 L bf
 5
@@ -1244,7 +1244,7 @@ Owner: Carlos Terrazas
 Trainer: Morin, Abel
 Claiming Prices:
 1 - Mr Bishop: $10,000; 3 - El Esperado: $10,000; 2 - Em Special Diamond: $10,000; 7 - Cmc This Chick Rocks:
-$10,000; 6 - Texas Bonita Seis: $10,000; 10 - Train Hoppin: $10,000; 9 - Bp Coronas: $10,000; 5 - Jtc Covid19:
+$10,000; 6 - Texas Bonita Seis: $10,000; 10 - Train Hoppin: $10,000; 9 - Bp Coronas: $10,000; 5 - Jtc-Covid19:
 $10,000; 8 - Moscato: $10,000; 4 - Rare Agouti Jm: $10,000;
 Disqualification(s):
 # 1 Mr Bishop from 1 to 10
@@ -1330,7 +1330,7 @@ Bp Coronas
 62 1/4
 71 1/4
 5
-Jtc Covid19
+Jtc-Covid19
 10
 94
 81 3/4

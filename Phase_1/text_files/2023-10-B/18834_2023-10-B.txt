@@ -849,7 +849,7 @@ L bk
 steady effort
 1Sep23 2RET4
 6
-Jewel R3 (Urieta, Jr., Victor)
+Jewel-R3 (Urieta, Jr., Victor)
 125
 k
 6
@@ -923,7 +923,7 @@ New Trainer: Arnold Lewis
 New Owner: Parker Flannery
 Claiming Prices:
 2 - John Wicke: $5,000; 5 - Ws Dashin Virus: $5,000; 10 - Jmg an Unquiet Mind: $5,000; 11 - Santa Juana Girl: $5,000;
-6 - Jewel R3: $5,000; 3 - Miss Cirujana: $5,000; 4 - Highest Glory Gl: $5,000; 9 - Nb Lady Dynasty: $5,000; 1 -
+6 - Jewel-R3: $5,000; 3 - Miss Cirujana: $5,000; 4 - Highest Glory Gl: $5,000; 9 - Nb Lady Dynasty: $5,000; 1 -
 Blazingdiamonds: $5,000;
 Scratched Horse(s): Fm Forming Awards (Veterinarian), Frontclassrunner (Also-Eligible), Surviving the Storm (Veterinarian)
 Total WPS Pool: $11,093
@@ -993,7 +993,7 @@ Santa Juana Girl
 83
 41
 6
-Jewel R3
+Jewel-R3
 4
 52
 51 1/4

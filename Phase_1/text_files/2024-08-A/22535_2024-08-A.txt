@@ -22,7 +22,7 @@ Odds Ind. Time
 Sp. In. Comments
 12Jul24 1PRM1
 3
-Cowboy 123 (Packer, Berkley)
+Cowboy-123 (Packer, Berkley)
 127 BL bf
 3
 1
@@ -87,7 +87,7 @@ Summerhills Cowgirl (Triana Jr., Alfredo)
 no threat
 Run-Up: 0 feet
 Winner:
-Cowboy 123, Sorrel Gelding, by Flying Cowboy 123 out of Corona Carmelita, by Corona Cartel. Foaled Feb 24, 2021 in Iowa.
+Cowboy-123, Sorrel Gelding, by Flying Cowboy-123 out of Corona Carmelita, by Corona Cartel. Foaled Feb 24, 2021 in Iowa.
 Breeder: Paragon Farms Llc
 Owner: Stephen Moyle
 Trainer: Wessels, Alex
@@ -98,7 +98,7 @@ Win
 Place
 Show
 3
-Cowboy 123
+Cowboy-123
 10.20
 3.80
 2.20
@@ -136,7 +136,7 @@ Str 1
 Str
 Fin
 3
-Cowboy 123
+Cowboy-123
 1
 21/2
 2Head

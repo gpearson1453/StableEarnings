@@ -1457,7 +1457,7 @@ L
 sharp, faded
 Run-Up: 0 feet
 Winner:
-Flying Wrangler, Brown Gelding, by Flying Cowboy 123 out of Docs Dusty Dale, by Okey Dokey Dale. Foaled Jan 31, 2022 in Oklahoma.
+Flying Wrangler, Brown Gelding, by Flying Cowboy-123 out of Docs Dusty Dale, by Okey Dokey Dale. Foaled Jan 31, 2022 in Oklahoma.
 Breeder: Dusty Rose Ranch Llc
 Owner: Dusty Rose Ranch LLC
 Trainer: Capps, Stacey
@@ -1686,7 +1686,7 @@ L bhk
 never involved
 Run-Up: 0 feet
 Winner:
-Flying Nova 123, Black Filly, by Flying Cowboy 123 out of Sr Shegone, by Mighty B Valiant. Foaled Mar 10, 2022 in Oklahoma.
+Flying Nova 123, Black Filly, by Flying Cowboy-123 out of Sr Shegone, by Mighty B Valiant. Foaled Mar 10, 2022 in Oklahoma.
 Breeder: Rick or Connie Dickson
 Owner: Dickson, Rick and Connie
 Trainer: Ruiz, Jesus

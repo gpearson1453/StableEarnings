@@ -62,7 +62,7 @@ Hez Hott Ur Nott (Botello, J.)
 rallied,won nod
 7Oct23 2CTD4
 1
-St Paddy 109 (Periban, Antonio)
+St-Paddy-109 (Periban, Antonio)
 129 bf
 1
 2
@@ -176,7 +176,7 @@ Hez Hott Ur Nott
 31/2
 32
 1
-St Paddy 109
+St-Paddy-109
 2
 1Head
 21/2

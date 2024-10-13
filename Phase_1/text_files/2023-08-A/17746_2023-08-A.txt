@@ -139,7 +139,7 @@ Prince Klaus (Leos, Jaime)
 lost footing, off slow
 Run-Up: 0 feet
 Winner:
-Corner-Pocket-123, Sorrel Gelding, by Flying Cowboy 123 out of Shanondoah, by Good Reason Sa. Foaled Feb 28, 2021 in Oklahoma.
+Corner-Pocket-123, Sorrel Gelding, by Flying Cowboy-123 out of Shanondoah, by Good Reason Sa. Foaled Feb 28, 2021 in Oklahoma.
 Breeder: Jeff Jones and Steve Holt
 Owner: J.J. Racing
 Trainer: Taylor, M.
@@ -2153,7 +2153,7 @@ Vegas Trick (Ramos, Christian)
 broke slowly, trailed
 Run-Up: 0 feet
 Winner:
-Cowboys Gun Z, Bay Gelding, by Flying Cowboy 123 out of Cf Smokin Gun, by Tres Seis. Foaled Jan 06, 2021 in Oklahoma.
+Cowboys Gun Z, Bay Gelding, by Flying Cowboy-123 out of Cf Smokin Gun, by Tres Seis. Foaled Jan 06, 2021 in Oklahoma.
 Breeder: Running C Ranch Llc
 Owner: West Texas Racing Partners
 Trainer: Joiner, Michael

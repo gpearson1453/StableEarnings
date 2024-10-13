@@ -370,7 +370,7 @@ Blue Czar (Gutierrez, Manuel)
 outkicked
 Run-Up: 0 feet
 Winner:
-Renegading, Sorrel Filly, by Flying Cowboy 123 out of Southern Crowne, by Afrashad. Foaled Apr 09, 2022 in New Mexico.
+Renegading, Sorrel Filly, by Flying Cowboy-123 out of Southern Crowne, by Afrashad. Foaled Apr 09, 2022 in New Mexico.
 Breeder: Jason T Giles
 Owner: Charlotte R. James
 Trainer: Giles, Wesley
@@ -845,7 +845,7 @@ Double R Crown (Ruiz, Jose)
 veer,bmp brk,outrun
 Run-Up: 0 feet
 Winner:
-Electrifying Cowboy, Sorrel Colt, by Flying Cowboy 123 out of Corona Carmelita, by Corona Cartel. Foaled Jan 07, 2022 in Texas.
+Electrifying Cowboy, Sorrel Colt, by Flying Cowboy-123 out of Corona Carmelita, by Corona Cartel. Foaled Jan 07, 2022 in Texas.
 Breeder: Paragon Farms Llc
 Owner: Tungsten Racing Partnership and Sugamosto, Ronald L.
 Trainer: Mendoza, Ramon
@@ -1003,7 +1003,7 @@ Razor Sharp (Becerra, Jr., Sergio)
 clear,caught
 8Sep24 1ALB3
 4
-Space Cowboy 123 (Ramirez, Esgar)
+Space Cowboy-123 (Ramirez, Esgar)
 128 L b
 4
 2
@@ -1113,7 +1113,7 @@ Razor Sharp
 5.00
 4.00
 4
-Space Cowboy 123
+Space Cowboy-123
 5.40
 Wager Type
 Winning Numbers
@@ -1154,7 +1154,7 @@ Razor Sharp
 21/2
 21 1/2
 4
-Space Cowboy 123
+Space Cowboy-123
 2
 2Head
 31 1/2

@@ -1638,7 +1638,7 @@ Amber Alerrt (Ramirez, Jr., Francisco)
 awkward start, closed
 17Mar24 12SUN4
 8
-Space Cowboy 123 (Enriquez, Jacob)
+Space Cowboy-123 (Enriquez, Jacob)
 124 L b
 7
 3
@@ -1779,7 +1779,7 @@ Amber Alerrt
 31/2
 33/4
 8
-Space Cowboy 123
+Space Cowboy-123
 3
 42
 41

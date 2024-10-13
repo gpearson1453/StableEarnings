@@ -230,7 +230,7 @@ Timbers Express (Gonzalez, Adrian)
 bumped,rallied late
 2Aug24 2CTM2
 2
-St Paddy 109 (Marti, Alexander)
+St-Paddy-109 (Marti, Alexander)
 124 bf
 2
 4
@@ -322,7 +322,7 @@ Timbers Express
 41 3/4
 32 1/2
 2
-St Paddy 109
+St-Paddy-109
 4
 21
 21 1/2
