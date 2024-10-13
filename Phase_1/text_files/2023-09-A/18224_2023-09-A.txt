@@ -3134,6 +3134,7 @@ $1.00 Trifecta
 33,921
 Past Performance Running Line Preview
 Pgm Horse Name
+Start
 1/4
 1/2
 1m
@@ -3142,6 +3143,7 @@ Str
 Fin
 3
 Starting Over
+3
 31
 31 1/2
 32
@@ -3150,6 +3152,7 @@ Starting Over
 11
 7
 Dynadrive
+6
 64
 74 1/2
 75
@@ -3158,6 +3161,7 @@ Dynadrive
 21
 4
 McLovin
+8
 86 1/2
 86 1/2
 85 1/2
@@ -3166,6 +3170,7 @@ McLovin
 31
 10
 Sy Dog
+2
 21/2
 21
 21
@@ -3174,6 +3179,7 @@ Sy Dog
 41 3/4
 11
 Glider
+7
 74 1/2
 64
 53 1/2
@@ -3182,6 +3188,7 @@ Glider
 54
 8
 Ajourneytofreedom
+4
 42 1/2
 42 1/2
 42 1/2
@@ -3190,6 +3197,7 @@ Ajourneytofreedom
 612
 5
 Monaasib
+5
 52 1/2
 53 1/2
 64
@@ -3198,6 +3206,7 @@ Monaasib
 713 3/4
 6
 Temple
+1
 11/2
 11
 11

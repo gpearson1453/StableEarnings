@@ -1796,6 +1796,7 @@ $0.20 Trifecta
 122,010
 Past Performance Running Line Preview
 Pgm Horse Name
+Start
 1/4
 1/2
 1m
@@ -1804,6 +1805,7 @@ Str
 Fin
 2
 Meyer
+5
 52 1/2
 73 3/4
 53 1/2
@@ -1812,6 +1814,7 @@ Meyer
 11
 7
 Lil Bit Gangsta
+7
 74
 63 1/2
 64 1/2
@@ -1820,6 +1823,7 @@ Lil Bit Gangsta
 21
 4
 Ron's Gizmo
+1
 11/2
 11 1/2
 12 1/2
@@ -1828,6 +1832,7 @@ Ron's Gizmo
 32
 8
 Canadian Pharoah
+8
 84 1/2
 85 3/4
 814
@@ -1836,6 +1841,7 @@ Canadian Pharoah
 44 3/4
 1
 Conglomerate
+6
 63
 32
 22 1/2
@@ -1844,6 +1850,7 @@ Conglomerate
 55 1/4
 3
 Prideofdistinction
+3
 31
 52 1/2
 76 1/2
@@ -1852,6 +1859,7 @@ Prideofdistinction
 66 1/2
 6
 Kiddie Holiday
+4
 42
 42 1/2
 43
@@ -1860,6 +1868,7 @@ Kiddie Holiday
 710 1/2
 5
 Just Start Me Up
+2
 21/2
 21 1/2
 32 1/2
