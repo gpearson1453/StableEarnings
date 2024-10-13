@@ -72,7 +72,7 @@ B bf
 good effort
 4Jun23 2JRM4
 3
-Wendy Tales Mw4 (Preciado, Roman)
+Wendy-Tales-Mw4 (Preciado, Roman)
 124
 B bf
 3
@@ -144,7 +144,7 @@ Papa Dan
 43
 42 3/4
 3
-Wendy Tales Mw4
+Wendy-Tales-Mw4
 5
 55
 54 1/4

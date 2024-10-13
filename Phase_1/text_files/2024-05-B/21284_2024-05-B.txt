@@ -363,7 +363,7 @@ L bk
 bore out
 14Jul22 5RET9
 5
-El 44 (Vera, Eliazar)
+El-44 (Vera, Eliazar)
 128
 L bk
 5
@@ -383,7 +383,7 @@ Trainer: Madrigal, Roberto
 Claiming Prices:
 4 - Piloncillo Kas: $10,000; 2 - Muddys Black Mamba: $10,000; 3 - Riii de Axe: $10,000; 1 - Tm La Patriot Lady:
 $10,000; 8 - Pycs Crock of Roses: $10,000; 10 - Teller I Du: $10,000; 7 - Kr Eye of a Storm: $10,000; 9 - Is Dazzling
-Menace: $10,000; 5 - El 44: $10,000;
+Menace: $10,000; 5 - El-44: $10,000;
 Scratched Horse(s): Dazed N Confused Js (Veterinarian)
 Total WPS Pool: $10,079
 Pgm Horse
@@ -473,7 +473,7 @@ Is Dazzling Menace
 85 3/4
 85 1/4
 5
-El 44
+El-44
 5
 96
 95 3/4

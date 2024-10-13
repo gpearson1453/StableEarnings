@@ -260,7 +260,7 @@ Jj Miss Jessie Bug, Bay Filly, by Jess Got Easier out of Miss Perry Bug, by Dash
 Breeder: Glen T or Jill G Jamison
 Owner: Jamison, Glen T. and Jamison, Jill G.
 Trainer: Jamison, Glen
-Scratched Horse(s): Wendy Tales Mw4 (Trainer)
+Scratched Horse(s): Wendy-Tales-Mw4 (Trainer)
 Total WPS Pool: $922
 Pgm Horse
 Win

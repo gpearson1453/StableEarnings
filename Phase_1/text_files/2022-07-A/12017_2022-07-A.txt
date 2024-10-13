@@ -1090,7 +1090,7 @@ b
 no factor
 ---
 1
-El 44 (Giles, Francisco)
+El-44 (Giles, Francisco)
 125
 L b
 1
@@ -1207,7 +1207,7 @@ Lunatic Boy
 81
 83 1/2
 1
-El 44
+El-44
 9
 93
 95 3/4

@@ -229,7 +229,7 @@ J Walker (Villa, Oscar)
 early speed caught
 13May23 3POD4
 2
-Wendy Tales Mw4 (Lopez, Jose)
+Wendy-Tales-Mw4 (Lopez, Jose)
 126 B bf
 2
 4
@@ -346,7 +346,7 @@ J Walker
 3Head
 3Neck
 2
-Wendy Tales Mw4
+Wendy-Tales-Mw4
 4
 4Neck
 4Head

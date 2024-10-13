@@ -1350,7 +1350,7 @@ Adrians Shadow (Vera, Gerardo)
 off step slow,no bid
 ---
 3
-Wendy Tales Mw4 (Tapia, Emilio)
+Wendy-Tales-Mw4 (Tapia, Emilio)
 124 L bf
 3
 10
@@ -1373,7 +1373,7 @@ New Owner: Edmundo Juarez Astorga
 Claiming Prices:
 1 - Lil Smokin Marfa: $20,000; 9 - Vgk Trippys Eagle: $20,000; 6 - Converjenz: $20,000; 4 - Kj Flying Spirit: $20,000; 10
 - Eye for the Diamonds: $20,000; 7 - Duponte Delight: $20,000; 8 - Max Talker: $20,000; 5 - Just the One: $20,000; 2 -
-Adrians Shadow: $20,000; 3 - Wendy Tales Mw4: $20,000;
+Adrians Shadow: $20,000; 3 - Wendy-Tales-Mw4: $20,000;
 Disqualification(s):
 # 9 Vgk Trippys Eagle from 2 to 7
 Total WPS Pool: $26,718
@@ -1470,7 +1470,7 @@ Adrians Shadow
 97 3/4
 98 3/4
 3
-Wendy Tales Mw4
+Wendy-Tales-Mw4
 10
 105 1/2
 109 3/4

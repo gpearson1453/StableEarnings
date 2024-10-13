@@ -372,7 +372,7 @@ BL bf
 solid effort
 31Jul22 6RUI10
 3
-Wendy Tales Mw4 (Lopez, Jose)
+Wendy-Tales-Mw4 (Lopez, Jose)
 128
 B bf
 3
@@ -473,7 +473,7 @@ Royalprincess Juliza
 33/4
 32
 3
-Wendy Tales Mw4
+Wendy-Tales-Mw4
 5
 41
 42 3/4

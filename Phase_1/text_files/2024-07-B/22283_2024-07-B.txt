@@ -831,7 +831,7 @@ b
 showed nothing
 25May24 2HOU9
 5
-El 44 (Vital, Humberto)
+El-44 (Vital, Humberto)
 128
 bk
 5
@@ -942,7 +942,7 @@ Jlc Sticks N Stones
 82 1/2
 84 1/4
 5
-El 44
+El-44
 9
 93
 95 1/4

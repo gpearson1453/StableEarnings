@@ -57,7 +57,7 @@ Docs Best Night (Moreno, Cesar)
 big effort inside
 11Jun23 1UN5
 5
-Wendy Tales Mw4 (Lopez, Jose)
+Wendy-Tales-Mw4 (Lopez, Jose)
 122 B bf
 5
 3
@@ -171,7 +171,7 @@ Docs Best Night
 43/4
 31
 5
-Wendy Tales Mw4
+Wendy-Tales-Mw4
 3
 31/2
 31/2
