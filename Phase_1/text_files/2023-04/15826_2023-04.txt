@@ -353,7 +353,7 @@ Heros Courage (Amaya, Daniel)
 between, outkicked
 24Feb23 2SUN5
 2
-Bourye 911 (Ramos, Christian)
+Bourye-911 (Ramos, Christian)
 126 L b
 1
 2
@@ -404,7 +404,7 @@ New Trainer: Lorenzo Vega
 New Owner: Veronica Gonzalez
 Claiming Prices:
 9 - Sw Glorious Song: $15,000; 6 - Splash of Crowne: $15,000; 8 - The Painted Lights: $15,000; 7 - Our Daddys Girl:
-$15,000; 5 - Heros Courage: $15,000; 2 - Bourye 911: $15,000; 3 - One Secret Sister: $15,000; 4 - Streakin With Fly
+$15,000; 5 - Heros Courage: $15,000; 2 - Bourye-911: $15,000; 3 - One Secret Sister: $15,000; 4 - Streakin With Fly
 Gm: $15,000;
 Scratched Horse(s): Four of a Kind (Veterinarian), Royalty Blood (Veterinarian)
 Total WPS Pool: $3,177
@@ -477,7 +477,7 @@ Heros Courage
 52 1/4
 52 1/4
 2
-Bourye 911
+Bourye-911
 2
 21
 62 1/4

@@ -492,7 +492,7 @@ f
 vied, hung 3rd
 15Sep23 4LS8
 1
-Bourye 911 (Miranda, Victor)
+Bourye-911 (Miranda, Victor)
 131
 L bf
 1
@@ -578,7 +578,7 @@ Trainer: Hinojosa, Isidro
 New Trainer: Jeffery Charles Brooks
 New Owner: Claudio Martinez
 Claiming Prices:
-7 - Rio Chick: $10,000; 4 - Brother Jess: $10,000; 6 - Jess Moonin: $10,000; 1 - Bourye 911: $10,000; 2 - Dee Dee Tlc:
+7 - Rio Chick: $10,000; 4 - Brother Jess: $10,000; 6 - Jess Moonin: $10,000; 1 - Bourye-911: $10,000; 2 - Dee Dee Tlc:
 $10,000; 3 - Gray Eagle Moon: $10,000; 5 - Fancys Bigtime Girl: $10,000; 10 - Bm Lady Jess Go: $10,000; 9 - Power
 Chic: $10,000;
 Scratched Horse(s): Quick Mary Be Famous (Also-Eligible), Shine On Fortuna (Veterinarian), Vp Double Down Dash (Also-Eligible)
@@ -644,7 +644,7 @@ Jess Moonin
 21/2
 3Head
 1
-Bourye 911
+Bourye-911
 2
 11/2
 41 1/4

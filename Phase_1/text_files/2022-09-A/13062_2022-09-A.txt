@@ -1869,7 +1869,7 @@ Nineteen Crimes (Belloc, Jr., Joseph)
 no factor
 7Aug22 1ALB6
 8
-Bourye 911 (Bobroff, Jacquelyn)
+Bourye-911 (Bobroff, Jacquelyn)
 124 L b
 8
 6
@@ -1990,7 +1990,7 @@ Nineteen Crimes
 72
 82 1/2
 8
-Bourye 911
+Bourye-911
 6
 61 1/4
 93 1/2

@@ -598,7 +598,7 @@ L bfk
 came in start
 23Apr23 2SRP6
 10
-Bourye 911 (Ramos, Christian)
+Bourye-911 (Ramos, Christian)
 126
 L b
 10
@@ -724,7 +724,7 @@ Devons Cartel
 41 1/4
 61 3/4
 10
-Bourye 911
+Bourye-911
 4
 31
 71 3/4

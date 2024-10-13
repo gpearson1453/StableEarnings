@@ -488,7 +488,7 @@ Start
 Str
 Fin
 1
-Chicksdigmymoneybags1
+Chicksdigmymoneybags 1
 1Head
 1Head
 4

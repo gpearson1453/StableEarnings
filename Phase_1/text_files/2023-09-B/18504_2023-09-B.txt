@@ -128,7 +128,7 @@ Start
 Str
 Fin
 4
-Chicksdigmymoneybags1
+Chicksdigmymoneybags 1
 1Neck
 1Neck
 2

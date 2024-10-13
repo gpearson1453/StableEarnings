@@ -1953,7 +1953,7 @@ Start
 Str
 Fin
 6
-Technical Analysis (IRE)4
+Technical Analysis (IRE) 4
 11 1/2
 11
 11/2

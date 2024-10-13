@@ -1334,7 +1334,7 @@ Kobe D Man (Vera, Gerardo)
 no threat
 7Sep24 8ALB3
 4
-Bourye 911 (Martinez, Luis)
+Bourye-911 (Martinez, Luis)
 128 b
 4
 3
@@ -1453,7 +1453,7 @@ Kobe D Man
 81
 81 3/4
 4
-Bourye 911
+Bourye-911
 3
 3Head
 91 1/2

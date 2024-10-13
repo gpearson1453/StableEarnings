@@ -393,7 +393,7 @@ Pgm Horse Name
 Str
 Fin
 4
-Noah And The Ark (IRE)65
+Noah And The Ark (IRE) 65
 66
 31 1/2
 32

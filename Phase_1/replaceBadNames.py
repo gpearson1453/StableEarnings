@@ -47,10 +47,12 @@ folder_to_search = 'text_files'  # Replace with the name of your folder
 target_string = 'old_string'  # Replace with the string you want to replace
 replacement_string = 'new_string'  # Replace with the replacement string
 
-names = ['Wendy Tales Mw4']
+#this should contain tuples
+both_names = [('(FR)1', '(FR) 1'), ('(FR)2', '(FR) 2'), ('(FR)3', '(FR) 3'), ('(FR)4', '(FR) 4'), ('(FR)5', '(FR) 5'),
+                ('(FR)6', '(FR) 6'), ('(FR)7', '(FR) 7'), ('(FR)8', '(FR) 8'), ('(FR)9', '(FR) 9'), ('(FR)10', '(FR) 10')]
 
-# Single run
-# process_folder(folder_to_search, target_string, replacement_string)
+#this should not contain tuples
+names = []
 
 # Run all names in names list, only use if just replacing spaces with hyphens
 with ThreadPoolExecutor() as executor:
@@ -59,3 +61,12 @@ with ThreadPoolExecutor() as executor:
     # Wait for all tasks to complete
     for future in as_completed(futures):
         future.result()
+
+# this version is used for more specific cases that nee specific replacements
+# each entity in names is a tuple of a target and replacement string        
+'''with ThreadPoolExecutor() as executor:
+    futures = [executor.submit(process_folder, folder_to_search, name[0], name[1]) for name in both_names]
+    
+    # Wait for all tasks to complete
+    for future in as_completed(futures):
+        future.result()'''

@@ -1315,7 +1315,7 @@ Strawfly Moments (Quiroz, Bonifacio)
 came in start, evenly
 12May24 4SRP2
 6
-Bourye 911 (Nieto-Saenz, Jorge)
+Bourye-911 (Nieto-Saenz, Jorge)
 128 b
 6
 2
@@ -1448,7 +1448,7 @@ Strawfly Moments
 72 1/4
 62 1/2
 6
-Bourye 911
+Bourye-911
 2
 31
 61 3/4

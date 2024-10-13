@@ -2556,7 +2556,7 @@ Daddys Famous Lady (Vazquez-Gomez, Giovani)
 no factor
 10Aug19 2IND10
 7
-Go Go Race 42 (Ruiz, Jose)
+Go-Go-Race-42 (Ruiz, Jose)
 128 L bk
 7
 5
@@ -2687,7 +2687,7 @@ Daddys Famous Lady
 93 1/2
 84
 7
-Go Go Race 42
+Go-Go-Race-42
 5
 73/4
 83

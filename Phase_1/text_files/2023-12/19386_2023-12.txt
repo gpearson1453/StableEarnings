@@ -113,7 +113,7 @@ L b
 shuffled back
 13Oct23 3LS4
 4
-Bourye 911 (Ramos, Christian)
+Bourye-911 (Ramos, Christian)
 126
 L b
 4
@@ -145,7 +145,7 @@ Owner: Joel Gutierrez
 Trainer: Gutierrez, Joel
 Claiming Prices:
 2 - Stuntin Like Daddy: $15,000; 6 - Super Stuper: $15,000; 9 - Nazboo: $15,000; 7 - Murphy Goode: $15,000; 5 -
-Ultima Diva: $15,000; 1 - Our Power Cartel: $15,000; 3 - Eagle Rig: $15,000; 4 - Bourye 911: $15,000; 8 - Mirandas
+Ultima Diva: $15,000; 1 - Our Power Cartel: $15,000; 3 - Eagle Rig: $15,000; 4 - Bourye-911: $15,000; 8 - Mirandas
 Miracle: $15,000;
 Dead Heats:
 2nd place - # 6 Super Stuper
@@ -237,7 +237,7 @@ Eagle Rig
 61 3/4
 71
 4
-Bourye 911
+Bourye-911
 8
 71 3/4
 81 1/4

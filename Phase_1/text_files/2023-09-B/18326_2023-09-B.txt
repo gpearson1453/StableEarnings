@@ -786,7 +786,7 @@ Bm Lady Jess Go (Zuniga, Alejandro)
 rallied, flattened out
 20Aug23 9RUI1
 8
-Bourye 911 (Duenez, Luciano)
+Bourye-911 (Duenez, Luciano)
 130 L bf
 8
 1
@@ -821,7 +821,7 @@ New Trainer: Isidro Mancillas-Lopez
 New Owner: Isidro Mancillas-Lopez
 Claiming Prices:
 4 - Sheza Jet Too: $10,000; 6 - Sg Seperate Twist: $10,000; 1 - Inseperable Prime: $10,000; 2 - Party in the Wagon:
-$10,000; 10 - Ojd Paloma: $10,000; 7 - Rv Verlessia: $10,000; 5 - Bm Lady Jess Go: $10,000; 8 - Bourye 911: $10,000;
+$10,000; 10 - Ojd Paloma: $10,000; 7 - Rv Verlessia: $10,000; 5 - Bm Lady Jess Go: $10,000; 8 - Bourye-911: $10,000;
 3 - Sunsetby the Wagon: $10,000;
 Scratched Horse(s): Inseperably (Stewards)
 Total WPS Pool: $20,739
@@ -914,7 +914,7 @@ Bm Lady Jess Go
 51 3/4
 73 1/4
 8
-Bourye 911
+Bourye-911
 1
 61 3/4
 72 1/2

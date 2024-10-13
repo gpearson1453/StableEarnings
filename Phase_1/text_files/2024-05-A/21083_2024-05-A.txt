@@ -769,7 +769,7 @@ Solid Wager (Ramos, Christian)
 drew clear, driving
 19Apr24 7SRP10
 7
-Bourye 911 (Lopez, Jose)
+Bourye-911 (Lopez, Jose)
 129 b
 6
 2
@@ -878,7 +878,7 @@ Breeder: Mike Abraham/Angel Anne Parr
 Owner: Mike G. Parker
 Trainer: Sedillo, Carlos
 Claiming Prices:
-10 - Solid Wager: $12,500; 7 - Bourye 911: $12,500; 9 - Ietoro Coronado: $12,500; 8 - Ac Dash: $12,500; 6 - Strawfly
+10 - Solid Wager: $12,500; 7 - Bourye-911: $12,500; 9 - Ietoro Coronado: $12,500; 8 - Ac Dash: $12,500; 6 - Strawfly
 Moments: $12,500; 5 - Tippa the Iceberg: $12,500; 2 - Hes Mighty Perfect: $12,500; 1 - Cocomo Moon: $12,500; 3 -
 Eye Am Bigtime: $12,500;
 Scratched Horse(s): Brujo Spirit (Also-Eligible), Caporal Runaway (Gate), Jess a Lil Fabulous (Also-Eligible)
@@ -893,7 +893,7 @@ Solid Wager
 3.60
 2.80
 7
-Bourye 911
+Bourye-911
 14.20
 7.20
 9
@@ -928,7 +928,7 @@ Solid Wager
 11/2
 11
 7
-Bourye 911
+Bourye-911
 2
 2Head
 21/2

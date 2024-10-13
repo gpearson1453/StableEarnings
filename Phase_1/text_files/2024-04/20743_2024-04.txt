@@ -1740,7 +1740,7 @@ First Sweets (Cardenas, Christian)
 steady fade
 24Feb24 7SUN6
 8
-Bourye 911 (Cuellar, Francisco)
+Bourye-911 (Cuellar, Francisco)
 128 L b
 8
 7
@@ -1859,7 +1859,7 @@ First Sweets
 92 3/4
 82 1/4
 8
-Bourye 911
+Bourye-911
 7
 93 1/4
 103 1/4

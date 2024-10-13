@@ -880,7 +880,7 @@ Start
 Str
 Fin
 5
-Technical Analysis (IRE)3
+Technical Analysis (IRE) 3
 11
 11/2
 11/2

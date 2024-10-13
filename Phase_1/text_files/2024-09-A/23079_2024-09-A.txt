@@ -1820,7 +1820,7 @@ Who U Daddy (Becerra, Jr., Sergio)
 came out,brushed early
 4Aug24 12ALB5
 9
-Bourye 911 (Tapia, Emilio)
+Bourye-911 (Tapia, Emilio)
 128 b
 9
 1
@@ -1930,7 +1930,7 @@ Who U Daddy
 7.00
 5.40
 9
-Bourye 911
+Bourye-911
 13.00
 Wager Type
 Winning Numbers
@@ -1967,7 +1967,7 @@ Who U Daddy
 31
 21
 9
-Bourye 911
+Bourye-911
 1
 2Head
 21

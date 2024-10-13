@@ -1276,7 +1276,7 @@ Ima Handsome Man (Iturralde, Omar)
 bid between,kept on
 3Dec23 1ZIA8
 3
-Bourye 911 (Amaya, Daniel)
+Bourye-911 (Amaya, Daniel)
 130 L b
 3
 6
@@ -1347,7 +1347,7 @@ Owner: Jorge Diaz
 Trainer: Webster, Shawna
 Claiming Prices:
 2 - Canela Ar: $7,500; 6 - Osbaldo Lucky Boy: $7,500; 4 - Kaleka Kai: $7,500; 5 - Ima Handsome Man: $7,500; 3 -
-Bourye 911: $7,500; 8 - Jes Charge N Go: $7,500; 1 - Asian Butterfly: $7,500; 11 - Jy La Madrecita: $7,500; 9 - Jess a
+Bourye-911: $7,500; 8 - Jes Charge N Go: $7,500; 1 - Asian Butterfly: $7,500; 11 - Jy La Madrecita: $7,500; 9 - Jess a
 Major: $7,500;
 Scratched Horse(s): Cartel Kip (Veterinarian), Moreversions (Also-Eligible), Shes So Salty (Stewards)
 Total WPS Pool: $13,020
@@ -1414,7 +1414,7 @@ Ima Handsome Man
 51 1/2
 41
 3
-Bourye 911
+Bourye-911
 6
 21/2
 23/4
