@@ -1118,7 +1118,7 @@ Odds Ind. Time
 Sp. In. Comments
 14May23 10LA1
 6
-Double Down 123 (Cervantes, Armando)
+Double-Down-123 (Cervantes, Armando)
 126 b
 6
 1
@@ -1209,7 +1209,7 @@ Relentless Fyre (Figueroa, Cerapio)
 fractious, retreated
 Run-Up: 0 feet
 Winner:
-Double Down 123, Brown Filly, by Flying Cowboy 123 out of Double Down Darling, by Fishers Dash. Foaled Mar 27, 2021 in Texas.
+Double-Down-123, Brown Filly, by Flying Cowboy 123 out of Double Down Darling, by Fishers Dash. Foaled Mar 27, 2021 in Texas.
 Breeder: Bob And/Or Jerry Gaston
 Owner: Taos River Ranch LLC and Young, Randy
 Trainer: Arrossa, Monty
@@ -1219,7 +1219,7 @@ Win
 Place
 Show
 6
-Double Down 123
+Double-Down-123
 3.20
 2.40
 2.10
@@ -1257,7 +1257,7 @@ Str 1
 Str
 Fin
 6
-Double Down 123
+Double-Down-123
 1
 11/2
 1Neck

@@ -1794,7 +1794,7 @@ Odds Ind. Time
 Sp. In. Comments
 27Oct23 6LS1
 1
-Flyin Rabbit 123 (Candanosa, Bryan)
+Flyin-Rabbit-123 (Candanosa, Bryan)
 124 L bfk
 1
 4
@@ -1924,7 +1924,7 @@ Johnny Ringo 123 (Garcia, Jr., Noe)
 stumbled after start
 Run-Up: 0 feet
 Winner:
-Flyin Rabbit 123, Sorrel Gelding, by Flying Cowboy 123 out of Hardtoget, by Foose. Foaled Feb 15, 2021 in Oklahoma.
+Flyin-Rabbit-123, Sorrel Gelding, by Flying Cowboy 123 out of Hardtoget, by Foose. Foaled Feb 15, 2021 in Oklahoma.
 Breeder: Louis A Malechek III
 Owner: Louis A. Trey Malechek III
 Trainer: Keeton, Toby
@@ -1935,7 +1935,7 @@ Win
 Place
 Show
 1
-Flyin Rabbit 123
+Flyin-Rabbit-123
 4.20
 3.20
 2.80
@@ -1977,7 +1977,7 @@ Str 1
 Str
 Fin
 1
-Flyin Rabbit 123
+Flyin-Rabbit-123
 4
 2Head
 11

@@ -2040,7 +2040,7 @@ M b
 veered out, no impact
 1Jun23 7RP4
 8
-Docs Pilot 123 (Martinez, L.)
+Docs-Pilot-123 (Martinez, L.)
 127
 L bhk
 8
@@ -2062,7 +2062,7 @@ New Trainer: Juvenal Licona-VazquezNew Owner: Juan F. Mariscal
 Claiming Prices:
 1 - Sir Walter Stoli: $10,000; 3 - Corona Vip: $10,000; 6 - My Fancy Heart: $10,000; 9 - Cowgirl Mp: $10,000; 2 - Lindy
 Lou Bug: $10,000; 7 - Holden My Prize: $10,000; 5 - Grrr8: $10,000; 4 - Jess a Passion: $10,000; 10 - Fast Kat:
-$10,000; 8 - Docs Pilot 123: $10,000;
+$10,000; 8 - Docs-Pilot-123: $10,000;
 Total WPS Pool: $6,310
 Pgm Horse
 Win
@@ -2159,7 +2159,7 @@ Fast Kat
 102 1/4
 92 3/4
 8
-Docs Pilot 123
+Docs-Pilot-123
 9
 92
 104 1/2

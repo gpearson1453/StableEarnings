@@ -2367,7 +2367,7 @@ Hubba Hubba (Franco, Cesar)
 away well, proved best
 1Oct23 9LA3
 4
-Double Down 123 (Cervantes, Armando)
+Double-Down-123 (Cervantes, Armando)
 127 L b
 4
 3
@@ -2473,7 +2473,7 @@ Hubba Hubba
 6.40
 3.80
 4
-Double Down 123
+Double-Down-123
 3.20
 2.10
 3
@@ -2528,7 +2528,7 @@ Hubba Hubba
 1Neck
 1Neck
 4
-Double Down 123
+Double-Down-123
 3
 2Neck
 2Neck

@@ -1072,7 +1072,7 @@ Kool Susie (Smith, Stormy)
 wide legged at start
 28Apr23 3RP9
 2
-Docrudtuz 21 (Romero, Josh)
+Docrudtuz-21 (Romero, Josh)
 126 L b
 2
 6
@@ -1095,7 +1095,7 @@ New Owner: Georgina Chavira
 Claiming Prices:
 7 - Paint My Jessie: $20,000; 3 - Blue Two: $20,000; 5 - Painted My Lady: $20,000; 4 - Cold as You: $20,000; 9 - One
 Famous Molly: $20,000; 10 - Mp Fast Pilot: $20,000; 6 - Louisianasluckycharm: $20,000; 8 - Mr Jess Jones: $20,000; 1
-- Kool Susie: $20,000; 2 - Docrudtuz 21: $20,000;
+- Kool Susie: $20,000; 2 - Docrudtuz-21: $20,000;
 Total WPS Pool: $14,055
 Pgm Horse
 Win
@@ -1202,7 +1202,7 @@ Kool Susie
 94
 94 3/4
 2
-Docrudtuz 21
+Docrudtuz-21
 6
 81
 107

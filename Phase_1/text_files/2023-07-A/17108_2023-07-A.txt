@@ -1652,7 +1652,7 @@ Can Run (Romero, Josh)
 went evenly
 2Jun23 11RP5
 5
-Oceans 13 (Cruz, Roman)
+Oceans-13 (Cruz, Roman)
 124 L b
 5
 5
@@ -1758,7 +1758,7 @@ Can Run
 32
 42
 5
-Oceans 13
+Oceans-13
 5
 53/4
 52 1/4

@@ -1319,7 +1319,7 @@ One Valiant Love, Sorrel Gelding, by One Valiant Hero out of Echoes of Love, by 
 Breeder: Valeriano Racing Stables Llc
 Owner: Dunn Ranch
 Trainer: Arrossa, Monty
-Scratched Horse(s): Aj Rock My Heart (Trainer), Ajs Little Reba (Trainer), Lady Corona 123 (Trainer)
+Scratched Horse(s): Aj Rock My Heart (Trainer), Ajs Little Reba (Trainer), Lady-Corona-123 (Trainer)
 Total WPS Pool: $40,023
 Pgm Horse
 Win

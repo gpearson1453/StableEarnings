@@ -436,7 +436,7 @@ b
 bk out/bp,solid effort
 1Apr23 5LA2
 2
-Double Down 123 (Cervantes, Armando)
+Double-Down-123 (Cervantes, Armando)
 126
 b
 1
@@ -547,7 +547,7 @@ Max Storm
 21/2
 31/2
 2
-Double Down 123
+Double-Down-123
 3
 33/4
 43/4

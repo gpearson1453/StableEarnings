@@ -73,7 +73,7 @@ Fast N Favorite (Garcia, Ramiro)
 game effort
 17Sep24 5WRD8
 3
-Dynasty Cartel 727 (Salazar, Jesus)
+Dynasty-Cartel-727 (Salazar, Jesus)
 127 L bfk
 3
 2
@@ -169,7 +169,7 @@ Fast N Favorite
 43/4
 41
 3
-Dynasty Cartel 727
+Dynasty-Cartel-727
 2
 51/2
 53/4

@@ -22,7 +22,7 @@ Odds Ind. Time
 Sp. In. Comments
 30Jun23 11RUI1
 6
-Corner Pocket 123 (Vallejo, Rodrigo)
+Corner-Pocket-123 (Vallejo, Rodrigo)
 124 L b
 6
 5
@@ -139,7 +139,7 @@ Prince Klaus (Leos, Jaime)
 lost footing, off slow
 Run-Up: 0 feet
 Winner:
-Corner Pocket 123, Sorrel Gelding, by Flying Cowboy 123 out of Shanondoah, by Good Reason Sa. Foaled Feb 28, 2021 in Oklahoma.
+Corner-Pocket-123, Sorrel Gelding, by Flying Cowboy 123 out of Shanondoah, by Good Reason Sa. Foaled Feb 28, 2021 in Oklahoma.
 Breeder: Jeff Jones and Steve Holt
 Owner: J.J. Racing
 Trainer: Taylor, M.
@@ -149,7 +149,7 @@ Win
 Place
 Show
 6
-Corner Pocket 123
+Corner-Pocket-123
 3.00
 2.10
 2.10
@@ -183,7 +183,7 @@ Str 1
 Str
 Fin
 6
-Corner Pocket 123
+Corner-Pocket-123
 5
 43/4
 1Head
@@ -3036,7 +3036,7 @@ Odds Ind. Time
 Sp. In. Comments
 30Jun23 9RUI1
 6
-Lady Corona 123 (Vallejo, Rodrigo)
+Lady-Corona-123 (Vallejo, Rodrigo)
 124 L bfk
 6
 2
@@ -3153,7 +3153,7 @@ Skeet (Klaiber, Justine)
 outrun
 Run-Up: 0 feet
 Winner:
-Lady Corona 123, Sorrel Filly, by Corona Cartel out of Lady Eagle 123, by One Famous Eagle. Foaled Apr 10, 2021 in Oklahoma.
+Lady-Corona-123, Sorrel Filly, by Corona Cartel out of Lady Eagle 123, by One Famous Eagle. Foaled Apr 10, 2021 in Oklahoma.
 Breeder: Flag Ranch Llc
 Owner: Rice, Larry L. and Rice, Bobbie
 Trainer: Taylor, M.
@@ -3164,7 +3164,7 @@ Win
 Place
 Show
 6
-Lady Corona 123
+Lady-Corona-123
 5.40
 3.40
 2.20
@@ -3198,7 +3198,7 @@ Str 1
 Str
 Fin
 6
-Lady Corona 123
+Lady-Corona-123
 2
 11/2
 11/2

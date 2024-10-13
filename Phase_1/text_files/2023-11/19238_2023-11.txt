@@ -1573,7 +1573,7 @@ Cigma Chi (Samaniego, Andrew)
 even effort
 5Nov23 6WRD3
 3
-Oceans 13 (Cruz, Roman)
+Oceans-13 (Cruz, Roman)
 124 L b
 3
 7
@@ -1707,7 +1707,7 @@ Cigma Chi
 51/2
 53
 3
-Oceans 13
+Oceans-13
 7
 4Head
 61/2

@@ -2196,7 +2196,7 @@ Mg Boy Wheels (Martinez, Luz)
 dueled, inched up
 1Jun24 7IND6
 9
-Docs Pilot 123 (Vazquez-Gomez, Giovani)
+Docs-Pilot-123 (Vazquez-Gomez, Giovani)
 131 bfk
 9
 2
@@ -2315,7 +2315,7 @@ Mg Boy Wheels
 2.80
 2.40
 9
-Docs Pilot 123
+Docs-Pilot-123
 2.80
 2.40
 7
@@ -2362,7 +2362,7 @@ Mg Boy Wheels
 2Neck
 1Head
 9
-Docs Pilot 123
+Docs-Pilot-123
 2
 1Neck
 1Neck

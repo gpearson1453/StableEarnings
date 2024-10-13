@@ -2255,7 +2255,7 @@ Its a Ruidoso Weddin (Vazquez-Gomez, Giovani)
 close erly,lost 3rd
 25Mar24 3SRM2
 1
-Docs Pilot 123 (Macias, Hugo)
+Docs-Pilot-123 (Macias, Hugo)
 131 bfk
 1
 2
@@ -2414,7 +2414,7 @@ Its a Ruidoso Weddin
 43/4
 41 1/2
 1
-Docs Pilot 123
+Docs-Pilot-123
 2
 2Neck
 33/4

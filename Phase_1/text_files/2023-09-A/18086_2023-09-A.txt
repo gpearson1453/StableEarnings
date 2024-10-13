@@ -833,7 +833,7 @@ bf
 bump start, late rush
 3Aug23 9RET7
 3
-Ec Jet Nine One 1 (Hernandez, H.)
+Ec-Jet-Nine-One-1 (Hernandez, H.)
 124
 b
 3
@@ -982,7 +982,7 @@ Freaking Phenomenal
 51 3/4
 41 3/4
 3
-Ec Jet Nine One 1
+Ec-Jet-Nine-One-1
 2
 21
 51 3/4

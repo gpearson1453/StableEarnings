@@ -1078,7 +1078,7 @@ L b
 shied, jumped light
 ---
 9
-Flyin Rabbit 123 (Herbert, Jose)
+Flyin-Rabbit-123 (Herbert, Jose)
 124
 bk
 9
@@ -1236,7 +1236,7 @@ Pyc Royal Time
 21/2
 41
 9
-Flyin Rabbit 123
+Flyin-Rabbit-123
 10
 92
 51 1/4

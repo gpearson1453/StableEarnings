@@ -1222,7 +1222,7 @@ Coronados Fate (Brooks, Jimmy)
 surged late outside
 17Dec23 8ZIA1
 1
-Flyin Rabbit 123 (Pulido, Juan)
+Flyin-Rabbit-123 (Pulido, Juan)
 124 L bk
 1
 4
@@ -1328,7 +1328,7 @@ Coronados Fate
 3.40
 2.80
 1
-Flyin Rabbit 123
+Flyin-Rabbit-123
 2.20
 2.10
 7
@@ -1367,7 +1367,7 @@ Coronados Fate
 3Neck
 1Head
 1
-Flyin Rabbit 123
+Flyin-Rabbit-123
 4
 1Neck
 1Neck

@@ -709,7 +709,7 @@ Glimpse to Leave (Vidana, Cipriano)
 dueled, driving finish
 7Jun24 10HOU5
 6
-DQ-Ec Jet Nine One 1 (Alvarez, Jose)
+DQ-Ec-Jet-Nine-One-1 (Alvarez, Jose)
 127 bf
 5
 4
@@ -821,11 +821,11 @@ Trainer: Villarreal, Alex
 New Trainer: Miguel A. Castillo
 New Owner: Rigoberto Aguilar
 Claiming Prices:
-2 - Glimpse to Leave: $10,000; 6 - Ec Jet Nine One 1: $10,000; 9 - Hez a Famous Eagle: $10,000; 5 - Sprocketz:
+2 - Glimpse to Leave: $10,000; 6 - Ec-Jet-Nine-One-1: $10,000; 9 - Hez a Famous Eagle: $10,000; 5 - Sprocketz:
 $10,000; 8 - Rum Chata B: $10,000; 4 - Fabulous June Bug: $10,000; 3 - Amending the Eagle: $10,000; 10 - Cc Go
 Alfa: $10,000; 7 - Shez Blacklisted: $10,000;
 Disqualification(s):
-# 6 Ec Jet Nine One 1 from 2 to 4
+# 6 Ec-Jet-Nine-One-1 from 2 to 4
 Scratched Horse(s): Sg Hawkeyeinthesky (Veterinarian)
 Total WPS Pool: $8,472
 Pgm Horse
@@ -881,7 +881,7 @@ Glimpse to Leave
 1Head
 11
 6
-Ec Jet Nine One 1
+Ec-Jet-Nine-One-1
 4
 3Head
 2Head

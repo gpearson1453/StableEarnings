@@ -2089,7 +2089,7 @@ Odds Ind. Time
 Sp. In. Comments
 12May23 2RP1
 9
-Lady Corona 123 (Vallejo, Rodrigo)
+Lady-Corona-123 (Vallejo, Rodrigo)
 124 L bfk
 8
 1
@@ -2193,7 +2193,7 @@ Rimrock Rider (Flores, James)
 steadied, bumped start
 Run-Up: 0 feet
 Winner:
-Lady Corona 123, Sorrel Filly, by Corona Cartel out of Lady Eagle 123, by One Famous Eagle. Foaled Apr 10, 2021 in Oklahoma.
+Lady-Corona-123, Sorrel Filly, by Corona Cartel out of Lady Eagle 123, by One Famous Eagle. Foaled Apr 10, 2021 in Oklahoma.
 Breeder: Flag Ranch Llc
 Owner: Rice, Larry L. and Rice, Bobbie
 Trainer: Taylor, M.
@@ -2204,7 +2204,7 @@ Win
 Place
 Show
 9
-Lady Corona 123
+Lady-Corona-123
 3.00
 2.20
 2.10
@@ -2242,7 +2242,7 @@ Str 1
 Str
 Fin
 9
-Lady Corona 123
+Lady-Corona-123
 1
 11/2
 11 1/2
@@ -2573,7 +2573,7 @@ Odds Ind. Time
 Sp. In. Comments
 15May23 12RP2
 5
-Corner Pocket 123 (Vallejo, Rodrigo)
+Corner-Pocket-123 (Vallejo, Rodrigo)
 124 L b
 4
 3
@@ -2690,7 +2690,7 @@ Black Rose (Nieto-Saenz, Jorge)
 bobbled, veered in
 Run-Up: 0 feet
 Winner:
-Corner Pocket 123, Sorrel Gelding, by Flying Cowboy 123 out of Shanondoah, by Good Reason Sa. Foaled Feb 28, 2021 in Oklahoma.
+Corner-Pocket-123, Sorrel Gelding, by Flying Cowboy 123 out of Shanondoah, by Good Reason Sa. Foaled Feb 28, 2021 in Oklahoma.
 Breeder: Jeff Jones and Steve Holt
 Owner: J.J. Racing
 Trainer: Taylor, M.
@@ -2701,7 +2701,7 @@ Win
 Place
 Show
 5
-Corner Pocket 123
+Corner-Pocket-123
 3.60
 2.40
 2.10
@@ -2735,7 +2735,7 @@ Str 1
 Str
 Fin
 5
-Corner Pocket 123
+Corner-Pocket-123
 3
 11/2
 11 1/2

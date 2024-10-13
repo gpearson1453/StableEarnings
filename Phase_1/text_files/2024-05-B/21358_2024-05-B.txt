@@ -1583,7 +1583,7 @@ Cowboy Up Capo (Dominguez, Jonathan)
 three path, tired
 19May24 2RP4
 5
-Rc Jones 11 (Gutierrez, Gonzalo)
+Rc-Jones-11 (Gutierrez, Gonzalo)
 127 L bfk
 5
 7
@@ -1707,7 +1707,7 @@ Cowboy Up Capo
 48 1/2
 44 1/4
 5
-Rc Jones 11
+Rc-Jones-11
 7
 25
 59

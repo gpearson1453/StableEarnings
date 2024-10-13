@@ -577,7 +577,7 @@ Fed Ex Pres (Cruz, Roman)
 drifted out late
 5Nov23 3WRD8
 10
-Rising Sun 123 (Benn, Cordarelton)
+Rising-Sun-123 (Benn, Cordarelton)
 127 L bfk
 10
 8
@@ -730,7 +730,7 @@ Fed Ex Pres
 31 1/2
 32 1/4
 10
-Rising Sun 123
+Rising-Sun-123
 8
 72
 72 3/4
@@ -1626,7 +1626,7 @@ Jess a Frenchy Girl (Escobedo, Edwin)
 bobbled out at break
 16Apr23 2RP1
 6
-Dynasty Cartel 727 (Esqueda, Erik)
+Dynasty-Cartel-727 (Esqueda, Erik)
 125 L bfk
 6
 6
@@ -1730,7 +1730,7 @@ Jess a Frenchy Girl
 72 3/4
 74
 6
-Dynasty Cartel 727
+Dynasty-Cartel-727
 6
 71
 84 3/4

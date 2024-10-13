@@ -349,7 +349,7 @@ Fabulous Phoebe (Esqueda, Erik)
 big late rush
 7Nov23 6WRD3
 8
-Eagle 101 (Perez, Antonio)
+Eagle-101 (Perez, Antonio)
 124 L b
 7
 6
@@ -405,7 +405,7 @@ Ifitsnotuthenwho, Sorrel Gelding, by Bp Hes Down to Dash out of Justbudnocorona,
 Breeder: Carlos Ruiz
 Owner: Adriana Ruiz
 Trainer: Ruiz, Jesus
-2 Claimed Horse(s): Eagle 101
+2 Claimed Horse(s): Eagle-101
 New Trainer: Paul Griffin
 New Owner: Jane Griffin
 Mr Tread Lightly
@@ -413,7 +413,7 @@ New Trainer: Clinton Crawford
 New Owner: Renee K. Wilson
 Claiming Prices:
 10 - Ifitsnotuthenwho: $7,500; 9 - Jtc Dutch N Mexico: $7,500; 2 - Mr Tread Lightly: $7,500; 1 - Corona Vip: $7,500; 5 -
-Fabulous Phoebe: $7,500; 8 - Eagle 101: $7,500; 4 - Marfa Madness: $7,500; 6 - Roll On Corona: $7,500; 3 - Zoom N
+Fabulous Phoebe: $7,500; 8 - Eagle-101: $7,500; 4 - Marfa Madness: $7,500; 6 - Roll On Corona: $7,500; 3 - Zoom N
 Cartel: $7,500;
 Scratched Horse(s): Streakin Freal (Trainer)
 Total WPS Pool: $19,296
@@ -490,7 +490,7 @@ Fabulous Phoebe
 61 1/2
 52 3/4
 8
-Eagle 101
+Eagle-101
 6
 5Neck
 51 1/4

@@ -989,7 +989,7 @@ Odds Ind. Time
 Sp. In. Comments
 21Mar24 7RP6
 1
-Rc Jones 11 (Pulido, Juan)
+Rc-Jones-11 (Pulido, Juan)
 124 L bfk
 1
 1
@@ -1106,7 +1106,7 @@ Mr Black Diamond (Cruz, Roman)
 obliterated at start
 Run-Up: 0 feet
 Winner:
-Rc Jones 11, Sorrel Filly, by Jess Jones out of Phlirty, by Cold Granite Stone. Foaled Feb 15, 2021 in Oklahoma.
+Rc-Jones-11, Sorrel Filly, by Jess Jones out of Phlirty, by Cold Granite Stone. Foaled Feb 15, 2021 in Oklahoma.
 Breeder: Rodrigo Covarrubias
 Owner: Vaqueros Racing LLC
 Trainer: Covarrubias, Rodrigo
@@ -1114,7 +1114,7 @@ Trainer: Covarrubias, Rodrigo
 New Trainer: Marla Dayana Vargas
 New Owner: Marla Vargas
 Claiming Prices:
-1 - Rc Jones 11: $7,500; 8 - Fast Candy: $7,500; 4 - Pop Sugar Susie: $7,500; 9 - A Fancy Mate: $7,500; 7 - The Roan
+1 - Rc-Jones-11: $7,500; 8 - Fast Candy: $7,500; 4 - Pop Sugar Susie: $7,500; 9 - A Fancy Mate: $7,500; 7 - The Roan
 Assassin: $7,500; 5 - Tricky One: $7,500; 2 - A a Potrillo: $7,500; 6 - Rare Creek: $7,500; 3 - Mr Black Diamond:
 $7,500;
 Disqualification(s):
@@ -1125,7 +1125,7 @@ Win
 Place
 Show
 1
-Rc Jones 11
+Rc-Jones-11
 11.20
 4.80
 3.40
@@ -1171,7 +1171,7 @@ Str 1
 Str
 Fin
 1
-Rc Jones 11
+Rc-Jones-11
 1
 1Head
 11
@@ -2330,7 +2330,7 @@ Legs to Heaven (Ramirez, Jr., Francisco)
 leaning in at start
 13Apr24 7RP8
 4
-Dynasty Cartel 727 (Pulido, Juan)
+Dynasty-Cartel-727 (Pulido, Juan)
 124 L bfk
 4
 7
@@ -2447,7 +2447,7 @@ Legs to Heaven
 71 1/2
 72
 4
-Dynasty Cartel 727
+Dynasty-Cartel-727
 7
 81
 82 1/2

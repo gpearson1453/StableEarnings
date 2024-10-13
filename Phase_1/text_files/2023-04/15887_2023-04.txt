@@ -1119,7 +1119,7 @@ Revolutioneyez (Garcia, Jorge)
 showed little
 ---
 2
-Ec Jet Nine One 1 (Hernandez, Jr., Ricardo)
+Ec-Jet-Nine-One-1 (Hernandez, Jr., Ricardo)
 124 - -
 2
 4
@@ -1243,7 +1243,7 @@ Revolutioneyez
 83
 85 1/2
 2
-Ec Jet Nine One 1
+Ec-Jet-Nine-One-1
 4
 71 1/2
 72 1/2

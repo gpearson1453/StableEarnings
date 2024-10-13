@@ -1195,7 +1195,7 @@ Ms Moira Rose (Lopez, Henry)
 bpd st,up close,outkck
 29Apr23 2TUP1
 8
-You Cant Drive 95 (Viramontes, Armando)
+You-Cant-Drive-95 (Viramontes, Armando)
 126 b
 8
 7
@@ -1326,7 +1326,7 @@ Ms Moira Rose
 21/2
 3Neck
 8
-You Cant Drive 95
+You-Cant-Drive-95
 7
 53/4
 43/4
@@ -1642,7 +1642,7 @@ Southern Divine (Ayala, Jesus)
 away well,drftd,game
 10Sep23 9LA1
 3
-Double Down 123 (Cervantes, Armando)
+Double-Down-123 (Cervantes, Armando)
 128 b
 3
 4
@@ -1753,7 +1753,7 @@ Southern Divine
 14.80
 8.60
 3
-Double Down 123
+Double-Down-123
 2.20
 Wager Type
 Winning Numbers
@@ -1814,7 +1814,7 @@ Southern Divine
 21/2
 21/2
 3
-Double Down 123
+Double-Down-123
 4
 31 1/4
 31

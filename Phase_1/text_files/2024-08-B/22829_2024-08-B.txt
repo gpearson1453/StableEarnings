@@ -44,7 +44,7 @@ b
 broke sharp strong due
 27Jul24 4RET6
 10
-Ec Jet Nine One 1 (Alvarez, Jose)
+Ec-Jet-Nine-One-1 (Alvarez, Jose)
 125
 bf
 10
@@ -167,7 +167,7 @@ Duke of Westminster
 9.20
 4.60
 10
-Ec Jet Nine One 1
+Ec-Jet-Nine-One-1
 12.00
 Wager Type
 Winning Numbers
@@ -201,7 +201,7 @@ Duke of Westminster
 2Neck
 2Neck
 10
-Ec Jet Nine One 1
+Ec-Jet-Nine-One-1
 8
 61
 3Neck

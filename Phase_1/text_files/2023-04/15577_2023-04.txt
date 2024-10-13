@@ -836,7 +836,7 @@ bf
 bpd hind st,prevailed
 ---
 4
-Double Down 123 (Cervantes, Armando)
+Double-Down-123 (Cervantes, Armando)
 126
 b
 4
@@ -915,7 +915,7 @@ Kevins Knockout
 3.20
 2.40
 4
-Double Down 123
+Double-Down-123
 2.80
 2.40
 5
@@ -952,7 +952,7 @@ Kevins Knockout
 1Neck
 1Head
 4
-Double Down 123
+Double-Down-123
 1
 2Neck
 2Head

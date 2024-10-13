@@ -2404,7 +2404,7 @@ L bf
 bid, outlasted
 ---
 7
-Corner Pocket 123 (Vallejo, Rodrigo)
+Corner-Pocket-123 (Vallejo, Rodrigo)
 124
 L bfk
 7
@@ -2541,7 +2541,7 @@ Prince Tempting
 53/4
 52 1/4
 7
-Corner Pocket 123
+Corner-Pocket-123
 10
 102 1/2
 62 1/2

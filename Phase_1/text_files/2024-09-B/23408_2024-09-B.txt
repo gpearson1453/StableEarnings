@@ -959,7 +959,7 @@ L b
 outfinished
 6Jul24 12FMT6
 9
-Dynasty Cartel 727 (Candanosa, Bryan)
+Dynasty-Cartel-727 (Candanosa, Bryan)
 125
 L bfk
 9
@@ -1088,7 +1088,7 @@ Political Moonshine
 61/2
 72 3/4
 9
-Dynasty Cartel 727
+Dynasty-Cartel-727
 10
 83/4
 83

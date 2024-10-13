@@ -1511,7 +1511,7 @@ Odds Ind. Time
 Sp. In. Comments
 26May24 10RUI2
 6
-Flyin Rabbit 123 (Pulido, Juan)
+Flyin-Rabbit-123 (Pulido, Juan)
 126 L bk
 5
 1
@@ -1628,7 +1628,7 @@ Rayenare (Ramirez, Esgar)
 off slow, pinched back
 Run-Up: 0 feet
 Winner:
-Flyin Rabbit 123, Sorrel Gelding, by Flying Cowboy 123 out of Hardtoget, by Foose. Foaled Feb 15, 2021 in Oklahoma.
+Flyin-Rabbit-123, Sorrel Gelding, by Flying Cowboy 123 out of Hardtoget, by Foose. Foaled Feb 15, 2021 in Oklahoma.
 Breeder: Louis A Malechek III
 Owner: Louis A. Trey Malechek, III
 Trainer: Keeton, Toby
@@ -1639,7 +1639,7 @@ Win
 Place
 Show
 6
-Flyin Rabbit 123
+Flyin-Rabbit-123
 5.00
 3.20
 2.40
@@ -1685,7 +1685,7 @@ Str 1
 Str
 Fin
 6
-Flyin Rabbit 123
+Flyin-Rabbit-123
 1
 1Head
 11/2

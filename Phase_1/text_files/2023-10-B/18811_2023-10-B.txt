@@ -634,7 +634,7 @@ L bk
 late run for win
 26Sep23 7WRD7
 6
-Eagle 101 (Perez, Antonio)
+Eagle-101 (Perez, Antonio)
 125
 L bh
 6
@@ -732,7 +732,7 @@ Trainer: Willis, Eddie
 1 Claimed Horse(s): Hes the Pilot
 New Trainer: Pedro Martinez-Jimenez New Owner: Luis Daniel Jaramillo
 Claiming Prices:
-8 - One Sweet Martha: $7,500; 6 - Eagle 101: $7,500; 2 - Hes the Pilot: $7,500; 4 - B a Runner: $7,500; 7 - Really Catty:
+8 - One Sweet Martha: $7,500; 6 - Eagle-101: $7,500; 2 - Hes the Pilot: $7,500; 4 - B a Runner: $7,500; 7 - Really Catty:
 $7,500; 5 - Rc He Lucky 10: $7,500; 1 - Fast Kat: $7,500; 3 - Little Mermaid: $7,500;
 Total WPS Pool: $4,844
 Pgm Horse
@@ -745,7 +745,7 @@ One Sweet Martha
 3.60
 2.40
 6
-Eagle 101
+Eagle-101
 6.40
 5.00
 2
@@ -786,7 +786,7 @@ One Sweet Martha
 33/4
 1Neck
 6
-Eagle 101
+Eagle-101
 7
 43/4
 2Neck
@@ -1136,7 +1136,7 @@ L bf
 late surge
 23Jul23 5FMT4
 7
-Oceans 13 (Cruz, Roman)
+Oceans-13 (Cruz, Roman)
 124
 L b
 7
@@ -1268,7 +1268,7 @@ Mr Painted Sign
 10.60
 5.20
 7
-Oceans 13
+Oceans-13
 10.40
 4.80
 3
@@ -1309,7 +1309,7 @@ Mr Painted Sign
 51/2
 11/2
 7
-Oceans 13
+Oceans-13
 2
 4Neck
 21/2

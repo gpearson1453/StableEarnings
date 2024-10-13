@@ -587,7 +587,7 @@ Sfs Emma Sies (Esqueda, Erik)
 bumped st,bid,wknd
 10Sep23 3PRM2
 9
-Rising Sun 123 (Dominguez, Jonathan)
+Rising-Sun-123 (Dominguez, Jonathan)
 125 BL bfhk 9
 9
 91
@@ -720,7 +720,7 @@ Sfs Emma Sies
 41 1/2
 72 1/2
 9
-Rising Sun 123
+Rising-Sun-123
 9
 94 1/2
 93 3/4

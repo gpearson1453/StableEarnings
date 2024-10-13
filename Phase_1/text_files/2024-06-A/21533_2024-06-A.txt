@@ -579,7 +579,7 @@ An Angels Watchful (Kellenberger, Kody)
 clean trip outside
 17Sep23 4SWF6
 5
-Salt Lake 02 (Vazquez, Carmen)
+Salt-Lake-02 (Vazquez, Carmen)
 126 B b
 5
 8
@@ -701,7 +701,7 @@ An Angels Watchful
 81 1/2
 83 1/4
 5
-Salt Lake 02
+Salt-Lake-02
 8
 81
 91 1/2

@@ -2722,7 +2722,7 @@ L bhk
 early bother, bump
 12May24 5RP7
 8
-Dynasty Cartel 727 (Escobedo, Edwin)
+Dynasty-Cartel-727 (Escobedo, Edwin)
 124
 L bfk
 6
@@ -2824,7 +2824,7 @@ Breitling Dynasty
 51 1/2
 52 1/2
 8
-Dynasty Cartel 727
+Dynasty-Cartel-727
 4
 62
 62 1/2

@@ -1442,7 +1442,7 @@ Ready for It (Ayala, Jesus)
 drft early,gain,miss
 12Aug23 13RUI1
 3
-Lady Corona 123 (Vallejo, Rodrigo)
+Lady-Corona-123 (Vallejo, Rodrigo)
 126 bfk
 2
 1
@@ -1527,7 +1527,7 @@ Ready for It
 4.80
 2.80
 3
-Lady Corona 123
+Lady-Corona-123
 2.60
 Wager Type
 Winning Numbers
@@ -1578,7 +1578,7 @@ Ready for It
 31
 2Neck
 3
-Lady Corona 123
+Lady-Corona-123
 1
 13/4
 13/4

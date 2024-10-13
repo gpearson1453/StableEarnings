@@ -1483,7 +1483,7 @@ Jess a Lil Flirt (Soto, Jhaciel)
 brk in,winner too tuff
 8Oct23 9WRD10
 6
-Docs Pilot 123 (Martinez, L.)
+Docs-Pilot-123 (Martinez, L.)
 128 L bhk
 6
 5
@@ -1606,7 +1606,7 @@ Jess a Lil Flirt
 4.80
 3.80
 6
-Docs Pilot 123
+Docs-Pilot-123
 16.60
 Wager Type
 Winning Numbers
@@ -1655,7 +1655,7 @@ Jess a Lil Flirt
 41/2
 21 1/4
 6
-Docs Pilot 123
+Docs-Pilot-123
 5
 3Head
 3Neck

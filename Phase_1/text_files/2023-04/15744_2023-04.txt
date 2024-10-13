@@ -220,7 +220,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 3
-Dynasty Cartel 727 (Calderon, Francisco)
+Dynasty-Cartel-727 (Calderon, Francisco)
 124
 L bfk
 3
@@ -298,7 +298,7 @@ L bf
 lacked second gear
 ---
 9
-Docs Pilot 123 (Martinez, L.)
+Docs-Pilot-123 (Martinez, L.)
 125
 L bk
 8
@@ -337,7 +337,7 @@ L bf
 pinched back start
 Run-Up: 0 feet
 Winner:
-Dynasty Cartel 727, Sorrel Filly, by Corona Cartel out of Queen Dinasty, by Fdd Dynasty. Foaled Mar 10, 2021 in Oklahoma.
+Dynasty-Cartel-727, Sorrel Filly, by Corona Cartel out of Queen Dinasty, by Fdd Dynasty. Foaled Mar 10, 2021 in Oklahoma.
 Breeder: J Santos Espinoza
 Owner: J. Santos Espinoza
 Trainer: Valdivia, Guillermo
@@ -348,7 +348,7 @@ Win
 Place
 Show
 3
-Dynasty Cartel 727
+Dynasty-Cartel-727
 11.00
 6.00
 4.60
@@ -385,7 +385,7 @@ Start
 Str
 Fin
 3
-Dynasty Cartel 727
+Dynasty-Cartel-727
 1
 1Head
 1Head
@@ -415,7 +415,7 @@ Love Dies Young
 51/2
 61 3/4
 9
-Docs Pilot 123
+Docs-Pilot-123
 8
 71 1/2
 73 1/4

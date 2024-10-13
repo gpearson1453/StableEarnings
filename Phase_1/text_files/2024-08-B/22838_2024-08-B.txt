@@ -122,7 +122,7 @@ Cd On a Victory High (Arriola-Serrano, Jose)
 outran
 8Jun24 3WYO9
 7
-Salt Lake 02 (Ironeyes, Jayden)
+Salt-Lake-02 (Ironeyes, Jayden)
 121 B b
 7
 9
@@ -242,7 +242,7 @@ Cd On a Victory High
 61 1/4
 83
 7
-Salt Lake 02
+Salt-Lake-02
 9
 92 1/2
 95 1/4

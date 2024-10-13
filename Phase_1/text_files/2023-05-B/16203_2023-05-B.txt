@@ -2237,7 +2237,7 @@ L b
 brk in,shuffld foes
 16Apr23 2RP7
 1
-Docs Pilot 123 (Martinez, L.)
+Docs-Pilot-123 (Martinez, L.)
 125
 L bhk
 1
@@ -2276,7 +2276,7 @@ L bf
 never got going
 2Apr23 2RP7
 3
-Eagle 101 (Cruz, Roman)
+Eagle-101 (Cruz, Roman)
 124
 L b
 3
@@ -2361,7 +2361,7 @@ Ts Buy Me a Corona
 31/2
 51 3/4
 1
-Docs Pilot 123
+Docs-Pilot-123
 6
 63/4
 62
@@ -2376,7 +2376,7 @@ Ab Boogie
 82 1/4
 83 1/4
 3
-Eagle 101
+Eagle-101
 9
 92 1/4
 93 1/4

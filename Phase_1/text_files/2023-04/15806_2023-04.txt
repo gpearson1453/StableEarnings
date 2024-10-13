@@ -543,7 +543,7 @@ L bfk
 gained experience
 ---
 4
-Oceans 13 (Calderon, Francisco)
+Oceans-13 (Calderon, Francisco)
 124
 L b
 3
@@ -575,7 +575,7 @@ Owner: Bella Vista Farms LLC
 Trainer: Willis, Eddie
 Dead Heats:
 7th place - # 1 Waving Her Corona
-7th place - # 4 Oceans 13
+7th place - # 4 Oceans-13
 Scratched Horse(s): Rocket Ruth (Veterinarian)
 Total WPS Pool: $15,683
 Pgm Horse
@@ -651,7 +651,7 @@ Waving Her Corona
 61 1/4
 72 1/2
 4
-Oceans 13
+Oceans-13
 5
 71 1/2
 72 1/2

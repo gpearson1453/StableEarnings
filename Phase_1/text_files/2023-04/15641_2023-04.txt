@@ -1419,7 +1419,7 @@ Firstchickonthemoon (Dominguez, Sergio)
 inched away from them
 ---
 8
-Rising Sun 123 (Esqueda, Cristian)
+Rising-Sun-123 (Esqueda, Cristian)
 124 L bfhk
 7
 3
@@ -1513,7 +1513,7 @@ Firstchickonthemoon
 4.40
 3.00
 8
-Rising Sun 123
+Rising-Sun-123
 6.00
 3.00
 7
@@ -1552,7 +1552,7 @@ Firstchickonthemoon
 11/2
 11 1/4
 8
-Rising Sun 123
+Rising-Sun-123
 3
 2Head
 21/2

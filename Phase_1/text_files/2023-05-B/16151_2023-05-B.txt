@@ -799,7 +799,7 @@ Wm Rushmore (Fonseca-Soto, Fernando)
 onepaced
 22Apr23 3RP7
 2
-Oceans 13 (Calderon, Francisco)
+Oceans-13 (Calderon, Francisco)
 124 L b
 2
 4
@@ -931,7 +931,7 @@ Wm Rushmore
 62 3/4
 63
 2
-Oceans 13
+Oceans-13
 4
 43/4
 73
@@ -1517,7 +1517,7 @@ Im Passing B (Martinez, L.)
 hooked toughie
 14Apr23 12RP4
 6
-Runaway Cowgirl 123 (Torres, Daniel)
+Runaway-Cowgirl-123 (Torres, Daniel)
 124 L bfk
 5
 4
@@ -1631,7 +1631,7 @@ Im Passing B
 3.20
 2.60
 6
-Runaway Cowgirl 123
+Runaway-Cowgirl-123
 7.80
 Wager Type
 Winning Numbers
@@ -1672,7 +1672,7 @@ Im Passing B
 21/2
 21 3/4
 6
-Runaway Cowgirl 123
+Runaway-Cowgirl-123
 4
 3Head
 31/2
@@ -2084,7 +2084,7 @@ Sheza Real Bear (Valenzuela, Raul)
 mid pack fight
 7Apr23 7RP2
 1
-Rising Sun 123 (Esqueda, Cristian)
+Rising-Sun-123 (Esqueda, Cristian)
 124 L bfhk
 1
 6
@@ -2204,7 +2204,7 @@ Sheza Real Bear
 72 1/4
 74
 1
-Rising Sun 123
+Rising-Sun-123
 6
 61/2
 82 1/2
@@ -2739,7 +2739,7 @@ San Lencho (Pulido, Juan)
 showd off in 2d gear
 23Apr23 10RP6
 2
-Corner Pocket 123 (Silva, Agustin)
+Corner-Pocket-123 (Silva, Agustin)
 127 L bfk
 2
 8
@@ -2871,7 +2871,7 @@ San Lencho
 3.20
 2.20
 2
-Corner Pocket 123
+Corner-Pocket-123
 6.00
 4.20
 5
@@ -2918,7 +2918,7 @@ San Lencho
 11 1/2
 11 3/4
 2
-Corner Pocket 123
+Corner-Pocket-123
 8
 51 1/4
 31 1/2

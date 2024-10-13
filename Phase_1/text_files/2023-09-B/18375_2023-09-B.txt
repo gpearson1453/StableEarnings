@@ -740,7 +740,7 @@ B
 lugged in start
 3Sep23 1SWF7
 8
-Salt Lake 02 (Ramos, Manuel)
+Salt-Lake-02 (Ramos, Manuel)
 131
 B b
 8
@@ -851,7 +851,7 @@ Jv Fancy Wagon
 62 1/4
 54 1/4
 8
-Salt Lake 02
+Salt-Lake-02
 5
 52 1/4
 64 1/2

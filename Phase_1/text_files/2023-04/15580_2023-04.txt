@@ -488,7 +488,7 @@ Kool Storm (Benn, Cordarelton)
 dueled, driving
 ---
 7
-Rc Jones 11 (Garcia, Ramiro)
+Rc-Jones-11 (Garcia, Ramiro)
 124 L b
 7
 5
@@ -587,7 +587,7 @@ Trainer: Chavira, Luz
 New Trainer: Juan Castro
 New Owner: Juan Castro
 Claiming Prices:
-3 - Kool Storm: $10,000; 7 - Rc Jones 11: $10,000; 2 - Mari Go Round: $10,000; 1 - Ladie Luck: $10,000; 5 - Hes
+3 - Kool Storm: $10,000; 7 - Rc-Jones-11: $10,000; 2 - Mari Go Round: $10,000; 1 - Ladie Luck: $10,000; 5 - Hes
 Mighty Perfect: $10,000; 4 - Fun On the Beach: $10,000; 8 - Timothy: $10,000; 6 - Seperate Call: $10,000;
 Total WPS Pool: $16,455
 Pgm Horse
@@ -600,7 +600,7 @@ Kool Storm
 11.40
 6.20
 7
-Rc Jones 11
+Rc-Jones-11
 18.00
 10.20
 2
@@ -635,7 +635,7 @@ Kool Storm
 1Head
 11/2
 7
-Rc Jones 11
+Rc-Jones-11
 5
 43/4
 4Neck

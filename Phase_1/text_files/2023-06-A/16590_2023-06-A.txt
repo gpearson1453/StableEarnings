@@ -946,7 +946,7 @@ b
 never fully fired
 25May23 5RP10
 4
-Docrudtuz 21 (Benn, Cordarelton)
+Docrudtuz-21 (Benn, Cordarelton)
 129
 L b
 4
@@ -965,7 +965,7 @@ Owner: Jose F. Zuniga
 Trainer: Espiritu, Lucio
 Claiming Prices:
 3 - Chew N Candy: $15,000; 2 - King Romulus: $15,000; 5 - Lou de Lou Who: $15,000; 1 - Anna Jess Chacha: $15,000;
-4 - Docrudtuz 21: $15,000;
+4 - Docrudtuz-21: $15,000;
 Total WPS Pool: $4,392
 Pgm Horse
 Win
@@ -1025,7 +1025,7 @@ Anna Jess Chacha
 41 1/2
 42 1/4
 4
-Docrudtuz 21
+Docrudtuz-21
 5
 57 1/2
 57 3/4

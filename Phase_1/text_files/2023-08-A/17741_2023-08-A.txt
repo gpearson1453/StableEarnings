@@ -1647,7 +1647,7 @@ Odds Ind. Time
 Sp. In. Comments
 22Jul23 7LA1
 8
-Double Down 123 (Cervantes, Armando)
+Double-Down-123 (Cervantes, Armando)
 126 b
 7
 2
@@ -1762,7 +1762,7 @@ Choosen One (Nicasio, Jose)
 hard stumble/lost jock
 Run-Up: 0 feet
 Winner:
-Double Down 123, Brown Filly, by Flying Cowboy 123 out of Double Down Darling, by Fishers Dash. Foaled Mar 27, 2021 in Texas.
+Double-Down-123, Brown Filly, by Flying Cowboy 123 out of Double Down Darling, by Fishers Dash. Foaled Mar 27, 2021 in Texas.
 Breeder: Bob And/Or Jerry Gaston
 Owner: Taos River Ranch LLC and Young, Randy
 Trainer: Arrossa, Monty
@@ -1773,7 +1773,7 @@ Win
 Place
 Show
 8
-Double Down 123
+Double-Down-123
 2.80
 3.00
 2.20
@@ -1841,7 +1841,7 @@ Str 1
 Str
 Fin
 8
-Double Down 123
+Double-Down-123
 2
 1Head
 1Neck

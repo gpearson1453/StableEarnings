@@ -550,7 +550,7 @@ B a Runner (Candanosa, Bryan)
 bid, outfinished
 4Apr24 2RP6
 6
-Eagle 101 (Perez, Antonio)
+Eagle-101 (Perez, Antonio)
 124 L bh
 6
 7
@@ -607,7 +607,7 @@ Breeder: Seth Jacob Howard
 Owner: Sam H. Howard
 Trainer: Howard, Sam
 Claiming Prices:
-7 - Moon Lark Money: $7,500; 3 - Marfa Madness: $7,500; 2 - B a Runner: $7,500; 6 - Eagle 101: $7,500; 5 - Im an
+7 - Moon Lark Money: $7,500; 3 - Marfa Madness: $7,500; 2 - B a Runner: $7,500; 6 - Eagle-101: $7,500; 5 - Im an
 Eagle: $7,500; 1 - Sm Eyesa Chicks Man: $7,500; 4 - Jettas Ghost: $7,500;
 Total WPS Pool: $18,470
 Pgm Horse
@@ -667,7 +667,7 @@ B a Runner
 31/2
 31 1/2
 6
-Eagle 101
+Eagle-101
 7
 61
 51 1/4

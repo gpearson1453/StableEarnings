@@ -206,7 +206,7 @@ BL b
 late effort
 ---
 6
-Salt Lake 02 (Carrillo, Daniel)
+Salt-Lake-02 (Carrillo, Daniel)
 122
 B b
 6
@@ -252,7 +252,7 @@ Mv First Down Glock
 51 1/2
 53
 6
-Salt Lake 02
+Salt-Lake-02
 6
 ---
 ---

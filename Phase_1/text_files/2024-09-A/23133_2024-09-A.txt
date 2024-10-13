@@ -1668,7 +1668,7 @@ Marco Polo Us (Gutierrez, Gonzalo)
 faded
 5Jul24 1FMT4
 6
-Eagle 101 (Ernst, Bryan)
+Eagle-101 (Ernst, Bryan)
 126 L bh
 6
 5
@@ -1713,7 +1713,7 @@ Owner: Dolan, Mark and Lori
 Trainer: Capps, Stacey
 Claiming Prices:
 7 - Fabulous Oscar: $7,500; 2 - Jdc Turnoutthelights: $7,500; 8 - Sullys Country Wagon: $7,500; 4 - Shes Furrel Jessie:
-$7,500; 5 - Marfa Madness: $7,500; 10 - Jtc Dutch N Mexico: $7,500; 3 - Marco Polo Us: $7,500; 6 - Eagle 101: $7,500;
+$7,500; 5 - Marfa Madness: $7,500; 10 - Jtc Dutch N Mexico: $7,500; 3 - Marco Polo Us: $7,500; 6 - Eagle-101: $7,500;
 1 - Shakem Warrior: $7,500; 9 - B a Destiny: $7,500;
 Total WPS Pool: $2,671
 Pgm Horse
@@ -1809,7 +1809,7 @@ Marco Polo Us
 53/4
 73 1/4
 6
-Eagle 101
+Eagle-101
 5
 83/4
 91 1/4

@@ -1552,7 +1552,7 @@ Dr Shan the Man (Gutierrez, Gonzalo)
 no threat
 22Oct23 5WRD1
 3
-Rc Jones 11 (Cruz, Roman)
+Rc-Jones-11 (Cruz, Roman)
 124 L bfk
 3
 5
@@ -1584,7 +1584,7 @@ Owner: Patrick E. Swan
 Trainer: Swan, Patrick
 Claiming Prices:
 4 - Empowered: $20,000; 2 - Lota Blue Bayou: $20,000; 5 - Crypto: $20,000; 1 - Pevs Kiote Moon: $20,000; 6 - Dr Shan
-the Man: $20,000; 3 - Rc Jones 11: $25,000; 7 - Doc Crosslin: $25,000;
+the Man: $20,000; 3 - Rc-Jones-11: $25,000; 7 - Doc Crosslin: $25,000;
 Total WPS Pool: $19,887
 Pgm Horse
 Win
@@ -1659,7 +1659,7 @@ Dr Shan the Man
 55 1/2
 56 3/4
 3
-Rc Jones 11
+Rc-Jones-11
 5
 65 1/4
 66 1/2

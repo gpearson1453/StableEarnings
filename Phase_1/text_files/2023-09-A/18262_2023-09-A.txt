@@ -485,7 +485,7 @@ Paint Me Downhill (Esqueda, Cristian)
 going away
 20Aug23 2PRM7
 9
-Rising Sun 123 (Dominguez, Jonathan)
+Rising-Sun-123 (Dominguez, Jonathan)
 124 BL bfhk 9
 8
 81
@@ -603,7 +603,7 @@ Paint Me Downhill
 3.20
 2.60
 9
-Rising Sun 123
+Rising-Sun-123
 21.80
 12.60
 4
@@ -650,7 +650,7 @@ Paint Me Downhill
 2Head
 11 1/4
 9
-Rising Sun 123
+Rising-Sun-123
 8
 83 1/2
 72 1/4

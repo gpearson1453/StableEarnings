@@ -1817,7 +1817,7 @@ One Fabulous Dynasty (Shepherd, Justin)
 drift in throughout
 26May24 2EDR1
 7
-You Cant Drive 95 (Jasso, Mark)
+You-Cant-Drive-95 (Jasso, Mark)
 126 BL bk
 7
 4
@@ -1949,7 +1949,7 @@ One Fabulous Dynasty
 4.00
 3.80
 7
-You Cant Drive 95
+You-Cant-Drive-95
 10.00
 10.00
 6
@@ -1979,7 +1979,7 @@ One Fabulous Dynasty 1
 11/2
 1Neck
 7
-You Cant Drive 95
+You-Cant-Drive-95
 4
 41/2
 21/2

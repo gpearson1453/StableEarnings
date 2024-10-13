@@ -2329,7 +2329,7 @@ Odds Ind. Time
 Sp. In. Comments
 11Aug24 9ALB5
 7
-Corner Pocket 123 (Levario, Jesse)
+Corner-Pocket-123 (Levario, Jesse)
 125 L bk
 7
 7
@@ -2446,7 +2446,7 @@ Eyem Not Political (Gallegos, Agruelio)
 no factor
 Run-Up: 0 feet
 Winner:
-Corner Pocket 123, Sorrel Gelding, by Flying Cowboy 123 out of Shanondoah, by Good Reason Sa. Foaled Feb 28, 2021 in Oklahoma.
+Corner-Pocket-123, Sorrel Gelding, by Flying Cowboy 123 out of Shanondoah, by Good Reason Sa. Foaled Feb 28, 2021 in Oklahoma.
 Breeder: Jeff Jones and Steve Holt
 Owner: J.J. Racing
 Trainer: Taylor, M.
@@ -2457,7 +2457,7 @@ Win
 Place
 Show
 7
-Corner Pocket 123
+Corner-Pocket-123
 3.60
 2.80
 2.20
@@ -2504,7 +2504,7 @@ Str 1
 Str
 Fin
 7
-Corner Pocket 123
+Corner-Pocket-123
 7
 41 1/4
 1Head

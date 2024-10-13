@@ -2155,7 +2155,7 @@ Dark Nme (Calderon, Francisco)
 ducked in start
 11Aug23 4RUI1
 3
-Flyin Rabbit 123 (Pulido, Juan)
+Flyin-Rabbit-123 (Pulido, Juan)
 124 L bfk
 2
 3
@@ -2181,7 +2181,7 @@ Dashing Tres (Candanosa, Bryan)
 broke awkwardly,bumped
 12Aug23 1RUI1
 5
-Corner Pocket 123 (Vallejo, Rodrigo)
+Corner-Pocket-123 (Vallejo, Rodrigo)
 124 L b
 4
 9
@@ -2296,7 +2296,7 @@ Dark Nme
 3Head
 33/4
 3
-Flyin Rabbit 123
+Flyin-Rabbit-123
 3
 2Head
 4Neck
@@ -2308,7 +2308,7 @@ Dashing Tres
 61
 51 1/2
 5
-Corner Pocket 123
+Corner-Pocket-123
 9
 71
 53/4

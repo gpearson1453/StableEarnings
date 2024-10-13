@@ -2082,7 +2082,7 @@ Moes (Ramos, Adrian)
 dueled throughout,best
 27Apr24 6RP2
 3
-Flyin Rabbit 123 (Pulido, Juan)
+Flyin-Rabbit-123 (Pulido, Juan)
 126 L bk
 3
 2
@@ -2176,7 +2176,7 @@ Moes
 4.00
 2.80
 3
-Flyin Rabbit 123
+Flyin-Rabbit-123
 2.10
 2.10
 6
@@ -2223,7 +2223,7 @@ Moes
 1Head
 1Neck
 3
-Flyin Rabbit 123
+Flyin-Rabbit-123
 2
 2Head
 2Head

@@ -772,7 +772,7 @@ Alliekat Dynasty (Cruz, Roman)
 return to winning ways
 8Oct23 7LA3
 8
-Lady Corona 123 (Calderon, Francisco)
+Lady-Corona-123 (Calderon, Francisco)
 124 L bfk
 8
 4
@@ -878,7 +878,7 @@ Alliekat Dynasty
 2.20
 2.10
 8
-Lady Corona 123
+Lady-Corona-123
 3.00
 2.80
 7
@@ -913,7 +913,7 @@ Alliekat Dynasty
 11
 11 1/4
 8
-Lady Corona 123
+Lady-Corona-123
 4
 43/4
 31
@@ -1062,7 +1062,7 @@ Paint Me Downhill (Esqueda, Cristian)
 lacked closing kick
 20Apr24 10RP8
 5
-Dynasty Cartel 727 (Cruz, Roman)
+Dynasty-Cartel-727 (Cruz, Roman)
 124 L bfk
 5
 5
@@ -1180,7 +1180,7 @@ Paint Me Downhill
 61 1/2
 63 1/4
 5
-Dynasty Cartel 727
+Dynasty-Cartel-727
 5
 71/2
 74 1/2
@@ -1477,7 +1477,7 @@ Flying Sophia (Calderon, Francisco)
 cldnt find second gear
 23Mar24 8LA3
 7
-Double Down 123 (Ramirez, Jr., Francisco)
+Double-Down-123 (Ramirez, Jr., Francisco)
 126 L b
 6
 3
@@ -1562,7 +1562,7 @@ Flying Sophia
 3.00
 2.20
 7
-Double Down 123
+Double-Down-123
 2.20
 Wager Type
 Winning Numbers
@@ -1603,7 +1603,7 @@ Flying Sophia
 21/2
 21
 7
-Double Down 123
+Double-Down-123
 3
 3Head
 31
@@ -1981,7 +1981,7 @@ Bv Miss Mona (Garcia, Ramiro)
 no kick inside
 13Apr24 3RP4
 3
-Rising Sun 123 (Benn, Cordarelton)
+Rising-Sun-123 (Benn, Cordarelton)
 127 L bfk
 3
 5
@@ -2085,7 +2085,7 @@ Bv Miss Mona
 71
 72 1/2
 3
-Rising Sun 123
+Rising-Sun-123
 5
 5Neck
 82

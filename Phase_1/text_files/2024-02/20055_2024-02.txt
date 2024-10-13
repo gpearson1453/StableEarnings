@@ -48,7 +48,7 @@ L b
 dueled, outnodded
 22Oct23 10LA8
 6
-You Cant Drive 95 (Viramontes, Armando)
+You-Cant-Drive-95 (Viramontes, Armando)
 130
 L b
 6
@@ -134,7 +134,7 @@ Higher Heat
 4.40
 2.20
 6
-You Cant Drive 95
+You-Cant-Drive-95
 2.10
 Wager Type
 Winning Numbers
@@ -172,7 +172,7 @@ Higher Heat
 21/2
 2Nose
 6
-You Cant Drive 95
+You-Cant-Drive-95
 4
 31
 31/2

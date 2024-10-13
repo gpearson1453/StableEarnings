@@ -61,7 +61,7 @@ Nsm Buddy (Smith, Stormy)
 vied inside,weakend
 30May24 8RP5
 2
-Rc Jones 11 (Estrada, Giovany)
+Rc-Jones-11 (Estrada, Giovany)
 126 BL bfk
 2
 6
@@ -105,7 +105,7 @@ Breeder: Barbara McClelland
 Owner: Dora Medrano
 Trainer: Arceo, Salvador
 Claiming Prices:
-5 - Just Tell Jess: $20,000; 3 - Wb Dashing Brat: $15,000; 4 - Nsm Buddy: $15,000; 2 - Rc Jones 11: $15,000; 1 - Bc
+5 - Just Tell Jess: $20,000; 3 - Wb Dashing Brat: $15,000; 4 - Nsm Buddy: $15,000; 2 - Rc-Jones-11: $15,000; 1 - Bc
 Seperate Interest: $15,000; 6 - Kandoit: $20,000;
 Total WPS Pool: $9,068
 Pgm Horse
@@ -169,7 +169,7 @@ Nsm Buddy
 1Head
 34 3/4
 2
-Rc Jones 11
+Rc-Jones-11
 6
 54 1/2
 68 1/2

@@ -285,7 +285,7 @@ Odds Ind. Time
 Sp. In. Comments
 8Apr23 1TUP1
 7
-You Cant Drive 95 (Viramontes, Armando)
+You-Cant-Drive-95 (Viramontes, Armando)
 126
 L b
 6
@@ -402,7 +402,7 @@ L f
 stumbled break
 Run-Up: 0 feet
 Winner:
-You Cant Drive 95, Sorrel Filly, by You Drive I Fly out of Jp Straight Shot, by Mr Jess Perry. Foaled Mar 08, 2021 in Oklahoma.
+You-Cant-Drive-95, Sorrel Filly, by You Drive I Fly out of Jp Straight Shot, by Mr Jess Perry. Foaled Mar 08, 2021 in Oklahoma.
 Breeder: Mercy Hinklins Horse Farm Llc
 Owner: J Lazy Six Racing
 Trainer: Gonzalez, Leonel
@@ -413,7 +413,7 @@ Win
 Place
 Show
 7
-You Cant Drive 95
+You-Cant-Drive-95
 12.20
 6.20
 3.80
@@ -454,7 +454,7 @@ Start
 Str
 Fin
 7
-You Cant Drive 95
+You-Cant-Drive-95
 5
 11/2
 13/4

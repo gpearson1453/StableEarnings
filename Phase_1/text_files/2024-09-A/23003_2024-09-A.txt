@@ -886,7 +886,7 @@ Bacardi (Sigala, Alfredo)
 drew clear, held safe
 11Aug24 11ALB1
 4
-Flyin Rabbit 123 (Candanosa, Bryan)
+Flyin-Rabbit-123 (Candanosa, Bryan)
 126 L bk
 4
 4
@@ -1021,7 +1021,7 @@ Bacardi
 33.20
 16.60
 4
-Flyin Rabbit 123
+Flyin-Rabbit-123
 3.60
 2.80
 8
@@ -1065,7 +1065,7 @@ Bacardi
 11
 13/4
 4
-Flyin Rabbit 123
+Flyin-Rabbit-123
 4
 71
 21

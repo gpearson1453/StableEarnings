@@ -294,7 +294,7 @@ P Fifty One (Navarrete, Jr., Eugenio)
 drift in early,bumped
 27Apr23 6RP2
 6
-Rc Jones 11 (Estrada, Giovany)
+Rc-Jones-11 (Estrada, Giovany)
 124 BL b
 6
 7
@@ -307,7 +307,7 @@ Rc Jones 11 (Estrada, Giovany)
 bumped back start
 3Jul23 4PRM3
 5
-Rising Sun 123 (Esqueda, Cristian)
+Rising-Sun-123 (Esqueda, Cristian)
 124 BL bfhk 5
 6
 62
@@ -401,13 +401,13 @@ P Fifty One
 53 1/2
 52
 6
-Rc Jones 11
+Rc-Jones-11
 7
 76
 64 1/2
 62 1/2
 5
-Rising Sun 123
+Rising-Sun-123
 6
 64
 76

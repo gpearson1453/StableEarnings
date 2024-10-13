@@ -364,7 +364,7 @@ Owner: Jimenas Ranch
 Trainer: Dominguez, Angel
 Disqualification(s):
 # 4 First Prize Spirit from 4 to 5
-Scratched Horse(s): Th Darline Del Rio (Veterinarian), You Cant Drive 95 (Veterinarian)
+Scratched Horse(s): Th Darline Del Rio (Veterinarian), You-Cant-Drive-95 (Veterinarian)
 Total WPS Pool: $25,963
 Pgm Horse
 Win

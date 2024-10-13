@@ -1882,7 +1882,7 @@ L bk
 never found stride
 12May24 9RP8
 1
-Rising Sun 123 (Gutierrez, Gonzalo)
+Rising-Sun-123 (Gutierrez, Gonzalo)
 127
 L fk
 1
@@ -2003,7 +2003,7 @@ Pyc Bac for Fun
 71/2
 71 3/4
 1
-Rising Sun 123
+Rising-Sun-123
 7
 81
 82

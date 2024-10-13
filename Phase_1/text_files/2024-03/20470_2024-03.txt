@@ -1331,7 +1331,7 @@ Southern Divine (Nicasio, Eduardo)
 no match, 2nd best
 3Mar24 12LA2
 6
-Double Down 123 (Cervantes, Armando)
+Double-Down-123 (Cervantes, Armando)
 126 L b
 5
 3
@@ -1429,7 +1429,7 @@ Southern Divine
 4.00
 3.00
 6
-Double Down 123
+Double-Down-123
 2.60
 Wager Type
 Winning Numbers
@@ -1496,7 +1496,7 @@ Southern Divine
 21
 23/4
 6
-Double Down 123
+Double-Down-123
 3
 31 1/4
 31 1/2

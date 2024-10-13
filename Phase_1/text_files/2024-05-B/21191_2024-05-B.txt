@@ -326,7 +326,7 @@ Ncc Cherry Bottom (Escobedo, Edwin)
 in step, outfinished
 20Apr24 5RP1
 7
-Rc Jones 11 (Pulido, Juan)
+Rc-Jones-11 (Pulido, Juan)
 124 L bfk
 7
 6
@@ -386,7 +386,7 @@ Trainer: Whitekiller, Matt
 New Trainer: Jose Cruz Villafranco
 New Owner: Javier De Los Santos Muzquiz
 Claiming Prices:
-4 - Miraculous Hero: $10,000; 2 - Romantic Sweetgirl: $10,000; 3 - Ncc Cherry Bottom: $10,000; 7 - Rc Jones 11:
+4 - Miraculous Hero: $10,000; 2 - Romantic Sweetgirl: $10,000; 3 - Ncc Cherry Bottom: $10,000; 7 - Rc-Jones-11:
 $10,000; 1 - Johnnys Blue Queen: $10,000; 5 - Bp Down to Policies: $10,000; 6 - The Roan Assassin: $10,000;
 Scratched Horse(s): Paint My Shoes (Stewards), Readabout Lil Pyc (Veterinarian)
 Total WPS Pool: $6,159
@@ -451,7 +451,7 @@ Ncc Cherry Bottom
 2Head
 31
 7
-Rc Jones 11
+Rc-Jones-11
 6
 5Neck
 5Neck

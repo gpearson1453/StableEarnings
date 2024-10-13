@@ -2764,7 +2764,7 @@ L b
 bbrshd, battled on
 ---
 9
-Runaway Cowgirl 123 (Torres, Daniel)
+Runaway-Cowgirl-123 (Torres, Daniel)
 125
 L bfk
 9
@@ -2925,7 +2925,7 @@ Anna Lee Cartel
 31/2
 31/2
 9
-Runaway Cowgirl 123
+Runaway-Cowgirl-123
 5
 43/4
 43/4

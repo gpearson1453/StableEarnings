@@ -1834,7 +1834,7 @@ Odds Ind. Time
 Sp. In. Comments
 18Nov23 8LS1
 8
-Flyin Rabbit 123 (Candanosa, Bryan)
+Flyin-Rabbit-123 (Candanosa, Bryan)
 125 L bk
 7
 3
@@ -1964,7 +1964,7 @@ Red Reddington (Amaya, Daniel)
 no factor
 Run-Up: 0 feet
 Winner:
-Flyin Rabbit 123, Sorrel Gelding, by Flying Cowboy 123 out of Hardtoget, by Foose. Foaled Feb 15, 2021 in Oklahoma.
+Flyin-Rabbit-123, Sorrel Gelding, by Flying Cowboy 123 out of Hardtoget, by Foose. Foaled Feb 15, 2021 in Oklahoma.
 Breeder: Louis A Malechek III
 Owner: Louis A. Trey Malechek III
 Trainer: Keeton, Toby
@@ -1975,7 +1975,7 @@ Win
 Place
 Show
 8
-Flyin Rabbit 123
+Flyin-Rabbit-123
 3.80
 3.40
 2.80
@@ -2009,7 +2009,7 @@ Str 1
 Str
 Fin
 8
-Flyin Rabbit 123
+Flyin-Rabbit-123
 3
 1Head
 1Head

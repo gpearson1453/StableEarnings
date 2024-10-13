@@ -2188,7 +2188,7 @@ Twister First Digger (Urieta, Jr., Victor)
 bumped, no threat
 29Apr23 5DED9
 10
-Ec Jet Nine One 1 (Villatoro, Noe)
+Ec-Jet-Nine-One-1 (Villatoro, Noe)
 124 - -
 10
 8
@@ -2314,7 +2314,7 @@ Twister First Digger
 74 1/4
 83 3/4
 10
-Ec Jet Nine One 1
+Ec-Jet-Nine-One-1
 8
 71 1/2
 96 3/4

@@ -1275,7 +1275,7 @@ B a Runner (Cruz, Roman)
 speed, nailed
 17Oct23 4WRD2
 7
-Eagle 101 (Perez, Antonio)
+Eagle-101 (Perez, Antonio)
 125 L b
 5
 7
@@ -1364,7 +1364,7 @@ Woopaa
 New Trainer: Luz Chavira
 New Owner: Robert R. Mashburn
 Claiming Prices:
-8 - Woopaa: $7,500; 1 - B a Runner: $7,500; 7 - Eagle 101: $7,500; 9 - Appropriate Black: $7,500; 4 - Pycs Got Alota
+8 - Woopaa: $7,500; 1 - B a Runner: $7,500; 7 - Eagle-101: $7,500; 9 - Appropriate Black: $7,500; 4 - Pycs Got Alota
 Shine: $7,500; 5 - Lc Jj Tweddy Bird: $7,500; 10 - Little Mermaid: $7,500; 2 - Really Catty: $7,500;
 Scratched Horse(s): Ima Hotlips Houlihan (Stewards), Ss Candy Crush (Veterinarian)
 Total WPS Pool: $6,091
@@ -1382,7 +1382,7 @@ B a Runner
 5.20
 3.00
 7
-Eagle 101
+Eagle-101
 3.20
 Wager Type
 Winning Numbers
@@ -1432,7 +1432,7 @@ B a Runner
 1Neck
 2Nose
 7
-Eagle 101
+Eagle-101
 7
 4Neck
 31/2

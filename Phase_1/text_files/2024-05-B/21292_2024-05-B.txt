@@ -216,7 +216,7 @@ Odds Ind. Time
 Sp. In. Comments
 15Feb24 1TUP2
 6
-You Cant Drive 95 (Jasso, Mark)
+You-Cant-Drive-95 (Jasso, Mark)
 129 BL bk
 5
 3
@@ -320,7 +320,7 @@ Crystal N Diamond (Aguirre-Erives, Cristian)
 away step slow
 Run-Up: 0 feet
 Winner:
-You Cant Drive 95, Sorrel Filly, by You Drive I Fly out of Jp Straight Shot, by Mr Jess Perry. Foaled Mar 08, 2021 in Oklahoma.
+You-Cant-Drive-95, Sorrel Filly, by You Drive I Fly out of Jp Straight Shot, by Mr Jess Perry. Foaled Mar 08, 2021 in Oklahoma.
 Breeder: Mercy Hinklins Horse Farm Llc
 Owner: J Lazy Six Racing
 Trainer: Gonzalez, Leonel
@@ -331,7 +331,7 @@ Win
 Place
 Show
 6
-You Cant Drive 95
+You-Cant-Drive-95
 20.40
 7.20
 16.40
@@ -361,7 +361,7 @@ Str 1
 Str
 Fin
 6
-You Cant Drive 95
+You-Cant-Drive-95
 3
 3Head
 2Head

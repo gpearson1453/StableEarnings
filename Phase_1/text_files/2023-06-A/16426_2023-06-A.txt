@@ -1377,7 +1377,7 @@ L bfk
 long duel, edged
 19May23 10RP6
 6
-Docs Pilot 123 (Martinez, L.)
+Docs-Pilot-123 (Martinez, L.)
 125
 L bhk
 6
@@ -1479,7 +1479,7 @@ Tres-Seis-727
 New Trainer: Eddie D. Willis
 New Owner: Eddie D. Willis
 Claiming Prices:
-1 - A Valiant Tradition: $20,000; 7 - My Fancy Heart: $20,000; 4 - My Temptation: $20,000; 6 - Docs Pilot 123: $20,000;
+1 - A Valiant Tradition: $20,000; 7 - My Fancy Heart: $20,000; 4 - My Temptation: $20,000; 6 - Docs-Pilot-123: $20,000;
 3 - Da Lights Out: $20,000; 2 - Tres-Seis-727: $20,000; 8 - Moon Lark Money: $20,000; 10 - Heza Pete: $20,000; 9 - J
 Kays Memory: $20,000; 5 - Oompa Lewpa: $20,000;
 Total WPS Pool: $13,975
@@ -1540,7 +1540,7 @@ My Temptation
 3Head
 31/2
 6
-Docs Pilot 123
+Docs-Pilot-123
 5
 43/4
 41 1/4

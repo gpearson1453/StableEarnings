@@ -721,7 +721,7 @@ El Patron B (Torres, Jorge)
 good finish
 15May23 9RP8
 4
-Rising Sun 123 (Esqueda, Cristian)
+Rising-Sun-123 (Esqueda, Cristian)
 124 BL bfhk 3
 2
 2Head
@@ -818,7 +818,7 @@ El Patron B
 4.80
 4.20
 4
-Rising Sun 123
+Rising-Sun-123
 2.40
 Wager Type
 Winning Numbers
@@ -871,7 +871,7 @@ El Patron B
 51 1/2
 21/2
 4
-Rising Sun 123
+Rising-Sun-123
 2
 21/2
 11/2

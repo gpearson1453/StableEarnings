@@ -1961,7 +1961,7 @@ Six Jess (Ceron, A.)
 short lead, held
 27Aug24 9IND1
 7
-Docs Pilot 123 (Vazquez-Gomez, Giovani)
+Docs-Pilot-123 (Vazquez-Gomez, Giovani)
 131 bfk
 7
 2
@@ -2093,7 +2093,7 @@ Six Jess
 6.20
 4.00
 7
-Docs Pilot 123
+Docs-Pilot-123
 7.80
 5.00
 10
@@ -2140,7 +2140,7 @@ Six Jess
 1Neck
 1Neck
 7
-Docs Pilot 123
+Docs-Pilot-123
 2
 2Neck
 2Neck

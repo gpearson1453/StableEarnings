@@ -1986,7 +1986,7 @@ Odds Ind. Time
 Sp. In. Comments
 13Jul24 9IND1
 2
-Docs Pilot 123 (Vazquez-Gomez, Giovani)
+Docs-Pilot-123 (Vazquez-Gomez, Giovani)
 131 bfk
 2
 2
@@ -2103,7 +2103,7 @@ The Right to Pass (Macias, Hugo)
 tardy,bumped,forced in
 Run-Up: 0 feet
 Winner:
-Docs Pilot 123, Brown Filly, by Paint My Pilot out of Docs Dynasty 123, by Fdd Dynasty. Foaled Mar 02, 2021 in Oklahoma.
+Docs-Pilot-123, Brown Filly, by Paint My Pilot out of Docs Dynasty 123, by Fdd Dynasty. Foaled Mar 02, 2021 in Oklahoma.
 Breeder: Double A Ranch
 Owner: Angel Ventura
 Trainer: Vazquez, Jessica
@@ -2115,7 +2115,7 @@ Win
 Place
 Show
 2
-Docs Pilot 123
+Docs-Pilot-123
 6.40
 3.60
 2.80
@@ -2161,7 +2161,7 @@ Str 1
 Str
 Fin
 2
-Docs Pilot 123
+Docs-Pilot-123
 2
 11/2
 11/2

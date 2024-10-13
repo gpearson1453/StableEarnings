@@ -807,7 +807,7 @@ Sullys Country Wagon (Benn, Cordarelton)
 forward, no punch
 5Jul24 8FMT6
 8
-Oceans 13 (Cruz, Roman)
+Oceans-13 (Cruz, Roman)
 124 L b
 8
 3
@@ -965,7 +965,7 @@ Sullys Country Wagon
 31
 41 1/2
 8
-Oceans 13
+Oceans-13
 3
 3Head
 41

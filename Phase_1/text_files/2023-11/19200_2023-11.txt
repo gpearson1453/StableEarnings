@@ -945,7 +945,7 @@ Dankeshayne (Duran, Nestor)
 in command outside
 4Sep23 10RUI6
 1
-Corner Pocket 123 (Vallejo, Rodrigo)
+Corner-Pocket-123 (Vallejo, Rodrigo)
 124 L b
 1
 8
@@ -1051,7 +1051,7 @@ Dankeshayne
 2.60
 2.20
 1
-Corner Pocket 123
+Corner-Pocket-123
 2.10
 2.10
 2
@@ -1094,7 +1094,7 @@ Dankeshayne
 11/2
 11/2
 1
-Corner Pocket 123
+Corner-Pocket-123
 8
 3Head
 21/2

@@ -1452,7 +1452,7 @@ Trainer: Ruiz, Jesus
 Dead Heats:
 1st place - # 8 Chanel Gypsy
 1st place - # 9 Ivory Lips
-Scratched Horse(s): Rc Jones 11 (Veterinarian)
+Scratched Horse(s): Rc-Jones-11 (Veterinarian)
 Total WPS Pool: $5,199
 Pgm Horse
 Win

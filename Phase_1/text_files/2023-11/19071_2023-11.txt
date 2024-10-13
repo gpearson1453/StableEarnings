@@ -537,7 +537,7 @@ Rj Good Woman Blues (Flores, James)
 lost footing start
 29Sep23 3PRM8
 7
-Rising Sun 123 (Esqueda, Cristian)
+Rising-Sun-123 (Esqueda, Cristian)
 126 L bfk
 7
 6
@@ -647,7 +647,7 @@ Rj Good Woman Blues 2
 61/2
 72
 7
-Rising Sun 123
+Rising-Sun-123
 6
 81 1/4
 82
@@ -1176,7 +1176,7 @@ A Fancy Mate (Raudales, Rolando)
 drift out, chased
 17Oct23 6WRD2
 7
-Oceans 13 (Cruz, Roman)
+Oceans-13 (Cruz, Roman)
 124 L b
 6
 3
@@ -1261,7 +1261,7 @@ A Fancy Mate
 6.60
 3.00
 7
-Oceans 13
+Oceans-13
 3.00
 Wager Type
 Winning Numbers
@@ -1310,7 +1310,7 @@ A Fancy Mate
 21
 24 1/4
 7
-Oceans 13
+Oceans-13
 3
 31/2
 31 1/2

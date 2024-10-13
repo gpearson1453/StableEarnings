@@ -2283,7 +2283,7 @@ Anl Lady Powerfull (Morales, Adrian)
 no menace
 10May24 5HOU8
 1
-Ec Jet Nine One 1 (Villarreal, Jose)
+Ec-Jet-Nine-One-1 (Villarreal, Jose)
 125 bk
 1
 1
@@ -2445,7 +2445,7 @@ Anl Lady Powerfull
 51 1/4
 41 1/2
 1
-Ec Jet Nine One 1
+Ec-Jet-Nine-One-1
 1
 31
 31

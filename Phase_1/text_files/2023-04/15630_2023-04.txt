@@ -34,7 +34,7 @@ Jb Kool Jess (Garcia, Gaspar)
 repeat performance
 ---
 1
-Lady Corona 123 (Vallejo, Rodrigo)
+Lady-Corona-123 (Vallejo, Rodrigo)
 124 L bk
 1
 2
@@ -140,7 +140,7 @@ Jb Kool Jess
 3.40
 2.80
 1
-Lady Corona 123
+Lady-Corona-123
 3.80
 3.00
 6
@@ -175,7 +175,7 @@ Jb Kool Jess
 11
 12
 1
-Lady Corona 123
+Lady-Corona-123
 2
 2Head
 21

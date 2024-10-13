@@ -2066,7 +2066,7 @@ Lethalcartelfavorite (Martinez, Luis)
 veered out early
 17Nov23 5EVD2
 8
-Corner Pocket 123 (Vallejo, Rodrigo)
+Corner-Pocket-123 (Vallejo, Rodrigo)
 126 L bk
 8
 8
@@ -2198,7 +2198,7 @@ Lethalcartelfavorite
 52 3/4
 53 1/4
 8
-Corner Pocket 123
+Corner-Pocket-123
 8
 73 1/4
 63 3/4
@@ -2480,7 +2480,7 @@ Odds Ind. Time
 Sp. In. Comments
 8Jun24 7RUI1
 5
-Flyin Rabbit 123 (Pulido, Juan)
+Flyin-Rabbit-123 (Pulido, Juan)
 126 L bk
 5
 2
@@ -2597,7 +2597,7 @@ Apollitical Boogie J (Flores, James)
 broke slow, forced out
 Run-Up: 0 feet
 Winner:
-Flyin Rabbit 123, Sorrel Gelding, by Flying Cowboy 123 out of Hardtoget, by Foose. Foaled Feb 15, 2021 in Oklahoma.
+Flyin-Rabbit-123, Sorrel Gelding, by Flying Cowboy 123 out of Hardtoget, by Foose. Foaled Feb 15, 2021 in Oklahoma.
 Breeder: Louis A Malechek III
 Owner: Louis A. Trey Malechek, III
 Trainer: Keeton, Toby
@@ -2607,7 +2607,7 @@ Win
 Place
 Show
 5
-Flyin Rabbit 123
+Flyin-Rabbit-123
 2.60
 2.20
 2.10
@@ -2641,7 +2641,7 @@ Str 1
 Str
 Fin
 5
-Flyin Rabbit 123
+Flyin-Rabbit-123
 2
 2Head
 1Head

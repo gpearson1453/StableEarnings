@@ -1954,7 +1954,7 @@ L b
 no threat
 19Jul23 9RET9
 7
-Ec Jet Nine One 1 (Morales, Adrian)
+Ec-Jet-Nine-One-1 (Morales, Adrian)
 124
 - -
 6
@@ -2054,7 +2054,7 @@ Mightys Eagle
 71 1/2
 62 1/2
 7
-Ec Jet Nine One 1
+Ec-Jet-Nine-One-1
 3
 61
 73 1/4

@@ -1074,7 +1074,7 @@ Chanel Gypsy (Esqueda, Cristian)
 hop st, closed fastest
 20Aug23 2PRM6
 6
-Rc Jones 11 (Salazar, Jesus)
+Rc-Jones-11 (Salazar, Jesus)
 124 L b
 6
 6
@@ -1157,7 +1157,7 @@ Breeder: Stone Chase Stables Llc
 Owner: Tovars Little Farm LLC
 Trainer: Escamilla-Gonzalez, Everardo
 Claiming Prices:
-7 - Chanel Gypsy: $10,000; 6 - Rc Jones 11: $10,000; 5 - B a Runner: $10,000; 2 - Wranglers Tres: $10,000; 1 - Jdc
+7 - Chanel Gypsy: $10,000; 6 - Rc-Jones-11: $10,000; 5 - B a Runner: $10,000; 2 - Wranglers Tres: $10,000; 1 - Jdc
 Turnoutthelights: $10,000; 3 - Little Mermaid: $10,000; 4 - Miss Tambien Wrangle: $10,000;
 Total WPS Pool: $4,695
 Pgm Horse
@@ -1170,7 +1170,7 @@ Chanel Gypsy
 5.20
 4.00
 6
-Rc Jones 11
+Rc-Jones-11
 3.00
 2.60
 5
@@ -1217,7 +1217,7 @@ Chanel Gypsy
 5Neck
 1Neck
 6
-Rc Jones 11
+Rc-Jones-11
 6
 6Neck
 6Neck

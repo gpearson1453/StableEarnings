@@ -309,7 +309,7 @@ Trainer: Johnson, Robert
 Claiming Prices:
 1 - Shez Going My Way: $15,000; 2 - Meaponte: $15,000; 4 - Interested Party: $15,000; 5 - Misstic Coronita: $15,000; 3
 - W Is the First Prize: $15,000;
-Scratched Horse(s): Rc Jones 11 (Veterinarian)
+Scratched Horse(s): Rc-Jones-11 (Veterinarian)
 Total WPS Pool: $8,629
 Pgm Horse
 Win

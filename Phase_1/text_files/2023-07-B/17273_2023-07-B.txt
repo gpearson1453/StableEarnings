@@ -45,7 +45,7 @@ Piston Stroke (Candanosa, Bryan)
 came in, steady bid
 26May23 7RUI3
 2
-Flyin Rabbit 123 (Pulido, Juan)
+Flyin-Rabbit-123 (Pulido, Juan)
 124 L bk
 2
 5
@@ -169,7 +169,7 @@ Piston Stroke
 20.60
 4.60
 2
-Flyin Rabbit 123
+Flyin-Rabbit-123
 2.10
 Wager Type
 Winning Numbers
@@ -206,7 +206,7 @@ Piston Stroke
 2Head
 2Neck
 2
-Flyin Rabbit 123
+Flyin-Rabbit-123
 5
 11/2
 3Head
