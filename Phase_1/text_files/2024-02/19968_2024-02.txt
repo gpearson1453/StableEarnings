@@ -1143,7 +1143,7 @@ L bk
 late surge
 ---
 3
-Jon 316 (Garcia, Jr., Juan)
+Jon-316 (Garcia, Jr., Juan)
 126
 L b
 3
@@ -1277,7 +1277,7 @@ Kalifornia Monarch
 10.80
 9.40
 3
-Jon 316
+Jon-316
 3.80
 5.20
 4
@@ -1318,7 +1318,7 @@ Kalifornia Monarch
 3Head
 1Neck
 3
-Jon 316
+Jon-316
 9
 2Head
 2Neck

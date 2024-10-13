@@ -757,7 +757,7 @@ Odds Ind. Time
 Sp. In. Comments
 20Jun24 9IND4
 1
-Jon 316 (Morin, Fernando)
+Jon-316 (Morin, Fernando)
 126 b
 1
 10
@@ -887,7 +887,7 @@ Mariel (Esqueda, Cristian)
 no impact
 Run-Up: 0 feet
 Winner:
-Jon 316, Bay Colt, by Jess Good Candy out of Fast Prize Corona, by Corona Cartel. Foaled Mar 08, 2021 in Oklahoma.
+Jon-316, Bay Colt, by Jess Good Candy out of Fast Prize Corona, by Corona Cartel. Foaled Mar 08, 2021 in Oklahoma.
 Breeder: Weetona Stanley
 Owner: Brisa Alia Ventura Hernandez
 Trainer: Arevalo, J.
@@ -897,7 +897,7 @@ Breeder: Whiting Ranch
 Owner: Whiting Ranch
 Trainer: Martinez, Ricardo
 Dead Heats:
-1st place - # 1 Jon 316
+1st place - # 1 Jon-316
 1st place - # 2 Cleave
 Disqualification(s):
 # 7 Jess Knew from 6 to 8
@@ -908,7 +908,7 @@ Win
 Place
 Show
 1
-Jon 316
+Jon-316
 2.40
 2.60
 2.40
@@ -975,7 +975,7 @@ Str 1
 Str
 Fin
 1
-Jon 316
+Jon-316
 10
 51/2
 1Head

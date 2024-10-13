@@ -2116,7 +2116,7 @@ Revvs Cowboy (Pina, Rolando)
 popped,led, caught
 1Jun24 5IND2
 1
-Jon 316 (Ceron, A.)
+Jon-316 (Ceron, A.)
 129 L b
 1
 5
@@ -2281,7 +2281,7 @@ Revvs Cowboy
 2Head
 3Neck
 1
-Jon 316
+Jon-316
 5
 51 3/4
 41 3/4

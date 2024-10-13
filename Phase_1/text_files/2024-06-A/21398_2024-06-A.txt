@@ -952,7 +952,7 @@ Vgk Dynasty (Morin, Fernando)
 short lead, held
 19Mar24 6SRM1
 1
-Jon 316 (Ceron, A.)
+Jon-316 (Ceron, A.)
 126 L b
 1
 4
@@ -1046,7 +1046,7 @@ Vgk Dynasty
 3.80
 2.80
 1
-Jon 316
+Jon-316
 9.40
 6.60
 2
@@ -1106,7 +1106,7 @@ Vgk Dynasty
 1Neck
 1Head
 1
-Jon 316
+Jon-316
 4
 3Neck
 2Neck
