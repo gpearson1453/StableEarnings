@@ -1385,7 +1385,7 @@ Thundyr Road (Torres, Jorge)
 no threat
 ---
 8
-Ei 701 (Martinez, L.)
+Ei-701 (Martinez, L.)
 126 L b
 8
 9
@@ -1498,7 +1498,7 @@ Thundyr Road
 71
 84 1/4
 8
-Ei 701
+Ei-701
 9
 91 3/4
 95 1/4

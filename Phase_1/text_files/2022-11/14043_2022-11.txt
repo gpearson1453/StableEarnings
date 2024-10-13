@@ -1525,7 +1525,7 @@ b
 away best, held
 22Oct22 8LA6
 3
-Ms Apollitical 1 (Ayala, Jesus)
+Ms-Apollitical-1 (Ayala, Jesus)
 126
 b
 2
@@ -1582,7 +1582,7 @@ Breeder: Veronica Gail Kawananakoa
 Owner: Edward C. Allred
 Trainer: Andrade, Elena
 Claiming Prices:
-5 - Teller to Look: $8,000; 3 - Ms Apollitical 1: $8,000; 6 - Sanctimony: $8,000; 2 - King Eazy: $8,000; 4 - George the
+5 - Teller to Look: $8,000; 3 - Ms-Apollitical-1: $8,000; 6 - Sanctimony: $8,000; 2 - King Eazy: $8,000; 4 - George the
 Vet: $8,000;
 Scratched Horse(s): Mas Interes (Gate) (Earned $500.00)
 Total WPS Pool: $17,645
@@ -1596,7 +1596,7 @@ Teller to Look
 2.80
 2.10
 3
-Ms Apollitical 1
+Ms-Apollitical-1
 2.60
 2.10
 6
@@ -1636,7 +1636,7 @@ Teller to Look
 11/2
 1Neck
 3
-Ms Apollitical 1
+Ms-Apollitical-1
 3
 33/4
 2Neck

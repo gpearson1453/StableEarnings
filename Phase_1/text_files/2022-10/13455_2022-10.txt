@@ -1216,7 +1216,7 @@ b
 broke in,bumped early
 ---
 1
-Ms Apollitical 1 (Zepeda, Alberto)
+Ms-Apollitical-1 (Zepeda, Alberto)
 126
 b
 1
@@ -1315,7 +1315,7 @@ La Zamira
 51 1/4
 51 3/4
 1
-Ms Apollitical 1
+Ms-Apollitical-1
 6
 61 1/2
 62 1/4

@@ -1422,7 +1422,7 @@ b
 antsy,bp st,drftd out
 1Oct22 7LA6
 6
-Ms Apollitical 1 (Zepeda, Alberto)
+Ms-Apollitical-1 (Zepeda, Alberto)
 126
 b
 6
@@ -1533,7 +1533,7 @@ Sweet Fire Girl
 2Neck
 51 1/4
 6
-Ms Apollitical 1
+Ms-Apollitical-1
 1
 61
 62
