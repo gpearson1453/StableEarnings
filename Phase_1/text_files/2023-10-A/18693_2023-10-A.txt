@@ -2609,6 +2609,7 @@ $0.20 Trifecta
 185,508
 Past Performance Running Line Preview
 Pgm Horse Name
+Start
 1/4
 1/2
 3/4
@@ -2617,6 +2618,7 @@ Str
 Fin
 4
 Nations Pride (IRE)
+2
 23
 23 1/2
 22 1/2
@@ -2625,6 +2627,7 @@ Nations Pride (IRE)
 12 1/4
 8
 Royal Champion (IRE)
+1
 13
 13 1/2
 12 1/2
@@ -2633,6 +2636,7 @@ Royal Champion (IRE)
 22 1/4
 7
 Adhamo (IRE)
+6
 65 1/2
 35
 35
@@ -2641,6 +2645,7 @@ Adhamo (IRE)
 39 1/2
 3
 Palazzi
+7
 77 1/2
 88 1/2
 68
@@ -2649,6 +2654,7 @@ Palazzi
 410 3/4
 5
 English Conqueror
+4
 45
 67 1/2
 810 1/2
@@ -2657,6 +2663,7 @@ English Conqueror
 518 3/4
 6
 Starting Over
+3
 34
 45 1/2
 57
@@ -2665,6 +2672,7 @@ Starting Over
 622 1/2
 1
 British Royalty
+5
 55
 57
 47
@@ -2673,6 +2681,7 @@ British Royalty
 724
 2
 Dynadrive
+8
 87 3/4
 78
 78 1/2

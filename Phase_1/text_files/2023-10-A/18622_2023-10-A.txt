@@ -680,6 +680,7 @@ $0.50 Trifecta
 101,832
 Past Performance Running Line Preview
 Pgm Horse Name
+Start
 1/4
 1/2
 3/4
@@ -688,6 +689,7 @@ Str
 Fin
 6
 Libretto (IRE)
+1
 11
 11 1/2
 11 1/2
@@ -696,6 +698,7 @@ Libretto (IRE)
 11 1/2
 4
 Tawaret
+10
 107
 97 3/4
 911
@@ -704,6 +707,7 @@ Tawaret
 21 1/2
 9
 Dark Pool
+4
 42 1/2
 44 1/2
 47
@@ -712,6 +716,7 @@ Dark Pool
 34 1/2
 8
 Anna Lucia
+2
 21
 21 1/2
 21 1/2
@@ -720,6 +725,7 @@ Anna Lucia
 45 3/4
 2
 Starts Now
+3
 32
 33 1/2
 33
@@ -728,6 +734,7 @@ Starts Now
 56 1/4
 1
 Absolute Control (FR)
+8
 85 1/2
 76 1/2
 79
@@ -736,6 +743,7 @@ Absolute Control (FR)
 69 3/4
 10
 Naa Dudette
+9
 96 1/2
 108 1/4
 1011 1/4
@@ -744,6 +752,7 @@ Naa Dudette
 713 3/4
 5
 Machiavellique
+7
 75 1/2
 86 3/4
 810
@@ -752,6 +761,7 @@ Machiavellique
 813 3/4
 3
 Why Waste Words
+5
 54
 65 1/2
 68
@@ -761,6 +771,7 @@ Why Waste Words
 7
 Addressable Market
 (IRE)
+6
 64 1/2
 55 1/2
 58
