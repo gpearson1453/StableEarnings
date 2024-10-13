@@ -91,7 +91,7 @@ Kr Special Piloto (Luna, Ubaldo)
 mild bid, evenly
 3Mar23 8LAD7
 9
-Will 3 (Cabrera, Rolando)
+Will-3 (Cabrera, Rolando)
 124 L bf
 9
 7
@@ -217,7 +217,7 @@ Kr Special Piloto
 52
 52 3/4
 9
-Will 3
+Will-3
 7
 71
 63

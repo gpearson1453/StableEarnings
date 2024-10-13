@@ -267,7 +267,7 @@ L bfk
 dueled, driving finish
 2Mar23 6LAD9
 7
-Flying Cowgirl 456 (Pulido, Juan)
+Flying-Cowgirl-456 (Pulido, Juan)
 124
 bk
 7
@@ -399,7 +399,7 @@ Sandstone Mountain
 14.40
 7.00
 7
-Flying Cowgirl 456
+Flying-Cowgirl-456
 5.00
 2.80
 8
@@ -436,7 +436,7 @@ Sandstone Mountain
 1Head
 1Head
 7
-Flying Cowgirl 456
+Flying-Cowgirl-456
 6
 2Head
 2Head

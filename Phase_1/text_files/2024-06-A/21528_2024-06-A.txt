@@ -1804,7 +1804,7 @@ L f
 no threat
 19Apr24 1HOU5
 1
-Flying Cowgirl 456 (Urieta, Jr., Victor)
+Flying-Cowgirl-456 (Urieta, Jr., Victor)
 125
 bk
 1
@@ -1909,7 +1909,7 @@ Champanita
 83/4
 71 1/2
 1
-Flying Cowgirl 456
+Flying-Cowgirl-456
 4
 61/2
 81 1/2

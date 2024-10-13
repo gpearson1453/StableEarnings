@@ -554,7 +554,7 @@ Getaway Piloto (Benn, Cordarelton)
 one paced rail
 8Jun24 8FMT1
 4
-Sausalito 100 (Raudales, Rolando)
+Sausalito-100 (Raudales, Rolando)
 124 L b
 4
 6
@@ -694,7 +694,7 @@ Getaway Piloto
 31
 31 1/4
 4
-Sausalito 100
+Sausalito-100
 6
 52
 42

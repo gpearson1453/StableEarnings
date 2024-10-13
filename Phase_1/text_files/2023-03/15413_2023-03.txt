@@ -755,7 +755,7 @@ L bfk
 sharp debut
 ---
 5
-Coronas for 3 (Lucio, Jr., Guadalupe)
+Coronas-for-3 (Lucio, Jr., Guadalupe)
 124
 L bfk
 5
@@ -861,7 +861,7 @@ Tk Sweet Eyes
 6.00
 5.80
 5
-Coronas for 3
+Coronas-for-3
 8.20
 5.20
 1
@@ -902,7 +902,7 @@ Tk Sweet Eyes
 11/2
 11 3/4
 5
-Coronas for 3
+Coronas-for-3
 2
 21/2
 21 3/4

@@ -1538,7 +1538,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 5
-Zero to 100 (Tapia, Emilio)
+Zero-to-100 (Tapia, Emilio)
 124
 L b
 5
@@ -1655,7 +1655,7 @@ L b
 no threat,
 Run-Up: 0 feet
 Winner:
-Zero to 100, Sorrel Gelding, by Muddy Watters out of Desirio Sassy Lady, by Desirio. Foaled Feb 16, 2021 in Texas.
+Zero-to-100, Sorrel Gelding, by Muddy Watters out of Desirio Sassy Lady, by Desirio. Foaled Feb 16, 2021 in Texas.
 Breeder: 4j Equine Llc/Victor Jordan
 Owner: 4 J Equine LLC and Jordan, Victor
 Trainer: Soto, Salvador
@@ -1665,7 +1665,7 @@ Win
 Place
 Show
 5
-Zero to 100
+Zero-to-100
 13.00
 4.80
 3.20
@@ -1698,7 +1698,7 @@ Start
 Str
 Fin
 5
-Zero to 100
+Zero-to-100
 1
 11/2
 1Neck

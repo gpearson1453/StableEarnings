@@ -1439,7 +1439,7 @@ I Rule the Dynasty (Silva, Agustin)
 best of rest
 8Oct23 8WRD2
 4
-Sausalito 100 (Esqueda, Erik)
+Sausalito-100 (Esqueda, Erik)
 124 L b
 4
 1
@@ -1592,7 +1592,7 @@ I Rule the Dynasty
 31/2
 32 3/4
 4
-Sausalito 100
+Sausalito-100
 1
 51/2
 63/4

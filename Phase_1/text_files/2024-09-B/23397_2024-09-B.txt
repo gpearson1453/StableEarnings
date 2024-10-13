@@ -1547,7 +1547,7 @@ L b
 off step slow, bumped,
 21Jun24 8FMT5
 7
-Sting 123 (Alvarez, Jr., David)
+Sting-123 (Alvarez, Jr., David)
 128
 L b
 6
@@ -1656,7 +1656,7 @@ Bp the Fireman
 81 1/4
 85 1/2
 7
-Sting 123
+Sting-123
 9
 91 3/4
 95 3/4
@@ -2011,7 +2011,7 @@ Dance Hawl Gal (Benn, Cordarelton)
 dueled, outfinished
 20Jul24 3FMT4
 2
-Sausalito 100 (Raudales, Rolando)
+Sausalito-100 (Raudales, Rolando)
 126 L b
 1
 7
@@ -2157,7 +2157,7 @@ Dance Hawl Gal
 2Nose
 41
 2
-Sausalito 100
+Sausalito-100
 7
 4Head
 51/2

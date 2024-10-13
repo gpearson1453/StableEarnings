@@ -1585,7 +1585,7 @@ L bf
 drifted in early
 ---
 1
-Will 3 (Cabrera, Rolando)
+Will-3 (Cabrera, Rolando)
 124
 L b
 1
@@ -1679,7 +1679,7 @@ Pilotos Thunder
 63/4
 63 1/4
 1
-Will 3
+Will-3
 4
 73 3/4
 75 1/4

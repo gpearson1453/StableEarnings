@@ -1484,7 +1484,7 @@ L bf
 no match top pair
 ---
 2
-Tres Seis 727 (Valenzuela, Raul)
+Tres-Seis-727 (Valenzuela, Raul)
 126
 L bfk
 2
@@ -1624,7 +1624,7 @@ Eyes Like an Eagle
 31/2
 31 1/2
 2
-Tres Seis 727
+Tres-Seis-727
 5
 41 1/2
 43

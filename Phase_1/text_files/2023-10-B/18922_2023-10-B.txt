@@ -47,7 +47,7 @@ L b
 last away, willingly
 30Sep23 4EVD7
 5
-Will 3 (Cabrera, Rolando)
+Will-3 (Cabrera, Rolando)
 125
 L b
 4
@@ -104,7 +104,7 @@ Breeder: Randel Brown
 Owner: Cuadra Herradura LLC
 Trainer: Alcantara, Barbara
 Claiming Prices:
-1 - Flaming Eagle: $10,000; 6 - The Fiscal Flyer: $10,000; 5 - Will 3: $10,000; 3 - Zoom N On High: $10,000; 7 - Tf That
+1 - Flaming Eagle: $10,000; 6 - The Fiscal Flyer: $10,000; 5 - Will-3: $10,000; 3 - Zoom N On High: $10,000; 7 - Tf That
 Girls Game: $10,000; 2 - Lou Easy Anna: $10,000;
 Scratched Horse(s): Moon Chick (Stewards)
 Total WPS Pool: $11,114
@@ -122,7 +122,7 @@ The Fiscal Flyer
 13.60
 9.80
 5
-Will 3
+Will-3
 6.60
 Wager Type
 Winning Numbers
@@ -156,7 +156,7 @@ The Fiscal Flyer
 4Neck
 2Neck
 5
-Will 3
+Will-3
 4
 3Head
 3Neck

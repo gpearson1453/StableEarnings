@@ -326,7 +326,7 @@ Handsome Effort (Cabrera, Rolando)
 even effort
 29Jun23 6RET3
 5
-Flying Cowgirl 456 (Urieta, Jr., Victor)
+Flying-Cowgirl-456 (Urieta, Jr., Victor)
 124 bk
 5
 5
@@ -463,7 +463,7 @@ Handsome Effort
 41 1/2
 42
 5
-Flying Cowgirl 456
+Flying-Cowgirl-456
 5
 52 1/2
 52 1/2

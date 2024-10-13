@@ -22,7 +22,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 1
-Young Blood 210 (Sanchez, Eddie)
+Young-Blood-210 (Sanchez, Eddie)
 127
 L b
 1
@@ -139,7 +139,7 @@ bk
 took no part
 Run-Up: 0 feet
 Winner:
-Young Blood 210, Gray Colt, by Apollitical Blood out of Shesa Diamond Diva, by Struttin to Beduino. Foaled Mar 06, 2021 in Louisiana.
+Young-Blood-210, Gray Colt, by Apollitical Blood out of Shesa Diamond Diva, by Struttin to Beduino. Foaled Mar 06, 2021 in Louisiana.
 Breeder: Crown Horse Racing Llc
 Owner: Ivan Rivera
 Trainer: Sanchez III, Jose
@@ -150,7 +150,7 @@ Win
 Place
 Show
 1
-Young Blood 210
+Young-Blood-210
 8.20
 4.00
 4.60
@@ -183,7 +183,7 @@ Start
 Str
 Fin
 1
-Young Blood 210
+Young-Blood-210
 1
 11/2
 1Neck
@@ -1415,7 +1415,7 @@ L bfk
 traded hard bumps
 ---
 9
-Flying Cowgirl 456 (Herbert, Jose)
+Flying-Cowgirl-456 (Herbert, Jose)
 125
 bk
 9
@@ -1528,7 +1528,7 @@ Lightning Trend
 81 3/4
 83
 9
-Flying Cowgirl 456
+Flying-Cowgirl-456
 8
 92
 93 1/4

@@ -73,7 +73,7 @@ L bf
 bid, out finished
 29Feb24 1LAD1
 3
-Flying Cowgirl 456 (Urieta, Jr., Victor)
+Flying-Cowgirl-456 (Urieta, Jr., Victor)
 125
 bk
 3
@@ -214,7 +214,7 @@ Naughty Little Wagon
 4Head
 41 1/4
 3
-Flying Cowgirl 456
+Flying-Cowgirl-456
 5
 61/2
 51 3/4

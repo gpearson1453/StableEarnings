@@ -1107,7 +1107,7 @@ L b
 shied in at start
 2Jun23 11RP6
 6
-Sting 123 (Cruz, Roman)
+Sting-123 (Cruz, Roman)
 124
 L b
 6
@@ -1244,7 +1244,7 @@ Meaponte
 51 1/4
 62
 6
-Sting 123
+Sting-123
 5
 61 1/4
 72 1/4
@@ -1926,7 +1926,7 @@ b
 bumped off stride
 6Apr24 9RP10
 6
-Sausalito 100 (Benn, Cordarelton)
+Sausalito-100 (Benn, Cordarelton)
 127
 L b
 6
@@ -2039,7 +2039,7 @@ Go O Commando
 61 1/4
 83
 6
-Sausalito 100
+Sausalito-100
 6
 93 1/4
 95

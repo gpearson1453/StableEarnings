@@ -875,7 +875,7 @@ Duponjess (Gutierrez, Gonzalo)
 outdueled for show
 5May23 6RP4
 1
-Sausalito 100 (Raudales, Rolando)
+Sausalito-100 (Raudales, Rolando)
 124 L b
 1
 6
@@ -986,7 +986,7 @@ Duponjess
 52 1/4
 42
 1
-Sausalito 100
+Sausalito-100
 6
 61 3/4
 63 1/4

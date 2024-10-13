@@ -2742,7 +2742,7 @@ Howthestorygoes (Klaiber, Justine)
 off best, caught
 6May23 4RP7
 4
-Sting 123 (Cruz, Roman)
+Sting-123 (Cruz, Roman)
 124 L b
 4
 2
@@ -2873,7 +2873,7 @@ Howthestorygoes
 3Head
 61
 4
-Sting 123
+Sting-123
 2
 2Head
 5Neck

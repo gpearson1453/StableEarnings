@@ -1634,7 +1634,7 @@ Odds Ind. Time
 Sp. In. Comments
 17May23 5DED3
 8
-Young Blood 210 (Alvarez, Arturo)
+Young-Blood-210 (Alvarez, Arturo)
 124
 L bk
 7
@@ -1751,7 +1751,7 @@ L bf
 broke out, no threat
 Run-Up: 0 feet
 Winner:
-Young Blood 210, Gray Gelding, by Apollitical Blood out of Shesa Diamond Diva, by Struttin to Beduino. Foaled Mar 06, 2021 in Louisiana.
+Young-Blood-210, Gray Gelding, by Apollitical Blood out of Shesa Diamond Diva, by Struttin to Beduino. Foaled Mar 06, 2021 in Louisiana.
 Breeder: Crown Horse Racing Llc
 Owner: Ivan Rivera
 Trainer: Sanchez III, Jose
@@ -1762,7 +1762,7 @@ Win
 Place
 Show
 8
-Young Blood 210
+Young-Blood-210
 23.20
 8.40
 5.60
@@ -1803,7 +1803,7 @@ Start
 Str
 Fin
 8
-Young Blood 210
+Young-Blood-210
 1
 1Head
 11

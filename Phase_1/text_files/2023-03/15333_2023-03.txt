@@ -2796,7 +2796,7 @@ L b
 duel,triple deadheat
 ---
 3
-Sausalito 100 (Escobedo, Edwin)
+Sausalito-100 (Escobedo, Edwin)
 124
 L b
 3
@@ -2910,13 +2910,13 @@ Breeder: Kent Kleinknecht
 Owner: Ramiro Jaime Flores
 Trainer: Meche, Robi
 Winner:
-Sausalito 100, Sorrel Gelding, by Apollitical Spirit out of Sheachewchew, by Royal Blue Chew Chew. Foaled Mar 12, 2021 in Oklahoma.
+Sausalito-100, Sorrel Gelding, by Apollitical Spirit out of Sheachewchew, by Royal Blue Chew Chew. Foaled Mar 12, 2021 in Oklahoma.
 Breeder: Joselito Smith
 Owner: Rita Cox
 Trainer: Villafranco, Jose
 Dead Heats:
 1st place - # 2 Midnight Ryde
-1st place - # 3 Sausalito 100
+1st place - # 3 Sausalito-100
 1st place - # 7 Favorite Movie
 Total WPS Pool: $21,309
 Pgm Horse
@@ -2929,7 +2929,7 @@ Midnight Ryde
 5.60
 4.80
 3
-Sausalito 100
+Sausalito-100
 5.40
 6.20
 5.60
@@ -3037,7 +3037,7 @@ Midnight Ryde
 3Head
 1Nose
 3
-Sausalito 100
+Sausalito-100
 1
 1Nose
 1Nose

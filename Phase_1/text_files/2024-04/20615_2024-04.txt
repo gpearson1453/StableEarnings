@@ -1737,7 +1737,7 @@ Alexandra K (Martinez, L.)
 avoided troubles
 17Mar24 10RP7
 4
-DQ-Sausalito 100 (Esqueda, Erik)
+DQ-Sausalito-100 (Esqueda, Erik)
 124 L b
 4
 3
@@ -1859,7 +1859,7 @@ Breeder: Robert Lee Esqueda
 Owner: Robert Esqueda
 Trainer: Esqueda, Robert
 Disqualification(s):
-# 4 Sausalito 100 from 2 to 10
+# 4 Sausalito-100 from 2 to 10
 Total WPS Pool: $33,078
 Pgm Horse
 Win
@@ -1914,7 +1914,7 @@ Alexandra K
 11 1/2
 12
 4
-Sausalito 100
+Sausalito-100
 3
 2Head
 31 1/2

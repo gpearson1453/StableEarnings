@@ -993,7 +993,7 @@ bk
 bothered break
 26Oct23 1EVD3
 8
-Will 3 (Cabrera, Rolando)
+Will-3 (Cabrera, Rolando)
 124
 L b
 8
@@ -1038,7 +1038,7 @@ Owner: Hart, Chad and Johnson, Jr., Willie B.
 Trainer: Roberts, Sr., Kenneth
 Claiming Prices:
 1 - Fiduciary: $10,000; 3 - Geaux Party Geaux: $10,000; 2 - Chictwopointo: $10,000; 7 - Kill in His Dreams: $10,000; 9 -
-Tdz Wavetothequeen: $10,000; 6 - Rip Blade: $10,000; 8 - Will 3: $10,000; 4 - Jj Jess Goes By: $10,000; 5 - Sydney
+Tdz Wavetothequeen: $10,000; 6 - Rip Blade: $10,000; 8 - Will-3: $10,000; 4 - Jj Jess Goes By: $10,000; 5 - Sydney
 Eagle: $10,000;
 Total WPS Pool: $10,644
 Pgm Horse
@@ -1117,7 +1117,7 @@ Rip Blade
 73
 62 1/2
 8
-Will 3
+Will-3
 9
 83 1/2
 73

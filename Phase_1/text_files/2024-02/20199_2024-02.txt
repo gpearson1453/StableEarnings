@@ -23,7 +23,7 @@ Odds Ind. Time
 Sp. In. Comments
 20Oct23 10LS2
 7
-Flying Cowgirl 456 (Urieta, Jr., Victor)
+Flying-Cowgirl-456 (Urieta, Jr., Victor)
 126 bk
 6
 5
@@ -127,7 +127,7 @@ Kombustion (Cabrera, Rolando)
 outrun
 Run-Up: 0 feet
 Winner:
-Flying Cowgirl 456, Bay Filly, by Flying Cowboy 123 out of Streaks of Ivory, by Ivory James. Foaled Apr 01, 2021 in Nevada.
+Flying-Cowgirl-456, Bay Filly, by Flying Cowboy 123 out of Streaks of Ivory, by Ivory James. Foaled Apr 01, 2021 in Nevada.
 Breeder: Ken O'Brien
 Owner: Five Puig Racing LLC
 Trainer: Diaz, Jr., Juan
@@ -138,7 +138,7 @@ Win
 Place
 Show
 7
-Flying Cowgirl 456
+Flying-Cowgirl-456
 4.80
 3.00
 2.40
@@ -172,7 +172,7 @@ Str 1
 Str
 Fin
 7
-Flying Cowgirl 456
+Flying-Cowgirl-456
 5
 4Neck
 2Neck

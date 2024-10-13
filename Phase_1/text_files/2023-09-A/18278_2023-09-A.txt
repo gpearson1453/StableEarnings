@@ -261,7 +261,7 @@ Lady Lew (Brooks, Jimmy)
 spd,drift out, held on
 22Jul23 8FMT4
 6
-Sausalito 100 (Cruz, Roman)
+Sausalito-100 (Cruz, Roman)
 124 L b
 6
 4
@@ -368,7 +368,7 @@ Lady Lew
 8.60
 6.20
 6
-Sausalito 100
+Sausalito-100
 7.40
 4.80
 9
@@ -407,7 +407,7 @@ Lady Lew
 1Neck
 11/2
 6
-Sausalito 100
+Sausalito-100
 4
 2Neck
 2Neck

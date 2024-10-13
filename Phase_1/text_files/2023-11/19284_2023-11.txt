@@ -2037,7 +2037,7 @@ Cm Wagon Tyme (Morales, Adrian)
 brushed, even drive
 26Oct23 2LS6
 7
-Zero to 100 (Salcedo, Mauro)
+Zero-to-100 (Salcedo, Mauro)
 124 L b
 6
 3
@@ -2164,7 +2164,7 @@ Cm Wagon Tyme
 63
 62 3/4
 7
-Zero to 100
+Zero-to-100
 3
 73
 74
@@ -3128,7 +3128,7 @@ Ruse Dynasty 123, Bay Filly, by Fdd Dynasty out of Tresor 123, by Tres Seis. Foa
 Breeder: Carolyn C Bay
 Owner: Debra M. Gotovac
 Trainer: Bolen, Bradley
-Scratched Horse(s): Flying Cowgirl 456 (Also-Eligible), Runaway Wildflower (Also-Eligible)
+Scratched Horse(s): Flying-Cowgirl-456 (Also-Eligible), Runaway Wildflower (Also-Eligible)
 Total WPS Pool: $13,018
 Pgm Horse
 Win

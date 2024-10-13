@@ -1013,7 +1013,7 @@ L bk
 broke in, bid,held 2nd
 29Apr23 8DED6
 8
-Young Blood 210 (Rodriguez, Leonardo)
+Young-Blood-210 (Rodriguez, Leonardo)
 124
 L bk
 7
@@ -1124,7 +1124,7 @@ Big Girl Five
 9.20
 5.40
 8
-Young Blood 210
+Young-Blood-210
 3.00
 Wager Type
 Winning Numbers
@@ -1177,7 +1177,7 @@ Big Girl Five
 21/2
 23/4
 8
-Young Blood 210
+Young-Blood-210
 3
 31
 33/4

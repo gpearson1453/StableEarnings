@@ -1628,7 +1628,7 @@ Im Fast N Famous (Alvarez, Arturo)
 dueled, proved best
 23Jun23 3DED6
 6
-Will 3 (Cabrera, Rolando)
+Will-3 (Cabrera, Rolando)
 124 L b
 5
 1
@@ -1724,7 +1724,7 @@ Breeder: Jerry L Deville Jr
 Owner: Christian McGee
 Trainer: Soileau, Darrel
 Claiming Prices:
-7 - Im Fast N Famous: $10,000; 6 - Will 3: $10,000; 9 - Rough Majestic: $10,000; 4 - Corona Power Jam: $10,000; 1 -
+7 - Im Fast N Famous: $10,000; 6 - Will-3: $10,000; 9 - Rough Majestic: $10,000; 4 - Corona Power Jam: $10,000; 1 -
 Ms Deluxe: $10,000; 2 - A Few Bux More: $10,000; 8 - Mill Creek Angel: $10,000; 5 - Iputdatonacrackadude: $10,000;
 Scratched Horse(s): Majestic Molly (Stewards), Mp Prize Piloto (Stewards)
 Total WPS Pool: $24,636
@@ -1738,7 +1738,7 @@ Im Fast N Famous
 3.00
 2.20
 6
-Will 3
+Will-3
 3.20
 2.40
 9
@@ -1803,7 +1803,7 @@ Im Fast N Famous
 1Head
 1Head
 6
-Will 3
+Will-3
 1
 1Head
 2Head

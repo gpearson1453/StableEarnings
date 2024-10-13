@@ -725,7 +725,7 @@ L bf
 lost path early
 ---
 2
-Sting 123 (Cruz, Roman)
+Sting-123 (Cruz, Roman)
 124
 L b
 2
@@ -832,7 +832,7 @@ Eagle One
 52 3/4
 54 3/4
 2
-Sting 123
+Sting-123
 7
 62 3/4
 65 1/4

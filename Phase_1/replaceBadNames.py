@@ -48,11 +48,11 @@ target_string = 'old_string'  # Replace with the string you want to replace
 replacement_string = 'new_string'  # Replace with the replacement string
 
 #this should contain tuples
-both_names = [('(FR)1', '(FR) 1'), ('(FR)2', '(FR) 2'), ('(FR)3', '(FR) 3'), ('(FR)4', '(FR) 4'), ('(FR)5', '(FR) 5'),
-                ('(FR)6', '(FR) 6'), ('(FR)7', '(FR) 7'), ('(FR)8', '(FR) 8'), ('(FR)9', '(FR) 9'), ('(FR)10', '(FR) 10')]
+both_names = [('Connorsdashingmemory1', 'Connorsdashingmemory 1'), ('Connorsdashingmemory2', 'Connorsdashingmemory 2'), ('Connorsdashingmemory3', 'Connorsdashingmemory 3'), ('Connorsdashingmemory4', 'Connorsdashingmemory 4'), ('Connorsdashingmemory5', 'Connorsdashingmemory 5'),
+                ('Connorsdashingmemory6', 'Connorsdashingmemory 6'), ('Connorsdashingmemory7', 'Connorsdashingmemory 7'), ('Connorsdashingmemory8', 'Connorsdashingmemory 8'), ('Connorsdashingmemory9', 'Connorsdashingmemory 9'), ('Connorsdashingmemory10', 'Connorsdashingmemory 10')]
 
 #this should not contain tuples
-names = ['Nicos Clave 7']
+names = ['Will 3']
 
 # Run all names in names list, only use if just replacing spaces with hyphens
 with ThreadPoolExecutor() as executor:

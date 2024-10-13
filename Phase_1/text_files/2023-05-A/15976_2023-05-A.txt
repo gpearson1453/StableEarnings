@@ -1241,7 +1241,7 @@ L bfk
 no match top pair
 11Mar23 12RP1
 7
-Sausalito 100 (Escobedo, Edwin)
+Sausalito-100 (Escobedo, Edwin)
 124
 L b
 6
@@ -1343,7 +1343,7 @@ Socially Fun
 31
 31 1/2
 7
-Sausalito 100
+Sausalito-100
 3
 42
 42

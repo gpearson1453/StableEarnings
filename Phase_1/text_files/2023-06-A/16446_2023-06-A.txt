@@ -2287,7 +2287,7 @@ L b
 bid, outkicked
 19May23 12RP7
 4
-Sting 123 (Cruz, Roman)
+Sting-123 (Cruz, Roman)
 124
 L b
 4
@@ -2419,7 +2419,7 @@ Oceans 13
 51/2
 51
 4
-Sting 123
+Sting-123
 4
 71/2
 61 1/4

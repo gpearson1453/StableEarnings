@@ -1307,7 +1307,7 @@ Sword Marys (Sanchez, Eddie)
 bore out late
 29Apr23 2HOU2
 6
-Flying Cowgirl 456 (Herbert, Jose)
+Flying-Cowgirl-456 (Herbert, Jose)
 124 bk
 6
 7
@@ -1428,7 +1428,7 @@ Sword Marys
 41 1/2
 52 1/4
 6
-Flying Cowgirl 456
+Flying-Cowgirl-456
 7
 61
 61 3/4

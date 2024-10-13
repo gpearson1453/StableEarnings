@@ -838,7 +838,7 @@ L bfk
 jostled bit early
 1Sep23 1DED1
 2
-Will 3 (Gutierrez, Arnulfo)
+Will-3 (Gutierrez, Arnulfo)
 124
 L b
 2
@@ -968,7 +968,7 @@ Rl Tarzano
 81 1/2
 62 1/2
 2
-Will 3
+Will-3
 5
 61 1/4
 72 3/4

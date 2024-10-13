@@ -840,7 +840,7 @@ Revvs Cowboy (Ramirez, Jr., Francisco)
 hooked toughie
 16Jun23 5FMT6
 2
-Sausalito 100 (Raudales, Rolando)
+Sausalito-100 (Raudales, Rolando)
 125 L b
 2
 4
@@ -911,7 +911,7 @@ Revvs Cowboy
 3.40
 2.80
 2
-Sausalito 100
+Sausalito-100
 5.40
 Wager Type
 Winning Numbers
@@ -964,7 +964,7 @@ Revvs Cowboy
 22
 21 1/2
 2
-Sausalito 100
+Sausalito-100
 4
 31 1/2
 32

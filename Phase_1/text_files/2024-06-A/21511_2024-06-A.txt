@@ -1486,7 +1486,7 @@ Odds Ind. Time
 Sp. In. Comments
 5May24 8RP9
 1
-Sausalito 100 (Raudales, Rolando)
+Sausalito-100 (Raudales, Rolando)
 124
 L b
 1
@@ -1590,7 +1590,7 @@ L bf
 stumbled break
 Run-Up: 0 feet
 Winner:
-Sausalito 100, Sorrel Gelding, by Apollitical Spirit out of Sheachewchew, by Royal Blue Chew Chew. Foaled Mar 12, 2021 in Oklahoma.
+Sausalito-100, Sorrel Gelding, by Apollitical Spirit out of Sheachewchew, by Royal Blue Chew Chew. Foaled Mar 12, 2021 in Oklahoma.
 Breeder: Joselito Smith
 Owner: Francisco Lopez
 Trainer: Villafranco, Jose
@@ -1601,7 +1601,7 @@ Win
 Place
 Show
 1
-Sausalito 100
+Sausalito-100
 11.20
 5.40
 3.20
@@ -1642,7 +1642,7 @@ Start
 Str
 Fin
 1
-Sausalito 100
+Sausalito-100
 1
 11
 1Neck

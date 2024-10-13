@@ -1061,7 +1061,7 @@ Cc Patriot (Candanosa, Bryan)
 sandwiched at start
 23Apr23 8RP7
 2
-Tres Seis 727 (Calderon, Francisco)
+Tres-Seis-727 (Calderon, Francisco)
 124 L bfk
 2
 7
@@ -1105,7 +1105,7 @@ Breeder: Jeffrey Allen Tyer
 Owner: Jeffrey A. Tyer
 Trainer: Tyer, Jeffrey
 Dead Heats:
-8th place - # 2 Tres Seis 727
+8th place - # 2 Tres-Seis-727
 8th place - # 9 Jc Wild Queen
 Total WPS Pool: $22,646
 Pgm Horse
@@ -1201,7 +1201,7 @@ Cc Patriot
 81 3/4
 73 1/4
 2
-Tres Seis 727
+Tres-Seis-727
 7
 71
 71 3/4

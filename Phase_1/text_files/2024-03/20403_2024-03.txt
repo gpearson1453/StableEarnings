@@ -2057,7 +2057,7 @@ L bf
 part of lrg foto fin
 13Nov23 7WRD4
 1
-Sausalito 100 (Escobedo, Edwin)
+Sausalito-100 (Escobedo, Edwin)
 124
 L b
 1
@@ -2181,7 +2181,7 @@ Cold as You
 1Nose
 61/2
 1
-Sausalito 100
+Sausalito-100
 3
 2Nose
 71

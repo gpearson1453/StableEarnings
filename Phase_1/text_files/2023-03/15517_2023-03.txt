@@ -1768,7 +1768,7 @@ L bk
 no trbl, no match
 9Mar23 4RP6
 3
-Sting 123 (Cruz, Roman)
+Sting-123 (Cruz, Roman)
 124
 L b
 3
@@ -1893,7 +1893,7 @@ Pevs Hello Darlin
 51 1/4
 51 3/4
 3
-Sting 123
+Sting-123
 7
 62 3/4
 63 1/4

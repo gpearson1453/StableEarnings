@@ -2298,7 +2298,7 @@ Queen Records (Calderon, Francisco)
 led, drew clear
 10Aug23 2DED5
 6
-Flying Cowgirl 456 (Urieta, Jr., Victor)
+Flying-Cowgirl-456 (Urieta, Jr., Victor)
 124 bk
 5
 5
@@ -2405,7 +2405,7 @@ Queen Records
 2.60
 2.20
 6
-Flying Cowgirl 456
+Flying-Cowgirl-456
 3.00
 2.60
 10
@@ -2484,7 +2484,7 @@ Queen Records
 11/2
 11 1/2
 6
-Flying Cowgirl 456
+Flying-Cowgirl-456
 5
 31/2
 21/2

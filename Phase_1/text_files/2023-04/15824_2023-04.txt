@@ -1912,7 +1912,7 @@ L bf
 escaped congestion
 30Mar23 7RP4
 8
-Tres Seis 727 (Valenzuela, Raul)
+Tres-Seis-727 (Valenzuela, Raul)
 126
 L bfk
 8
@@ -2041,7 +2041,7 @@ Wm Rushmore
 62 1/4
 62 1/4
 8
-Tres Seis 727
+Tres-Seis-727
 7
 73 1/4
 73

@@ -1812,7 +1812,7 @@ Eagle Flyn Thru Fire (Luna, Ubaldo)
 broke slow, late try
 2Mar23 1LAD1
 4
-Young Blood 210 (Herbert, Jose)
+Young-Blood-210 (Herbert, Jose)
 125 L bk
 4
 3
@@ -1940,7 +1940,7 @@ Eagle Flyn Thru Fire
 61 3/4
 52
 4
-Young Blood 210
+Young-Blood-210
 3
 41
 41 1/4

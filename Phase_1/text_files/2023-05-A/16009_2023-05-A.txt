@@ -823,7 +823,7 @@ My Rockin Jess (Escobedo, Edwin)
 couldnt keep up
 26Mar23 8RP6
 2
-Sting 123 (Cruz, Roman)
+Sting-123 (Cruz, Roman)
 124 L b
 2
 7
@@ -955,7 +955,7 @@ My Rockin Jess
 81 1/2
 62
 2
-Sting 123
+Sting-123
 7
 5Neck
 61 1/4

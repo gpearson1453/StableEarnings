@@ -47,7 +47,7 @@ Move Over (Ramirez, J.)
 duel,drift in,held 2nd
 5May23 1DED6
 7
-Will 3 (Cabrera, Rolando)
+Will-3 (Cabrera, Rolando)
 124 L b
 7
 5
@@ -156,7 +156,7 @@ Breeder: Lester Colomb Jr
 Owner: John D. Henson
 Trainer: Weeks, Kenneth
 Claiming Prices:
-5 - The Coonash Colt: $15,000; 4 - Move Over: $15,000; 7 - Will 3: $15,000; 6 - Oxymoron: $15,000; 3 - Your Beehind
+5 - The Coonash Colt: $15,000; 4 - Move Over: $15,000; 7 - Will-3: $15,000; 6 - Oxymoron: $15,000; 3 - Your Beehind
 Honey: $15,000; 8 - Jm Soleil: $15,000; 9 - Ttt Maxed Out James: $15,000; 10 - Cartel So Fast: $15,000; 2 - Msm Party
 With Moe: $15,000; 1 - Wolf Moon Perry: $15,000;
 Disqualification(s):
@@ -176,7 +176,7 @@ Move Over
 5.60
 3.40
 7
-Will 3
+Will-3
 3.00
 Wager Type
 Winning Numbers
@@ -213,7 +213,7 @@ Move Over
 1Head
 21 1/4
 7
-Will 3
+Will-3
 5
 51/2
 41 1/4

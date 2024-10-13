@@ -1289,7 +1289,7 @@ L bk
 dueled, outfinished
 13May23 6HOU6
 6
-Flying Cowgirl 456 (Herbert, Jose)
+Flying-Cowgirl-456 (Herbert, Jose)
 124
 bk
 6
@@ -1412,7 +1412,7 @@ Naughty Little Wagon
 9.60
 4.40
 6
-Flying Cowgirl 456
+Flying-Cowgirl-456
 2.40
 Wager Type
 Winning Numbers
@@ -1454,7 +1454,7 @@ Naughty Little Wagon
 1Head
 2Neck
 6
-Flying Cowgirl 456
+Flying-Cowgirl-456
 4
 41
 31

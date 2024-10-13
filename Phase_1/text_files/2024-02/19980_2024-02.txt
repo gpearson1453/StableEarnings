@@ -466,7 +466,7 @@ I C Visions (Hernandez, Rene)
 not a factor
 11Jan24 3LAD7
 8
-Coronas for 3 (Ochoa, Alejandro)
+Coronas-for-3 (Ochoa, Alejandro)
 126 L bfk
 7
 6
@@ -576,7 +576,7 @@ I C Visions
 62
 63 1/4
 8
-Coronas for 3
+Coronas-for-3
 6
 72 1/4
 73

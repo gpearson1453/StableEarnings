@@ -1084,7 +1084,7 @@ L bfk
 mid pack, no bid
 4May23 8DED7
 8
-Coronas for 3 (Lucio, Jr., Guadalupe)
+Coronas-for-3 (Lucio, Jr., Guadalupe)
 124
 L bfk
 7
@@ -1209,7 +1209,7 @@ Cartel Edge
 61/2
 62 1/4
 8
-Coronas for 3
+Coronas-for-3
 7
 71/2
 72 1/2

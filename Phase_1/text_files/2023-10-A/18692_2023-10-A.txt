@@ -1694,7 +1694,7 @@ Jt Im That Boy (Cruz, Roman)
 scooted away, best
 11Sep23 2WRD2
 4
-Sausalito 100 (Esqueda, Cristian)
+Sausalito-100 (Esqueda, Cristian)
 126 L b
 4
 2
@@ -1801,7 +1801,7 @@ Jt Im That Boy
 2.60
 2.10
 4
-Sausalito 100
+Sausalito-100
 5.20
 3.00
 10
@@ -1849,7 +1849,7 @@ Jt Im That Boy
 11/2
 13/4
 4
-Sausalito 100
+Sausalito-100
 2
 31/2
 33/4
