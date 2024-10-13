@@ -1725,7 +1725,7 @@ Tooele (Jasso, Mark)
 off slow/came out st
 22Jul23 9LA1
 5
-Flying Cowgirl 321 (Salazar, Victor)
+Flying-Cowgirl-321 (Salazar, Victor)
 126 b
 5
 6
@@ -1877,7 +1877,7 @@ Tooele
 75 1/4
 64 1/4
 5
-Flying Cowgirl 321
+Flying-Cowgirl-321
 6
 62
 64 3/4

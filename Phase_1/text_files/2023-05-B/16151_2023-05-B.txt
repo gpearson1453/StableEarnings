@@ -84,7 +84,7 @@ Made His Jack (Benn, Cordarelton)
 slow into stride
 ---
 4
-Hammerin Hank 44 (Salazar, Jesus)
+Hammerin-Hank-44 (Salazar, Jesus)
 124 L bh
 3
 6
@@ -198,7 +198,7 @@ Made His Jack
 51 1/4
 52
 4
-Hammerin Hank 44
+Hammerin-Hank-44
 6
 6Neck
 61 1/2

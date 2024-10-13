@@ -31,7 +31,7 @@ BL bf
 flew from inside
 23Jul23 4WYO3
 4
-Cash 23 (Virgen, Jesus)
+Cash-23 (Virgen, Jesus)
 131
 BL bf
 3
@@ -109,7 +109,7 @@ BL
 lugged in start
 Run-Up: 0 feet
 Winner:
-Cash 23, Sorrel Gelding, by Hez Fast as Cash out of Ac Favorite Moves, by Favorite Cartel. Foaled Apr 06, 2021 in Utah.
+Cash-23, Sorrel Gelding, by Hez Fast as Cash out of Ac Favorite Moves, by Favorite Cartel. Foaled Apr 06, 2021 in Utah.
 Breeder: Leeanne F Christensen
 Owner: Leeanne A. Christensen
 Trainer: Christensen, Ryan
@@ -127,7 +127,7 @@ Moonshine Diva
 2.10
 2.10
 4
-Cash 23
+Cash-23
 2.10
 2.10
 8
@@ -164,7 +164,7 @@ Moonshine Diva
 11/2
 11/2
 4
-Cash 23
+Cash-23
 5
 21/2
 21/2

@@ -293,7 +293,7 @@ L bf
 broke in start
 20Oct23 10LS8
 5
-Karens Triple 2 (Espinosa, Pedro)
+Karens-Triple-2 (Espinosa, Pedro)
 128
 L bk
 4
@@ -354,7 +354,7 @@ New Trainer: Zackary Stinebaugh
 New Owner: Ramon Trejo
 Claiming Prices:
 6 - Secret Shaker: $10,000; 3 - Separatist Corona: $10,000; 10 - Rum Chata B: $10,000; 7 - Flaming Cartel Roses:
-$10,000; 2 - Memes Eye Opener Yg: $10,000; 5 - Karens Triple 2: $10,000; 1 - King Vodka: $10,000; 8 - Heart Rush
+$10,000; 2 - Memes Eye Opener Yg: $10,000; 5 - Karens-Triple-2: $10,000; 1 - King Vodka: $10,000; 8 - Heart Rush
 Wicked: $10,000; 9 - Jlc Sticks N Stones: $10,000;
 Scratched Horse(s): Tusk (Stewards)
 Total WPS Pool: $20,913
@@ -429,7 +429,7 @@ Memes Eye Opener Yg 2
 41 1/4
 52 1/4
 5
-Karens Triple 2
+Karens-Triple-2
 4
 61 1/2
 62 1/2

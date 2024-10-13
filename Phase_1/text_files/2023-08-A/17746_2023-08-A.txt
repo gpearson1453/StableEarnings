@@ -1570,7 +1570,7 @@ Relief Factor (Tapia, Emilio)
 clean trip, steady bid
 16Jul23 11RUI4
 5
-Wired 440 (Becerra, Jr., Sergio)
+Wired-440 (Becerra, Jr., Sergio)
 124 L bf
 5
 10
@@ -1723,7 +1723,7 @@ Relief Factor
 41 1/2
 32 1/4
 5
-Wired 440
+Wired-440
 10
 93
 63

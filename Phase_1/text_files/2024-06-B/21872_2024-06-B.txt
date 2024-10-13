@@ -1453,7 +1453,7 @@ Fleet Queen (Aguilar, Jacobo)
 stumbled start
 14Jun24 4HOU10
 4
-Rhondah R3 (Herbert, Jose)
+Rhondah-R3 (Herbert, Jose)
 130 L k
 4
 6
@@ -1500,7 +1500,7 @@ Trainer: Cordova, Jackie
 New Trainer: Roberto G. Madrigal
 New Owner: Sergio Jimenez
 Claiming Prices:
-1 - A S Cartel Kat: $5,000; 2 - Saidi: $5,000; 8 - Six Cherry Cocktails: $5,000; 7 - Fleet Queen: $5,000; 4 - Rhondah R3:
+1 - A S Cartel Kat: $5,000; 2 - Saidi: $5,000; 8 - Six Cherry Cocktails: $5,000; 7 - Fleet Queen: $5,000; 4 - Rhondah-R3:
 $5,000; 6 - First Carty: $5,000; 3 - Talk to My Lips: $5,000;
 Scratched Horse(s): Bv Baby I Lied (Veterinarian)
 Total WPS Pool: $25,490
@@ -1580,7 +1580,7 @@ Fleet Queen
 42 1/4
 42 1/2
 4
-Rhondah R3
+Rhondah-R3
 6
 41 1/2
 52 1/4

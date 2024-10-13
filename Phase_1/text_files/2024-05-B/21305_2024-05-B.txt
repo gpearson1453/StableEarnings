@@ -1626,7 +1626,7 @@ The Marksman V (Calderon, Francisco)
 veered in, up late
 10Feb24 7SUN8
 3
-Wired 440 (Becerra, Jr., Sergio)
+Wired-440 (Becerra, Jr., Sergio)
 126 L bf
 3
 5
@@ -1732,7 +1732,7 @@ The Marksman V
 6.20
 3.20
 3
-Wired 440
+Wired-440
 3.40
 2.20
 1
@@ -1767,7 +1767,7 @@ The Marksman V
 3Head
 11/2
 3
-Wired 440
+Wired-440
 5
 41 1/2
 2Head

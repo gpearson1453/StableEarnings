@@ -1354,7 +1354,7 @@ L bk
 vied, missed
 4Oct23 5EVD9
 9
-Freighttrain 1351 (Luna, Ubaldo)
+Freighttrain-1351 (Luna, Ubaldo)
 124
 L bfk
 9
@@ -1450,7 +1450,7 @@ Breeder: Rickey Thompson
 Owner: Ismael Ramirez
 Trainer: Carrizales, Jose
 Claiming Prices:
-1 - Ttt La Rolex: $5,000; 7 - Traviezo Train: $5,000; 9 - Freighttrain 1351: $5,000; 6 - Rm Im That Game: $5,000; 2 -
+1 - Ttt La Rolex: $5,000; 7 - Traviezo Train: $5,000; 9 - Freighttrain-1351: $5,000; 6 - Rm Im That Game: $5,000; 2 -
 Memphis Badboy: $5,000; 4 - Air Cav Piloto: $5,000; 5 - Ferrari Lights: $5,000; 3 - Beauty Your Tac: $5,000; 8 -
 Secretloveluget: $5,000;
 Scratched Horse(s): Pf Charlie Brown (Veterinarian)
@@ -1469,7 +1469,7 @@ Traviezo Train
 4.20
 2.60
 9
-Freighttrain 1351
+Freighttrain-1351
 2.80
 Wager Type
 Winning Numbers
@@ -1519,7 +1519,7 @@ Traviezo Train
 2Head
 2Head
 9
-Freighttrain 1351
+Freighttrain-1351
 3
 3Head
 3Neck

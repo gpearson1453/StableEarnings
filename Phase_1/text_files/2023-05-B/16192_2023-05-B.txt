@@ -101,7 +101,7 @@ L bk
 broke slow, no threat
 ---
 9
-Ttt 123 (Edison, Randy)
+Ttt-123 (Edison, Randy)
 126
 f
 7
@@ -136,7 +136,7 @@ New Trainer: Miguel Pizana
 New Owner: Emmanuel Villarreal
 Claiming Prices:
 1 - Shakin Piloto: $7,500; 6 - One Eye Corona: $7,500; 2 - Jj Coronas Forever: $7,500; 10 - Above the Fire: $7,500; 4 -
-Rrregulator: $7,500; 3 - Bc Mary Jeaux Jet: $7,500; 9 - Ttt 123: $7,500; 8 - Jess Tiz an Ocean: $7,500;
+Rrregulator: $7,500; 3 - Bc Mary Jeaux Jet: $7,500; 9 - Ttt-123: $7,500; 8 - Jess Tiz an Ocean: $7,500;
 Disqualification(s):
 # 2 Jj Coronas Forever from 3 to 5
 Scratched Horse(s): Diamonds Fire (Veterinarian), Nexgen (Veterinarian)
@@ -209,7 +209,7 @@ Bc Mary Jeaux Jet
 53
 62
 9
-Ttt 123
+Ttt-123
 5
 63 1/2
 72 1/4

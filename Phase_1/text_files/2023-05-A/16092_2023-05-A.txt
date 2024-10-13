@@ -1054,7 +1054,7 @@ Wine Queen (Ruiz, Jose)
 broke out, lite bump
 ---
 4
-Nino 2020 (Sigala, Alfredo)
+Nino-2020 (Sigala, Alfredo)
 126 L b
 4
 7
@@ -1074,7 +1074,7 @@ Trainer: Garcia Reza, Jesus
 Claiming Prices:
 10 - Return to Fire: $15,000; 9 - Kbar Talk About Run: $15,000; 7 - Capshaw Heze: $15,000; 3 - Pevs Runnin Bear:
 $15,000; 1 - Moonin the Angels: $15,000; 2 - Wild Corona Cartel: $15,000; 5 - Dash Master Hero: $15,000; 8 - Jess
-Worthi: $15,000; 6 - Wine Queen: $15,000; 4 - Nino 2020: $15,000;
+Worthi: $15,000; 6 - Wine Queen: $15,000; 4 - Nino-2020: $15,000;
 Total WPS Pool: $3,702
 Pgm Horse
 Win
@@ -1173,7 +1173,7 @@ Wine Queen
 95 1/2
 94 1/4
 4
-Nino 2020
+Nino-2020
 7
 104
 105 3/4

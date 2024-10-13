@@ -2216,7 +2216,7 @@ Lota Cat (Martinez, L.)
 steady drive, hung
 22Jul23 12IND3
 8
-Hh Express 19 (Quintero, Francisco)
+Hh-Express-19 (Quintero, Francisco)
 129 b
 8
 2
@@ -2339,7 +2339,7 @@ Lota Cat
 24.20
 6.80
 8
-Hh Express 19
+Hh-Express-19
 2.40
 Wager Type
 Winning Numbers
@@ -2392,7 +2392,7 @@ Lota Cat
 3Head
 2Nose
 8
-Hh Express 19
+Hh-Express-19
 2
 1Head
 1Head

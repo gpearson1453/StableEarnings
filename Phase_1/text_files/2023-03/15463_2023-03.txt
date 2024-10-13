@@ -1440,7 +1440,7 @@ Streakin Fast Blood, Bay Filly, by Apollitical Blood out of Southern La Jolla, b
 Breeder: Maria Guadalupe Araiza
 Owner: Maria Guadalupe Araiza
 Trainer: Simien, Jr., Willie
-Scratched Horse(s): Marie Laveaux 747 (Gate)
+Scratched Horse(s): Marie-Laveaux-747 (Gate)
 Total WPS Pool: $26,489
 Pgm Horse
 Win

@@ -566,7 +566,7 @@ BL b
 gate to wire
 ---
 7
-Cash 23 (Virgen, Jesus)
+Cash-23 (Virgen, Jesus)
 122
 BL bf
 7
@@ -661,7 +661,7 @@ Dr B
 1Head
 1Neck
 7
-Cash 23
+Cash-23
 5
 51/2
 2Head

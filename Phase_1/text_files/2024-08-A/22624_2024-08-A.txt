@@ -2331,7 +2331,7 @@ Devastating (Vallejo, Rodrigo)
 no mishap
 27Jul24 11ALB7
 8
-Johnny Ringo 123 (Ramos, Christian)
+Johnny-Ringo-123 (Ramos, Christian)
 126 L bf
 7
 3
@@ -2438,7 +2438,7 @@ Devastating
 62 1/4
 62
 8
-Johnny Ringo 123
+Johnny-Ringo-123
 3
 31
 72 3/4

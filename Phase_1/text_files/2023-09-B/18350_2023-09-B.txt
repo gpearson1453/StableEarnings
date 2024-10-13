@@ -1280,7 +1280,7 @@ Odds Ind. Time
 Sp. In. Comments
 11Aug23 1RUI4
 5
-Johnny Ringo 123 (Ramos, Christian)
+Johnny-Ringo-123 (Ramos, Christian)
 124 L bfk
 5
 3
@@ -1319,7 +1319,7 @@ Rayenare (Ramirez, Esgar)
 evenly, held 3rd
 9Jul23 9RUI2
 7
-Ruse Dynasty 123 (Luna, Ubaldo)
+Ruse-Dynasty-123 (Luna, Ubaldo)
 126 L b
 7
 4
@@ -1397,7 +1397,7 @@ Ace Hygh (Brooks, Jimmy)
 lacked rally
 Run-Up: 0 feet
 Winner:
-Johnny Ringo 123, Sorrel Gelding, by Flying Cowboy 123 out of Essencia, by Jesse James Jr. Foaled Mar 02, 2021 in Texas.
+Johnny-Ringo-123, Sorrel Gelding, by Flying Cowboy 123 out of Essencia, by Jesse James Jr. Foaled Mar 02, 2021 in Texas.
 Breeder: Marc & Michelle & Cole Jungers
 Owner: Jungers, Marc E., Jungers, Michelle, Pitcock, Bob, Pitcock, Sharalyn and Bay, Carolyn C.
 Trainer: Jungers, Marc
@@ -1407,7 +1407,7 @@ Win
 Place
 Show
 5
-Johnny Ringo 123
+Johnny-Ringo-123
 30.00
 7.00
 3.80
@@ -1449,7 +1449,7 @@ Str 1
 Str
 Fin
 5
-Johnny Ringo 123
+Johnny-Ringo-123
 3
 1Head
 11/2
@@ -1467,7 +1467,7 @@ Rayenare
 31 1/4
 31 1/2
 7
-Ruse Dynasty 123
+Ruse-Dynasty-123
 4
 52 1/4
 43 3/4
@@ -2086,7 +2086,7 @@ Dashin Lewee (Esqueda, Erik)
 bmp,led1/16,outfnshd
 16Aug23 8RET3
 8
-Ez Money 123 (Urieta, Jr., Victor)
+Ez-Money-123 (Urieta, Jr., Victor)
 124 L b
 8
 6
@@ -2196,7 +2196,7 @@ Dashin Lewee
 3.00
 2.40
 8
-Ez Money 123
+Ez-Money-123
 5.20
 Wager Type
 Winning Numbers
@@ -2245,7 +2245,7 @@ Dashin Lewee
 11/2
 21/2
 8
-Ez Money 123
+Ez-Money-123
 6
 51 3/4
 51 3/4

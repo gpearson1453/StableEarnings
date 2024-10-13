@@ -2129,7 +2129,7 @@ Lets Leave (Becerra, Jr., Sergio)
 all out
 27May23 5RUI1
 4
-Wired 440 (Ramirez, Esgar)
+Wired-440 (Ramirez, Esgar)
 124 L b
 4
 4
@@ -2260,7 +2260,7 @@ Lets Leave
 3.40
 2.60
 4
-Wired 440
+Wired-440
 7.20
 5.80
 3
@@ -2295,7 +2295,7 @@ Lets Leave
 1Head
 1Nose
 4
-Wired 440
+Wired-440
 4
 2Head
 2Head

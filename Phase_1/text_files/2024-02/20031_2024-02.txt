@@ -988,7 +988,7 @@ b
 all out
 11Nov23 8EVD3
 2
-Freighttrain 1351 (Gutierrez, Arnulfo)
+Freighttrain-1351 (Gutierrez, Arnulfo)
 126
 L bfk
 2
@@ -1110,7 +1110,7 @@ Breeder: Bernard Goutierrez
 Owner: Guadalupe Vasquez
 Trainer: Lopez, Jorge
 Claiming Prices:
-4 - Ebbie Renee: $12,500; 2 - Freighttrain 1351: $12,500; 1 - Move Over: $12,500; 5 - Streakin Lady Train: $12,500; 10
+4 - Ebbie Renee: $12,500; 2 - Freighttrain-1351: $12,500; 1 - Move Over: $12,500; 5 - Streakin Lady Train: $12,500; 10
 - Ar Lethal Eagle: $12,500; 8 - Mp Splashing Pilot: $12,500; 9 - Im That Perry: $12,500; 3 - Tdz First Prize Dash:
 $12,500; 7 - Sheza Train Baby: $12,500; 6 - Jj Forever Louisiana: $12,500;
 Total WPS Pool: $10,624
@@ -1124,7 +1124,7 @@ Ebbie Renee
 6.00
 3.60
 2
-Freighttrain 1351
+Freighttrain-1351
 8.20
 5.00
 1
@@ -1165,7 +1165,7 @@ Ebbie Renee
 1Head
 1Neck
 2
-Freighttrain 1351
+Freighttrain-1351
 2
 2Head
 2Neck

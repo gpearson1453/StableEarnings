@@ -33,7 +33,7 @@ b
 speed, just held on
 6Jul23 3DED5
 5
-Freighttrain 1351 (Luna, Ubaldo)
+Freighttrain-1351 (Luna, Ubaldo)
 124
 L bk
 4
@@ -131,11 +131,11 @@ Trainer: Rhodes, Dustin
 2 Claimed Horse(s): Fast Bar B
 New Trainer: Dennis Turner
 New Owner: Christoffer Beckrich
-Freighttrain 1351
+Freighttrain-1351
 New Trainer: Willie J. Simien, Jr.
 New Owner: Redwood QH Racing LLC
 Claiming Prices:
-2 - Brooklynns Runaway: $5,000; 5 - Freighttrain 1351: $5,000; 8 - Sweet Miss B: $5,000; 6 - Ttt La Rolex: $5,000; 4 -
+2 - Brooklynns Runaway: $5,000; 5 - Freighttrain-1351: $5,000; 8 - Sweet Miss B: $5,000; 6 - Ttt La Rolex: $5,000; 4 -
 Fast Bar B: $5,000; 10 - Jj Nanas Leejess: $5,000; 1 - Mr E Vision: $5,000; 7 - Beauty Your Tac: $5,000;
 Scratched Horse(s): Mg Miss Piloto (Veterinarian), Wanted Cartel (Stewards)
 Total WPS Pool: $8,193
@@ -149,7 +149,7 @@ Brooklynns Runaway
 6.60
 3.20
 5
-Freighttrain 1351
+Freighttrain-1351
 3.60
 3.00
 8
@@ -182,7 +182,7 @@ Brooklynns Runaway
 11/2
 1Head
 5
-Freighttrain 1351
+Freighttrain-1351
 3
 21/2
 2Head
@@ -467,7 +467,7 @@ L bfk
 duel,drift out, best
 1Jul23 3DED6
 8
-Ttt 123 (Luna, Ubaldo)
+Ttt-123 (Luna, Ubaldo)
 126
 fk
 5
@@ -545,12 +545,12 @@ L bk
 hop,bump,pinch back
 Run-Up: 0 feet
 Winner:
-Ttt 123, Sorrel Filly, by Ivan James out of Ttt Kellys La Jolla, by Second Down Kelly. Foaled Apr 20, 2020 in Louisiana.
+Ttt-123, Sorrel Filly, by Ivan James out of Ttt Kellys La Jolla, by Second Down Kelly. Foaled Apr 20, 2020 in Louisiana.
 Breeder: Rickey Thompson
 Owner: Massey, Chalmus and Barrett, Joshua G.
 Trainer: Martinez, Guillermo
 Claiming Prices:
-3 - Miss Leaving You: $7,500; 8 - Ttt 123: $7,500; 2 - Tailor Cartel: $7,500; 10 - Toastin Champagne: $7,500; 9 - Gias
+3 - Miss Leaving You: $7,500; 8 - Ttt-123: $7,500; 2 - Tailor Cartel: $7,500; 10 - Toastin Champagne: $7,500; 9 - Gias
 Mooin Eagle: $7,500; 6 - Mj Dashing Eagle: $7,500; 4 - Streakin Highball: $7,500;
 Disqualification(s):
 # 3 Miss Leaving You from 1 to 7
@@ -561,7 +561,7 @@ Win
 Place
 Show
 8
-Ttt 123
+Ttt-123
 63.00
 14.20
 9.20
@@ -615,7 +615,7 @@ Miss Leaving You
 11/2
 13/4
 8
-Ttt 123
+Ttt-123
 3
 31
 23/4

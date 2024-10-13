@@ -1630,7 +1630,7 @@ BL bfk
 lost irons out of gate
 14May23 6WBR2
 6
-Cash 23 (Virgen, Jesus)
+Cash-23 (Virgen, Jesus)
 122
 BL bf
 5
@@ -1710,7 +1710,7 @@ Checo Perez Tlc
 72 1/4
 75 1/4
 6
-Cash 23
+Cash-23
 9
 81
 82 3/4

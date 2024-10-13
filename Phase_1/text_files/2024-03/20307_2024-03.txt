@@ -2346,7 +2346,7 @@ Paint This Rose (Klaiber, Justine)
 in tandem, denied
 25Sep23 1PRM3
 2
-Champ 40 (Delgado, Mario)
+Champ-40 (Delgado, Mario)
 124 L b
 2
 2
@@ -2469,7 +2469,7 @@ Paint This Rose
 4.20
 2.80
 2
-Champ 40
+Champ-40
 4.00
 Wager Type
 Winning Numbers
@@ -2518,7 +2518,7 @@ Paint This Rose
 2Nose
 2Neck
 2
-Champ 40
+Champ-40
 2
 2Nose
 3Head

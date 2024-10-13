@@ -2627,7 +2627,7 @@ Eyesa Freighttrain B (Rodriguez, Everardo)
 led 1/8,out finished
 16Sep23 6LS1
 5
-Johnny Ringo 123 (Ramos, Christian)
+Johnny-Ringo-123 (Ramos, Christian)
 124 L bfk
 5
 2
@@ -2679,7 +2679,7 @@ Fraudster (Martinez, Luis)
 squeezed
 16Sep23 6LS4
 7
-Ruse Dynasty 123 (Luna, Ubaldo)
+Ruse-Dynasty-123 (Luna, Ubaldo)
 126 L b
 7
 7
@@ -2781,7 +2781,7 @@ Eyesa Freighttrain B
 1Head
 43/4
 5
-Johnny Ringo 123
+Johnny-Ringo-123
 2
 31/2
 51 1/4
@@ -2805,7 +2805,7 @@ Fraudster
 94 3/4
 82 1/2
 7
-Ruse Dynasty 123
+Ruse-Dynasty-123
 7
 72 3/4
 84 1/4

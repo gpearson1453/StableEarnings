@@ -807,7 +807,7 @@ Fiftytoaststoscamper (Journet, Jarred)
 took early lead
 27Jul24 3WYO7
 4
-Cash 23 (Virgen, Jesus)
+Cash-23 (Virgen, Jesus)
 130 BL bf
 4
 3
@@ -939,7 +939,7 @@ Fiftytoaststoscamper
 4.80
 3.00
 4
-Cash 23
+Cash-23
 9.60
 3.60
 10
@@ -978,7 +978,7 @@ Fiftytoaststoscamper
 1Neck
 13/4
 4
-Cash 23
+Cash-23
 3
 2Nose
 2Neck

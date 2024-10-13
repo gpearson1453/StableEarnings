@@ -1663,7 +1663,7 @@ Flyn Electric Cowboy, Sorrel Gelding, by Flying Cowboy 123 out of Corona Carmeli
 Breeder: Paragon Farms Llc
 Owner: Josefina Guzman
 Trainer: Keeton, Toby
-Scratched Horse(s): Ruse Dynasty 123 (Veterinarian)
+Scratched Horse(s): Ruse-Dynasty-123 (Veterinarian)
 Total WPS Pool: $17,001
 Pgm Horse
 Win
@@ -2067,7 +2067,7 @@ Dollar Bill (Herbert, Jose)
 duel ins,kck clr late
 7Oct23 11LS5
 6
-Johnny Ringo 123 (Garcia, Jr., Noe)
+Johnny-Ringo-123 (Garcia, Jr., Noe)
 124 L bfk
 6
 1
@@ -2199,7 +2199,7 @@ Dollar Bill
 2.40
 2.10
 6
-Johnny Ringo 123
+Johnny-Ringo-123
 2.60
 2.40
 7
@@ -2268,7 +2268,7 @@ Dollar Bill
 13/4
 11
 6
-Johnny Ringo 123
+Johnny-Ringo-123
 1
 1Head
 23/4

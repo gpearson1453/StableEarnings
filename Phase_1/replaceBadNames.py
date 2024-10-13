@@ -48,11 +48,11 @@ target_string = 'old_string'  # Replace with the string you want to replace
 replacement_string = 'new_string'  # Replace with the replacement string
 
 #this should contain tuples
-both_names = [('Connorsdashingmemory1', 'Connorsdashingmemory 1'), ('Connorsdashingmemory2', 'Connorsdashingmemory 2'), ('Connorsdashingmemory3', 'Connorsdashingmemory 3'), ('Connorsdashingmemory4', 'Connorsdashingmemory 4'), ('Connorsdashingmemory5', 'Connorsdashingmemory 5'),
-                ('Connorsdashingmemory6', 'Connorsdashingmemory 6'), ('Connorsdashingmemory7', 'Connorsdashingmemory 7'), ('Connorsdashingmemory8', 'Connorsdashingmemory 8'), ('Connorsdashingmemory9', 'Connorsdashingmemory 9'), ('Connorsdashingmemory10', 'Connorsdashingmemory 10')]
+both_names = [('Jc Howthewest Waswon1', 'Jc Howthewest Waswon 1'), ('Jc Howthewest Waswon2', 'Jc Howthewest Waswon 2'), ('Jc Howthewest Waswon3', 'Jc Howthewest Waswon 3'), ('Jc Howthewest Waswon4', 'Jc Howthewest Waswon 4'), ('Jc Howthewest Waswon5', 'Jc Howthewest Waswon 5'),
+                ('Jc Howthewest Waswon6', 'Jc Howthewest Waswon 6'), ('Jc Howthewest Waswon7', 'Jc Howthewest Waswon 7'), ('Jc Howthewest Waswon8', 'Jc Howthewest Waswon 8'), ('Jc Howthewest Waswon9', 'Jc Howthewest Waswon 9'), ('Jc Howthewest Waswon10', 'Jc Howthewest Waswon 10')]
 
 #this should not contain tuples
-names = ['Dynasty Cartel 727']
+names = []
 
 # Run all names in names list, only use if just replacing spaces with hyphens
 with ThreadPoolExecutor() as executor:

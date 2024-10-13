@@ -1895,7 +1895,7 @@ Concealed Karie (Vorrath, Valente)
 broke outward
 26May24 3EDR5
 5
-Cash 23 (Jimenez, David)
+Cash-23 (Jimenez, David)
 127 BL bf
 5
 7
@@ -2015,7 +2015,7 @@ Concealed Karie
 82
 72 3/4
 5
-Cash 23
+Cash-23
 7
 71 1/4
 71 3/4

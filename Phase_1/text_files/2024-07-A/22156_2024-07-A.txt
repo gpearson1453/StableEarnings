@@ -1334,7 +1334,7 @@ b
 bid, bumped late
 27Jun24 5RET5
 5
-Karens Triple 2 (Espinosa, Pedro)
+Karens-Triple-2 (Espinosa, Pedro)
 127
 L bk
 5
@@ -1432,14 +1432,14 @@ Trainer: Soto, Jr., Jesus
 3 Claimed Horse(s): Dynamite Flash
 New Trainer: Arnold Lewis
 New Owner: Parker Flannery
-Karens Triple 2
+Karens-Triple-2
 New Trainer: Ricardo Aguirre
 New Owner: Ricardo Aguirre
 King Vodka
 New Trainer: Noe R. Sanchez
 New Owner: Noe R. Sanchez
 Claiming Prices:
-6 - Mtz Chicks Valentine: $5,000; 1 - Duke of Westminster: $5,000; 3 - Popeye Runaway: $5,000; 5 - Karens Triple 2:
+6 - Mtz Chicks Valentine: $5,000; 1 - Duke of Westminster: $5,000; 3 - Popeye Runaway: $5,000; 5 - Karens-Triple-2:
 $5,000; 10 - Ttt Rare Chick: $5,000; 9 - Ms Turna: $5,000; 8 - First Nice Star: $5,000; 7 - Dynamite Flash: $5,000; 2 -
 Whata Dashing Queen: $5,000; 4 - King Vodka: $5,000;
 Total WPS Pool: $23,592
@@ -1504,7 +1504,7 @@ Popeye Runaway
 31
 31
 5
-Karens Triple 2
+Karens-Triple-2
 4
 41
 41 3/4
@@ -2505,7 +2505,7 @@ Odds Ind. Time
 Sp. In. Comments
 23May24 7RP1
 1
-Ez Money 123 (Andrade, Jr., Oscar)
+Ez-Money-123 (Andrade, Jr., Oscar)
 125 L b
 1
 5
@@ -2622,7 +2622,7 @@ Vf Mr Fine (Beverly Jr., Ron)
 shuffled back
 Run-Up: 0 feet
 Winner:
-Ez Money 123, Brown Gelding, by Flying Cowboy 123 out of Royal Regime, by Coronado Cartel. Foaled Apr 11, 2021 in Oklahoma.
+Ez-Money-123, Brown Gelding, by Flying Cowboy 123 out of Royal Regime, by Coronado Cartel. Foaled Apr 11, 2021 in Oklahoma.
 Breeder: Marty Anderson
 Owner: Marty Anderson
 Trainer: Johnson, Tammy
@@ -2632,7 +2632,7 @@ Win
 Place
 Show
 1
-Ez Money 123
+Ez-Money-123
 7.00
 4.00
 3.40
@@ -2682,7 +2682,7 @@ Str 1
 Str
 Fin
 1
-Ez Money 123
+Ez-Money-123
 5
 11/2
 11/2

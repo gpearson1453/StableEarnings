@@ -329,7 +329,7 @@ A Hot Patriot (Ramos, Christian)
 drifted, vied, game
 28Apr24 3SRP5
 5
-Ms Amazing Grace 316 (Belloc, Jr., Joseph)
+Ms-Amazing-Grace-316 (Belloc, Jr., Joseph)
 126 bk
 4
 4
@@ -399,7 +399,7 @@ Breeder: Drew Swasey
 Owner: Wendy Crusta Ramirez Ramos
 Trainer: Acosta, Jr., Carlos
 Claiming Prices:
-3 - Merlene: $15,000; 9 - Jess a Satin Moon: $15,000; 7 - A Hot Patriot: $15,000; 5 - Ms Amazing Grace 316: $15,000;
+3 - Merlene: $15,000; 9 - Jess a Satin Moon: $15,000; 7 - A Hot Patriot: $15,000; 5 - Ms-Amazing-Grace-316: $15,000;
 8 - Ga Monte Cristo: $15,000; 2 - Separtist Kicker: $15,000; 1 - Shortys Speed Wagon: $15,000; 10 - Little Patriot:
 $15,000;
 Scratched Horse(s): Eb Diego Go (Also-Eligible), Good Perrys Reason (Also-Eligible), Jamm (Veterinarian), Skoopa Kadoodle (Veterinarian)
@@ -465,7 +465,7 @@ A Hot Patriot
 3Head
 3Neck
 5
-Ms Amazing Grace 316 4
+Ms-Amazing-Grace-316 4
 41
 43/4
 41/2

@@ -651,7 +651,7 @@ Claiming Prices:
 2 - Mr Fdd Vengence: $10,000; 6 - Luna de Mi Corazon: $15,000; 9 - Jacky Chann: $10,000; 1 - La July: $15,000; 8 -
 King of Cheyenne: $15,000; 7 - Md Chiquity Boot: $15,000; 4 - Shams Finally High: $10,000; 3 - Ga Monte Cristo:
 $15,000; 5 - Damaza: $15,000; 10 - So No Quicky: $15,000;
-Scratched Horse(s): Ms Amazing Grace 316 (Also-Eligible), Tangie Boy (Also-Eligible)
+Scratched Horse(s): Ms-Amazing-Grace-316 (Also-Eligible), Tangie Boy (Also-Eligible)
 Total WPS Pool: $11,543
 Pgm Horse
 Win
@@ -1059,7 +1059,7 @@ Odds Ind. Time
 Sp. In. Comments
 10Feb24 5SUN5
 5
-Ruse Dynasty 123 (Sigala, Alfredo)
+Ruse-Dynasty-123 (Sigala, Alfredo)
 126 L b
 4
 4
@@ -1176,7 +1176,7 @@ Ima Rare Patriot (Enriquez, Jose)
 broke slowly, bumped
 Run-Up: 0 feet
 Winner:
-Ruse Dynasty 123, Bay Filly, by Fdd Dynasty out of Tresor 123, by Tres Seis. Foaled Mar 13, 2021 in Texas.
+Ruse-Dynasty-123, Bay Filly, by Fdd Dynasty out of Tresor 123, by Tres Seis. Foaled Mar 13, 2021 in Texas.
 Breeder: Carolyn C Bay
 Owner: Debra M. Gotovac
 Trainer: Bolen, Bradley
@@ -1187,7 +1187,7 @@ Win
 Place
 Show
 5
-Ruse Dynasty 123
+Ruse-Dynasty-123
 6.60
 3.80
 2.80
@@ -1231,7 +1231,7 @@ Str1
 Str
 Fin
 5
-Ruse Dynasty 123
+Ruse-Dynasty-123
 4
 11/2
 11/2

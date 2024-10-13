@@ -2376,7 +2376,7 @@ Ms Bunny Dash (Alvizo, Rene)
 brushed, uneven
 30Aug23 9RET9
 8
-Karens Triple 2 (Rodriguez, Julio)
+Karens-Triple-2 (Rodriguez, Julio)
 126 L bk
 6
 8
@@ -2520,7 +2520,7 @@ Ms Bunny Dash
 63 1/4
 75 1/4
 8
-Karens Triple 2
+Karens-Triple-2
 8
 84 1/2
 86

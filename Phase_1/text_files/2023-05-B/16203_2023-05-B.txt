@@ -2768,7 +2768,7 @@ Mandalai Bay (Torres, Jorge)
 bad step midway
 ---
 1
-Ez Money 123 (Raudales, Rolando)
+Ez-Money-123 (Raudales, Rolando)
 125 L b
 1
 8
@@ -2885,7 +2885,7 @@ Mandalai Bay
 81
 81 3/4
 1
-Ez Money 123
+Ez-Money-123
 8
 83/4
 91 1/4

@@ -220,7 +220,7 @@ BL bk
 going away
 23Jul23 1PRM2
 2
-Champ 40 (Torres, Jorge)
+Champ-40 (Torres, Jorge)
 124
 BL b
 2
@@ -290,7 +290,7 @@ Breeder: Broken Heart Ranch
 Owner: Broken Heart Ranch
 Trainer: Johnson, Robert
 Claiming Prices:
-4 - Bhr Flashing Nickers: $20,000; 2 - Champ 40: $20,000; 1 - Got Your Bac: $20,000; 6 - Redhotmama: $20,000; 3 - Tf
+4 - Bhr Flashing Nickers: $20,000; 2 - Champ-40: $20,000; 1 - Got Your Bac: $20,000; 6 - Redhotmama: $20,000; 3 - Tf
 Special Freight: $20,000; 5 - Blazin Hot Kat: $20,000;
 Total WPS Pool: $8,901
 Pgm Horse
@@ -303,7 +303,7 @@ Bhr Flashing Nickers
 2.60
 2.10
 2
-Champ 40
+Champ-40
 2.40
 2.10
 1
@@ -344,7 +344,7 @@ Bhr Flashing Nickers
 1Head
 11 1/4
 2
-Champ 40
+Champ-40
 3
 31 1/2
 21 1/4

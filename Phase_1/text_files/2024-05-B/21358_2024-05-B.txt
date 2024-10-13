@@ -571,7 +571,7 @@ Wyn Or Lews (Pulido, Juan)
 close up all the way
 4Apr24 7RP1
 6
-Champ 40 (Escobedo, Edwin)
+Champ-40 (Escobedo, Edwin)
 124 L b
 6
 1
@@ -667,7 +667,7 @@ Breeder: Tyler Graham/Namgis Qhs Llc
 Owner: Nieto, Carlos H. and Gutierrez, Mario
 Trainer: Martinez, Pedro
 Claiming Prices:
-9 - Jess Wont Miss: $30,000; 7 - Wyn Or Lews: $30,000; 6 - Champ 40: $30,000; 8 - Cc Hart: $30,000; 1 - Letz Go
+9 - Jess Wont Miss: $30,000; 7 - Wyn Or Lews: $30,000; 6 - Champ-40: $30,000; 8 - Cc Hart: $30,000; 1 - Letz Go
 Brandan: $30,000; 4 - Doc Bon Scott: $30,000; 2 - Waitin On Andrew: $30,000; 3 - Dashing Doctor Stone: $30,000; 5 -
 Angels Blood: $30,000;
 Total WPS Pool: $8,861
@@ -685,7 +685,7 @@ Wyn Or Lews
 6.40
 3.80
 6
-Champ 40
+Champ-40
 2.60
 Wager Type
 Winning Numbers
@@ -722,7 +722,7 @@ Wyn Or Lews
 1Nose
 23/4
 6
-Champ 40
+Champ-40
 1
 2Nose
 3Head

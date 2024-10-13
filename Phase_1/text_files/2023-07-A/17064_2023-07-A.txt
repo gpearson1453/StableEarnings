@@ -439,7 +439,7 @@ b
 even effort
 17Jun23 3DED3
 6
-Freighttrain 1351 (Luna, Ubaldo)
+Freighttrain-1351 (Luna, Ubaldo)
 124
 L bk
 4
@@ -487,7 +487,7 @@ New Trainer: Gerardo V. Rodriguez
 New Owner: Zach Stevenson
 Claiming Prices:
 9 - Chictwopointo: $7,500; 7 - Louisana Queen: $7,500; 4 - Jsm Fast Dash: $7,500; 8 - Brooklynns Runaway: $7,500; 6
-- Freighttrain 1351: $7,500; 5 - Ttt La Rolex: $7,500; 3 - Moonin Cara: $7,500;
+- Freighttrain-1351: $7,500; 5 - Ttt La Rolex: $7,500; 3 - Moonin Cara: $7,500;
 Scratched Horse(s): Meagan All Over (Veterinarian), Wanted Cartel (Veterinarian)
 Total WPS Pool: $9,998
 Pgm Horse
@@ -559,7 +559,7 @@ Brooklynns Runaway
 53/4
 41 1/4
 6
-Freighttrain 1351
+Freighttrain-1351
 3
 43/4
 51 1/4

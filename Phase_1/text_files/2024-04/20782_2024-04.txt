@@ -1107,7 +1107,7 @@ BL bf
 late effort
 23Sep23 1SWF1
 7
-Cash 23 (Virgen, Jesus)
+Cash-23 (Virgen, Jesus)
 124
 BL bf
 6
@@ -1194,7 +1194,7 @@ California Best Card
 61 1/2
 62 1/4
 7
-Cash 23
+Cash-23
 7
 73/4
 71 1/2

@@ -1555,7 +1555,7 @@ L bk
 no real threat
 10May24 5DED4
 6
-Freighttrain 1351 (Lucio, Jr., Guadalupe)
+Freighttrain-1351 (Lucio, Jr., Guadalupe)
 126
 L bfk
 6
@@ -1680,7 +1680,7 @@ Tf Special Freight
 73
 72 1/2
 6
-Freighttrain 1351
+Freighttrain-1351
 7
 85
 84 1/2

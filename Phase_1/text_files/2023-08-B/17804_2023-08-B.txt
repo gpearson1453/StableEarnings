@@ -687,7 +687,7 @@ Fabulous Horizon (Rivera, Ali)
 duel, out finished
 29Jun23 5RET8
 1
-Rhondah R3 (Garcia, Juan)
+Rhondah-R3 (Garcia, Juan)
 128 L
 1
 4
@@ -789,7 +789,7 @@ Moonflash Miss L
 New Trainer: Kie Mushinski
 New Owner: Taryn Marie Sheldon
 Claiming Prices:
-3 - Crtequilaontherocks: $7,500; 9 - Fabulous Horizon: $7,500; 1 - Rhondah R3: $7,500; 5 - Jmg an Unquiet Mind:
+3 - Crtequilaontherocks: $7,500; 9 - Fabulous Horizon: $7,500; 1 - Rhondah-R3: $7,500; 5 - Jmg an Unquiet Mind:
 $7,500; 7 - Superieur B: $7,500; 10 - Do Reckless Train: $7,500; 4 - Sophia Hero: $7,500; 6 - Moonflash Miss L: $7,500;
 8 - Ima Chacorta Cartel: $7,500;
 Dead Heats:
@@ -811,7 +811,7 @@ Fabulous Horizon
 3.20
 3.00
 1
-Rhondah R3
+Rhondah-R3
 4.80
 Wager Type
 Winning Numbers
@@ -856,7 +856,7 @@ Fabulous Horizon
 3Head
 2Head
 1
-Rhondah R3
+Rhondah-R3
 4
 2Head
 2Head
@@ -1716,7 +1716,7 @@ Big Jim Hatley (Contreras, Alfredo)
 angled in, bid, hung
 22Jul23 10RET1
 7
-Ez Money 123 (Vega, Jose)
+Ez-Money-123 (Vega, Jose)
 128 L b
 7
 3
@@ -1826,7 +1826,7 @@ Big Jim Hatley
 3.40
 2.80
 7
-Ez Money 123
+Ez-Money-123
 5.40
 Wager Type
 Winning Numbers
@@ -1871,7 +1871,7 @@ Big Jim Hatley
 3Head
 2Nose
 7
-Ez Money 123
+Ez-Money-123
 3
 2Head
 1Head

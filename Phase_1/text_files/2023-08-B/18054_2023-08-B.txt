@@ -1558,7 +1558,7 @@ Pyc Royal Time (Reyes, Eric)
 no rally
 4Aug23 6RET5
 4
-Hammerin Hank 44 (Rivera, Ali)
+Hammerin-Hank-44 (Rivera, Ali)
 124 L b
 4
 2
@@ -1686,7 +1686,7 @@ Pyc Royal Time
 61 1/2
 62 1/4
 4
-Hammerin Hank 44
+Hammerin-Hank-44
 2
 2Head
 71 1/2
@@ -2090,7 +2090,7 @@ Temptation Aside (Rivera, Ali)
 no factor
 11Aug23 7RET4
 2
-Karens Triple 2 (Vera, Eliazar)
+Karens-Triple-2 (Vera, Eliazar)
 124 L bk
 2
 9
@@ -2224,7 +2224,7 @@ Temptation Aside
 85 3/4
 86 1/2
 2
-Karens Triple 2
+Karens-Triple-2
 9
 62
 96 1/4

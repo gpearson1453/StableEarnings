@@ -19,7 +19,7 @@ Odds Ind. Time
 Sp. In. Comments
 9Jun24 9EDR8
 3
-Cash 23 (Virgen, Jesus)
+Cash-23 (Virgen, Jesus)
 132 BL bf
 3
 2
@@ -149,7 +149,7 @@ Miller Lane (Saenz, Joe)
 away very slow
 Run-Up: 0 feet
 Winner:
-Cash 23, Sorrel Gelding, by Hez Fast as Cash out of Ac Favorite Moves, by Favorite Cartel. Foaled Apr 06, 2021 in Utah.
+Cash-23, Sorrel Gelding, by Hez Fast as Cash out of Ac Favorite Moves, by Favorite Cartel. Foaled Apr 06, 2021 in Utah.
 Breeder: Leeanne F Christensen
 Owner: Leeanne A. Christensen
 Trainer: Christensen, Ryan
@@ -159,7 +159,7 @@ Win
 Place
 Show
 3
-Cash 23
+Cash-23
 9.20
 13.00
 9
@@ -187,7 +187,7 @@ Str 1
 Str
 Fin
 3
-Cash 23
+Cash-23
 2
 1Head
 1Neck

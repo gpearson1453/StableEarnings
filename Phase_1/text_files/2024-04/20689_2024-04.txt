@@ -2370,7 +2370,7 @@ Love the Echo V (Brooks, Jimmy)
 mild menace
 15Mar24 9RP6
 6
-Ez Money 123 (Benn, Cordarelton)
+Ez-Money-123 (Benn, Cordarelton)
 127 L b
 6
 3
@@ -2493,7 +2493,7 @@ Love the Echo V
 61 1/2
 63 1/2
 6
-Ez Money 123
+Ez-Money-123
 3
 3Head
 51 1/4

@@ -937,7 +937,7 @@ L bfk
 bumped, forced in
 18May24 3HOU9
 2
-Rhondah R3 (Herbert, Jose)
+Rhondah-R3 (Herbert, Jose)
 130
 L
 2
@@ -957,7 +957,7 @@ Trainer: Constancio, Jr., Oscar
 Claiming Prices:
 5 - Apollitical Arrival: $10,000; 6 - La Catrina Mary: $10,000; 10 - Kw Tenfour: $10,000; 7 - Moonin the Ace: $10,000; 4 -
 Jess Moonin: $10,000; 9 - A Kool Style: $10,000; 8 - Ib Gone Rogue: $10,000; 1 - Shooter Zoom: $10,000; 3 - Cartel
-Deal: $10,000; 2 - Rhondah R3: $10,000;
+Deal: $10,000; 2 - Rhondah-R3: $10,000;
 Dead Heats:
 5th place - # 4 Jess Moonin
 5th place - # 9 A Kool Style
@@ -1053,7 +1053,7 @@ Cartel Deal
 92 1/2
 93
 2
-Rhondah R3
+Rhondah-R3
 10
 108 1/2
 108 3/4

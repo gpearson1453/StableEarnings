@@ -712,7 +712,7 @@ Drive
 2Nose
 2Nose
 1
-Jc Howthewest Waswon5
+Jc Howthewest Waswon 5
 33/4
 33/4
 10
@@ -1918,7 +1918,7 @@ Pappas Missile (Moreno, Cesar)
 early speed caught
 17Jun23 5WYO4
 8
-Cash 23 (Ramos, Manuel)
+Cash-23 (Ramos, Manuel)
 131 BL bk
 5
 3
@@ -2038,7 +2038,7 @@ Pappas Missile
 3Head
 33/4
 8
-Cash 23
+Cash-23
 3
 61/2
 51 1/4

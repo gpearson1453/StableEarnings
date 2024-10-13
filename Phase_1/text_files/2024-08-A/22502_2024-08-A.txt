@@ -820,7 +820,7 @@ Trainarunnin (Vivanco, Luis)
 stumbled, bid, hung
 13Jul24 11RET1
 5
-Ez Money 123 (Andrade, Jr., Oscar)
+Ez-Money-123 (Andrade, Jr., Oscar)
 125 L b
 5
 6
@@ -917,7 +917,7 @@ Trainarunnin
 2.60
 2.20
 5
-Ez Money 123
+Ez-Money-123
 2.40
 Wager Type
 Winning Numbers
@@ -962,7 +962,7 @@ Trainarunnin
 21/2
 2Neck
 5
-Ez Money 123
+Ez-Money-123
 6
 41 1/2
 43/4

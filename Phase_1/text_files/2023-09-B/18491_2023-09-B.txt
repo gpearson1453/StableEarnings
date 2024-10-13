@@ -46,7 +46,7 @@ American Sparrow (Estrada, Giovany)
 good effort
 27Aug23 2PRM2
 5
-Champ 40 (Ramirez, Miguel)
+Champ-40 (Ramirez, Miguel)
 124 BL b
 5
 4
@@ -130,7 +130,7 @@ American Sparrow
 4.60
 4.20
 5
-Champ 40
+Champ-40
 6.40
 Wager Type
 Winning Numbers
@@ -171,7 +171,7 @@ American Sparrow
 21
 2Neck
 5
-Champ 40
+Champ-40
 4
 53
 42 1/2

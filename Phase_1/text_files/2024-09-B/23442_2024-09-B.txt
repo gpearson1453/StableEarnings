@@ -97,7 +97,7 @@ I Am a Flying Cowboy (Enriquez, Jacob)
 bumped, squeezed start
 24Aug24 6ALB6
 1
-Ms Amazing Grace 316 (Nieto-Saenz, Jorge)
+Ms-Amazing-Grace-316 (Nieto-Saenz, Jorge)
 126 bfk
 1
 5
@@ -200,7 +200,7 @@ I Am a Flying Cowboy
 62 3/4
 63 3/4
 1
-Ms Amazing Grace 316 5
+Ms-Amazing-Grace-316 5
 72 1/4
 72 3/4
 74 1/4

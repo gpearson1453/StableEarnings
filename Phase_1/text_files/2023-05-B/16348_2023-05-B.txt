@@ -1570,7 +1570,7 @@ L bk
 strong late surge
 5May23 7HOU8
 5
-Marie Laveaux 747 (Aguilar, Claudio)
+Marie-Laveaux-747 (Aguilar, Claudio)
 125
 L bfk
 4
@@ -1682,7 +1682,7 @@ Trainer: Luna, Daniel
 New Trainer: Manuel Roman
 New Owner: Alonzo Olvera Neri
 Claiming Prices:
-6 - Dispatch: $15,000; 5 - Marie Laveaux 747: $15,000; 2 - Furrbidden Love: $15,000; 10 - Flaming Cartel Roses:
+6 - Dispatch: $15,000; 5 - Marie-Laveaux-747: $15,000; 2 - Furrbidden Love: $15,000; 10 - Flaming Cartel Roses:
 $15,000; 8 - Specialflashyfortune: $15,000; 3 - Time for an Illusion: $15,000; 7 - Rm Diamond Girl: $15,000; 9 - Fire
 Power V: $15,000; 1 - Miss High Corona: $15,000;
 Scratched Horse(s): Shazooms Tres Seis (Veterinarian)
@@ -1697,7 +1697,7 @@ Dispatch
 4.40
 3.00
 5
-Marie Laveaux 747
+Marie-Laveaux-747
 12.80
 6.40
 2
@@ -1738,7 +1738,7 @@ Dispatch
 21/2
 11/2
 5
-Marie Laveaux 747
+Marie-Laveaux-747
 1
 11/2
 21/2

@@ -1080,7 +1080,7 @@ Flying Sophia (Calderon, Francisco)
 gate to wire
 29Sep23 4ALB2
 8
-Wired 440 (Becerra, Jr., Sergio)
+Wired-440 (Becerra, Jr., Sergio)
 124 L bf
 8
 7
@@ -1216,7 +1216,7 @@ Flying Sophia
 4.20
 2.60
 8
-Wired 440
+Wired-440
 4.80
 3.40
 1
@@ -1266,7 +1266,7 @@ Flying Sophia
 11/2
 11
 8
-Wired 440
+Wired-440
 7
 52
 53

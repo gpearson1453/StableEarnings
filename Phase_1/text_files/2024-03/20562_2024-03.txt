@@ -1026,7 +1026,7 @@ Required Good Reason (Nieto-Saenz, Jorge)
 contended between
 10Feb24 5SUN7
 3
-Ms Amazing Grace 316 (Tapia, Emilio)
+Ms-Amazing-Grace-316 (Tapia, Emilio)
 126 bfk
 3
 7
@@ -1097,7 +1097,7 @@ Owner: Jose Meraz
 Trainer: Meraz, Jose
 Claiming Prices:
 10 - Sarabi Stone: $25,000; 4 - Jess a Satin Moon: $25,000; 8 - Vgc Catana: $25,000; 9 - Kisss N Run: $25,000; 6 -
-Required Good Reason: $25,000; 3 - Ms Amazing Grace 316: $25,000; 7 - Good Perrys Reason: $25,000; 2 - Time for
+Required Good Reason: $25,000; 3 - Ms-Amazing-Grace-316: $25,000; 7 - Good Perrys Reason: $25,000; 2 - Time for
 a Secret: $25,000; 5 - Kings Moon Money: $25,000; 1 - Jd Jess Kiss Me More: $25,000;
 Scratched Horse(s): Bogarts Cash (Also-Eligible), Ivy Chanel (Also-Eligible)
 Total WPS Pool: $39,361
@@ -1169,7 +1169,7 @@ Required Good Reason 2
 43/4
 51 1/2
 3
-Ms Amazing Grace 316 7
+Ms-Amazing-Grace-316 7
 61 1/2
 61 3/4
 63 1/2

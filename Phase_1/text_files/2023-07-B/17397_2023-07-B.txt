@@ -32,7 +32,7 @@ Johnn T (Torres, Jorge)
 outside,kicked clear
 5May23 8RP4
 4
-Champ 40 (Dominguez, Jonathan)
+Champ-40 (Dominguez, Jonathan)
 126 BL b
 4
 2
@@ -102,7 +102,7 @@ Breeder: Renee Wilson & Clint Crawford
 Owner: Kenneth Crawford
 Trainer: Wilson, Renee
 Claiming Prices:
-6 - Johnn T: $20,000; 4 - Champ 40: $20,000; 3 - Hasta Be Ivory: $20,000; 2 - This Candy Is Grand: $20,000; 5 -
+6 - Johnn T: $20,000; 4 - Champ-40: $20,000; 3 - Hasta Be Ivory: $20,000; 2 - This Candy Is Grand: $20,000; 5 -
 Special Kool Kenny: $20,000; 1 - Miss Sugar to You: $20,000;
 Total WPS Pool: $4,010
 Pgm Horse
@@ -115,7 +115,7 @@ Johnn T
 2.20
 2.10
 4
-Champ 40
+Champ-40
 2.40
 2.10
 3
@@ -154,7 +154,7 @@ Johnn T
 2Head
 13/4
 4
-Champ 40
+Champ-40
 2
 41
 43/4

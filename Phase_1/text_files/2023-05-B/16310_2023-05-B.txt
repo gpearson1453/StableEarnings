@@ -955,7 +955,7 @@ L b
 early bid, hung
 11May23 1DED10
 9
-Freighttrain 1351 (Luna, Ubaldo)
+Freighttrain-1351 (Luna, Ubaldo)
 124
 L bk
 9
@@ -1111,7 +1111,7 @@ One Sweet Rootbeer
 21
 31 1/2
 9
-Freighttrain 1351
+Freighttrain-1351
 6
 52 1/2
 42 1/2

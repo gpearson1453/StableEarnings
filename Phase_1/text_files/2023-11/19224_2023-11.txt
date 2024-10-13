@@ -1911,7 +1911,7 @@ Military Time (Duenez, Luciano)
 bumped, no rally
 26Oct23 9LS2
 3
-Johnny Ringo 123 (Garcia, Jr., Noe)
+Johnny-Ringo-123 (Garcia, Jr., Noe)
 124 L bf
 3
 5
@@ -2031,7 +2031,7 @@ Military Time
 93
 93 3/4
 3
-Johnny Ringo 123
+Johnny-Ringo-123
 5
 102 1/2
 103 1/2

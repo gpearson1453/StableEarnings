@@ -1252,7 +1252,7 @@ b
 hit gate st,strng fnsh
 7May23 9LA4
 1
-Flying Cowgirl 321 (Salazar, Victor)
+Flying-Cowgirl-321 (Salazar, Victor)
 126
 b
 1
@@ -1346,7 +1346,7 @@ Trending Right
 10.80
 5.40
 1
-Flying Cowgirl 321
+Flying-Cowgirl-321
 13.40
 5.00
 2
@@ -1386,7 +1386,7 @@ Trending Right
 2Head
 13/4
 1
-Flying Cowgirl 321
+Flying-Cowgirl-321
 4
 3Neck
 23/4

@@ -1032,7 +1032,7 @@ L b
 broke in, drifted in
 15Mar24 4LAD3
 9
-Freighttrain 1351 (Gutierrez, Arnulfo)
+Freighttrain-1351 (Gutierrez, Arnulfo)
 126
 L bfk
 8
@@ -1102,7 +1102,7 @@ Breeder: Elroy Potts Jr
 Owner: Elroy Potts, Jr.
 Trainer: Potts, Jr., Elroy
 Claiming Prices:
-2 - Jewel First Dash: $50,000; 3 - Hard Ninety: $50,000; 8 - Kk Mr Piloto First: $50,000; 9 - Freighttrain 1351: $50,000; 5
+2 - Jewel First Dash: $50,000; 3 - Hard Ninety: $50,000; 8 - Kk Mr Piloto First: $50,000; 9 - Freighttrain-1351: $50,000; 5
 - Ttt Dashin by James: $50,000; 7 - Tf Nana Jess: $50,000; 1 - Ripnroller: $50,000; 6 - Deez All Joomy: $50,000;
 Scratched Horse(s): Lynns Piloto Love (Veterinarian)
 Total WPS Pool: $32,647
@@ -1183,7 +1183,7 @@ Kk Mr Piloto First
 31/2
 3Neck
 9
-Freighttrain 1351
+Freighttrain-1351
 6
 41 1/2
 41/2

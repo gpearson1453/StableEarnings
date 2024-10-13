@@ -1168,7 +1168,7 @@ L bk
 remained back
 28Jul23 1DED2
 2
-Freighttrain 1351 (Gutierrez, Arnulfo)
+Freighttrain-1351 (Gutierrez, Arnulfo)
 124
 L bfk
 2
@@ -1201,7 +1201,7 @@ Trainer: Keith, Dale
 Claiming Prices:
 3 - Royally Struttin: $10,000; 1 - Black Train G: $10,000; 6 - Ar Bella Corona: $10,000; 4 - Jj One Jessan: $10,000; 10 -
 Soaracrossyourmind: $10,000; 9 - Inseperable Tees: $10,000; 8 - Jazack: $10,000; 5 - Kr Eye of a Storm: $10,000; 2 -
-Freighttrain 1351: $10,000; 7 - Rm Im That Game: $10,000;
+Freighttrain-1351: $10,000; 7 - Rm Im That Game: $10,000;
 Total WPS Pool: $20,489
 Pgm Horse
 Win
@@ -1289,7 +1289,7 @@ Kr Eye of a Storm
 82 3/4
 82 1/4
 2
-Freighttrain 1351
+Freighttrain-1351
 10
 103 1/4
 92 1/2

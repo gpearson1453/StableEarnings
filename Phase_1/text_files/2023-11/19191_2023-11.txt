@@ -2109,7 +2109,7 @@ Odds Ind. Time
 Sp. In. Comments
 14Oct23 7LS3
 8
-Rhondah R3 (Rivera, Ali)
+Rhondah-R3 (Rivera, Ali)
 125
 L
 7
@@ -2239,12 +2239,12 @@ L bk
 bumped out of it
 Run-Up: 0 feet
 Winner:
-Rhondah R3, Gray Filly, by Howdoyalikemesofar out of Rossa Royiell, by Parker's Storm Cat. Foaled Apr 03, 2020 in SK.
+Rhondah-R3, Gray Filly, by Howdoyalikemesofar out of Rossa Royiell, by Parker's Storm Cat. Foaled Apr 03, 2020 in SK.
 Breeder: Rafter 3 Holdings
 Owner: Aquino, Emma and Aquino, Nicolas
 Trainer: Sanders, Heather
 Claiming Prices:
-8 - Rhondah R3: $5,000; 7 - Jmg an Unquiet Mind: $5,000; 12 - Lunachikta: $5,000; 5 - Fmaspecial Episode: $5,000; 4 -
+8 - Rhondah-R3: $5,000; 7 - Jmg an Unquiet Mind: $5,000; 12 - Lunachikta: $5,000; 5 - Fmaspecial Episode: $5,000; 4 -
 Surviving the Storm: $5,000; 1 - Zee Moonshine: $5,000; 6 - My Valiant Treasure: $5,000; 10 - Leticias Secret: $5,000;
 2 - Miss Cirujana: $5,000; 9 - A S Major Cartel: $5,000;
 Scratched Horse(s): Jewel R3 (Veterinarian), Ocean On the Way (Also-Eligible)
@@ -2254,7 +2254,7 @@ Win
 Place
 Show
 8
-Rhondah R3
+Rhondah-R3
 6.20
 3.20
 2.60
@@ -2295,7 +2295,7 @@ Start
 Str
 Fin
 8
-Rhondah R3
+Rhondah-R3
 2
 23/4
 1Nose

@@ -1025,7 +1025,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 1
-Wired 440 (Becerra, Jr., Sergio)
+Wired-440 (Becerra, Jr., Sergio)
 124 L bf
 1
 8
@@ -1142,7 +1142,7 @@ Executive Cash (Nicasio, Eduardo)
 outrun
 Run-Up: 0 feet
 Winner:
-Wired 440, Sorrel Gelding, by Tempting Dash out of Time for Jess, by Apollitical Jess. Foaled Feb 13, 2021 in Texas.
+Wired-440, Sorrel Gelding, by Tempting Dash out of Time for Jess, by Apollitical Jess. Foaled Feb 13, 2021 in Texas.
 Breeder: Paragon Farms Llc
 Owner: Alberto Villanueva, Jr.
 Trainer: Valenzuela, Eric
@@ -1152,7 +1152,7 @@ Win
 Place
 Show
 1
-Wired 440
+Wired-440
 4.40
 4.00
 2.40
@@ -1194,7 +1194,7 @@ Str 1
 Str
 Fin
 1
-Wired 440
+Wired-440
 8
 11
 11 1/2

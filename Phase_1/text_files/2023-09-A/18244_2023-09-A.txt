@@ -801,7 +801,7 @@ Impulsive Eagle (Marquez, Larry)
 drift in, outfinished
 27May23 12RP8
 5
-Ms Amazing Grace 316 (Martinez, Edgar)
+Ms-Amazing-Grace-316 (Martinez, Edgar)
 124 L bk
 5
 7
@@ -928,7 +928,7 @@ Impulsive Eagle
 53/4
 51 1/2
 5
-Ms Amazing Grace 316 7
+Ms-Amazing-Grace-316 7
 62
 63 1/4
 63 3/4

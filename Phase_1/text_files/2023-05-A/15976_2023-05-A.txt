@@ -316,7 +316,7 @@ L bk
 not enough late
 ---
 4
-Ms Amazing Grace 316 (Candanosa, Bryan)
+Ms-Amazing-Grace-316 (Candanosa, Bryan)
 126
 L b
 4
@@ -364,7 +364,7 @@ New Trainer: Juan Castro
 New Owner: Rudy T. Flores
 Claiming Prices:
 2 - I Rule the Dynasty: $20,000; 7 - Jessies Hero: $20,000; 9 - Kallimani: $20,000; 10 - Vals Passion: $20,000; 1 - Ncc
-Cherry Bottom: $20,000; 3 - Mr Tread Lightly: $20,000; 5 - Ivory Lips: $20,000; 4 - Ms Amazing Grace 316: $20,000; 6 -
+Cherry Bottom: $20,000; 3 - Mr Tread Lightly: $20,000; 5 - Ivory Lips: $20,000; 4 - Ms-Amazing-Grace-316: $20,000; 6 -
 Grand Lake Cartel: $20,000; 8 - Honeymoon Hero: $20,000;
 Dead Heats:
 2nd place - # 7 Jessies Hero
@@ -460,7 +460,7 @@ Ivory Lips
 72 1/2
 72
 4
-Ms Amazing Grace 316 9
+Ms-Amazing-Grace-316 9
 85 1/2
 85
 6
@@ -1696,7 +1696,7 @@ Acowboywalksintoabar (Pulido, Juan)
 late surge
 ---
 2
-Champ 40 (Torres, Jorge)
+Champ-40 (Torres, Jorge)
 124 L b
 2
 4
@@ -1827,7 +1827,7 @@ Acowboywalksintoabar 7
 4Neck
 33/4
 2
-Champ 40
+Champ-40
 4
 5Neck
 5Neck

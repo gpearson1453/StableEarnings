@@ -1873,7 +1873,7 @@ Mitey Relentless (Martinez, Luis)
 strong effort
 22Oct23 5ALB2
 3
-Wired 440 (Becerra, Jr., Sergio)
+Wired-440 (Becerra, Jr., Sergio)
 124 L bf
 3
 8
@@ -2027,7 +2027,7 @@ Mitey Relentless
 31/2
 31 1/4
 3
-Wired 440
+Wired-440
 8
 51 1/2
 51 1/4

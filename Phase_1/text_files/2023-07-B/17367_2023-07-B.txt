@@ -1552,7 +1552,7 @@ Odds Ind. Time
 Sp. In. Comments
 17Jun23 6LA1
 4
-Flying Cowgirl 321 (Salazar, Victor)
+Flying-Cowgirl-321 (Salazar, Victor)
 126 b
 4
 4
@@ -1643,7 +1643,7 @@ Fly Thru Arizona (Lozano, Ruben)
 hit gate,lacked rally
 Run-Up: 0 feet
 Winner:
-Flying Cowgirl 321, Chestnut Filly, by Flying Cowboy 123 out of Glimmer Mist, by First Down Dash. Foaled Mar 15, 2021 in Oregon.
+Flying-Cowgirl-321, Chestnut Filly, by Flying Cowboy 123 out of Glimmer Mist, by First Down Dash. Foaled Mar 15, 2021 in Oregon.
 Breeder: Donald C And/Or Peggy Boyle
 Owner: Boyle, Donald and Peggy
 Trainer: Jones, Paul
@@ -1653,7 +1653,7 @@ Win
 Place
 Show
 4
-Flying Cowgirl 321
+Flying-Cowgirl-321
 22.40
 10.20
 4.80
@@ -1712,7 +1712,7 @@ Str 1
 Str
 Fin
 4
-Flying Cowgirl 321
+Flying-Cowgirl-321
 4
 41
 23/4

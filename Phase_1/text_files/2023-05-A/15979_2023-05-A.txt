@@ -84,7 +84,7 @@ Dontletsweetfoolya (Cuellar, Francisco)
 brushed, lacked bid
 ---
 9
-Ruse Dynasty 123 (Garcia, Jr., Noe)
+Ruse-Dynasty-123 (Garcia, Jr., Noe)
 124 L b
 9
 4
@@ -209,7 +209,7 @@ Dontletsweetfoolya
 53
 52 1/2
 9
-Ruse Dynasty 123
+Ruse-Dynasty-123
 4
 63 3/4
 64

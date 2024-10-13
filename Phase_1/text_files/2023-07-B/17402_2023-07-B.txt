@@ -827,7 +827,7 @@ Jcic Jet Line (Zavala, Julian)
 up for 2nd
 1Jul23 9WYO4
 4
-Cash 23 (Virgen, Jesus)
+Cash-23 (Virgen, Jesus)
 131 BL bf
 4
 7
@@ -937,7 +937,7 @@ Jcic Jet Line
 23.00
 7.20
 4
-Cash 23
+Cash-23
 3.20
 Wager Type
 Winning Numbers
@@ -978,7 +978,7 @@ Jcic Jet Line
 2Head
 21
 4
-Cash 23
+Cash-23
 7
 3Neck
 3Neck

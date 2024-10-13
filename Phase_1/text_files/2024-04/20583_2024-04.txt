@@ -1590,7 +1590,7 @@ Odds Ind. Time
 Sp. In. Comments
 9Mar24 11RP3
 6
-Champ 40 (Torres, Jorge)
+Champ-40 (Torres, Jorge)
 124 L b
 6
 1
@@ -1720,12 +1720,12 @@ Fun Nfancy Dancer (Ramirez, Jr., Francisco)
 brk out, bumped
 Run-Up: 0 feet
 Winner:
-Champ 40, Sorrel Gelding, by The Marfa Lights out of Wowzer Won, by Streakin Sixes. Foaled Jan 05, 2021 in Texas.
+Champ-40, Sorrel Gelding, by The Marfa Lights out of Wowzer Won, by Streakin Sixes. Foaled Jan 05, 2021 in Texas.
 Breeder: Kathleen O Matey
 Owner: Katie Gleason-Larson
 Trainer: Crawford, Clinton
 Claiming Prices:
-6 - Champ 40: $30,000; 9 - Hitting the Ivory: $30,000; 4 - Du U Delight: $30,000; 3 - Chester Cartel: $30,000; 10 -
+6 - Champ-40: $30,000; 9 - Hitting the Ivory: $30,000; 4 - Du U Delight: $30,000; 3 - Chester Cartel: $30,000; 10 -
 Mondatta: $30,000; 5 - Relentless Dollar: $30,000; 8 - Lincolns Dynasty: $30,000; 1 - Hiclass Showstopper: $30,000; 7 -
 Fun Nfancy Dancer: $30,000;
 Total WPS Pool: $17,382
@@ -1734,7 +1734,7 @@ Win
 Place
 Show
 6
-Champ 40
+Champ-40
 4.60
 3.00
 2.40
@@ -1772,7 +1772,7 @@ Str1
 Str
 Fin
 6
-Champ 40
+Champ-40
 1
 1Nose
 1Nose

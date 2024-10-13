@@ -1353,7 +1353,7 @@ Super Phreak (Calderon, Francisco)
 dueled throughout,best
 18Nov23 8LS10
 5
-Johnny Ringo 123 (Ramos, Christian)
+Johnny-Ringo-123 (Ramos, Christian)
 126 L bf
 5
 1
@@ -1486,7 +1486,7 @@ Super Phreak
 3.00
 2.40
 5
-Johnny Ringo 123
+Johnny-Ringo-123
 3.00
 2.40
 4
@@ -1521,7 +1521,7 @@ Super Phreak
 1Head
 1Neck
 5
-Johnny Ringo 123
+Johnny-Ringo-123
 1
 1Head
 2Head

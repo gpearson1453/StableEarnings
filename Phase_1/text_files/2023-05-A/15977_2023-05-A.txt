@@ -1411,7 +1411,7 @@ Jessie Ocean Runaway (Luna, Gerardo)
 bumped start
 ---
 1
-Marie Laveaux 747 (Vega, Jose)
+Marie-Laveaux-747 (Vega, Jose)
 128
 L bfk
 1
@@ -1510,7 +1510,7 @@ Jessie Ocean Runaway 7
 82
 72 1/2
 1
-Marie Laveaux 747
+Marie-Laveaux-747
 3
 43/4
 83

@@ -1502,7 +1502,7 @@ L bfk
 bold late bid, hung2nd
 21Sep23 3LS4
 5
-Rhondah R3 (Rivera, Ali)
+Rhondah-R3 (Rivera, Ali)
 125
 L
 4
@@ -1598,7 +1598,7 @@ Breeder: Silvia Robles
 Owner: Silvia Robles
 Trainer: Morin, Abel
 Claiming Prices:
-2 - Sr Red Storm: $7,500; 10 - Jessa J James: $7,500; 5 - Rhondah R3: $7,500; 9 - Wagon Dancer: $7,500; 8 - My
+2 - Sr Red Storm: $7,500; 10 - Jessa J James: $7,500; 5 - Rhondah-R3: $7,500; 9 - Wagon Dancer: $7,500; 8 - My
 Valiant Treasure: $7,500; 7 - Fmaspecial Episode: $7,500; 4 - Magical Leah: $7,500; 3 - Marry Jane: $7,500; 6 -
 Majestic Featurebaby: $7,500;
 Scratched Horse(s): A S Major Cartel (Also-Eligible), Jtc Switching Leads (Also-Eligible), Riii de Axe (Veterinarian)
@@ -1617,7 +1617,7 @@ Jessa J James
 6.40
 4.80
 5
-Rhondah R3
+Rhondah-R3
 3.40
 Wager Type
 Winning Numbers
@@ -1667,7 +1667,7 @@ Jessa J James
 73 1/4
 2Head
 5
-Rhondah R3
+Rhondah-R3
 1
 21 1/2
 3Neck

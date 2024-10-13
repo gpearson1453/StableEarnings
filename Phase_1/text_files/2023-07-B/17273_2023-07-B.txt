@@ -2629,7 +2629,7 @@ Trane Station V (Rodriguez, Everardo)
 broke in air
 30Jun23 4RUI3
 2
-Wired 440 (Becerra, Jr., Sergio)
+Wired-440 (Becerra, Jr., Sergio)
 124 L bf
 2
 2
@@ -2786,7 +2786,7 @@ Trane Station V
 42 3/4
 23 1/2
 2
-Wired 440
+Wired-440
 2
 31 1/2
 32 1/2

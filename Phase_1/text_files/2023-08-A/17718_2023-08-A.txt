@@ -61,7 +61,7 @@ Politiko (Klaiber, Justine)
 awkward start, crowded
 30Jun23 3RUI4
 5
-Johnny Ringo 123 (Ramos, Christian)
+Johnny-Ringo-123 (Ramos, Christian)
 124 L bfk
 5
 3
@@ -214,7 +214,7 @@ Politiko
 43/4
 31 1/2
 5
-Johnny Ringo 123
+Johnny-Ringo-123
 3
 2Head
 31/2

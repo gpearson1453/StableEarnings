@@ -579,7 +579,7 @@ Her Wild Spirit (Barraza, Brian)
 bobbled start
 31Mar24 5SUN6
 6
-Ms Amazing Grace 316 (Tapia, Emilio)
+Ms-Amazing-Grace-316 (Tapia, Emilio)
 126 bk
 6
 4
@@ -649,7 +649,7 @@ Owner: Jose Meraz
 Trainer: Meraz, Juan
 Claiming Prices:
 8 - Escalator: $15,000; 5 - Hidden Interest: $15,000; 7 - Daddys Southerndream: $15,000; 3 - Her Wild Spirit: $15,000; 6
-- Ms Amazing Grace 316: $15,000; 10 - Ujs Flash: $15,000; 2 - Shams Finally High: $15,000; 1 - Eye Am Ciscos
+- Ms-Amazing-Grace-316: $15,000; 10 - Ujs Flash: $15,000; 2 - Shams Finally High: $15,000; 1 - Eye Am Ciscos
 Queen: $15,000; 4 - Blazen Daisy: $15,000;
 Scratched Horse(s): Brave Panther Dg (Stewards), Disregard My Fashion (Also-Eligible), Wr Bo Knows (Also-Eligible)
 Total WPS Pool: $5,309
@@ -719,7 +719,7 @@ Her Wild Spirit
 41
 41
 6
-Ms Amazing Grace 316 4
+Ms-Amazing-Grace-316 4
 51 1/4
 51 1/2
 51 1/4

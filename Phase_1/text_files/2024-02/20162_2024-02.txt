@@ -509,7 +509,7 @@ Ujs Flash (Martinez, Luis)
 rallied late,
 20Jan24 7SUN5
 9
-Nino 2020 (Sigala, Alfredo)
+Nino-2020 (Sigala, Alfredo)
 130 L bk
 8
 3
@@ -622,7 +622,7 @@ New Trainer: Hermenegildo G.
 Aldavaz
 New Owner: Bill McCarty
 Claiming Prices:
-11 - Scoot Over Baby: $10,000; 10 - Ujs Flash: $10,000; 9 - Nino 2020: $10,000; 5 - Perry Pinkerton: $10,000; 3 -
+11 - Scoot Over Baby: $10,000; 10 - Ujs Flash: $10,000; 9 - Nino-2020: $10,000; 5 - Perry Pinkerton: $10,000; 3 -
 Zeneto: $10,000; 6 - Grs Daddys Mamacita: $10,000; 7 - Md El Gacho: $10,000; 4 - Jet Black Mercedes: $10,000; 2 -
 Mercedes Rose Bdp: $10,000; 8 - Shotgun Sixarun: $10,000;
 Scratched Horse(s): Marmetas Dancer (Stewards), One Famous Cowboy (Also-Eligible)
@@ -641,7 +641,7 @@ Ujs Flash
 5.20
 4.40
 9
-Nino 2020
+Nino-2020
 7.40
 Wager Type
 Winning Numbers
@@ -678,7 +678,7 @@ Ujs Flash
 2Head
 2Head
 9
-Nino 2020
+Nino-2020
 3
 61 1/4
 31/2

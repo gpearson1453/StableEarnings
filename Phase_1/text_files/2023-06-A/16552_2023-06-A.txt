@@ -1053,7 +1053,7 @@ bfk
 false break, no menace
 6May23 7HOU5
 2
-Karens Triple 2 (Vera, Eliazar)
+Karens-Triple-2 (Vera, Eliazar)
 124
 bf
 2
@@ -1175,7 +1175,7 @@ The Purchase Power
 61
 72
 2
-Karens Triple 2
+Karens-Triple-2
 9
 82
 83

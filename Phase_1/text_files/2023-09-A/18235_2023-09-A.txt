@@ -1200,7 +1200,7 @@ L bfk
 best stride late
 27May23 7HOU2
 1
-Marie Laveaux 747 (Aguilar, Claudio)
+Marie-Laveaux-747 (Aguilar, Claudio)
 126
 L bfk
 1
@@ -1296,7 +1296,7 @@ Breeder: Gentry Farms
 Owner: Passamentt, Peter and Passamentt, Nallely
 Trainer: Rodriguez, Martin
 Claiming Prices:
-9 - Easy One: $15,000; 1 - Marie Laveaux 747: $15,000; 10 - Goodtimecountrychick: $15,000; 7 - R K Slater: $15,000; 6
+9 - Easy One: $15,000; 1 - Marie-Laveaux-747: $15,000; 10 - Goodtimecountrychick: $15,000; 7 - R K Slater: $15,000; 6
 - Good Friday Patrona: $15,000; 3 - Titos Neon Lights: $15,000; 5 - Secret Shaker: $15,000; 8 - Straitshooterhotshot:
 $15,000;
 Scratched Horse(s): Hez a Famous Eagle (Veterinarian), Kiss of Bliss (Also-Eligible), Miss Candy Dash (Also-Eligible), Shes Team Wild
@@ -1312,7 +1312,7 @@ Easy One
 3.00
 2.40
 1
-Marie Laveaux 747
+Marie-Laveaux-747
 4.40
 3.60
 10
@@ -1358,7 +1358,7 @@ Easy One
 23/4
 11
 1
-Marie Laveaux 747
+Marie-Laveaux-747
 2
 13/4
 21

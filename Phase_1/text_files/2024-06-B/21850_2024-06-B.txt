@@ -1031,7 +1031,7 @@ L bk
 stumbled start
 30May24 2HOU6
 5
-Karens Triple 2 (Espinosa, Pedro)
+Karens-Triple-2 (Espinosa, Pedro)
 128
 L bk
 5
@@ -1170,7 +1170,7 @@ Fyp Wagon
 42
 42 1/4
 5
-Karens Triple 2
+Karens-Triple-2
 3
 53
 53 1/2

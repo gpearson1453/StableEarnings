@@ -2309,7 +2309,7 @@ Moonflash Miss L (Fuentes, Sergio)
 no menace
 18May23 1HOU3
 7
-Rhondah R3 (Aquino, Vidal)
+Rhondah-R3 (Aquino, Vidal)
 130 L
 6
 7
@@ -2453,7 +2453,7 @@ Moonflash Miss L
 75 3/4
 75 1/4
 7
-Rhondah R3
+Rhondah-R3
 7
 84 3/4
 86 3/4

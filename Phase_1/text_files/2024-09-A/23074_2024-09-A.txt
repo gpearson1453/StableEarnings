@@ -1364,7 +1364,7 @@ bk
 best of others
 1Aug24 6RET8
 5
-Rhondah R3 (Rivera, Ali)
+Rhondah-R3 (Rivera, Ali)
 128
 L bk
 5
@@ -1436,7 +1436,7 @@ Trainer: Hernandez, Manuel
 3 Claimed Horse(s): Jess High Lbh
 New Trainer: Melis Benavides
 New Owner: Melis Benavides
-Rhondah R3
+Rhondah-R3
 New Trainer: Ricardo Aguirre
 New Owner: Parker Flannery
 Sweet Marys
@@ -1513,7 +1513,7 @@ Real Bad Catty
 43/4
 41 1/4
 5
-Rhondah R3
+Rhondah-R3
 2
 51 3/4
 52 1/4

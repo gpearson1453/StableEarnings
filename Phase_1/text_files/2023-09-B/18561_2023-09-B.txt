@@ -839,7 +839,7 @@ L bf
 rallied, shift out lte
 9Sep23 6LS2
 8
-Marie Laveaux 747 (Aguilar, Claudio)
+Marie-Laveaux-747 (Aguilar, Claudio)
 125
 L bfk
 8
@@ -862,7 +862,7 @@ New Owner: John Louis Chamberlain
 Claiming Prices:
 6 - Politicallie: $15,000; 4 - La Pascualita: $15,000; 7 - Yiayia: $15,000; 9 - Mightys Eagle: $15,000; 1 - This Chics a
 Zoomer: $15,000; 2 - Susies Wagon: $15,000; 5 - Wave Goodbye Jess: $15,000; 3 - Zoomin Mountain: $15,000; 8 -
-Marie Laveaux 747: $15,000;
+Marie-Laveaux-747: $15,000;
 Total WPS Pool: $16,377
 Pgm Horse
 Win
@@ -950,7 +950,7 @@ Zoomin Mountain
 81 1/2
 82 1/2
 8
-Marie Laveaux 747
+Marie-Laveaux-747
 9
 91 1/2
 92 3/4

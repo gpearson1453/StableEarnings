@@ -650,7 +650,7 @@ Marfason (Moreno, Cesar)
 lost pathway
 28Jun24 1EDR1
 3
-Cash 23 (Virgen, Jesus)
+Cash-23 (Virgen, Jesus)
 131 BL bf
 3
 2
@@ -773,7 +773,7 @@ Marfason
 71 1/2
 62
 3
-Cash 23
+Cash-23
 2
 71
 61

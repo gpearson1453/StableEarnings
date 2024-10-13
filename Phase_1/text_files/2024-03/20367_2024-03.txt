@@ -723,7 +723,7 @@ L
 dueled, lost nod
 13Feb24 6LAD2
 8
-Freighttrain 1351 (Gutierrez, Arnulfo)
+Freighttrain-1351 (Gutierrez, Arnulfo)
 126
 L bfk
 7
@@ -806,7 +806,7 @@ Breeder: Joe Davis
 Owner: Debbie Grimes
 Trainer: Meche, Robi
 Claiming Prices:
-4 - Mighty Eagle: $12,500; 3 - Jj One Jessan: $12,500; 8 - Freighttrain 1351: $12,500; 9 - Mp Splashing Pilot: $12,500;
+4 - Mighty Eagle: $12,500; 3 - Jj One Jessan: $12,500; 8 - Freighttrain-1351: $12,500; 9 - Mp Splashing Pilot: $12,500;
 2 - Sheza Patriot Cartel: $12,500; 7 - Game Little Wagon: $12,500; 1 - Heza Fast Tac: $12,500; 5 - Spycraft: $12,500;
 Scratched Horse(s): Mr E Vision (Veterinarian)
 Total WPS Pool: $7,374
@@ -824,7 +824,7 @@ Jj One Jessan
 7.00
 4.00
 8
-Freighttrain 1351
+Freighttrain-1351
 2.80
 Wager Type
 Winning Numbers
@@ -869,7 +869,7 @@ Jj One Jessan
 2Nose
 2Head
 8
-Freighttrain 1351
+Freighttrain-1351
 6
 61
 33/4

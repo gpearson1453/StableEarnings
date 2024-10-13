@@ -1165,7 +1165,7 @@ Cowgirl Reigns (Beverly Jr., Ron)
 off slow, no threat
 30Aug23 7RET7
 6
-Hammerin Hank 44 (Martinez, Oliver)
+Hammerin-Hank-44 (Martinez, Oliver)
 124 L b
 6
 8
@@ -1190,7 +1190,7 @@ New Owner: Joe Chapa
 Claiming Prices:
 2 - Thisvalentinesfamous: $7,500; 3 - Jtc Twice Moonbar: $7,500; 10 - Lota Teresa: $7,500; 8 - Dashin for Angel:
 $7,500; 4 - Robo Four Hundred: $7,500; 7 - Florentine Dash: $7,500; 5 - Thrill and Fury: $7,500; 1 - Fabulous June Bug:
-$7,500; 9 - Cowgirl Reigns: $7,500; 6 - Hammerin Hank 44: $7,500;
+$7,500; 9 - Cowgirl Reigns: $7,500; 6 - Hammerin-Hank-44: $7,500;
 Scratched Horse(s): Fast Bar B (Also-Eligible), Kit Kash Jones (Also-Eligible)
 Total WPS Pool: $12,712
 Pgm Horse
@@ -1299,7 +1299,7 @@ Cowgirl Reigns
 98 3/4
 98 3/4
 6
-Hammerin Hank 44
+Hammerin-Hank-44
 8
 ---
 ---

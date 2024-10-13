@@ -3184,7 +3184,7 @@ Politiko (Klaiber, Justine)
 bumped,vied,outclosed
 15Jun24 6RUI2
 9
-Johnny Ringo 123 (Ramos, Christian)
+Johnny-Ringo-123 (Ramos, Christian)
 126 L bf
 8
 1
@@ -3282,7 +3282,7 @@ Politiko
 4.00
 3.00
 9
-Johnny Ringo 123
+Johnny-Ringo-123
 2.60
 Wager Type
 Winning Numbers
@@ -3327,7 +3327,7 @@ Politiko
 31
 21 1/4
 9
-Johnny Ringo 123
+Johnny-Ringo-123
 1
 1Head
 21/2

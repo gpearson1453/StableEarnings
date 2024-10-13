@@ -1277,7 +1277,7 @@ Cartel Deal (Urieta, Jr., Victor)
 no menace
 28Jun24 7RET5
 2
-Rhondah R3 (Rivera, Ali)
+Rhondah-R3 (Rivera, Ali)
 128 L bk
 2
 10
@@ -1325,7 +1325,7 @@ New Trainer: Fernando Chavez
 New Owner: Grabiel Chavez
 Claiming Prices:
 7 - Tinys Ivan Jewel: $7,500; 6 - Sombra Dynasty: $7,500; 3 - Zoom Bucky Bang: $7,500; 1 - Vp Double Down Dash:
-$7,500; 10 - Zabina: $7,500; 8 - Bv Baby I Lied: $7,500; 5 - Cartel Deal: $7,500; 2 - Rhondah R3: $7,500; 4 - Rl Train for
+$7,500; 10 - Zabina: $7,500; 8 - Bv Baby I Lied: $7,500; 5 - Cartel Deal: $7,500; 2 - Rhondah-R3: $7,500; 4 - Rl Train for
 Blue: $7,500; 9 - Missy Mtz Piloto: $7,500;
 Total WPS Pool: $13,067
 Pgm Horse
@@ -1417,7 +1417,7 @@ Cartel Deal
 72
 72 1/2
 2
-Rhondah R3
+Rhondah-R3
 10
 81
 82

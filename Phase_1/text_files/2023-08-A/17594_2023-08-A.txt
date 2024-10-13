@@ -1359,7 +1359,7 @@ Ec Temp Gl (Luna, Gerardo)
 bid, faltered
 22Jul23 1RET8
 4
-Hammerin Hank 44 (Giles, Francisco)
+Hammerin-Hank-44 (Giles, Francisco)
 124 L b
 4
 8
@@ -1508,7 +1508,7 @@ Ec Temp Gl
 51 1/4
 52 1/4
 4
-Hammerin Hank 44
+Hammerin-Hank-44
 8
 71 1/2
 62 1/4

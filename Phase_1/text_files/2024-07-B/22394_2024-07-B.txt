@@ -87,7 +87,7 @@ Apoliticalgirl (Garcia, Jr., Noe)
 broke slow, no rally
 19May24 2SRP4
 3
-Ms Amazing Grace 316 (Belloc, Jr., Joseph)
+Ms-Amazing-Grace-316 (Belloc, Jr., Joseph)
 126 bfk
 3
 7
@@ -145,7 +145,7 @@ Owner: Bob McClure
 Trainer: Danley, Fred
 Claiming Prices:
 10 - Holland Flash: $15,000; 5 - Tren Maya: $10,000; 1 - Jess Illegal: $15,000; 8 - Mr Jess Janway: $15,000; 7 -
-Apoliticalgirl: $10,000; 3 - Ms Amazing Grace 316: $10,000; 2 - Md El Gacho: $15,000; 6 - Brookstone Girlie: $10,000; 9
+Apoliticalgirl: $10,000; 3 - Ms-Amazing-Grace-316: $10,000; 2 - Md El Gacho: $15,000; 6 - Brookstone Girlie: $10,000; 9
 - Shotgun Sixarun: $15,000;
 Disqualification(s):
 # 5 Tren Maya from 2 to 7
@@ -220,7 +220,7 @@ Apoliticalgirl
 52 1/2
 53
 3
-Ms Amazing Grace 316 7
+Ms-Amazing-Grace-316 7
 83 3/4
 63 1/2
 64 1/2

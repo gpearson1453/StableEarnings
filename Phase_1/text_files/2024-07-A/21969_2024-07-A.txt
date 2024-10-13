@@ -61,7 +61,7 @@ L b
 solid try
 1Jun24 7DED8
 3
-Freighttrain 1351 (Gutierrez, Arnulfo)
+Freighttrain-1351 (Gutierrez, Arnulfo)
 126
 L bfk
 3
@@ -117,7 +117,7 @@ Breeder: Laura & Dan Erickson
 Owner: Jorge A. Silva
 Trainer: Clark, Alex
 Claiming Prices:
-2 - Shaylenne: $15,000; 7 - Le Train: $15,000; 4 - Backstreet Charmer: $15,000; 3 - Freighttrain 1351: $15,000; 6 - Mp
+2 - Shaylenne: $15,000; 7 - Le Train: $15,000; 4 - Backstreet Charmer: $15,000; 3 - Freighttrain-1351: $15,000; 6 - Mp
 Easy: $15,000; 1 - Apolitical Panda: $15,000; 5 - Dlj Thrill Me Eagle: $15,000;
 Total WPS Pool: $19,047
 Pgm Horse
@@ -173,7 +173,7 @@ Backstreet Charmer
 31
 33/4
 3
-Freighttrain 1351
+Freighttrain-1351
 2
 21
 43/4

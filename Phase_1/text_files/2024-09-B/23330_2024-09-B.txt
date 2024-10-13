@@ -1075,7 +1075,7 @@ Rj Having Fun (Pulido, Juan)
 drftd in,vied,caught
 11Aug24 10ALB7
 4
-Johnny Ringo 123 (Ramos, Christian)
+Johnny-Ringo-123 (Ramos, Christian)
 125 L bf
 4
 6
@@ -1222,7 +1222,7 @@ Rj Having Fun
 42
 41 1/4
 4
-Johnny Ringo 123
+Johnny-Ringo-123
 6
 3Head
 31/2
@@ -2144,7 +2144,7 @@ Cuz (Villatoro, Noe)
 vied btwn,flattend out
 4Jul24 5RUI1
 4
-Ruse Dynasty 123 (Giles, Francisco)
+Ruse-Dynasty-123 (Giles, Francisco)
 125 L b
 4
 3
@@ -2291,7 +2291,7 @@ Cuz
 52 3/4
 52 1/2
 4
-Ruse Dynasty 123
+Ruse-Dynasty-123
 3
 43/4
 32

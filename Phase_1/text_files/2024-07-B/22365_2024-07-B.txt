@@ -2350,7 +2350,7 @@ Politiko (Brooks, Jimmy)
 vied early, empty late
 6Jul24 14RUI3
 8
-Johnny Ringo 123 (Ramos, Christian)
+Johnny-Ringo-123 (Ramos, Christian)
 126 L bf
 8
 1
@@ -2482,7 +2482,7 @@ Politiko
 71 1/2
 62
 8
-Johnny Ringo 123
+Johnny-Ringo-123
 1
 4Neck
 51 1/4

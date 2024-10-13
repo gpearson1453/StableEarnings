@@ -2872,7 +2872,7 @@ L
 faded fast
 5May23 2RP8
 9
-Ms Amazing Grace 316 (Pulido, Juan)
+Ms-Amazing-Grace-316 (Pulido, Juan)
 124
 L bk
 7
@@ -2891,7 +2891,7 @@ Owner: Ricardo Saldivar Parga
 Trainer: Meche, Robi
 Claiming Prices:
 3 - Eagle One: $20,000; 1 - Jr Cash Blue: $20,000; 8 - Lew Lew Lemon: $20,000; 4 - Kallimani: $20,000; 5 - Lady
-Apollitical: $20,000; 10 - Dominyun Reins: $20,000; 2 - Dona Perfumes: $20,000; 9 - Ms Amazing Grace 316: $20,000;
+Apollitical: $20,000; 10 - Dominyun Reins: $20,000; 2 - Dona Perfumes: $20,000; 9 - Ms-Amazing-Grace-316: $20,000;
 Scratched Horse(s): A Special Pilot (Gate) (Earned $90.00), Capsure the Magic (Veterinarian)
 Total WPS Pool: $32,566
 Pgm Horse
@@ -2983,7 +2983,7 @@ Dona Perfumes
 62 1/4
 73
 9
-Ms Amazing Grace 316 8
+Ms-Amazing-Grace-316 8
 82 3/4
 84
 Trainers: 3 - Meche, Robi; 1 - Velasquez, Cosme; 8 - Alexander, L.; 4 - Keener, Dee; 5 - Villafranco, Jose; 10 - Stein, Tyler; 2 - Hernandez, Salimm; 9 -

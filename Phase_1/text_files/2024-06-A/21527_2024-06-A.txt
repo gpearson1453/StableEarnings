@@ -2036,7 +2036,7 @@ Dashing Tres (Candanosa, Bryan)
 clean trip
 26May24 8RUI2
 8
-Wired 440 (Enriquez, Jose)
+Wired-440 (Enriquez, Jose)
 126 L bf
 7
 3
@@ -2177,7 +2177,7 @@ Dashing Tres
 31 1/2
 32
 8
-Wired 440
+Wired-440
 3
 42
 42 1/2

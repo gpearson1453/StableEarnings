@@ -1532,7 +1532,7 @@ Mp Just Rip It (Garza-Cruz, Ricardo)
 no menace
 ---
 8
-Karens Triple 2 (Rodriguez, Julio)
+Karens-Triple-2 (Rodriguez, Julio)
 126 b
 7
 8
@@ -1679,7 +1679,7 @@ Mp Just Rip It
 21
 42
 8
-Karens Triple 2
+Karens-Triple-2
 8
 81
 63

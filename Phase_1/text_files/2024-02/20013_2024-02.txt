@@ -1099,7 +1099,7 @@ Especially Relentles (Garcia, Jr., Noe)
 best of others,
 24Nov23 12LS1
 6
-Ruse Dynasty 123 (Marquez, Joesan)
+Ruse-Dynasty-123 (Marquez, Joesan)
 128 L bf
 6
 8
@@ -1125,7 +1125,7 @@ Eh Super Bowl Kid (Flores, James)
 no final kick,
 10Sep23 4ALB6
 9
-Ms Amazing Grace 316 (Sigala, Alfredo)
+Ms-Amazing-Grace-316 (Sigala, Alfredo)
 129 L bfk
 9
 7
@@ -1232,7 +1232,7 @@ Especially Relentles
 41 3/4
 42 1/4
 6
-Ruse Dynasty 123
+Ruse-Dynasty-123
 8
 53/4
 52 1/4
@@ -1244,7 +1244,7 @@ Eh Super Bowl Kid
 62 3/4
 63 1/2
 9
-Ms Amazing Grace 316 7
+Ms-Amazing-Grace-316 7
 71 1/2
 73 3/4
 74 1/2
@@ -1543,7 +1543,7 @@ Odds Ind. Time
 Sp. In. Comments
 17Dec23 8ZIA4
 4
-DQ-Wired 440 (Becerra, Jr., Sergio)
+DQ-Wired-440 (Becerra, Jr., Sergio)
 128 L bfk
 3
 7
@@ -1652,7 +1652,7 @@ Breeder: Jill Giles
 Owner: Jill B. Giles
 Trainer: Giles, Wesley
 Disqualification(s):
-# 4 Wired 440 from 1 to 8
+# 4 Wired-440 from 1 to 8
 Scratched Horse(s): Cowboy Coach (Gate)
 Total WPS Pool: $21,171
 Pgm Horse
@@ -1694,7 +1694,7 @@ Str 1
 Str
 Fin
 4
-Wired 440
+Wired-440
 7
 61 1/4
 1Head

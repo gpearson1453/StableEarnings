@@ -326,7 +326,7 @@ Three Separate Sixes (Gutierrez, Gonzalo)
 hopped start
 17Aug24 11RET3
 2
-Ez Money 123 (Andrade, Jr., Oscar)
+Ez-Money-123 (Andrade, Jr., Oscar)
 124 L b
 2
 8
@@ -429,7 +429,7 @@ Three Separate Sixes
 72
 74
 2
-Ez Money 123
+Ez-Money-123
 8
 82 3/4
 83 1/2

@@ -702,7 +702,7 @@ Tempting Barbie (Ramirez, Esgar)
 outside drive
 12Aug23 7RUI4
 2
-Wired 440 (Becerra, Jr., Sergio)
+Wired-440 (Becerra, Jr., Sergio)
 124 L bf
 2
 1
@@ -808,7 +808,7 @@ Tempting Barbie
 3.00
 2.10
 2
-Wired 440
+Wired-440
 2.80
 2.10
 3
@@ -843,7 +843,7 @@ Tempting Barbie
 31
 11/2
 2
-Wired 440
+Wired-440
 1
 11/2
 11/2

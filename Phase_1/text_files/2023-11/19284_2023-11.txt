@@ -2994,7 +2994,7 @@ Odds Ind. Time
 Sp. In. Comments
 7Oct23 11LS9
 5
-Ruse Dynasty 123 (Marquez, Joesan)
+Ruse-Dynasty-123 (Marquez, Joesan)
 124 L bf
 5
 1
@@ -3124,7 +3124,7 @@ Perry K Pax (Hernandez, Alan)
 lacked late rally
 Run-Up: 0 feet
 Winner:
-Ruse Dynasty 123, Bay Filly, by Fdd Dynasty out of Tresor 123, by Tres Seis. Foaled Mar 13, 2021 in Texas.
+Ruse-Dynasty-123, Bay Filly, by Fdd Dynasty out of Tresor 123, by Tres Seis. Foaled Mar 13, 2021 in Texas.
 Breeder: Carolyn C Bay
 Owner: Debra M. Gotovac
 Trainer: Bolen, Bradley
@@ -3135,7 +3135,7 @@ Win
 Place
 Show
 5
-Ruse Dynasty 123
+Ruse-Dynasty-123
 3.60
 2.80
 2.40
@@ -3208,7 +3208,7 @@ Str 1
 Str
 Fin
 5
-Ruse Dynasty 123
+Ruse-Dynasty-123
 1
 13/4
 13/4

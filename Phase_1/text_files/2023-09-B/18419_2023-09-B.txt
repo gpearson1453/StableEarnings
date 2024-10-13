@@ -443,7 +443,7 @@ L bf
 vied,game3rd
 16Aug23 4RET3
 3
-Rhondah R3 (Garcia, Juan)
+Rhondah-R3 (Garcia, Juan)
 127
 L
 3
@@ -503,7 +503,7 @@ Trainer: Webster, Shawna
 New Trainer: Zachary Quezada
 New Owner: Janet Martinez
 Claiming Prices:
-1 - Takemetothecandyshop: $7,500; 6 - Santa Juana Girl: $7,500; 5 - Wagon Dancer: $7,500; 3 - Rhondah R3: $7,500;
+1 - Takemetothecandyshop: $7,500; 6 - Santa Juana Girl: $7,500; 5 - Wagon Dancer: $7,500; 3 - Rhondah-R3: $7,500;
 4 - Jmg an Unquiet Mind: $7,500; 7 - My Valiant Treasure: $7,500; 2 - Jessa J James: $7,500;
 Scratched Horse(s): A S Major Cartel (Veterinarian)
 Total WPS Pool: $4,723
@@ -567,7 +567,7 @@ Wagon Dancer
 3Head
 3Head
 3
-Rhondah R3
+Rhondah-R3
 1
 4Neck
 43/4

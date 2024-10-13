@@ -113,7 +113,7 @@ L b
 bumped, no late kcik
 19May23 1DED7
 3
-Ttt 123 (Constantin, Lucas)
+Ttt-123 (Constantin, Lucas)
 126
 - -
 3
@@ -132,7 +132,7 @@ Owner: Ismael Ramirez
 Trainer: Carrizales, Jose
 Claiming Prices:
 6 - Separatist Class: $5,000; 4 - Princess Piloto: $5,000; 5 - Heza Down King Ac: $5,000; 8 - One Eye Corona: $5,000;
-7 - I Got Firery: $5,000; 2 - Featured Man: $5,000; 1 - Awesom Blacey: $5,000; 3 - Ttt 123: $5,000;
+7 - I Got Firery: $5,000; 2 - Featured Man: $5,000; 1 - Awesom Blacey: $5,000; 3 - Ttt-123: $5,000;
 Total WPS Pool: $13,798
 Pgm Horse
 Win
@@ -207,7 +207,7 @@ Awesom Blacey
 62 1/4
 73 3/4
 3
-Ttt 123
+Ttt-123
 5
 83
 84

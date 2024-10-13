@@ -138,7 +138,7 @@ bf
 dull effort
 ---
 7
-Freighttrain 1351 (Blake, Donell)
+Freighttrain-1351 (Blake, Donell)
 124
 L bk
 7
@@ -157,7 +157,7 @@ Trainer: Simien, Jr., Willie
 Claiming Prices:
 2 - Special Corona Guy: $15,000; 5 - Ajs Whiskey Bent: $15,000; 9 - Tf Mr Painted Perry: $15,000; 3 - Kill in His
 Dreams: $15,000; 10 - Chloe Rose: $15,000; 4 - Batty Boy: $15,000; 6 - Jj Nanas Leejess: $15,000; 8 - Rf Fear the
-Eagle: $15,000; 1 - Corona Comment: $15,000; 7 - Freighttrain 1351: $15,000;
+Eagle: $15,000; 1 - Corona Comment: $15,000; 7 - Freighttrain-1351: $15,000;
 Total WPS Pool: $15,654
 Pgm Horse
 Win
@@ -242,7 +242,7 @@ Corona Comment
 93
 94 1/2
 7
-Freighttrain 1351
+Freighttrain-1351
 10
 ---
 ---

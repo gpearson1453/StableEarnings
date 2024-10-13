@@ -389,7 +389,7 @@ Fast Dashin Spitfire (Gutierrez, Arnulfo)
 late rush, up for 2nd
 26May23 5DED4
 3
-Freighttrain 1351 (Luna, Ubaldo)
+Freighttrain-1351 (Luna, Ubaldo)
 124 L bk
 2
 3
@@ -459,7 +459,7 @@ Breeder: Leigh Perry
 Owner: Jose Ortiz
 Trainer: Ortiz, Olegario
 Claiming Prices:
-6 - Gigi de Carmen: $7,500; 8 - Fast Dashin Spitfire: $7,500; 3 - Freighttrain 1351: $7,500; 4 - Brooklynns Runaway:
+6 - Gigi de Carmen: $7,500; 8 - Fast Dashin Spitfire: $7,500; 3 - Freighttrain-1351: $7,500; 4 - Brooklynns Runaway:
 $7,500; 1 - Batty Boy: $7,500; 5 - Im On First Man: $7,500; 7 - Ttt James Walker: $7,500;
 Scratched Horse(s): Air Cav Piloto (Gate), Mp Splashing Pilot (Stewards)
 Total WPS Pool: $15,935
@@ -477,7 +477,7 @@ Fast Dashin Spitfire
 8.20
 4.20
 3
-Freighttrain 1351
+Freighttrain-1351
 2.40
 Wager Type
 Winning Numbers
@@ -536,7 +536,7 @@ Fast Dashin Spitfire
 51/2
 21/2
 3
-Freighttrain 1351
+Freighttrain-1351
 3
 21/2
 2Head

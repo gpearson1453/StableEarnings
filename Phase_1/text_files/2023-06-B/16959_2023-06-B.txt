@@ -585,7 +585,7 @@ Cowboy Coach (Garcia, Jr., Noe)
 broke in
 26May23 2RUI8
 9
-Johnny Ringo 123 (Ramos, Christian)
+Johnny-Ringo-123 (Ramos, Christian)
 124 L bfk
 9
 1
@@ -738,7 +738,7 @@ Cowboy Coach
 43/4
 31/2
 9
-Johnny Ringo 123
+Johnny-Ringo-123
 1
 31/2
 31/2
@@ -841,7 +841,7 @@ Scream Machine (Ramirez, Ricky)
 no match for winner
 11Jun23 9RUI2
 5
-Wired 440 (Becerra, Jr., Sergio)
+Wired-440 (Becerra, Jr., Sergio)
 124 L bf
 5
 3
@@ -964,7 +964,7 @@ Scream Machine
 7.00
 2.80
 5
-Wired 440
+Wired-440
 2.10
 Wager Type
 Winning Numbers
@@ -1001,7 +1001,7 @@ Scream Machine
 22
 23 1/4
 5
-Wired 440
+Wired-440
 3
 31
 32

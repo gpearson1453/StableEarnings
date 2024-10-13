@@ -110,7 +110,7 @@ Lets Start New (Villatoro, Noe)
 no menace
 15May23 1RP6
 7
-Hammerin Hank 44 (Rivera, Ali)
+Hammerin-Hank-44 (Rivera, Ali)
 124 L bh
 6
 8
@@ -223,7 +223,7 @@ Lets Start New
 73 1/2
 72 3/4
 7
-Hammerin Hank 44
+Hammerin-Hank-44
 8
 83 1/2
 88 1/2
@@ -1625,7 +1625,7 @@ Muddys Black Mamba (Hernandez, Jr., Raul)
 bore out, no menace
 8Jun23 5HOU8
 4
-Karens Triple 2 (Rodriguez, Julio)
+Karens-Triple-2 (Rodriguez, Julio)
 126 bk
 4
 2
@@ -1773,7 +1773,7 @@ Muddys Black Mamba
 31 1/2
 32 1/4
 4
-Karens Triple 2
+Karens-Triple-2
 2
 43/4
 53 1/4
@@ -2374,7 +2374,7 @@ Odds Ind. Time
 Sp. In. Comments
 19May23 12RP9
 9
-Ez Money 123 (Vega, Jose)
+Ez-Money-123 (Vega, Jose)
 128 L b
 9
 2
@@ -2504,7 +2504,7 @@ A First Patriot (Sanchez, Eddie)
 squeezed back late
 Run-Up: 0 feet
 Winner:
-Ez Money 123, Brown Gelding, by Flying Cowboy 123 out of Royal Regime, by Coronado Cartel. Foaled Apr 11, 2021 in Oklahoma.
+Ez-Money-123, Brown Gelding, by Flying Cowboy 123 out of Royal Regime, by Coronado Cartel. Foaled Apr 11, 2021 in Oklahoma.
 Breeder: Marty Anderson
 Owner: Marty Anderson
 Trainer: Johnson, Tammy
@@ -2514,7 +2514,7 @@ Win
 Place
 Show
 9
-Ez Money 123
+Ez-Money-123
 39.60
 14.40
 7.60
@@ -2556,7 +2556,7 @@ Str1
 Str
 Fin
 9
-Ez Money 123
+Ez-Money-123
 2
 3Head
 11/2

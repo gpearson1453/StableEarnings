@@ -2052,7 +2052,7 @@ Mariel (Martinez, Luis)
 clear early, best
 5May23 1SRP6
 10
-Ruse Dynasty 123 (Sigala, Alfredo)
+Ruse-Dynasty-123 (Sigala, Alfredo)
 124 L b
 10
 1
@@ -2185,7 +2185,7 @@ Mariel
 7.60
 5.20
 10
-Ruse Dynasty 123
+Ruse-Dynasty-123
 9.00
 7.00
 3
@@ -2220,7 +2220,7 @@ Mariel
 12
 11 1/2
 10
-Ruse Dynasty 123
+Ruse-Dynasty-123
 1
 21
 22

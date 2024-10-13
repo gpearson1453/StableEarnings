@@ -446,7 +446,7 @@ L b
 showed little
 22Jun23 1DED8
 5
-Ttt 123 (Constantin, Lucas)
+Ttt-123 (Constantin, Lucas)
 126
 bf
 4
@@ -468,7 +468,7 @@ New Trainer: Jose A. Garcia
 New Owner: Efrain Noriega
 Claiming Prices:
 3 - Hot Jessie: $5,000; 1 - Ima Calente Kid: $5,000; 6 - Top of Da Line: $5,000; 7 - One Sweet Butter: $5,000; 4 - Metal
-Bar Mora: $5,000; 5 - Ttt 123: $5,000;
+Bar Mora: $5,000; 5 - Ttt-123: $5,000;
 Dead Heats:
 2nd place - # 1 Ima Calente Kid
 2nd place - # 6 Top of Da Line
@@ -558,7 +558,7 @@ Metal Bar Mora
 42
 52 1/4
 5
-Ttt 123
+Ttt-123
 6
 64 1/4
 64

@@ -1849,7 +1849,7 @@ Streakin Zoomer Cat (Enriquez, Jacob)
 late rally
 24Sep23 1ALB6
 11
-Nino 2020 (Sigala, Alfredo)
+Nino-2020 (Sigala, Alfredo)
 126 L bk
 10
 9
@@ -1945,7 +1945,7 @@ Breeder: Rodolfo E Cordero
 Owner: Rodolfo E. Cordero
 Trainer: Carrete, Jesus
 Claiming Prices:
-3 - A Dashing Delilah: $10,000; 6 - Brookstone Surfer: $10,000; 7 - Streakin Zoomer Cat: $10,000; 11 - Nino 2020:
+3 - A Dashing Delilah: $10,000; 6 - Brookstone Surfer: $10,000; 7 - Streakin Zoomer Cat: $10,000; 11 - Nino-2020:
 $10,000; 5 - Lady Denim: $10,000; 8 - Jess Worthi: $10,000; 9 - Tm Taki Taki: $10,000; 4 - Ize the Last One: $10,000; 1
 - Mamacita Jj: $10,000; 2 - Ya Pk: $10,000;
 Scratched Horse(s): Our Daddys Girl (Stewards), Sli Mister Maverick (Also-Eligible)
@@ -2007,7 +2007,7 @@ Streakin Zoomer Cat
 73
 31 1/2
 11
-Nino 2020
+Nino-2020
 9
 71 3/4
 83 1/4

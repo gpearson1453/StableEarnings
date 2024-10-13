@@ -2751,7 +2751,7 @@ bf
 even run, up place
 29Jun23 11IND1
 2
-Hh Express 19 (Quintero, Francisco)
+Hh-Express-19 (Quintero, Francisco)
 129
 bf
 2
@@ -2862,7 +2862,7 @@ Eagle Flybye
 5.40
 3.40
 2
-Hh Express 19
+Hh-Express-19
 5.20
 Wager Type
 Winning Numbers
@@ -2908,7 +2908,7 @@ Eagle Flybye
 31/2
 21/2
 2
-Hh Express 19
+Hh-Express-19
 5
 2Neck
 31/2

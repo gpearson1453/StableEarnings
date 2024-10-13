@@ -2465,7 +2465,7 @@ Odds Ind. Time
 Sp. In. Comments
 3Jun23 3IND1
 4
-Hh Express 19 (Quintero, Francisco)
+Hh-Express-19 (Quintero, Francisco)
 129
 bf
 4
@@ -2569,7 +2569,7 @@ L b
 lost pth early,trailed
 Run-Up: 0 feet
 Winner:
-Hh Express 19, Sorrel Gelding, by Freighttrain B out of Shakem Jake, by Royal Shake Em. Foaled Apr 26, 2021 in Indiana.
+Hh-Express-19, Sorrel Gelding, by Freighttrain B out of Shakem Jake, by Royal Shake Em. Foaled Apr 26, 2021 in Indiana.
 Breeder: Larry Carter&/John Myers
 Owner: Hann, Pamela Brickley, Myers, John and Carter, Larry
 Trainer: Cunningham, Anthony
@@ -2580,7 +2580,7 @@ Win
 Place
 Show
 4
-Hh Express 19
+Hh-Express-19
 6.80
 4.40
 3.20
@@ -2625,7 +2625,7 @@ Start
 Str
 Fin
 4
-Hh Express 19
+Hh-Express-19
 2
 2Head
 1Head

@@ -1649,7 +1649,7 @@ L bk
 no menace
 22Jul23 7RET4
 10
-Karens Triple 2 (Vera, Eliazar)
+Karens-Triple-2 (Vera, Eliazar)
 124
 L bk
 10
@@ -1814,7 +1814,7 @@ Zoomin Zappatos
 33 1/2
 31 3/4
 10
-Karens Triple 2
+Karens-Triple-2
 7
 54
 42 1/4

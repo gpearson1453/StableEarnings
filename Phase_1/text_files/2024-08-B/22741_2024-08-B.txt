@@ -2622,7 +2622,7 @@ Cowboy Away (Alvarez, Jose)
 out finished late
 3Aug24 4RET3
 4
-Ez Money 123 (Andrade, Jr., Oscar)
+Ez-Money-123 (Andrade, Jr., Oscar)
 125 L b
 4
 10
@@ -2748,7 +2748,7 @@ Cowboy Away
 22.20
 10.40
 4
-Ez Money 123
+Ez-Money-123
 7.00
 Wager Type
 Winning Numbers
@@ -2793,7 +2793,7 @@ Cowboy Away
 2Head
 2Head
 4
-Ez Money 123
+Ez-Money-123
 10
 61
 51/2
