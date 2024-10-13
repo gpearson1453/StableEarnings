@@ -955,7 +955,7 @@ Fs Maxx Velocity (Benn, Cordarelton)
 gave way,
 ---
 4
-Nicos Clave 7 (Amaya, Daniel)
+Nicos-Clave-7 (Amaya, Daniel)
 128 L b
 4
 3
@@ -1082,7 +1082,7 @@ Fs Maxx Velocity
 4Neck
 52 1/4
 4
-Nicos Clave 7
+Nicos-Clave-7
 3
 71
 61/2

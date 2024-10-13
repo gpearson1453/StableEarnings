@@ -125,7 +125,7 @@ Stirr Dont Shake (Carbajal, Kevin)
 bumped start,no bid
 25Feb23 9SUN7
 1
-Nicos Clave 7 (Barraza, Brian)
+Nicos-Clave-7 (Barraza, Brian)
 129 L b
 1
 7
@@ -233,7 +233,7 @@ Stirr Dont Shake
 86 1/2
 88
 1
-Nicos Clave 7
+Nicos-Clave-7
 7
 ---
 ---

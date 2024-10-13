@@ -2278,7 +2278,7 @@ Beso (Ortiz, Jose)
 no rally,
 20Jan23 5SUN6
 8
-Nicos Clave 7 (Reyes, Cristian)
+Nicos-Clave-7 (Reyes, Cristian)
 126 L b
 8
 4
@@ -2436,7 +2436,7 @@ Beso
 62 3/4
 63
 8
-Nicos Clave 7
+Nicos-Clave-7
 4
 93 1/4
 74 1/4
