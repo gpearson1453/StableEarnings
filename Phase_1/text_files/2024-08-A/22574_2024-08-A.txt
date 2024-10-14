@@ -2561,7 +2561,7 @@ Simple Boy Blu (Cardenas, Christian)
 no threat
 1Jun24 8RUI4
 3
-Space Cowboy-123 (Ramirez, Esgar)
+Space-Cowboy-123 (Ramirez, Esgar)
 126 L b
 3
 1
@@ -2680,7 +2680,7 @@ Simple Boy Blu
 73 3/4
 63 1/2
 3
-Space Cowboy-123
+Space-Cowboy-123
 1
 2Head
 63 1/4

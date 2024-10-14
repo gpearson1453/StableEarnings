@@ -46,7 +46,7 @@ La Troya (Iturralde, Omar)
 came in, dueled, game
 9Aug24 11ALB7
 9
-Space Cowboy-123 (Ramirez, Esgar)
+Space-Cowboy-123 (Ramirez, Esgar)
 128 L b
 9
 1
@@ -170,7 +170,7 @@ La Troya
 5.80
 3.40
 9
-Space Cowboy-123
+Space-Cowboy-123
 3.40
 Wager Type
 Winning Numbers
@@ -203,7 +203,7 @@ La Troya
 2Head
 2Neck
 9
-Space Cowboy-123
+Space-Cowboy-123
 1
 43/4
 3Head

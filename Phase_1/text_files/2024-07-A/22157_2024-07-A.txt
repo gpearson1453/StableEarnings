@@ -572,7 +572,7 @@ The Criminal (Ramirez, Jr., Francisco)
 close early,empty late
 29Jun24 11RUI8
 5
-Two Two 22 (Calderon, Francisco)
+Two-Two-22 (Calderon, Francisco)
 124 L bfk
 5
 1
@@ -726,7 +726,7 @@ The Criminal
 31 1/2
 33
 5
-Two Two 22
+Two-Two-22
 1
 41
 41 1/2

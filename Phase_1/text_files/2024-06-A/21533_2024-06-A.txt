@@ -306,7 +306,7 @@ BL bf
 evenly effort
 ---
 7
-Sumpin for My 21 (Arana, Minor)
+Sumpin-for-My-21 (Arana, Minor)
 125
 CL bf
 6
@@ -431,7 +431,7 @@ Miss Got Heart
 51 1/2
 62 3/4
 7
-Sumpin for My 21
+Sumpin-for-My-21
 6
 71 3/4
 73

@@ -109,7 +109,7 @@ BL b
 no menace
 13Jul24 1WYO5
 5
-Sumpin for My 21 (Journet, Jarred)
+Sumpin-for-My-21 (Journet, Jarred)
 130
 BL b
 5
@@ -206,7 +206,7 @@ First Flash Down
 73 3/4
 77 1/4
 5
-Sumpin for My 21
+Sumpin-for-My-21
 5
 84
 87 3/4

@@ -1740,7 +1740,7 @@ Odds Ind. Time
 Sp. In. Comments
 10Aug24 4ALB3
 5
-Two Two 22 (Escobedo, Edwin)
+Two-Two-22 (Escobedo, Edwin)
 126 L bfk
 4
 1
@@ -1857,7 +1857,7 @@ Dark Lonely Knight (Delgado, Mario)
 no factor
 Run-Up: 0 feet
 Winner:
-Two Two 22, Bay Gelding, by Flying Cowboy-123 out of Dash and Sass, by Valiant Hero. Foaled Feb 02, 2022 in Oklahoma.
+Two-Two-22, Bay Gelding, by Flying Cowboy-123 out of Dash and Sass, by Valiant Hero. Foaled Feb 02, 2022 in Oklahoma.
 Breeder: Bill T Robbins
 Owner: West Texas Racing Partners
 Trainer: Joiner, Michael
@@ -1868,7 +1868,7 @@ Win
 Place
 Show
 5
-Two Two 22
+Two-Two-22
 6.60
 3.40
 3.00
@@ -1910,7 +1910,7 @@ Str 1
 Str
 Fin
 5
-Two Two 22
+Two-Two-22
 1
 11
 11 1/2

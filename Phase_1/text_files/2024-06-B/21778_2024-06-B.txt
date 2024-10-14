@@ -277,7 +277,7 @@ BL bf
 late interest
 ---
 2
-Pew Pew 22 (Kellenberger, Kody)
+Pew-Pew-22 (Kellenberger, Kody)
 124
 CL b
 2
@@ -422,7 +422,7 @@ Hp Just a Quickie
 3Neck
 33
 2
-Pew Pew 22
+Pew-Pew-22
 4
 41/2
 43

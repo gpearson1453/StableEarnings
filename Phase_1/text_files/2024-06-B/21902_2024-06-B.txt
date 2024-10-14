@@ -871,7 +871,7 @@ Princes Abigail, Sorrel Filly, by Jess Good Candy out of Significant Heart, by C
 Breeder: Abigail K Kawananakoa
 Owner: Dutch Masters, III, O'Dell Ranch and Draper, Robyne
 Trainer: O'Dell, Christopher
-Scratched Horse(s): Space Cowboy-123 (Gate)
+Scratched Horse(s): Space-Cowboy-123 (Gate)
 Total WPS Pool: $12,416
 Pgm Horse
 Win
@@ -2615,7 +2615,7 @@ Speed Favorite (Escobedo, Edwin)
 came in, veered out
 ---
 2
-Two Two 22 (Calderon, Francisco)
+Two-Two-22 (Calderon, Francisco)
 124 L bfk
 2
 3
@@ -2740,7 +2740,7 @@ Speed Favorite
 76
 76 3/4
 2
-Two Two 22
+Two-Two-22
 3
 64 1/4
 96 3/4

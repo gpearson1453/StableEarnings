@@ -1998,7 +1998,7 @@ Jv Kat Dancer (Juarez, Brayan)
 no final kick
 9Jun24 3WYO1
 4
-Blazin Cowgirl 123 (Canales, Jesus)
+Blazin-Cowgirl-123 (Canales, Jesus)
 124 BL bf
 4
 9
@@ -2115,7 +2115,7 @@ Jv Kat Dancer
 82 1/2
 73 1/4
 4
-Blazin Cowgirl 123
+Blazin-Cowgirl-123
 9
 83/4
 72 1/2

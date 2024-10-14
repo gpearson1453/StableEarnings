@@ -2679,7 +2679,7 @@ Hez Secret Rocks (Packer, Berkley)
 lost path,checked erly
 5Jun24 10IND6
 1
-County 2 (Vazquez-Gomez, Giovani)
+County-2 (Vazquez-Gomez, Giovani)
 131 bf
 1
 7
@@ -2710,7 +2710,7 @@ Breeder: Jd IV Farms Llc
 Owner: Brian L. Gunder
 Trainer: Cunningham, Anthony
 Dead Heats:
-8th place - # 1 County 2
+8th place - # 1 County-2
 8th place - # 8 Sizzlin Grille
 Disqualification(s):
 # 9 Cartels Kryptonite from 4 to 5
@@ -2808,7 +2808,7 @@ Hez Secret Rocks
 95
 74 3/4
 1
-County 2
+County-2
 7
 83 1/2
 84 1/2

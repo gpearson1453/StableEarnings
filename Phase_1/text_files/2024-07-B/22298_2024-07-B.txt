@@ -31,7 +31,7 @@ BL bf
 gate to wire
 22Jun24 2WYO4
 10
-Pew Pew 22 (De La Torre, Julio)
+Pew-Pew-22 (De La Torre, Julio)
 124
 BL b
 10
@@ -147,7 +147,7 @@ BL bf
 no menace
 Run-Up: 0 feet
 Winner:
-Pew Pew 22, Bay Filly, by Bv Travelin Soldier out of Kipas Special Girl, by Kipas Special. Foaled May 13, 2022 in Wyoming.
+Pew-Pew-22, Bay Filly, by Bv Travelin Soldier out of Kipas Special Girl, by Kipas Special. Foaled May 13, 2022 in Wyoming.
 Breeder: Casey Greene
 Owner: Casey Greene
 Trainer: Greene, Casey
@@ -164,7 +164,7 @@ Vvr Let It Ride
 2.60
 2.80
 10
-Pew Pew 22
+Pew-Pew-22
 4.40
 3.00
 9
@@ -201,7 +201,7 @@ Vvr Let It Ride
 11
 11
 10
-Pew Pew 22
+Pew-Pew-22
 3
 31 1/4
 21

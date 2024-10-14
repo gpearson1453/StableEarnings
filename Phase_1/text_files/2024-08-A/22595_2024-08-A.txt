@@ -810,7 +810,7 @@ Brown Coffeee (Ramirez, Ricky)
 pushed in start,chased
 13Jul24 3RUI4
 8
-Two Two 22 (Escobedo, Edwin)
+Two-Two-22 (Escobedo, Edwin)
 124 L bfk
 8
 1
@@ -920,7 +920,7 @@ Brown Coffeee
 5.20
 4.20
 8
-Two Two 22
+Two-Two-22
 5.20
 Wager Type
 Winning Numbers
@@ -957,7 +957,7 @@ Brown Coffeee
 21
 21 1/4
 8
-Two Two 22
+Two-Two-22
 1
 31
 32

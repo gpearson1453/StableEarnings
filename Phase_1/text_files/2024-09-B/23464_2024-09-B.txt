@@ -1003,7 +1003,7 @@ Razor Sharp (Becerra, Jr., Sergio)
 clear,caught
 8Sep24 1ALB3
 4
-Space Cowboy-123 (Ramirez, Esgar)
+Space-Cowboy-123 (Ramirez, Esgar)
 128 L b
 4
 2
@@ -1113,7 +1113,7 @@ Razor Sharp
 5.00
 4.00
 4
-Space Cowboy-123
+Space-Cowboy-123
 5.40
 Wager Type
 Winning Numbers
@@ -1154,7 +1154,7 @@ Razor Sharp
 21/2
 21 1/2
 4
-Space Cowboy-123
+Space-Cowboy-123
 2
 2Head
 31 1/2

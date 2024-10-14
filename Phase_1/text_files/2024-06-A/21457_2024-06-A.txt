@@ -2670,7 +2670,7 @@ bf
 no menace, midpack
 ---
 1
-County 2 (Vazquez-Gomez, Giovani)
+County-2 (Vazquez-Gomez, Giovani)
 131
 bf
 1
@@ -2815,7 +2815,7 @@ Aph Battle Captain
 62 1/4
 52 1/4
 1
-County 2
+County-2
 6
 52
 62 1/2

@@ -1013,7 +1013,7 @@ Feature Ms Blue (Dominguez, Uriel)
 blinkers on
 21Jul24 1WYO1
 8
-Pew Pew 22 (Vorrath, Valente)
+Pew-Pew-22 (Vorrath, Valente)
 124 BL b
 7
 4
@@ -1129,7 +1129,7 @@ Feature Ms Blue
 41/2
 42
 8
-Pew Pew 22
+Pew-Pew-22
 4
 61
 71

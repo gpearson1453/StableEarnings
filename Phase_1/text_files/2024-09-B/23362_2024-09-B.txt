@@ -97,7 +97,7 @@ BL b
 off slow
 18Aug24 5SWF5
 1
-Pew Pew 22 (Journet, Jarred)
+Pew-Pew-22 (Journet, Jarred)
 130
 BL b
 1
@@ -187,7 +187,7 @@ Miss Shellie
 61
 62 3/4
 1
-Pew Pew 22
+Pew-Pew-22
 5
 53/4
 73
@@ -848,7 +848,7 @@ Odds Ind. Time
 Sp. In. Comments
 28Jul24 3WYO5
 4
-Blazin Cowgirl 123 (Canales, Jesus)
+Blazin-Cowgirl-123 (Canales, Jesus)
 128
 BL hof
 4
@@ -939,7 +939,7 @@ BL bf
 no factor
 Run-Up: 0 feet
 Winner:
-Blazin Cowgirl 123, Sorrel Filly, by Flying Cowboy-123 out of Blazin Mean, by First Moonflash. Foaled Mar 12, 2022 in Wyoming.
+Blazin-Cowgirl-123, Sorrel Filly, by Flying Cowboy-123 out of Blazin Mean, by First Moonflash. Foaled Mar 12, 2022 in Wyoming.
 Breeder: Pedro Mena
 Owner: Pedro Mena
 Trainer: Canales, Sergio
@@ -949,7 +949,7 @@ Win
 Place
 Show
 4
-Blazin Cowgirl 123
+Blazin-Cowgirl-123
 5.00
 2.80
 3.20
@@ -986,7 +986,7 @@ Start
 Str
 Fin
 4
-Blazin Cowgirl 123
+Blazin-Cowgirl-123
 3
 1Nose
 11/2

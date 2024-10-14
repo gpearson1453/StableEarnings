@@ -520,7 +520,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 5
-Blazin Cowgirl 123 (Canales, Jesus)
+Blazin-Cowgirl-123 (Canales, Jesus)
 126 CL bf
 5
 2
@@ -637,7 +637,7 @@ Rr Angels Share (Juarez, Brayan)
 stepped back as gate o
 Run-Up: 0 feet
 Winner:
-Blazin Cowgirl 123, Sorrel Filly, by Flying Cowboy-123 out of Blazin Mean, by First Moonflash. Foaled Mar 12, 2022 in Wyoming.
+Blazin-Cowgirl-123, Sorrel Filly, by Flying Cowboy-123 out of Blazin Mean, by First Moonflash. Foaled Mar 12, 2022 in Wyoming.
 Breeder: Pedro Mena
 Owner: Pedro Mena
 Trainer: Canales, Sergio
@@ -647,7 +647,7 @@ Win
 Place
 Show
 5
-Blazin Cowgirl 123
+Blazin-Cowgirl-123
 3.80
 2.80
 2.60
@@ -685,7 +685,7 @@ Str1
 Str
 Fin
 5
-Blazin Cowgirl 123
+Blazin-Cowgirl-123
 2
 2Neck
 11/2

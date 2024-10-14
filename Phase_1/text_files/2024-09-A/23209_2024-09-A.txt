@@ -84,7 +84,7 @@ BL bf
 no factor
 7Sep24 1SWF7
 7
-Sumpin for My 21 (Journet, Jarred)
+Sumpin-for-My-21 (Journet, Jarred)
 130
 BL bf
 5
@@ -103,7 +103,7 @@ Owner: Lex A. Fabrizio
 Trainer: Young, Stan
 Claiming Prices:
 3 - Rr Angels Share: $10,000; 8 - Quick Creek: $10,000; 5 - Jlc High Five Girl: $10,000; 2 - Shadow of Luna: $10,000; 1
-- Bdr Chickery: $10,000; 7 - Sumpin for My 21: $10,000;
+- Bdr Chickery: $10,000; 7 - Sumpin-for-My-21: $10,000;
 Scratched Horse(s): Flash Flyin (Gate), Runaway Dynasty (Veterinarian)
 Total WPS Pool: $972
 Pgm Horse
@@ -173,7 +173,7 @@ Bdr Chickery
 3Neck
 54 1/2
 7
-Sumpin for My 21
+Sumpin-for-My-21
 6
 63 1/2
 622 1/2

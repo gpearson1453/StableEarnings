@@ -1976,7 +1976,7 @@ Apolitical Sixarun (Martinez, Luz)
 stp n start,led,wknd
 27Jun24 12IND8
 9
-County 2 (Marquez, Juan)
+County-2 (Marquez, Juan)
 124 bf
 9
 5
@@ -2136,7 +2136,7 @@ Apolitical Sixarun
 2Head
 41/2
 9
-County 2
+County-2
 5
 81 1/2
 71 1/2

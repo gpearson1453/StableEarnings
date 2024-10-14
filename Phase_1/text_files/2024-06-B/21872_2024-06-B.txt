@@ -1965,7 +1965,7 @@ L bf
 no menace
 ---
 6
-Buchanan 747 (Vivanco, Luis)
+Buchanan-747 (Vivanco, Luis)
 124
 L bf
 5
@@ -2091,7 +2091,7 @@ Amarillo by Tonight
 61
 61 3/4
 6
-Buchanan 747
+Buchanan-747
 4
 53/4
 72

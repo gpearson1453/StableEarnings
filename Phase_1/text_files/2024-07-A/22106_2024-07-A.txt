@@ -2286,7 +2286,7 @@ Jess Candy Time (Rodriguez, Julio)
 bumped, game second
 6Jun24 7HOU7
 3
-Dr Pepper 123 (Villatoro, Noe)
+Dr-Pepper-123 (Villatoro, Noe)
 124 L bk
 3
 8
@@ -2409,7 +2409,7 @@ Jess Candy Time
 6.00
 4.80
 3
-Dr Pepper 123
+Dr-Pepper-123
 6.80
 Wager Type
 Winning Numbers
@@ -2454,7 +2454,7 @@ Jess Candy Time
 2Head
 21/2
 3
-Dr Pepper 123
+Dr-Pepper-123
 8
 53/4
 31

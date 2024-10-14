@@ -1454,7 +1454,7 @@ L bk
 no mencae
 ---
 9
-Dr Pepper 123 (Villatoro, Noe)
+Dr-Pepper-123 (Villatoro, Noe)
 124
 L b
 9
@@ -1590,7 +1590,7 @@ Our Famous Rock Star 6
 61 1/4
 62 3/4
 9
-Dr Pepper 123
+Dr-Pepper-123
 9
 93
 73 1/4

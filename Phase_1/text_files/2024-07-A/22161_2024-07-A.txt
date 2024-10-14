@@ -70,7 +70,7 @@ CL bf
 clean trip inside
 8Jun24 2WYO7
 5
-Sumpin for My 21 (Olivo, Jose)
+Sumpin-for-My-21 (Olivo, Jose)
 128
 BL bf
 5
@@ -215,7 +215,7 @@ Billys Fast Red Rose
 2Neck
 42 3/4
 5
-Sumpin for My 21
+Sumpin-for-My-21
 5
 31/2
 53 1/4
