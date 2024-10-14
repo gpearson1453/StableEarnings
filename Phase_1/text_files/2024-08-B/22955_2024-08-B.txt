@@ -1970,7 +1970,7 @@ Berkley (Cardenas, Christian)
 came in, steadied
 4Jul24 8RUI7
 2
-The Blackbird Sr71 (Ramos, Christian)
+The-Blackbird-Sr71 (Ramos, Christian)
 124 L b
 2
 6
@@ -2013,12 +2013,12 @@ Buffalos Moments, Gray Gelding, by Osbaldo out of Swizzlon Moments, by Swissle S
 Breeder: Lauro A Terrazas
 Owner: Lauro A. Terrazas
 Trainer: Carrete, Fernando
-1 Claimed Horse(s): The Blackbird Sr71
+1 Claimed Horse(s): The-Blackbird-Sr71
 New Trainer: Osman Iturralde
 New Owner: Hector M. O'Campo
 Claiming Prices:
 7 - Buffalos Moments: $15,000; 10 - Dark Queen: $15,000; 9 - Mi Legacy: $15,000; 8 - Woody Be Me: $15,000; 3 -
-Amanda Cierale: $15,000; 4 - Berkley: $15,000; 2 - The Blackbird Sr71: $15,000; 5 - Candy Crush Bb: $15,000; 1 - Ms
+Amanda Cierale: $15,000; 4 - Berkley: $15,000; 2 - The-Blackbird-Sr71: $15,000; 5 - Candy Crush Bb: $15,000; 1 - Ms
 Woody T: $15,000;
 Scratched Horse(s): Ooh Yeah (Also-Eligible), Perrys Msmayita (Also-Eligible), Stormbridge (Veterinarian)
 Total WPS Pool: $21,864
@@ -2097,7 +2097,7 @@ Berkley
 61 1/4
 62 1/2
 2
-The Blackbird Sr71
+The-Blackbird-Sr71
 6
 61 3/4
 71 1/2

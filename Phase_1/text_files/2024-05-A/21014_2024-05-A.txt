@@ -218,7 +218,7 @@ L Rayo (Alvarez, Jose)
 bump, won head bob
 20Apr24 7HOU3
 2
-Little Brother 509 (Espinosa, Pedro)
+Little-Brother-509 (Espinosa, Pedro)
 128 L bk
 2
 2
@@ -313,7 +313,7 @@ L Rayo
 8.40
 4.60
 2
-Little Brother 509
+Little-Brother-509
 5.80
 4.00
 6
@@ -352,7 +352,7 @@ L Rayo
 2Head
 1Nose
 2
-Little Brother 509
+Little-Brother-509
 2
 2Head
 1Head

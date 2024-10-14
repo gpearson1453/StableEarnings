@@ -1259,7 +1259,7 @@ My First Luv (Ramos, Christian)
 no mishap
 11Apr24 4RP5
 1
-Fly Girl 123 (Delgado, Mario)
+Fly-Girl-123 (Delgado, Mario)
 124 L hk
 1
 8
@@ -1382,7 +1382,7 @@ My First Luv
 41 1/2
 41 3/4
 1
-Fly Girl 123
+Fly-Girl-123
 8
 62
 52

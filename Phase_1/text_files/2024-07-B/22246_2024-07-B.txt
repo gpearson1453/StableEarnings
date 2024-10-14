@@ -952,7 +952,7 @@ Odds Ind. Time
 Sp. In. Comments
 5Jul24 11RUI5
 5
-Dragon Fire 66 (Martinez, Luis)
+Dragon-Fire-66 (Martinez, Luis)
 124 L bk
 5
 2
@@ -1082,7 +1082,7 @@ One Signature Trick (Vera, Gerardo)
 crowded start
 Run-Up: 0 feet
 Winner:
-Dragon Fire 66, Sorrel Gelding, by Jet Black Patriot out of Hidden Dragon, by Dean Miracle. Foaled Jan 30, 2022 in New Mexico.
+Dragon-Fire-66, Sorrel Gelding, by Jet Black Patriot out of Hidden Dragon, by Dean Miracle. Foaled Jan 30, 2022 in New Mexico.
 Breeder: Rafter W Stables
 Owner: Willis, Ray, Snyder, Cherri Michelet and Eldridge, Clifton
 Trainer: Rodriguez, Xavier
@@ -1093,7 +1093,7 @@ Win
 Place
 Show
 5
-Dragon Fire 66
+Dragon-Fire-66
 4.40
 2.80
 2.40
@@ -1135,7 +1135,7 @@ Str 1
 Str
 Fin
 5
-Dragon Fire 66
+Dragon-Fire-66
 2
 1Head
 11/2

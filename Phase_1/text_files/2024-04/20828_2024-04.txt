@@ -1331,7 +1331,7 @@ Odds Ind. Time
 Sp. In. Comments
 7Mar24 1LAD4
 10
-All American Stone77 (Pina, Modesto)
+All-American-Stone77 (Pina, Modesto)
 128 L bfk
 10
 2
@@ -1461,7 +1461,7 @@ Vygilante (Vera, Eliazar)
 no factor
 Run-Up: 0 feet
 Winner:
-All American Stone77, Bay Colt, by Favorite Cartel out of Fast Prize Corona, by Corona Cartel. Foaled Jan 18, 2022 in Oklahoma.
+All-American-Stone77, Bay Colt, by Favorite Cartel out of Fast Prize Corona, by Corona Cartel. Foaled Jan 18, 2022 in Oklahoma.
 Breeder: Weetona Stanley
 Owner: Rancho La Cobra
 Trainer: Garcia, Wendy
@@ -1471,7 +1471,7 @@ Win
 Place
 Show
 10
-All American Stone77
+All-American-Stone77
 4.40
 4.20
 3.20
@@ -1513,7 +1513,7 @@ Str1
 Str
 Fin
 10
-All American Stone77
+All-American-Stone77
 2
 1Head
 11

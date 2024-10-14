@@ -1462,7 +1462,7 @@ L b
 early bump, no bid
 9Aug24 8ALB5
 4
-Mark 536 (Hernandez, Jr., Ricardo)
+Mark-536 (Hernandez, Jr., Ricardo)
 124
 L bf
 4
@@ -1560,7 +1560,7 @@ Angel Bay Doc
 51 1/4
 61 1/4
 4
-Mark 536
+Mark-536
 7
 73 1/4
 72 1/2

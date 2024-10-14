@@ -1600,7 +1600,7 @@ L b
 bumped start
 25Apr24 8RP7
 3
-Flying High 123 (Smith, Stormy)
+Flying-High-123 (Smith, Stormy)
 125
 L bf
 2
@@ -1733,7 +1733,7 @@ Missjessasweetheart
 71
 41 1/4
 3
-Flying High 123
+Flying-High-123
 8
 61/2
 51 1/2

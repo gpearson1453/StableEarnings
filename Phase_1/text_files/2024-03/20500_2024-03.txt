@@ -1376,7 +1376,7 @@ L bfk
 driving finish
 8Mar24 6LAD4
 2
-Mark 536 (Hernandez, Jr., Ricardo)
+Mark-536 (Hernandez, Jr., Ricardo)
 124
 L bfk
 2
@@ -1506,7 +1506,7 @@ Coronita Stone
 3.40
 2.60
 2
-Mark 536
+Mark-536
 3.80
 3.20
 3
@@ -1559,7 +1559,7 @@ Coronita Stone
 1Head
 11/2
 2
-Mark 536
+Mark-536
 3
 2Head
 21/2

@@ -51,7 +51,7 @@ L bfk
 rallied, just missed
 ---
 6
-Dragon Fire 66 (Martinez, Luis)
+Dragon-Fire-66 (Martinez, Luis)
 124
 L b
 6
@@ -161,7 +161,7 @@ Hs Danger Weapon
 3.00
 2.40
 6
-Dragon Fire 66
+Dragon-Fire-66
 5.40
 Wager Type
 Winning Numbers
@@ -195,7 +195,7 @@ Hs Danger Weapon
 2Head
 2Head
 6
-Dragon Fire 66
+Dragon-Fire-66
 3
 3Head
 3Neck
@@ -1561,7 +1561,7 @@ L bf
 broke in
 ---
 10
-The Blackbird Sr71 (Ramos, Christian)
+The-Blackbird-Sr71 (Ramos, Christian)
 124
 L bf
 9
@@ -1684,7 +1684,7 @@ Bring On the Cheer
 61 3/4
 52 1/2
 10
-The Blackbird Sr71
+The-Blackbird-Sr71
 2
 43/4
 63

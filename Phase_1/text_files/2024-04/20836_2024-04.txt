@@ -1314,7 +1314,7 @@ Odds Ind. Time
 Sp. In. Comments
 26Mar24 7LAD2
 6
-Mark 536 (Hernandez, Jr., Ricardo)
+Mark-536 (Hernandez, Jr., Ricardo)
 124 L bfk
 6
 3
@@ -1444,7 +1444,7 @@ Sweet Pie Corona (Alvarez, Arturo)
 set back on rig
 Run-Up: 0 feet
 Winner:
-Mark 536, Sorrel Colt, by The Marfa Lights out of Grinchy, by Valiant Hero. Foaled Jan 12, 2022 in Oklahoma.
+Mark-536, Sorrel Colt, by The Marfa Lights out of Grinchy, by Valiant Hero. Foaled Jan 12, 2022 in Oklahoma.
 Breeder: Meghan Simpson
 Owner: Gyth Rigdon
 Trainer: Rigdon, Paul
@@ -1454,7 +1454,7 @@ Win
 Place
 Show
 6
-Mark 536
+Mark-536
 9.00
 4.60
 3.40
@@ -1496,7 +1496,7 @@ Str1
 Str
 Fin
 6
-Mark 536
+Mark-536
 3
 31
 21

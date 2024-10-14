@@ -1855,7 +1855,7 @@ L bfk
 vied throughout, game
 24May24 15RUI3
 1
-Rational Cowgirl 337 (Martinez, Luis)
+Rational-Cowgirl-337 (Martinez, Luis)
 124
 L bfk
 1
@@ -1907,7 +1907,7 @@ L bf
 broke in, even effort
 16Mar24 7SUN6
 6
-The Blackbird Sr71 (Ramos, Christian)
+The-Blackbird-Sr71 (Ramos, Christian)
 124
 L bh
 6
@@ -1979,7 +1979,7 @@ Checkered Flag
 3.60
 2.20
 1
-Rational Cowgirl 337
+Rational-Cowgirl-337
 2.20
 Wager Type
 Winning Numbers
@@ -2021,7 +2021,7 @@ Checkered Flag
 2Head
 2Neck
 1
-Rational Cowgirl 337
+Rational-Cowgirl-337
 3
 3Head
 33/4
@@ -2041,7 +2041,7 @@ Deepntheheartoftexas
 52 3/4
 65
 6
-The Blackbird Sr71
+The-Blackbird-Sr71
 8
 73 3/4
 76

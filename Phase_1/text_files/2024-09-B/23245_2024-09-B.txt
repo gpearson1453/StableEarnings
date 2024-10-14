@@ -59,7 +59,7 @@ Space Cowboy-123 (Ramirez, Esgar)
 pushed out, steady bid
 17Mar24 7SUN8
 6
-Flying Cowgirl 123 (Ramos, Christian)
+Flying-Cowgirl-123 (Ramos, Christian)
 124 L bfk
 6
 3
@@ -209,7 +209,7 @@ Space Cowboy-123
 3Head
 3Neck
 6
-Flying Cowgirl 123
+Flying-Cowgirl-123
 3
 1Head
 4Neck

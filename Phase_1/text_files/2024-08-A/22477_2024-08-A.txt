@@ -1591,7 +1591,7 @@ Peppa (Duran, Nestor)
 no menace
 5Jul24 5RET3
 7
-DQ-Little Brother 509 (Linares, Gilberto)
+DQ-Little-Brother-509 (Linares, Gilberto)
 124 L bk
 7
 6
@@ -1661,7 +1661,7 @@ Breeder: Francisco Javier Garza
 Owner: Francisco Javier Garza
 Trainer: Diaz, Jr., Juan
 Disqualification(s):
-# 7 Little Brother 509 from 6 to 10
+# 7 Little-Brother-509 from 6 to 10
 Total WPS Pool: $23,288
 Pgm Horse
 Win
@@ -1740,7 +1740,7 @@ Peppa
 51 3/4
 51 1/4
 7
-Little Brother 509
+Little-Brother-509
 6
 81 1/2
 72 1/4

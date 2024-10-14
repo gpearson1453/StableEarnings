@@ -1582,7 +1582,7 @@ Odds Ind. Time
 Sp. In. Comments
 9Mar24 10RP2
 8
-Flying Nova 123 (Cruz, Roman)
+Flying-Nova-123 (Cruz, Roman)
 124
 L bh
 8
@@ -1660,7 +1660,7 @@ L b
 lacked closing kick
 ---
 7
-Flying High 123 (Flores, James)
+Flying-High-123 (Flores, James)
 126
 L bf
 7
@@ -1686,7 +1686,7 @@ L bhk
 never involved
 Run-Up: 0 feet
 Winner:
-Flying Nova 123, Black Filly, by Flying Cowboy-123 out of Sr Shegone, by Mighty B Valiant. Foaled Mar 10, 2022 in Oklahoma.
+Flying-Nova-123, Black Filly, by Flying Cowboy-123 out of Sr Shegone, by Mighty B Valiant. Foaled Mar 10, 2022 in Oklahoma.
 Breeder: Rick or Connie Dickson
 Owner: Dickson, Rick and Connie
 Trainer: Ruiz, Jesus
@@ -1696,7 +1696,7 @@ Win
 Place
 Show
 8
-Flying Nova 123
+Flying-Nova-123
 2.60
 2.40
 2.10
@@ -1733,7 +1733,7 @@ Start
 Str
 Fin
 8
-Flying Nova 123
+Flying-Nova-123
 1
 11 1/2
 11 3/4
@@ -1763,7 +1763,7 @@ A Version
 63 1/2
 65
 7
-Flying High 123
+Flying-High-123
 8
 74 1/2
 76 1/4

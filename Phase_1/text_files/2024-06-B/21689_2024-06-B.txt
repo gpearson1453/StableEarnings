@@ -847,7 +847,7 @@ Kool Dynasty (Esqueda, Cristian)
 flattened late
 31May24 7RP5
 1
-Flying High 123 (Smith, Stormy)
+Flying-High-123 (Smith, Stormy)
 124 BL bfk
 1
 2
@@ -981,7 +981,7 @@ Kool Dynasty
 51/2
 61 1/4
 1
-Flying High 123
+Flying-High-123
 2
 1Head
 2Head

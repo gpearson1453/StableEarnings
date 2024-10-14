@@ -1144,7 +1144,7 @@ Poww Poww (Andrade, Jr., Oscar)
 stmbled,evenly
 15Aug24 10RET4
 9
-Legend Stone 77 (Martinez, Oliver)
+Legend-Stone-77 (Martinez, Oliver)
 124 L f
 8
 6
@@ -1266,7 +1266,7 @@ Poww Poww
 53
 54 1/4
 9
-Legend Stone 77
+Legend-Stone-77
 6
 84 3/4
 84 1/4
@@ -1379,7 +1379,7 @@ Hiclass Bonita (Andrade, Jr., Oscar)
 off slow,late bid
 25May24 11RP7
 8
-Flying Nova 123 (Calderon, Francisco)
+Flying-Nova-123 (Calderon, Francisco)
 124 L bfk
 8
 6
@@ -1526,7 +1526,7 @@ Hiclass Bonita
 83 3/4
 51 3/4
 8
-Flying Nova 123
+Flying-Nova-123
 6
 62 1/4
 42
@@ -2425,7 +2425,7 @@ Kati Bug (Candanosa, Bryan)
 off quick,no match
 27Jul24 5RET4
 10
-All American Stone77 (Pina, Modesto)
+All-American-Stone77 (Pina, Modesto)
 124 L bfk
 9
 4
@@ -2574,7 +2574,7 @@ Kati Bug
 31/2
 32 1/4
 10
-All American Stone77
+All-American-Stone77
 4
 83 3/4
 53

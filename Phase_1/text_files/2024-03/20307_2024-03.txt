@@ -1176,7 +1176,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 1
-Why Not Me 2 (Ramirez, Ricky)
+Why-Not-Me-2 (Ramirez, Ricky)
 124
 L bfk
 1
@@ -1280,7 +1280,7 @@ L b
 never got going
 Run-Up: 0 feet
 Winner:
-Why Not Me 2, Sorrel Gelding, by Eye Am King out of Maggies Miracle Lx, by Dean Miracle. Foaled Feb 16, 2022 in New Mexico.
+Why-Not-Me-2, Sorrel Gelding, by Eye Am King out of Maggies Miracle Lx, by Dean Miracle. Foaled Feb 16, 2022 in New Mexico.
 Breeder: Benny or Donna Smith
 Owner: Raider 5 Racing LLC
 Trainer: Wood, S.
@@ -1291,7 +1291,7 @@ Win
 Place
 Show
 1
-Why Not Me 2
+Why-Not-Me-2
 7.80
 4.00
 2.80
@@ -1328,7 +1328,7 @@ Start
 Str
 Fin
 1
-Why Not Me 2
+Why-Not-Me-2
 3
 11/2
 13/4
@@ -2091,7 +2091,7 @@ L bf
 open lane,ful throttle
 ---
 2
-Flying Nova 123 (Cruz, Roman)
+Flying-Nova-123 (Cruz, Roman)
 124
 L bh
 2
@@ -2210,7 +2210,7 @@ Miss Perrys Cowgirl
 8.40
 4.40
 2
-Flying Nova 123
+Flying-Nova-123
 3.20
 2.60
 7
@@ -2247,7 +2247,7 @@ Miss Perrys Cowgirl
 11
 11 1/2
 2
-Flying Nova 123
+Flying-Nova-123
 8
 41 1/4
 21 1/2

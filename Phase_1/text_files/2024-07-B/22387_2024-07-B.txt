@@ -43,7 +43,7 @@ Lookin Famous Df (Torres, Jorge)
 second best
 8Jul24 3PRM2
 5
-Flying High 123 (Smith, Stormy)
+Flying-High-123 (Smith, Stormy)
 124 BL bfk
 4
 4
@@ -102,7 +102,7 @@ Lookin Famous Df
 2.60
 2.10
 5
-Flying High 123
+Flying-High-123
 2.10
 Wager Type
 Winning Numbers
@@ -143,7 +143,7 @@ Lookin Famous Df
 21 1/2
 21/2
 5
-Flying High 123
+Flying-High-123
 4
 41 1/2
 32

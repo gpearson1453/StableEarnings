@@ -257,7 +257,7 @@ Texas Sky Cartel (Calderon, Francisco)
 vied throughout, best
 4Jul24 8RUI3
 9
-Rational Cowgirl 337 (Escobedo, Edwin)
+Rational-Cowgirl-337 (Escobedo, Edwin)
 124 L bfk
 8
 2
@@ -377,7 +377,7 @@ Texas Sky Cartel
 4.80
 2.80
 9
-Rational Cowgirl 337
+Rational-Cowgirl-337
 2.40
 2.20
 4
@@ -421,7 +421,7 @@ Texas Sky Cartel
 2Head
 1Neck
 9
-Rational Cowgirl 337
+Rational-Cowgirl-337
 2
 31/2
 3Head

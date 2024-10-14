@@ -1499,7 +1499,7 @@ Temptedtogotothebar (Vivanco, Luis)
 strong finish
 26Apr24 6HOU1
 5
-All American Stone77 (Pina, Modesto)
+All-American-Stone77 (Pina, Modesto)
 128 L bfk
 5
 6
@@ -1618,7 +1618,7 @@ Temptedtogotothebar
 2.10
 2.10
 5
-All American Stone77
+All-American-Stone77
 3.00
 2.60
 2
@@ -1665,7 +1665,7 @@ Temptedtogotothebar
 11 1/2
 11 3/4
 5
-All American Stone77
+All-American-Stone77
 6
 61
 31 1/2
@@ -2331,7 +2331,7 @@ Sir Runaway Star (Garcia, Gaspar)
 no threat
 28Mar24 4LAD6
 5
-Legend Stone 77 (Giles, Francisco)
+Legend-Stone-77 (Giles, Francisco)
 124 L f
 5
 7
@@ -2484,7 +2484,7 @@ Sir Runaway Star
 64 3/4
 64 1/4
 5
-Legend Stone 77
+Legend-Stone-77
 7
 53 1/4
 74 3/4

@@ -1852,7 +1852,7 @@ Two Timin Hero (Escobedo, Edwin)
 no closing kick
 24Mar24 8RP7
 8
-Flying High 123 (Candanosa, Bryan)
+Flying-High-123 (Candanosa, Bryan)
 125 L bf
 8
 8
@@ -1988,7 +1988,7 @@ Two Timin Hero
 62 1/4
 63 1/4
 8
-Flying High 123
+Flying-High-123
 8
 92
 83

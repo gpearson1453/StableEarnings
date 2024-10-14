@@ -879,7 +879,7 @@ Daylan (Ramirez, Esgar)
 no mishap
 9Mar24 6RP1
 1
-Why Not Me 2 (Ramirez, Ricky)
+Why-Not-Me-2 (Ramirez, Ricky)
 124 L bfk
 1
 10
@@ -1004,7 +1004,7 @@ Daylan
 81 1/2
 71 1/2
 1
-Why Not Me 2
+Why-Not-Me-2
 10
 104 1/4
 71 1/2
@@ -3240,7 +3240,7 @@ Macho Daddys Girl, Brown Filly, by Kj Mucho Macho Man out of Big Daddys Winner, 
 Breeder: Ezra Elton Lee
 Owner: Ezra Elton Lee
 Trainer: Giles, Wesley
-Scratched Horse(s): Dragon Fire 66 (Veterinarian), Jetblackglory (Veterinarian)
+Scratched Horse(s): Dragon-Fire-66 (Veterinarian), Jetblackglory (Veterinarian)
 Total WPS Pool: $17,544
 Pgm Horse
 Win

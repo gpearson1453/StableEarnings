@@ -2605,7 +2605,7 @@ Brisa de Mar (Klaiber, Justine)
 lost footing at break
 10May24 2RP1
 8
-Flying Nova 123 (Cruz, Roman)
+Flying-Nova-123 (Cruz, Roman)
 124 L b
 8
 4
@@ -2741,7 +2741,7 @@ Brisa de Mar
 61 3/4
 62
 8
-Flying Nova 123
+Flying-Nova-123
 4
 81/2
 82 1/2

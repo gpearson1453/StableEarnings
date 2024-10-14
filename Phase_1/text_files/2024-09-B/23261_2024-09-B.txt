@@ -1257,7 +1257,7 @@ Mw Kiss This (Ramirez, Angel)
 up close, weakened
 27Jul24 1PRM3
 5
-Flying High 123 (Calderon, Francisco)
+Flying-High-123 (Calderon, Francisco)
 124 BL bfk
 5
 5
@@ -1379,7 +1379,7 @@ Mw Kiss This
 31/2
 63 1/2
 5
-Flying High 123
+Flying-High-123
 5
 62 1/4
 62 3/4

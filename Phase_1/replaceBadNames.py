@@ -52,7 +52,7 @@ both_names = [('Queens Royal Wagoncp1', 'Queens Royal Wagoncp 1'), ('Queens Roya
                 ('Queens Royal Wagoncp6', 'Queens Royal Wagoncp 6'), ('Queens Royal Wagoncp7', 'Queens Royal Wagoncp 7'), ('Queens Royal Wagoncp8', 'Queens Royal Wagoncp 8'), ('Queens Royal Wagoncp9', 'Queens Royal Wagoncp 9'), ('Queens Royal Wagoncp10', 'Queens Royal Wagoncp 10')]
 
 #this should not contain tuples
-names = []
+names = ['Space Cowboy 123', 'Flying Cowgirl 123', 'Rational Cowgirl 337']
 
 # Run all names in names list, only use if just replacing spaces with hyphens
 with ThreadPoolExecutor() as executor:

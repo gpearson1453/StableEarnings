@@ -2685,7 +2685,7 @@ Jm Ferarri Lane (Rivera, Ali)
 steady bid
 16Mar24 1SUN3
 8
-Dragon Fire 66 (Martinez, Luis)
+Dragon-Fire-66 (Martinez, Luis)
 124 L b
 8
 9
@@ -2831,7 +2831,7 @@ Jm Ferarri Lane
 41 1/2
 41 1/2
 8
-Dragon Fire 66
+Dragon-Fire-66
 9
 82 3/4
 53 1/2
@@ -3221,7 +3221,7 @@ Mw I Am Your Patriot (Enriquez, Jacob)
 came in, bumped
 31May24 4RUI8
 4
-Why Not Me 2 (Ramirez, Ricky)
+Why-Not-Me-2 (Ramirez, Ricky)
 124 L bfk
 4
 6
@@ -3372,7 +3372,7 @@ Mw I Am Your Patriot
 41
 42 1/2
 4
-Why Not Me 2
+Why-Not-Me-2
 6
 53/4
 52

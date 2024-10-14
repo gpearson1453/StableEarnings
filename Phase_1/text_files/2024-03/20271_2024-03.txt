@@ -61,7 +61,7 @@ L b
 game effort
 ---
 5
-All American Stone77 (Pina, Modesto)
+All-American-Stone77 (Pina, Modesto)
 126
 L bfk
 5
@@ -197,7 +197,7 @@ Duke Watters
 21/2
 32
 5
-All American Stone77
+All-American-Stone77
 2
 43/4
 42 1/4
@@ -580,7 +580,7 @@ L bfk
 outfinished
 ---
 3
-Little Brother 509 (Martinez, Jose)
+Little-Brother-509 (Martinez, Jose)
 124
 L bk
 3
@@ -696,7 +696,7 @@ Apollitical Ali
 53/4
 62 1/4
 3
-Little Brother 509
+Little-Brother-509
 7
 61
 72 1/2

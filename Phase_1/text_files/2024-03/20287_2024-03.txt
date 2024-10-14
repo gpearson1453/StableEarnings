@@ -1272,7 +1272,7 @@ L b
 too much too late
 ---
 2
-Mark 536 (Hernandez, Jr., Ricardo)
+Mark-536 (Hernandez, Jr., Ricardo)
 124
 L bfk
 1
@@ -1400,7 +1400,7 @@ Muddy Hurts
 51
 32 3/4
 2
-Mark 536
+Mark-536
 3
 31/2
 43
@@ -1549,7 +1549,7 @@ L bk
 steadied midway
 ---
 3
-Legend Stone 77 (Pina, Modesto)
+Legend-Stone-77 (Pina, Modesto)
 126
 L bfk
 3
@@ -1664,7 +1664,7 @@ Corona for Champ
 71 1/2
 73
 3
-Legend Stone 77
+Legend-Stone-77
 8
 82
 85

@@ -2662,7 +2662,7 @@ Bf Mucha Divine (Ramos, Adrian)
 broke out, drifted out
 5Jul24 13RUI5
 7
-Why Not Me 2 (Martinez, Luis)
+Why-Not-Me-2 (Martinez, Luis)
 124 L bfk
 7
 3
@@ -2785,7 +2785,7 @@ Bf Mucha Divine
 4.40
 4.60
 7
-Why Not Me 2
+Why-Not-Me-2
 5.40
 Wager Type
 Winning Numbers
@@ -2835,7 +2835,7 @@ Bf Mucha Divine
 21
 21 1/4
 7
-Why Not Me 2
+Why-Not-Me-2
 3
 31
 32

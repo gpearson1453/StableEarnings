@@ -648,7 +648,7 @@ L bf
 no threat,
 ---
 2
-Rational Cowgirl 337 (Martinez, Federico)
+Rational-Cowgirl-337 (Martinez, Federico)
 124
 L bf
 2
@@ -757,7 +757,7 @@ All About Fire
 82 1/2
 83
 2
-Rational Cowgirl 337
+Rational-Cowgirl-337
 7
 72 1/4
 93 1/4
@@ -1673,7 +1673,7 @@ L bf
 no rally,
 2Mar24 4SUN8
 9
-Flying Cowgirl 123 (Tapia, Emilio)
+Flying-Cowgirl-123 (Tapia, Emilio)
 124
 L bfk
 9
@@ -1789,7 +1789,7 @@ El Embajador
 84
 73 1/2
 9
-Flying Cowgirl 123
+Flying-Cowgirl-123
 4
 73 1/2
 84 3/4
@@ -2910,7 +2910,7 @@ L bf
 good try,
 ---
 2
-Space Cowboy-123 (Ramirez, Esgar)
+Space-Cowboy-123 (Ramirez, Esgar)
 128
 L bf
 2
@@ -3080,7 +3080,7 @@ Kj Born to Be Wild
 31/2
 31 1/4
 2
-Space Cowboy-123
+Space-Cowboy-123
 9
 41 1/2
 43

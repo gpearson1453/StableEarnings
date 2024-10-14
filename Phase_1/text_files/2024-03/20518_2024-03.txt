@@ -802,7 +802,7 @@ L bh
 brk out, vied, wknd
 8Mar24 7LAD8
 6
-Legend Stone 77 (Pina, Modesto)
+Legend-Stone-77 (Pina, Modesto)
 126
 L bfk
 6
@@ -939,7 +939,7 @@ Polly Wagon
 21
 52
 6
-Legend Stone 77
+Legend-Stone-77
 1
 31
 62 1/4

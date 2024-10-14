@@ -1277,7 +1277,7 @@ Super Chewy Mickey (Garcia, Jr., Juan)
 even effort
 24May24 7HOU2
 4
-All American Stone77 (Pina, Modesto)
+All-American-Stone77 (Pina, Modesto)
 125 L bfk
 4
 6
@@ -1421,7 +1421,7 @@ Super Chewy Mickey
 4Neck
 41 3/4
 4
-All American Stone77
+All-American-Stone77
 6
 61
 62 1/4

@@ -793,7 +793,7 @@ City of Blood (Flores, James)
 clear path
 19Jul24 5RUI1
 6
-Dragon Fire 66 (Martinez, Luis)
+Dragon-Fire-66 (Martinez, Luis)
 124 L bk
 5
 4
@@ -914,7 +914,7 @@ City of Blood
 4Neck
 41 1/2
 6
-Dragon Fire 66
+Dragon-Fire-66
 4
 43/4
 53/4
@@ -1790,7 +1790,7 @@ Ketzal (Cardenas, Christian)
 forced out start
 25May24 1DED4
 5
-Mark 536 (Calderon, Francisco)
+Mark-536 (Calderon, Francisco)
 124 L bfk
 5
 1
@@ -1936,7 +1936,7 @@ Ketzal
 4Neck
 43/4
 5
-Mark 536
+Mark-536
 1
 2Head
 53/4

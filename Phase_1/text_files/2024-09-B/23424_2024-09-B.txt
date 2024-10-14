@@ -1030,7 +1030,7 @@ Stormin Cartel (Belloc, Jr., Joseph)
 veered in start
 1Sep24 12ALB3
 7
-Why Not Me 2 (Martinez, Luis)
+Why-Not-Me-2 (Martinez, Luis)
 124 L bfk
 7
 6
@@ -1187,7 +1187,7 @@ Stormin Cartel
 32 1/2
 32 3/4
 7
-Why Not Me 2
+Why-Not-Me-2
 6
 52 1/2
 43
@@ -2091,7 +2091,7 @@ Six Martinis Bdp (Gutierrez, Manuel)
 clear path, steady bid
 9Aug24 4ALB5
 5
-Dragon Fire 66 (Martinez, Luis)
+Dragon-Fire-66 (Martinez, Luis)
 124 L bk
 4
 7
@@ -2223,7 +2223,7 @@ Six Martinis Bdp
 21/2
 33/4
 5
-Dragon Fire 66
+Dragon-Fire-66
 7
 53/4
 51 1/4

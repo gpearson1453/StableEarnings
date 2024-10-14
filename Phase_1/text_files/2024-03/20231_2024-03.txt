@@ -854,7 +854,7 @@ Conflict (Leos, Jaime)
 no rally,
 ---
 6
-Flying Cowgirl 123 (Tapia, Emilio)
+Flying-Cowgirl-123 (Tapia, Emilio)
 124 L bfk
 6
 8
@@ -983,7 +983,7 @@ Conflict
 74 3/4
 85
 6
-Flying Cowgirl 123
+Flying-Cowgirl-123
 8
 104
 105

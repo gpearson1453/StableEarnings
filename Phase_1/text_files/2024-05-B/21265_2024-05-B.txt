@@ -60,7 +60,7 @@ Tf Jess Toasted (Alvarez, Arturo)
 late rush,up for show
 27Apr24 6DED1
 9
-Mark 536 (Hernandez, Jr., Ricardo)
+Mark-536 (Hernandez, Jr., Ricardo)
 124 L bfk
 9
 9
@@ -213,7 +213,7 @@ Tf Jess Toasted
 52 1/2
 32
 9
-Mark 536
+Mark-536
 9
 83
 83

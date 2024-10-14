@@ -225,7 +225,7 @@ Odds Ind. Time
 Sp. In. Comments
 24Mar24 8RP1
 8
-Flying Nova 123 (Cruz, Roman)
+Flying-Nova-123 (Cruz, Roman)
 124 L b
 8
 3
@@ -329,7 +329,7 @@ Tentadorra (Klaiber, Justine)
 pinched back break
 Run-Up: 0 feet
 Winner:
-Flying Nova 123, Black Filly, by Flying Cowboy-123 out of Sr Shegone, by Mighty B Valiant. Foaled Mar 10, 2022 in Oklahoma.
+Flying-Nova-123, Black Filly, by Flying Cowboy-123 out of Sr Shegone, by Mighty B Valiant. Foaled Mar 10, 2022 in Oklahoma.
 Breeder: Rick or Connie Dickson
 Owner: Dickson, Rick and Connie
 Trainer: Ruiz, Jesus
@@ -339,7 +339,7 @@ Win
 Place
 Show
 8
-Flying Nova 123
+Flying-Nova-123
 2.10
 2.10
 2.10
@@ -377,7 +377,7 @@ Str 1
 Str
 Fin
 8
-Flying Nova 123
+Flying-Nova-123
 3
 1Head
 11

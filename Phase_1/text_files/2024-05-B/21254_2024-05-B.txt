@@ -3616,7 +3616,7 @@ Spicy Cowgirl (Ramirez, Ricky)
 veered in,vied,gamely
 17Mar24 3SUN9
 5
-Rational Cowgirl 337 (Martinez, Luis)
+Rational-Cowgirl-337 (Martinez, Luis)
 124 L bfk
 3
 3
@@ -3701,7 +3701,7 @@ Spicy Cowgirl
 11.00
 5.20
 5
-Rational Cowgirl 337
+Rational-Cowgirl-337
 6.40
 Wager Type
 Winning Numbers
@@ -3738,7 +3738,7 @@ Spicy Cowgirl
 2Head
 2Neck
 5
-Rational Cowgirl 337
+Rational-Cowgirl-337
 3
 3Head
 3Head

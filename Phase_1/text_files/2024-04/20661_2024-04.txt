@@ -760,7 +760,7 @@ Favorite Cowgirl 123 (Escobedo, Edwin)
 unable to sustain bid
 16Mar24 4RP5
 6
-Fly Girl 123 (Delgado, Mario)
+Fly-Girl-123 (Delgado, Mario)
 124 L bfk
 6
 7
@@ -880,7 +880,7 @@ Favorite Cowgirl 123
 43/4
 42
 6
-Fly Girl 123
+Fly-Girl-123
 7
 61/2
 51 1/4

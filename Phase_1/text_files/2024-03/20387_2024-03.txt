@@ -739,7 +739,7 @@ L b
 unable to match stride
 ---
 6
-Fly Girl 123 (Brooks, Jimmy)
+Fly-Girl-123 (Brooks, Jimmy)
 124
 L bf
 6
@@ -880,7 +880,7 @@ Rr Eagles Path
 42 1/4
 42
 6
-Fly Girl 123
+Fly-Girl-123
 6
 53 1/4
 54

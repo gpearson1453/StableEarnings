@@ -301,7 +301,7 @@ L bf
 broke out,steady close
 3Aug24 2ALB2
 5
-Rational Cowgirl 337 (Escobedo, Edwin)
+Rational-Cowgirl-337 (Escobedo, Edwin)
 124
 L bfk
 5
@@ -446,7 +446,7 @@ Cali Ann Te
 43/4
 41
 5
-Rational Cowgirl 337
+Rational-Cowgirl-337
 6
 61 1/4
 52 1/2

@@ -2278,7 +2278,7 @@ L ko
 out finished for place
 5Jul24 6RET6
 4
-Legend Stone 77 (Duran, Nestor)
+Legend-Stone-77 (Duran, Nestor)
 124
 L fh
 4
@@ -2435,7 +2435,7 @@ T N a Money Wagon
 41 1/4
 33/4
 4
-Legend Stone 77
+Legend-Stone-77
 1
 1Head
 41
