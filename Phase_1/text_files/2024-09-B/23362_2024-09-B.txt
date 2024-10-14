@@ -259,7 +259,7 @@ BL bf
 up for third
 31Aug24 4SWF1
 1
-Miz 307 (Canales, Jesus)
+Miz-307 (Canales, Jesus)
 128
 BL bfk
 1
@@ -377,7 +377,7 @@ Bittons Knud Romantz
 41 1/4
 32 1/4
 1
-Miz 307
+Miz-307
 4
 2Nose
 42 1/4
@@ -1262,7 +1262,7 @@ BL bf
 flew late for win
 17Aug24 1SWF7
 1
-Flight 300 (Cardenas, Jacob)
+Flight-300 (Cardenas, Jacob)
 124
 B b
 1
@@ -1355,7 +1355,7 @@ Ba Coronas Silk
 3.80
 2.20
 1
-Flight 300
+Flight-300
 3.40
 2.20
 5
@@ -1396,7 +1396,7 @@ Ba Coronas Silk
 2Nose
 1Neck
 1
-Flight 300
+Flight-300
 1
 1Nose
 2Neck

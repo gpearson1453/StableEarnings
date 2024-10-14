@@ -861,7 +861,7 @@ L bk
 flattened
 3Aug24 9RET6
 6
-Slv 956 (Urieta, Jr., Victor)
+Slv-956 (Urieta, Jr., Victor)
 125
 L bfk
 6
@@ -995,7 +995,7 @@ El Ratton
 52 1/4
 61 1/2
 6
-Slv 956
+Slv-956
 9
 82 1/2
 71 3/4

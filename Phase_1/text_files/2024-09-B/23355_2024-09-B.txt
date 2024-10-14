@@ -1871,7 +1871,7 @@ Favorite Mvp Z (Vivanco, Luis)
 edged clear
 9Aug24 5ALB9
 2
-Fast Flyer 123 (Urieta, Jr., Victor)
+Fast-Flyer-123 (Urieta, Jr., Victor)
 124 bk
 2
 4
@@ -2003,7 +2003,7 @@ Favorite Mvp Z
 2.80
 2.40
 2
-Fast Flyer 123
+Fast-Flyer-123
 4.60
 3.40
 3
@@ -2050,7 +2050,7 @@ Favorite Mvp Z
 11
 11 1/4
 2
-Fast Flyer 123
+Fast-Flyer-123
 4
 31
 21

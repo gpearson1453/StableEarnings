@@ -1160,7 +1160,7 @@ Fabulous Fonz (Reyes, Eric)
 needed late bid
 18Jul21 2GIL2
 11
-Lethal Cowboy Jessie (Olivo, Jose)
+Lethal-Cowboy Jessie (Olivo, Jose)
 124 L bk
 10
 9
@@ -1332,7 +1332,7 @@ Fabulous Fonz
 42 1/2
 42 3/4
 11
-Lethal Cowboy Jessie
+Lethal-Cowboy Jessie
 9
 72 1/4
 53

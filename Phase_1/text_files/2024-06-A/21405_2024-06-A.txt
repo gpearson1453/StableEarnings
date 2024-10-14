@@ -243,7 +243,7 @@ Odds Ind. Time
 Sp. In. Comments
 9May24 4RP3
 3
-Fast Flyer 123 (Candanosa, Bryan)
+Fast-Flyer-123 (Candanosa, Bryan)
 124 L bk
 3
 1
@@ -256,7 +256,7 @@ Fast Flyer 123 (Candanosa, Bryan)
 brk in, boogied
 11May24 2RP4
 1
-Big Country 2 (Hernandez-Gallardo, Javier)
+Big-Country-2 (Hernandez-Gallardo, Javier)
 125 L bfk
 1
 4
@@ -373,7 +373,7 @@ Salsa Corona (Torres, Daniel)
 big bobble at break
 Run-Up: 0 feet
 Winner:
-Fast Flyer 123, Sorrel Colt, by Flying Cowboy-123 out of Uptowne Babe, by Mr Jess Perry. Foaled Apr 02, 2022 in Oklahoma.
+Fast-Flyer-123, Sorrel Colt, by Flying Cowboy-123 out of Uptowne Babe, by Mr Jess Perry. Foaled Apr 02, 2022 in Oklahoma.
 Breeder: Sam W Green
 Owner: Triple Five
 Trainer: Keeton, Toby
@@ -383,12 +383,12 @@ Win
 Place
 Show
 3
-Fast Flyer 123
+Fast-Flyer-123
 4.00
 2.80
 2.60
 1
-Big Country 2
+Big-Country-2
 12.80
 9.60
 10
@@ -421,13 +421,13 @@ Str 1
 Str
 Fin
 3
-Fast Flyer 123
+Fast-Flyer-123
 1
 1Nose
 11/2
 11/2
 1
-Big Country 2
+Big-Country-2
 4
 2Nose
 21/2

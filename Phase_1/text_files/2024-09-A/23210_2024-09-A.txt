@@ -1687,7 +1687,7 @@ L b
 bumped, hard fought
 10May24 5RP6
 8
-Fifty Three to 8 (Wainscott, Cody)
+Fifty-Three-to-8 (Wainscott, Cody)
 128
 L b
 8
@@ -1832,7 +1832,7 @@ Wr Patron
 1Head
 51 3/4
 8
-Fifty Three to 8
+Fifty-Three-to-8
 10
 63/4
 62 1/2

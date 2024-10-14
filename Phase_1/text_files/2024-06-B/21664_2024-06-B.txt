@@ -1264,7 +1264,7 @@ BL bf
 broke best easily
 21Apr24 5WBR1
 6
-Glock 9 (Vorrath, Valente)
+Glock-9 (Vorrath, Valente)
 125
 BL b
 5
@@ -1303,7 +1303,7 @@ BL b
 mid pack no gain
 17May24 1MC1
 5
-DQ-Wrangler 123 (Shepherd, Justin)
+DQ-Wrangler-123 (Shepherd, Justin)
 124
 BL bf
 4
@@ -1334,7 +1334,7 @@ Breeder: Cg Racing Llc
 Owner: CG Racing LLC
 Trainer: Valenzuela, Kylie
 Disqualification(s):
-# 5 Wrangler 123 from 5 to 6
+# 5 Wrangler-123 from 5 to 6
 Scratched Horse(s): Eye Am Splenda (Trainer)
 Total WPS Pool: $1,642
 Pgm Horse
@@ -1347,7 +1347,7 @@ Kaseys Spirit
 3.00
 2.80
 6
-Glock 9
+Glock-9
 3.20
 3.40
 7
@@ -1376,7 +1376,7 @@ Kaseys Spirit
 11/2
 11
 6
-Glock 9
+Glock-9
 1
 21/2
 21
@@ -1391,7 +1391,7 @@ Paint Big Dreams
 41 1/2
 42
 5
-Wrangler 123
+Wrangler-123
 5
 56 1/2
 59 1/4

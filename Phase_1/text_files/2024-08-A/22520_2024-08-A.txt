@@ -1274,7 +1274,7 @@ Moonshynin Diva (Maldonado, Luis)
 close inside,battld on
 20Jul24 5FAR1
 5
-Wrangler 123 (Cervantes, Uriel)
+Wrangler-123 (Cervantes, Uriel)
 122 L
 5
 6
@@ -1401,7 +1401,7 @@ Moonshynin Diva
 32
 33 1/2
 5
-Wrangler 123
+Wrangler-123
 6
 62 1/2
 53

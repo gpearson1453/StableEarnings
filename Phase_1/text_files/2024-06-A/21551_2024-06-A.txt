@@ -1685,7 +1685,7 @@ Space Cowwboyy (Martinez, Luis)
 steady bid, all out
 25May24 6RUI1
 1
-Lethal Cowboy-123 (Ramos, Christian)
+Lethal-Cowboy-123 (Ramos, Christian)
 124 L bf
 1
 1
@@ -1780,7 +1780,7 @@ Space Cowwboyy
 5.40
 4.00
 1
-Lethal Cowboy-123
+Lethal-Cowboy-123
 4.00
 3.20
 2
@@ -1815,7 +1815,7 @@ Space Cowwboyy
 1Head
 11/2
 1
-Lethal Cowboy-123
+Lethal-Cowboy-123
 1
 11/2
 2Head

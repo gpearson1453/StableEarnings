@@ -1931,7 +1931,7 @@ Code Bloo (Iturralde, Omar)
 no mishap
 ---
 3
-Lmg Jet Black 333 (Ramos, Christian)
+Lmg-Jet-Black-333 (Ramos, Christian)
 124 bfk
 3
 5
@@ -2049,7 +2049,7 @@ Code Bloo
 61
 81 3/4
 3
-Lmg Jet Black 333
+Lmg-Jet-Black-333
 5
 71 1/2
 94

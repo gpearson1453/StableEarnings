@@ -921,7 +921,7 @@ Tuff Buddy (Vega, Jose)
 bumped break,no rally
 30Oct21 5LS5
 3
-Lethal Cowboy Jessie (Olivo, Jose)
+Lethal-Cowboy Jessie (Olivo, Jose)
 124 L bk
 3
 8
@@ -956,7 +956,7 @@ New Trainer: Alonso Neri
 New Owner: Carlos Ponce
 Claiming Prices:
 5 - Kiss My Cowgirl: $15,000; 4 - Patriot Tlc: $15,000; 2 - Severene: $15,000; 1 - Foxy Hocks: $15,000; 6 - Butch Glory:
-$15,000; 7 - Tuff Buddy: $15,000; 3 - Lethal Cowboy Jessie: $15,000; 8 - The Flash of White: $15,000;
+$15,000; 7 - Tuff Buddy: $15,000; 3 - Lethal-Cowboy Jessie: $15,000; 8 - The Flash of White: $15,000;
 Total WPS Pool: $23,137
 Pgm Horse
 Win
@@ -1049,7 +1049,7 @@ Tuff Buddy
 62 3/4
 62 3/4
 3
-Lethal Cowboy Jessie
+Lethal-Cowboy Jessie
 8
 71 3/4
 72 3/4

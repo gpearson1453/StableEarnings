@@ -1933,7 +1933,7 @@ L bfk
 late rush, missed
 23May24 4DED6
 9
-The 300 (Alvarez, Arturo)
+The-300 (Alvarez, Arturo)
 124
 L bk
 5
@@ -1996,9 +1996,9 @@ Special Rip Tide
 New Trainer: Kenneth Weeks
 New Owner: David Lafton
 Claiming Prices:
-4 - Special Rip Tide: $7,500; 10 - Konviction: $7,500; 9 - The 300: $7,500; 6 - Foose You Babe: $7,500; 1 - Bd Wicked
+4 - Special Rip Tide: $7,500; 10 - Konviction: $7,500; 9 - The-300: $7,500; 6 - Foose You Babe: $7,500; 1 - Bd Wicked
 Quick: $7,500; 3 - Foose Baby: $7,500;
-Scratched Horse(s): Eyesa Sweet One (Veterinarian), Ima Foose Babe (Gate), Le Madame P3 (Veterinarian), Pf Amlo (Veterinarian)
+Scratched Horse(s): Eyesa Sweet One (Veterinarian), Ima Foose Babe (Gate), Le-Madame-P3 (Veterinarian), Pf Amlo (Veterinarian)
 Total WPS Pool: $23,426
 Pgm Horse
 Win
@@ -2014,7 +2014,7 @@ Konviction
 2.60
 2.10
 9
-The 300
+The-300
 3.60
 Wager Type
 Winning Numbers
@@ -2073,7 +2073,7 @@ Konviction
 31/2
 2Head
 9
-The 300
+The-300
 6
 51 1/4
 31/2

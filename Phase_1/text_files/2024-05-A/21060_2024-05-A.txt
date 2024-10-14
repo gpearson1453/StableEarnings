@@ -315,7 +315,7 @@ L b
 sharp, led, caught
 12Apr24 8RP3
 8
-Big Country 2 (Hernandez-Gallardo, Javier)
+Big-Country-2 (Hernandez-Gallardo, Javier)
 127
 L bf
 8
@@ -468,7 +468,7 @@ Rr Crown This Dash
 1Head
 3Neck
 8
-Big Country 2
+Big-Country-2
 10
 82
 42

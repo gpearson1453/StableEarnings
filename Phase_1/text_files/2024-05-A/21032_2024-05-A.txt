@@ -933,7 +933,7 @@ Rdashing Doc (Martinez, L.)
 unable to match
 13Apr24 2RP5
 8
-Fifty Three to 8 (Pulido, Juan)
+Fifty-Three-to-8 (Pulido, Juan)
 124 L b
 7
 6
@@ -1046,7 +1046,7 @@ Rdashing Doc
 41 1/2
 52
 8
-Fifty Three to 8
+Fifty-Three-to-8
 6
 72
 63 1/4
@@ -1636,7 +1636,7 @@ Jmg Gold Me Perry (Rivera, Ali)
 step slow at start
 21Apr24 4RP6
 4
-First Cowboy 727 (Cruz, Roman)
+First-Cowboy-727 (Cruz, Roman)
 124 L b
 4
 8
@@ -1739,7 +1739,7 @@ Jmg Gold Me Perry
 76 1/2
 75
 4
-First Cowboy 727
+First-Cowboy-727
 8
 84 1/4
 89 1/2
@@ -2047,7 +2047,7 @@ Wr Patron (Torres, Jorge)
 unable to match
 19Apr24 4RP5
 8
-Lovepotionumber 9 (Escobedo, Edwin)
+Lovepotionumber-9 (Escobedo, Edwin)
 124 L bf
 8
 1
@@ -2178,7 +2178,7 @@ Wr Patron
 2Head
 33/4
 8
-Lovepotionumber 9
+Lovepotionumber-9
 1
 3Head
 43/4

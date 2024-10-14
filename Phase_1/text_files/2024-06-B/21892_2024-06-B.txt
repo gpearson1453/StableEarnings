@@ -1865,7 +1865,7 @@ Rr Lotta Runforrobyn (Quintero, Francisco)
 up for place, 2nd best
 18May24 9RP2
 6
-Pluto 22 (Diaz, Edgar)
+Pluto-22 (Diaz, Edgar)
 126 L b
 5
 2
@@ -1976,7 +1976,7 @@ Rr Lotta Runforrobyn
 8.20
 4.20
 6
-Pluto 22
+Pluto-22
 3.00
 Wager Type
 Winning Numbers
@@ -2030,7 +2030,7 @@ Rr Lotta Runforrobyn
 21/2
 21/2
 6
-Pluto 22
+Pluto-22
 2
 2Head
 33/4

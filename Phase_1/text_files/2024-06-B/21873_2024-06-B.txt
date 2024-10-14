@@ -546,7 +546,7 @@ Odds Ind. Time
 Sp. In. Comments
 9Jun24 8RUI2
 5
-Lethal Cowboy-123 (Ramos, Christian)
+Lethal-Cowboy-123 (Ramos, Christian)
 124 L bf
 5
 4
@@ -663,7 +663,7 @@ Tex the Legend (Garcia, Ramiro)
 outrun
 Run-Up: 0 feet
 Winner:
-Lethal Cowboy-123, Sorrel Gelding, by Flying Cowboy-123 out of Pretty Lethal, by First Down Dash. Foaled Mar 16, 2022 in California.
+Lethal-Cowboy-123, Sorrel Gelding, by Flying Cowboy-123 out of Pretty Lethal, by First Down Dash. Foaled Mar 16, 2022 in California.
 Breeder: Veronica Gail Kawananakoa
 Owner: Caliche Walls Venture LLC, Isbell, Alan, Bland, Lance and Barton, Jimmy
 Trainer: Jungers, Marc
@@ -673,7 +673,7 @@ Win
 Place
 Show
 5
-Lethal Cowboy-123
+Lethal-Cowboy-123
 3.20
 2.80
 2.10
@@ -707,7 +707,7 @@ Str 1
 Str
 Fin
 5
-Lethal Cowboy-123
+Lethal-Cowboy-123
 4
 31
 1Head

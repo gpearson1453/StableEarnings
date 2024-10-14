@@ -437,7 +437,7 @@ You Drive Baby (Quintero, Francisco)
 no menace
 17Aug24 9IND3
 5
-Pluto 22 (Diaz, Edgar)
+Pluto-22 (Diaz, Edgar)
 126 L b
 5
 7
@@ -556,7 +556,7 @@ You Drive Baby
 41 1/2
 41 3/4
 5
-Pluto 22
+Pluto-22
 7
 61 1/4
 62

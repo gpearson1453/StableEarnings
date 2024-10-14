@@ -521,7 +521,7 @@ BL b
 kicked in gamely
 17Jun24 5PRM2
 5
-Lovepotionumber 9 (Alvidrez, Armando)
+Lovepotionumber-9 (Alvidrez, Armando)
 124
 BL bf
 5
@@ -614,7 +614,7 @@ Isle B Bac
 3.00
 2.20
 5
-Lovepotionumber 9
+Lovepotionumber-9
 2.60
 2.10
 2
@@ -663,7 +663,7 @@ Isle B Bac
 52 1/2
 1Head
 5
-Lovepotionumber 9
+Lovepotionumber-9
 1
 31 1/2
 2Head

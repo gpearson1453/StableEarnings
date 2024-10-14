@@ -829,7 +829,7 @@ Odds Ind. Time
 Sp. In. Comments
 3Jul24 2PRM5
 5
-Wrangler 123 (Cervantes, Uriel)
+Wrangler-123 (Cervantes, Uriel)
 122 L
 5
 1
@@ -907,7 +907,7 @@ Rebs Royal Volcom (Seestheground, Kobe)
 battled inside
 Run-Up: 0 feet
 Winner:
-Wrangler 123, Brown Gelding, by Flying Cowboy-123 out of Marmolly, by Freighttrain B. Foaled May 20, 2022 in North Dakota.
+Wrangler-123, Brown Gelding, by Flying Cowboy-123 out of Marmolly, by Freighttrain B. Foaled May 20, 2022 in North Dakota.
 Breeder: Billy Buchholz
 Owner: Billy Buchholz
 Trainer: Johnson, Robert
@@ -917,7 +917,7 @@ Win
 Place
 Show
 5
-Wrangler 123
+Wrangler-123
 4.20
 3.00
 2.60
@@ -955,7 +955,7 @@ Str 1
 Str
 Fin
 5
-Wrangler 123
+Wrangler-123
 1
 11
 12 1/2

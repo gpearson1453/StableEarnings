@@ -1683,7 +1683,7 @@ L bh
 outkicked late
 12Jul24 4FMT3
 9
-Little Country 2 (Gutierrez, Gonzalo)
+Little-Country-2 (Gutierrez, Gonzalo)
 128
 L bk
 9
@@ -1815,7 +1815,7 @@ Famous Cash Equity
 61 1/2
 72 1/2
 9
-Little Country 2
+Little-Country-2
 7
 81 3/4
 83 3/4

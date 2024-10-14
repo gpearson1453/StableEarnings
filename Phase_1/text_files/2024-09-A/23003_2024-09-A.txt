@@ -733,7 +733,7 @@ Ladys First Storm (Enriquez, Jose)
 off slowly, veered out
 19Jul24 5RUI7
 5
-Lmg Jet Black 333 (Escobedo, Edwin)
+Lmg-Jet-Black-333 (Escobedo, Edwin)
 124 bfk
 4
 3
@@ -833,7 +833,7 @@ Ladys First Storm
 75 1/2
 76 1/2
 5
-Lmg Jet Black 333
+Lmg-Jet-Black-333
 3
 83 1/2
 88 1/2

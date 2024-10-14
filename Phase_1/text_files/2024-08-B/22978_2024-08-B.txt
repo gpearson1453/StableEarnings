@@ -648,7 +648,7 @@ Odds Ind. Time
 Sp. In. Comments
 18Aug24 5SWF1
 6
-Miz 307 (Canales, Jesus)
+Miz-307 (Canales, Jesus)
 128
 BL bfk
 6
@@ -739,7 +739,7 @@ BL b
 bore in start
 Run-Up: 0 feet
 Winner:
-Miz 307, Sorrel Filly, by Junior June Bug out of Brindis Secret, by Brindis Por Cayenne. Foaled Mar 07, 2022 in Wyoming.
+Miz-307, Sorrel Filly, by Junior June Bug out of Brindis Secret, by Brindis Por Cayenne. Foaled Mar 07, 2022 in Wyoming.
 Breeder: Dan or Kim Lapierre
 Owner: Triple G Racing LLC
 Trainer: Garfias, Diana
@@ -749,7 +749,7 @@ Win
 Place
 Show
 6
-Miz 307
+Miz-307
 2.60
 2.80
 2.10
@@ -786,7 +786,7 @@ Start
 Str
 Fin
 6
-Miz 307
+Miz-307
 1
 11/2
 11

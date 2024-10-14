@@ -1604,7 +1604,7 @@ Mysterious Cartel (Moreno, Cesar)
 flew late outside
 11Aug24 10WYO8
 2
-Glock 9 (Valenzuela, Jesus)
+Glock-9 (Valenzuela, Jesus)
 127 BL bf
 2
 2
@@ -1710,7 +1710,7 @@ Mysterious Cartel
 3.60
 2.60
 2
-Glock 9
+Glock-9
 3.60
 2.40
 4
@@ -1749,7 +1749,7 @@ Mysterious Cartel
 3Head
 13/4
 2
-Glock 9
+Glock-9
 2
 2Nose
 2Nose

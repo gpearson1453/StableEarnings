@@ -278,7 +278,7 @@ Odds Ind. Time
 Sp. In. Comments
 25May24 1EDR3
 7
-Miz 307 (Del Cid, Ricardo)
+Miz-307 (Del Cid, Ricardo)
 127 BL bfk
 7
 1
@@ -407,7 +407,7 @@ Tempetuous (Arriola-Serrano, Jose)
 veered out lost rider
 Run-Up: 0 feet
 Winner:
-Miz 307, Sorrel Filly, by Junior June Bug out of Brindis Secret, by Brindis Por Cayenne. Foaled Mar 07, 2022 in Wyoming.
+Miz-307, Sorrel Filly, by Junior June Bug out of Brindis Secret, by Brindis Por Cayenne. Foaled Mar 07, 2022 in Wyoming.
 Breeder: Dan or Kim Lapierre
 Owner: Triple G Racing LLC
 Trainer: Garfias, Diana
@@ -417,7 +417,7 @@ Win
 Place
 Show
 7
-Miz 307
+Miz-307
 6.20
 2.80
 2.20
@@ -451,7 +451,7 @@ Str 1
 Str
 Fin
 7
-Miz 307
+Miz-307
 1
 11/2
 11

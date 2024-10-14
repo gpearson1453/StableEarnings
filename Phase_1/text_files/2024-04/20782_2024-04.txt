@@ -466,7 +466,7 @@ Ind. Time
 Sp. In.Comments
 ---
 6
-Glock 9 (Valenzuela, Jesus)
+Glock-9 (Valenzuela, Jesus)
 124
 BL bf
 6
@@ -574,7 +574,7 @@ BL b
 bore in start
 Run-Up: 0 feet
 Winner:
-Glock 9, Sorrel Colt, by Glock out of Stoliwood, by Sushiwood. Foaled Apr 20, 2022 in Utah.
+Glock-9, Sorrel Colt, by Glock out of Stoliwood, by Sushiwood. Foaled Apr 20, 2022 in Utah.
 Breeder: Michael W Isom
 Owner: Mike Isom
 Trainer: Valenzuela, Kylie
@@ -585,7 +585,7 @@ Start
 Str
 Fin
 6
-Glock 9
+Glock-9
 2
 1Neck
 11

@@ -1069,7 +1069,7 @@ BL b
 broke slw in tight
 16Jun24 7EDR2
 10
-Glock 9 (Garcia, Noe)
+Glock-9 (Garcia, Noe)
 131
 BL b
 9
@@ -1170,7 +1170,7 @@ Game for Tarzan
 84 1/2
 73 3/4
 10
-Glock 9
+Glock-9
 7
 74
 84 1/2

@@ -2089,7 +2089,7 @@ El Capitan de Capi (Pulido, Juan)
 led every step
 12Apr24 4RP4
 9
-Pluto 22 (Delgado, Mario)
+Pluto-22 (Delgado, Mario)
 124 L b
 8
 3
@@ -2209,7 +2209,7 @@ El Capitan de Capi
 3.40
 2.10
 9
-Pluto 22
+Pluto-22
 4.60
 2.40
 7
@@ -2248,7 +2248,7 @@ El Capitan de Capi
 11
 1Head
 9
-Pluto 22
+Pluto-22
 3
 43/4
 21

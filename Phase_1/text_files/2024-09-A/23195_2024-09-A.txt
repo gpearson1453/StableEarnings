@@ -1276,7 +1276,7 @@ BL b
 no final kick
 14Sep24 7SWF2
 3
-Flight 300 (Kellenberger, Kody)
+Flight-300 (Kellenberger, Kody)
 124
 BL b
 3
@@ -1385,7 +1385,7 @@ Papas Tribe
 51/2
 71 1/2
 3
-Flight 300
+Flight-300
 7
 4Neck
 81 1/2

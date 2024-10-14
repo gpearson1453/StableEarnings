@@ -1887,7 +1887,7 @@ Mini Macho (Dow, Bobby)
 bumped start,forced in
 14Aug20 4RET3
 1
-Lethal Cowboy Jessie (Aguilar, Claudio)
+Lethal-Cowboy Jessie (Aguilar, Claudio)
 126 L bfk
 1
 9
@@ -2016,7 +2016,7 @@ Mini Macho
 95
 84
 1
-Lethal Cowboy Jessie
+Lethal-Cowboy Jessie
 9
 104
 105

@@ -707,7 +707,7 @@ Catchn Southern Rays (Esqueda, Cristian)
 brshd brk, outdueled
 18Apr24 3RP8
 2
-Fast Flyer 123 (Candanosa, Bryan)
+Fast-Flyer-123 (Candanosa, Bryan)
 124 L bk
 2
 5
@@ -792,7 +792,7 @@ Catchn Southern Rays
 2.60
 2.20
 2
-Fast Flyer 123
+Fast-Flyer-123
 2.40
 Wager Type
 Winning Numbers
@@ -829,7 +829,7 @@ Catchn Southern Rays
 2Nose
 2Head
 2
-Fast Flyer 123
+Fast-Flyer-123
 5
 43/4
 31

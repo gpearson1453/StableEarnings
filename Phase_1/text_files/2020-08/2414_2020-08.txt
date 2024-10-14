@@ -783,7 +783,7 @@ La Inseparable (Vivanco, Luis)
 bobbled, led, hung
 ---
 7
-Lethal Cowboy Jessie (Aguilar, Claudio)
+Lethal-Cowboy Jessie (Aguilar, Claudio)
 126 L bfk
 7
 3
@@ -893,7 +893,7 @@ La Inseparable
 2.20
 2.10
 7
-Lethal Cowboy Jessie
+Lethal-Cowboy Jessie
 3.40
 Wager Type
 Winning Numbers
@@ -938,7 +938,7 @@ La Inseparable
 1Head
 21/2
 7
-Lethal Cowboy Jessie
+Lethal-Cowboy Jessie
 3
 51/2
 31

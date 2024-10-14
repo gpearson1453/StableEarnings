@@ -216,7 +216,7 @@ BL b
 edging up late
 14Jul24 3PRM6
 6
-Nsm Viking 63 (Smith, Stormy)
+Nsm-Viking-63 (Smith, Stormy)
 124
 BL bk
 5
@@ -273,7 +273,7 @@ Breeder: Aldai Transport
 Owner: Patrick E. Swan
 Trainer: Swan, Patrick
 Claiming Prices:
-3 - Kiss of Fire: $12,500; 5 - Aces Flyin Bye: $12,500; 6 - Nsm Viking 63: $12,500; 4 - Little Sister Run: $12,500; 7 - Bp
+3 - Kiss of Fire: $12,500; 5 - Aces Flyin Bye: $12,500; 6 - Nsm-Viking-63: $12,500; 4 - Little Sister Run: $12,500; 7 - Bp
 April: $12,500; 2 - Light My Lipz: $12,500;
 Scratched Horse(s): Tell America (Veterinarian)
 Total WPS Pool: $14,306
@@ -291,7 +291,7 @@ Aces Flyin Bye
 3.00
 2.10
 6
-Nsm Viking 63
+Nsm-Viking-63
 3.20
 Wager Type
 Winning Numbers
@@ -337,7 +337,7 @@ Aces Flyin Bye
 32
 2Neck
 6
-Nsm Viking 63
+Nsm-Viking-63
 4
 43
 31

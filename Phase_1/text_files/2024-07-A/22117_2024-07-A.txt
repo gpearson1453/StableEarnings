@@ -808,7 +808,7 @@ L b
 stumbled brk,recovered
 22Jun24 6FMT5
 7
-Little Country 2 (Gutierrez, Gonzalo)
+Little-Country-2 (Gutierrez, Gonzalo)
 128
 L bk
 6
@@ -891,7 +891,7 @@ Breeder: Double A Ranch
 Owner: Double A Ranch, Inc.
 Trainer: Gonzalez, Raymond
 Claiming Prices:
-9 - Wagon Fulla Ethics: $15,000; 2 - Kg Cartel: $15,000; 7 - Little Country 2: $15,000; 10 - Painted Blood: $15,000; 6 -
+9 - Wagon Fulla Ethics: $15,000; 2 - Kg Cartel: $15,000; 7 - Little-Country-2: $15,000; 10 - Painted Blood: $15,000; 6 -
 Peanut Budder Falcon: $15,000; 1 - Vf Zip N Run: $15,000; 4 - Scalding: $15,000; 3 - Pr Pure Corona Bud: $15,000;
 Scratched Horse(s): Apolliticalbest Card (Veterinarian), Peys Ima China Doll (Veterinarian)
 Total WPS Pool: $4,099
@@ -909,7 +909,7 @@ Kg Cartel
 3.20
 3.40
 7
-Little Country 2
+Little-Country-2
 3.40
 Wager Type
 Winning Numbers
@@ -943,7 +943,7 @@ Kg Cartel
 31/2
 21
 7
-Little Country 2
+Little-Country-2
 1
 1Head
 31 1/4
@@ -2883,7 +2883,7 @@ Odds Ind. Time
 Sp. In. Comments
 10May24 8RP8
 2
-First Cowboy 727 (Raudales, Rolando)
+First-Cowboy-727 (Raudales, Rolando)
 124
 L bf
 2
@@ -3000,7 +3000,7 @@ L bf
 fell back, outrun
 Run-Up: 0 feet
 Winner:
-First Cowboy 727, Chestnut Colt, by Flying Cowboy-123 out of First You Runaway, by First Down Dash. Foaled May 17, 2022 in Oklahoma.
+First-Cowboy-727, Chestnut Colt, by Flying Cowboy-123 out of First You Runaway, by First Down Dash. Foaled May 17, 2022 in Oklahoma.
 Breeder: J Santos Espinoza
 Owner: J. Santos Espinoza
 Trainer: Valdivia, Nathan
@@ -3011,7 +3011,7 @@ Win
 Place
 Show
 2
-First Cowboy 727
+First-Cowboy-727
 35.20
 13.00
 7.80
@@ -3064,7 +3064,7 @@ Start
 Str
 Fin
 2
-First Cowboy 727
+First-Cowboy-727
 5
 31/2
 1Nose

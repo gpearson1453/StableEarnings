@@ -44,7 +44,7 @@ B b
 veered in sharply
 ---
 3
-Miz 307 (Del Cid, Ricardo)
+Miz-307 (Del Cid, Ricardo)
 124
 BL b
 3
@@ -155,7 +155,7 @@ Bv Camila
 4.80
 4.80
 3
-Miz 307
+Miz-307
 9.60
 Wager Type
 Winning Numbers
@@ -185,7 +185,7 @@ Bv Camila
 21
 21 1/4
 3
-Miz 307
+Miz-307
 4
 31
 31 1/2

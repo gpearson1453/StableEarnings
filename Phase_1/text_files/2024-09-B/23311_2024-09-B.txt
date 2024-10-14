@@ -1494,7 +1494,7 @@ Dynastys Diamond (Andrade, Jr., Oscar)
 drifted out, no factor
 1Aug24 10RET4
 1
-Fine Wine M3 (Vivanco, Luis)
+Fine-Wine-M3 (Vivanco, Luis)
 125 bfk
 1
 9
@@ -1614,7 +1614,7 @@ Dynastys Diamond
 107 3/4
 96 3/4
 1
-Fine Wine M3
+Fine-Wine-M3
 9
 95
 96 3/4

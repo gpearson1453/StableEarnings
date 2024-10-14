@@ -2299,7 +2299,7 @@ Dr Pepper 123 (Villatoro, Noe)
 bumped, no menace
 26Apr24 6HOU7
 5
-Fine Wine M3 (Hernandez, Jr., Marco)
+Fine-Wine-M3 (Hernandez, Jr., Marco)
 124 bk
 5
 2
@@ -2351,7 +2351,7 @@ Heza Fast Chilitos (Fuentes, Sergio)
 pin balled around
 8Jun24 5HOU3
 1
-Slv 956 (Vidana, Cipriano)
+Slv-956 (Vidana, Cipriano)
 127 L bfk
 1
 9
@@ -2460,7 +2460,7 @@ Dr Pepper 123
 31
 32
 5
-Fine Wine M3
+Fine-Wine-M3
 2
 43/4
 41 1/2
@@ -2484,7 +2484,7 @@ Heza Fast Chilitos
 93
 74
 1
-Slv 956
+Slv-956
 9
 81 1/2
 82 3/4

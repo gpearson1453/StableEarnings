@@ -377,7 +377,7 @@ Sr Sweet N Easy (Calderon, Francisco)
 solid effort,missed3rd
 20Sep20 8LS9
 7
-Lethal Cowboy Jessie (Aguilar, Claudio)
+Lethal-Cowboy Jessie (Aguilar, Claudio)
 126 L bfk
 7
 10
@@ -461,7 +461,7 @@ Owner: Richard Arizpe
 Trainer: Plunkett, J.
 Claiming Prices:
 5 - L Capone: $20,000; 6 - Princess Classic: $20,000; 1 - Our Prize Fighter: $20,000; 8 - Sr Sweet N Easy: $20,000; 7 -
-Lethal Cowboy Jessie: $20,000; 2 - Check Him Out Again: $20,000; 3 - Greatest Queen: $20,000; 4 - Bl Ms
+Lethal-Cowboy Jessie: $20,000; 2 - Check Him Out Again: $20,000; 3 - Greatest Queen: $20,000; 4 - Bl Ms
 Bodaciousquick: $20,000; 10 - Jess Dashin Down: $20,000; 9 - Mini Macho: $20,000;
 Total WPS Pool: $20,539
 Pgm Horse
@@ -531,7 +531,7 @@ Sr Sweet N Easy
 2Head
 43/4
 7
-Lethal Cowboy Jessie
+Lethal-Cowboy Jessie
 10
 71 3/4
 61 3/4

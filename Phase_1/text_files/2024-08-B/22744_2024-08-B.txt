@@ -96,7 +96,7 @@ BL bf
 early speed
 27May24 1EDR2
 7
-Flight 300 (Larsen, Shaunda)
+Flight-300 (Larsen, Shaunda)
 124
 B b
 7
@@ -198,7 +198,7 @@ Cd Rock Candy
 61
 63
 7
-Flight 300
+Flight-300
 8
 72
 75

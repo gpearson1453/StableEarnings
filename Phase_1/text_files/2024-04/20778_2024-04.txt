@@ -801,7 +801,7 @@ L b
 mid pack duel
 12Apr24 2RP8
 9
-First Cowboy 727 (Pulido, Juan)
+First-Cowboy-727 (Pulido, Juan)
 124
 L b
 8
@@ -921,7 +921,7 @@ Dacor
 61/2
 52 1/2
 9
-First Cowboy 727
+First-Cowboy-727
 2
 51/2
 62 1/2

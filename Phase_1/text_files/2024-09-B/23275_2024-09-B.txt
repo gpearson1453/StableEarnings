@@ -309,7 +309,7 @@ Magical Marfa (Torres, Jorge)
 steady try, outfinishd
 26Aug24 3PRM1
 7
-Lovepotionumber 9 (Garcia, Ramiro)
+Lovepotionumber-9 (Garcia, Ramiro)
 124 L bf
 7
 4
@@ -322,7 +322,7 @@ Lovepotionumber 9 (Garcia, Ramiro)
 squeezed midway
 1Jun24 2RP2
 6
-Big Country 2 (Hernandez-Gallardo, Javier)
+Big-Country-2 (Hernandez-Gallardo, Javier)
 125 L bfk
 6
 3
@@ -432,13 +432,13 @@ Magical Marfa
 4Neck
 61 1/4
 7
-Lovepotionumber 9
+Lovepotionumber-9
 4
 91/2
 83/4
 71 3/4
 6
-Big Country 2
+Big-Country-2
 3
 5Neck
 71/2
@@ -572,7 +572,7 @@ Blue Kisses (Gutierrez, Gonzalo)
 clean trip
 12Jul24 12FMT1
 4
-First Cowboy 727 (Raudales, Rolando)
+First-Cowboy-727 (Raudales, Rolando)
 126 L bf
 4
 8
@@ -692,7 +692,7 @@ Blue Kisses
 71
 73
 4
-First Cowboy 727
+First-Cowboy-727
 8
 83/4
 82

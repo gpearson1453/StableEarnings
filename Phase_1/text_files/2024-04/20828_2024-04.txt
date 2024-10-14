@@ -1409,7 +1409,7 @@ Sharpmountainsenator (Vivanco, Luis)
 broke well, weakened
 ---
 9
-Fine Wine M3 (Alvizo, Rene)
+Fine-Wine-M3 (Alvizo, Rene)
 126 bf
 9
 10
@@ -1549,7 +1549,7 @@ Sharpmountainsenator
 63 1/4
 63 3/4
 9
-Fine Wine M3
+Fine-Wine-M3
 10
 71/2
 73 1/4
@@ -1873,7 +1873,7 @@ Coronas Valentine Z (Duran, Nestor)
 gamely, up for place
 ---
 10
-Slv 956 (Vidana, Cipriano)
+Slv-956 (Vidana, Cipriano)
 124 L bfk
 10
 9
@@ -1998,7 +1998,7 @@ Coronas Valentine Z
 6.60
 5.60
 10
-Slv 956
+Slv-956
 14.80
 Wager Type
 Winning Numbers
@@ -2043,7 +2043,7 @@ Coronas Valentine Z
 41 1/4
 21/2
 10
-Slv 956
+Slv-956
 9
 51/2
 31

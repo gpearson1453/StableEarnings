@@ -2088,7 +2088,7 @@ Enshilada (Andrade, Jr., Oscar)
 no menace
 20Apr24 3HOU2
 9
-Pyc Babys Secret 45 (Ruiz, Luis)
+Pyc-Babys-Secret-45 (Ruiz, Luis)
 124 L hfk
 9
 1
@@ -2211,7 +2211,7 @@ Enshilada
 72
 72
 9
-Pyc Babys Secret 45
+Pyc-Babys-Secret-45
 1
 81 1/2
 83 1/2

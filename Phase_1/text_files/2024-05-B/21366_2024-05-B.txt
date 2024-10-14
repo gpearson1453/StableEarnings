@@ -789,7 +789,7 @@ L bfk
 mild bid, evenly
 10May24 3DED3
 4
-Le Madame P3 (Luna, Ubaldo)
+Le-Madame-P3 (Luna, Ubaldo)
 125
 L bf
 4
@@ -847,7 +847,7 @@ Owner: Ricardo Mendoza
 Trainer: Flores, Salvador
 Claiming Prices:
 2 - Jess Joseph M: $15,000; 3 - Maria Isabella: $15,000; 8 - Fullmoon Fast Dash: $15,000; 9 - Eye B Jammin: $15,000;
-1 - Special Rip Tide: $15,000; 6 - Konviction: $15,000; 4 - Le Madame P3: $15,000; 10 - Sunday Sinner: $15,000; 5 - Tf
+1 - Special Rip Tide: $15,000; 6 - Konviction: $15,000; 4 - Le-Madame-P3: $15,000; 10 - Sunday Sinner: $15,000; 5 - Tf
 Kates Rip Tide: $15,000; 7 - Juss Serious: $15,000;
 Total WPS Pool: $23,517
 Pgm Horse
@@ -929,7 +929,7 @@ Konviction
 43/4
 61 1/4
 4
-Le Madame P3
+Le-Madame-P3
 6
 53/4
 71 1/2

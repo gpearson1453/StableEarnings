@@ -271,7 +271,7 @@ Summer Favorite (Alvidrez, Armando)
 captured show
 29Jul24 5PRM5
 2
-Kool Cowboy-123 (Garcia, Ramiro)
+Kool-Cowboy-123 (Garcia, Ramiro)
 124 BL bfk
 2
 3
@@ -380,7 +380,7 @@ Summer Favorite
 41
 3Neck
 2
-Kool Cowboy-123
+Kool-Cowboy-123
 3
 31
 31/2
@@ -516,7 +516,7 @@ Suds (Navarrete, Jr., Eugenio)
 gave way
 4Aug24 7FAR4
 3
-Wrangler 123 (Smith, Stormy)
+Wrangler-123 (Smith, Stormy)
 125 BL
 3
 4
@@ -640,7 +640,7 @@ Suds
 74 1/4
 74 1/2
 3
-Wrangler 123
+Wrangler-123
 4
 41 3/4
 84 3/4

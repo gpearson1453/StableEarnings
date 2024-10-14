@@ -619,7 +619,7 @@ L b
 void of response
 ---
 8
-Fast Flyer 123 (Candanosa, Bryan)
+Fast-Flyer-123 (Candanosa, Bryan)
 125
 L bk
 8
@@ -736,7 +736,7 @@ Moonshynin Diva
 71 1/2
 72
 8
-Fast Flyer 123
+Fast-Flyer-123
 8
 82 1/2
 82 1/2

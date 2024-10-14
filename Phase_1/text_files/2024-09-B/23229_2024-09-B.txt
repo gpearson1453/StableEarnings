@@ -1113,7 +1113,7 @@ Gray Thorns (Gutirrez, Hugo)
 brk thru gate,drift in
 17Aug24 3FG5
 8
-Le Madame P3 (Luna, Ubaldo)
+Le-Madame-P3 (Luna, Ubaldo)
 125 L bf
 7
 1
@@ -1196,7 +1196,7 @@ Breeder: Grant Farms Llc
 Owner: Harry Stratton
 Trainer: Manucy, Joseph
 Claiming Prices:
-6 - Famousflyingfreight: $20,000; 5 - Sweet Drink: $20,000; 3 - Gray Thorns: $20,000; 8 - Le Madame P3: $20,000; 9 -
+6 - Famousflyingfreight: $20,000; 5 - Sweet Drink: $20,000; 3 - Gray Thorns: $20,000; 8 - Le-Madame-P3: $20,000; 9 -
 Ks Eagle Quick: $20,000; 4 - Aunt Ila: $20,000; 7 - Zoomin Prize Perry: $20,000; 10 - Flamboyant Eagle: $20,000; 2 -
 Sizzlin Cartel Blue: $20,000;
 Scratched Horse(s): Free Guns (Gate)
@@ -1274,7 +1274,7 @@ Gray Thorns
 4Neck
 3Head
 8
-Le Madame P3
+Le-Madame-P3
 1
 1Head
 1Head

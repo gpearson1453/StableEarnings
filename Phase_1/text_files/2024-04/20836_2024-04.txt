@@ -635,7 +635,7 @@ Hope to Be Famous (Gutierrez, Arnulfo)
 broke in, no kick
 ---
 7
-The 300 (Alvarez, David)
+The-300 (Alvarez, David)
 125 L bk
 7
 8
@@ -747,7 +747,7 @@ Hope to Be Famous
 73 3/4
 84
 7
-The 300
+The-300
 8
 93 1/2
 95

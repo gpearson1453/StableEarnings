@@ -139,7 +139,7 @@ Jetblackglory (Ramos, Christian)
 bumped start, came in
 31May24 8RUI9
 4
-Lmg Jet Black 333 (Muniz, Jordy)
+Lmg-Jet-Black-333 (Muniz, Jordy)
 124 bfk
 4
 10
@@ -250,7 +250,7 @@ Jetblackglory
 96 3/4
 97 1/4
 4
-Lmg Jet Black 333
+Lmg-Jet-Black-333
 10
 104 3/4
 107 3/4

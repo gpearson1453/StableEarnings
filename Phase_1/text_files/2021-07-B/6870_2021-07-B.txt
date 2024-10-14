@@ -236,7 +236,7 @@ L hfk
 driving finish
 7Nov20 2LS5
 3
-Lethal Cowboy Jessie (Olivo, Jose)
+Lethal-Cowboy Jessie (Olivo, Jose)
 125
 L bk
 3
@@ -368,7 +368,7 @@ Rc Deena Jolene
 3.80
 3.00
 3
-Lethal Cowboy Jessie
+Lethal-Cowboy Jessie
 4.00
 4.00
 6
@@ -405,7 +405,7 @@ Rc Deena Jolene
 11
 1Neck
 3
-Lethal Cowboy Jessie
+Lethal-Cowboy Jessie
 9
 21
 2Neck

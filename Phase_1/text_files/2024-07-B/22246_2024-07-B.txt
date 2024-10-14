@@ -1030,7 +1030,7 @@ Adal (Ramirez, Esgar)
 even effort
 5Jul24 1RUI10
 1
-Lmg Jet Black 333 (Escobedo, Edwin)
+Lmg-Jet-Black-333 (Escobedo, Edwin)
 124 bfk
 1
 7
@@ -1171,7 +1171,7 @@ Adal
 71 3/4
 62 1/4
 1
-Lmg Jet Black 333
+Lmg-Jet-Black-333
 7
 61/2
 43/4

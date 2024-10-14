@@ -2077,7 +2077,7 @@ L bfk
 pinched back
 11Jul24 10RET8
 10
-Slv 956 (Vidana, Cipriano)
+Slv-956 (Vidana, Cipriano)
 127
 L bfk
 9
@@ -2200,7 +2200,7 @@ A Reason for Coinsbr
 72 3/4
 64 1/2
 10
-Slv 956
+Slv-956
 3
 93 1/2
 75 1/4

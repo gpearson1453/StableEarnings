@@ -2071,7 +2071,7 @@ bf
 prominent, saved place
 29Jun24 8IND3
 5
-Pluto 22 (Diaz, Edgar)
+Pluto-22 (Diaz, Edgar)
 129
 L b
 4
@@ -2169,7 +2169,7 @@ Dashin Quick Corona
 5.60
 3.80
 5
-Pluto 22
+Pluto-22
 3.20
 Wager Type
 Winning Numbers
@@ -2220,7 +2220,7 @@ Dashin Quick Corona
 2Neck
 21/2
 5
-Pluto 22
+Pluto-22
 1
 33/4
 33/4

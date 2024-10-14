@@ -31,7 +31,7 @@ BL b
 broke best drift out
 ---
 7
-Flight 300 (Kellenberger, Kody)
+Flight-300 (Kellenberger, Kody)
 124
 B b
 7
@@ -163,7 +163,7 @@ Mr Volaris
 2.40
 2.80
 7
-Flight 300
+Flight-300
 13.20
 11.40
 10
@@ -192,7 +192,7 @@ Mr Volaris
 1Head
 1Neck
 7
-Flight 300
+Flight-300
 3
 31
 2Neck

@@ -321,7 +321,7 @@ Relentless Bling (Silva, Agustin)
 failed to menace
 ---
 6
-First Cowboy 727 (Esqueda, Erik)
+First-Cowboy-727 (Esqueda, Erik)
 124 L b
 6
 8
@@ -424,7 +424,7 @@ Relentless Bling
 73 1/4
 76
 6
-First Cowboy 727
+First-Cowboy-727
 8
 84 1/4
 85 1/4
@@ -733,7 +733,7 @@ Flying N Gold Digger (Brooks, Jimmy)
 floated out
 ---
 5
-Pluto 22 (Mares, Jr., Jorge)
+Pluto-22 (Mares, Jr., Jorge)
 129 L b
 5
 4
@@ -860,7 +860,7 @@ Flying N Gold Digger
 32
 32 3/4
 5
-Pluto 22
+Pluto-22
 4
 53/4
 43
@@ -1668,7 +1668,7 @@ Mw Youwishedforthis (Vega, Randy)
 no match for speedster
 ---
 4
-Big Country 2 (Gutierrez, Gonzalo)
+Big-Country-2 (Gutierrez, Gonzalo)
 127 L bf
 3
 4
@@ -1753,7 +1753,7 @@ Mw Youwishedforthis
 4.80
 4.20
 4
-Big Country 2
+Big-Country-2
 3.80
 Wager Type
 Winning Numbers
@@ -1794,7 +1794,7 @@ Mw Youwishedforthis
 21
 22
 4
-Big Country 2
+Big-Country-2
 4
 4Head
 31 1/2

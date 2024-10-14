@@ -961,7 +961,7 @@ Odds Ind. Time
 Sp. In. Comments
 28Jun24 2EDR1
 3
-Miz 307 (Canales, Jesus)
+Miz-307 (Canales, Jesus)
 124 BL bfk
 3
 1
@@ -1052,7 +1052,7 @@ Dusdys Dave (Virgen, Jesus)
 no factor
 Run-Up: 0 feet
 Winner:
-Miz 307, Sorrel Filly, by Junior June Bug out of Brindis Secret, by Brindis Por Cayenne. Foaled Mar 07, 2022 in Wyoming.
+Miz-307, Sorrel Filly, by Junior June Bug out of Brindis Secret, by Brindis Por Cayenne. Foaled Mar 07, 2022 in Wyoming.
 Breeder: Dan or Kim Lapierre
 Owner: Triple G Racing LLC
 Trainer: Garfias, Diana
@@ -1063,7 +1063,7 @@ Win
 Place
 Show
 3
-Miz 307
+Miz-307
 12.40
 6.40
 3.00
@@ -1105,7 +1105,7 @@ Str 1
 Str
 Fin
 3
-Miz 307
+Miz-307
 1
 2Neck
 2Neck

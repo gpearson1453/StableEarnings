@@ -418,7 +418,7 @@ Odds Ind. Time
 Sp. In. Comments
 22Jul24 3PRM1
 5
-Lovepotionumber 9 (Alvidrez, Armando)
+Lovepotionumber-9 (Alvidrez, Armando)
 124
 BL bf
 5
@@ -509,7 +509,7 @@ BL bf
 no impact
 Run-Up: 0 feet
 Winner:
-Lovepotionumber 9, Sorrel Filly, by Valiant Hero out of Midnight Sunlight, by Ivory James. Foaled Mar 03, 2022 in Oklahoma.
+Lovepotionumber-9, Sorrel Filly, by Valiant Hero out of Midnight Sunlight, by Ivory James. Foaled Mar 03, 2022 in Oklahoma.
 Breeder: Brenda Reiswig
 Owner: Brenda Reiswig
 Trainer: Olmstead, Jason
@@ -519,7 +519,7 @@ Win
 Place
 Show
 5
-Lovepotionumber 9
+Lovepotionumber-9
 3.60
 2.60
 2.20
@@ -564,7 +564,7 @@ Start
 Str
 Fin
 5
-Lovepotionumber 9
+Lovepotionumber-9
 1
 1Head
 13/4

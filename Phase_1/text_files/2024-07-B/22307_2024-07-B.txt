@@ -316,7 +316,7 @@ BL bhf
 kicked in gamely
 30Jun24 4PRM2
 1
-Lovepotionumber 9 (Alvidrez, Armando)
+Lovepotionumber-9 (Alvidrez, Armando)
 124
 BL bf
 1
@@ -381,7 +381,7 @@ BL bfk
 broke in,evenly
 Run-Up: 0 feet
 Winner:
-Lovepotionumber 9, Sorrel Filly, by Valiant Hero out of Midnight Sunlight, by Ivory James. Foaled Mar 03, 2022 in Oklahoma.
+Lovepotionumber-9, Sorrel Filly, by Valiant Hero out of Midnight Sunlight, by Ivory James. Foaled Mar 03, 2022 in Oklahoma.
 Breeder: Brenda Reiswig
 Owner: Brenda Reiswig
 Trainer: Olmstead, Jason
@@ -399,7 +399,7 @@ Sm Southard Cowboy
 3.60
 2.60
 1
-Lovepotionumber 9
+Lovepotionumber-9
 2.40
 2.20
 4
@@ -444,7 +444,7 @@ Sm Southard Cowboy
 31
 13/4
 1
-Lovepotionumber 9
+Lovepotionumber-9
 1
 11/2
 23/4

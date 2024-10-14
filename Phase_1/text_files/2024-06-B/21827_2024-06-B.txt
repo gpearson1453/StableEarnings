@@ -1249,7 +1249,7 @@ L bk
 surged late, missed
 23May24 6DED8
 3
-Camo Cartel 5 (Ramirez, J.)
+Camo-Cartel-5 (Ramirez, J.)
 128
 L bfk
 3
@@ -1358,7 +1358,7 @@ Breeder: Dgc Llc & Damian Trahan
 Owner: Double J Racing
 Trainer: Breaux, Dwayne
 Claiming Prices:
-2 - Fullmoon Fast Dash: $15,000; 10 - Cos Ima Pilot: $15,000; 3 - Camo Cartel 5: $15,000; 6 - Lil Heza Blue: $15,000; 1
+2 - Fullmoon Fast Dash: $15,000; 10 - Cos Ima Pilot: $15,000; 3 - Camo-Cartel-5: $15,000; 6 - Lil Heza Blue: $15,000; 1
 - Queen B Cartel: $15,000; 7 - Sweet Lady Jess: $15,000; 9 - Goin South for Rogue: $15,000; 5 - Sweet Eagle Dee:
 $15,000; 8 - Imperial Train: $15,000; 4 - Tm Imperial Heart: $15,000;
 Total WPS Pool: $11,482
@@ -1376,7 +1376,7 @@ Cos Ima Pilot
 4.60
 3.20
 3
-Camo Cartel 5
+Camo-Cartel-5
 3.20
 Wager Type
 Winning Numbers
@@ -1418,7 +1418,7 @@ Cos Ima Pilot
 4Neck
 2Head
 3
-Camo Cartel 5
+Camo-Cartel-5
 3
 3Head
 3Head

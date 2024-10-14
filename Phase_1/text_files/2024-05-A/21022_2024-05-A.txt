@@ -512,7 +512,7 @@ L bf
 bump, game,2nd best
 ---
 2
-Le Madame P3 (Rodriguez, Everardo)
+Le-Madame-P3 (Rodriguez, Everardo)
 124
 L
 2
@@ -620,7 +620,7 @@ Breeder: Eleazar Martinez
 Owner: Black Diamond LLC
 Trainer: Garcia, Jose
 Claiming Prices:
-4 - Favorite Regrets: $15,000; 3 - Sweet Bureaucracy: $15,000; 2 - Le Madame P3: $15,000; 8 - Tm Imperial Heart:
+4 - Favorite Regrets: $15,000; 3 - Sweet Bureaucracy: $15,000; 2 - Le-Madame-P3: $15,000; 8 - Tm Imperial Heart:
 $15,000; 9 - Allabout the Tide: $15,000; 6 - Whata Jessie: $15,000; 5 - Cynnical: $15,000; 1 - Pf Amlo: $15,000; 10 -
 Thats My Cache: $15,000; 7 - M This Game Is Fire: $15,000;
 Total WPS Pool: $20,265
@@ -638,7 +638,7 @@ Sweet Bureaucracy
 9.80
 6.20
 2
-Le Madame P3
+Le-Madame-P3
 7.00
 Wager Type
 Winning Numbers
@@ -680,7 +680,7 @@ Sweet Bureaucracy
 21/2
 21/2
 2
-Le Madame P3
+Le-Madame-P3
 3
 31 1/2
 32 3/4

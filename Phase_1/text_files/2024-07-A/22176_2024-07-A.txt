@@ -405,7 +405,7 @@ Odds Ind. Time
 Sp. In. Comments
 17Jun24 8PRM5
 6
-Kool Cowboy-123 (Garcia, Ramiro)
+Kool-Cowboy-123 (Garcia, Ramiro)
 124
 BL bfk
 6
@@ -470,7 +470,7 @@ BL b
 veer out st, no threat
 17Jun24 8PRM9
 4
-Nsm Viking 63 (Triana Jr., Alfredo)
+Nsm-Viking-63 (Triana Jr., Alfredo)
 124
 BL bk
 4
@@ -496,7 +496,7 @@ BL bf
 brief bid, faded
 Run-Up: 0 feet
 Winner:
-Kool Cowboy-123, Sorrel Colt, by Flying Cowboy-123 out of Kool Fire, by Walk Thru Fire. Foaled Mar 05, 2022 in Oklahoma.
+Kool-Cowboy-123, Sorrel Colt, by Flying Cowboy-123 out of Kool Fire, by Walk Thru Fire. Foaled Mar 05, 2022 in Oklahoma.
 Breeder: Jerry Cate
 Owner: Scheckel, Thomas J. and Tobin, Richard L.
 Trainer: Olmstead, Jason
@@ -506,7 +506,7 @@ Win
 Place
 Show
 6
-Kool Cowboy-123
+Kool-Cowboy-123
 8.80
 3.60
 2.60
@@ -551,7 +551,7 @@ Start
 Str
 Fin
 6
-Kool Cowboy-123
+Kool-Cowboy-123
 4
 41 1/2
 13/4
@@ -576,7 +576,7 @@ Kiss Me I Am Famous
 74 1/4
 52 1/2
 4
-Nsm Viking 63
+Nsm-Viking-63
 5
 61 3/4
 62 3/4

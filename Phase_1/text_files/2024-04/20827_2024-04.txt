@@ -405,7 +405,7 @@ Mr Jess First Prize (Candanosa, Bryan)
 no closing kick
 ---
 7
-Nsm Viking 63 (Smith, Stormy)
+Nsm-Viking-63 (Smith, Stormy)
 125 L b
 7
 10
@@ -520,7 +520,7 @@ Mr Jess First Prize
 92 1/2
 94 1/4
 7
-Nsm Viking 63
+Nsm-Viking-63
 10
 102 1/4
 105 1/2

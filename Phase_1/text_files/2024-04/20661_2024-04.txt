@@ -314,7 +314,7 @@ Uncle Bubb (Torres, Daniel)
 changed lane
 ---
 5
-Kool Cowboy-123 (Escobedo, Edwin)
+Kool-Cowboy-123 (Escobedo, Edwin)
 124 L bf
 5
 5
@@ -431,7 +431,7 @@ Uncle Bubb
 43
 53 1/2
 5
-Kool Cowboy-123
+Kool-Cowboy-123
 5
 41
 63 1/4
@@ -747,7 +747,7 @@ Eye Believe in Blood (Flores, James)
 in mix, outfinished
 ---
 1
-Favorite Cowgirl 123 (Escobedo, Edwin)
+Favorite-Cowgirl-123 (Escobedo, Edwin)
 124 L bf
 1
 3
@@ -874,7 +874,7 @@ Eye Believe in Blood
 31/2
 31
 1
-Favorite Cowgirl 123
+Favorite-Cowgirl-123
 3
 4Head
 43/4

@@ -354,7 +354,7 @@ Penitent Thief (Ramirez, Alexis)
 drifted in
 11Apr24 4RP4
 3
-Favorite Cowgirl 123 (Alvidrez, Armando)
+Favorite-Cowgirl-123 (Alvidrez, Armando)
 124 L b
 3
 3
@@ -497,7 +497,7 @@ Penitent Thief
 51 3/4
 52 1/2
 3
-Favorite Cowgirl 123
+Favorite-Cowgirl-123
 3
 31/2
 62

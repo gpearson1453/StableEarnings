@@ -3071,7 +3071,7 @@ Dm Dashing Bella (Aguilar, Claudio)
 broke out,bumped
 20Nov21 4LS7
 3
-Lethal Cowboy Jessie (Olivo, Jose)
+Lethal-Cowboy Jessie (Olivo, Jose)
 124 L bk
 2
 4
@@ -3238,7 +3238,7 @@ Dm Dashing Bella
 31
 43 1/4
 3
-Lethal Cowboy Jessie
+Lethal-Cowboy Jessie
 4
 21/2
 41

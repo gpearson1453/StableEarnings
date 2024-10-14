@@ -1269,7 +1269,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 6
-Lethal Cowboy-123 (Ramos, Christian)
+Lethal-Cowboy-123 (Ramos, Christian)
 124 L bf
 6
 1
@@ -1386,7 +1386,7 @@ Get There Hero (Rivera, Ali)
 outrun
 Run-Up: 0 feet
 Winner:
-Lethal Cowboy-123, Sorrel Gelding, by Flying Cowboy-123 out of Pretty Lethal, by First Down Dash. Foaled Mar 16, 2022 in California.
+Lethal-Cowboy-123, Sorrel Gelding, by Flying Cowboy-123 out of Pretty Lethal, by First Down Dash. Foaled Mar 16, 2022 in California.
 Breeder: Veronica Gail Kawananakoa
 Owner: Caliche Walls Venture LLC, Isbell, Alan, Bland, Lance and Barton, Jimmy
 Trainer: Jungers, Marc
@@ -1397,7 +1397,7 @@ Win
 Place
 Show
 6
-Lethal Cowboy-123
+Lethal-Cowboy-123
 6.40
 4.80
 3.80
@@ -1431,7 +1431,7 @@ Str 1
 Str
 Fin
 6
-Lethal Cowboy-123
+Lethal-Cowboy-123
 1
 1Head
 1Head
@@ -3610,7 +3610,7 @@ La Cuarenta Y Ocho (Alvarez, Jose)
 no mishap
 ---
 3
-Cr Hammer Down 440 (Ramos, Christian)
+Cr-Hammer-Down-440 (Ramos, Christian)
 124 L bf
 1
 5
@@ -3717,7 +3717,7 @@ La Cuarenta Y Ocho
 63 1/2
 65
 3
-Cr Hammer Down 440
+Cr-Hammer-Down-440
 5
 41 1/2
 53 1/2

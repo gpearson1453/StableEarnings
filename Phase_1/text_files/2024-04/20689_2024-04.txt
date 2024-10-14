@@ -330,7 +330,7 @@ L b
 mild bid,cln jrny
 ---
 8
-Fifty Three to 8 (Esqueda, Erik)
+Fifty-Three-to-8 (Esqueda, Erik)
 124
 L b
 8
@@ -475,7 +475,7 @@ Crawdadz Zing
 53/4
 41
 8
-Fifty Three to 8
+Fifty-Three-to-8
 3
 43/4
 51 1/4

@@ -493,7 +493,7 @@ bf
 bore in, duel, driving
 ---
 8
-Pyc Babys Secret 45 (Villatoro, Noe)
+Pyc-Babys-Secret-45 (Villatoro, Noe)
 124
 L hfk
 8
@@ -613,7 +613,7 @@ Embers Time
 6.80
 5.60
 8
-Pyc Babys Secret 45
+Pyc-Babys-Secret-45
 11.60
 6.80
 6
@@ -658,7 +658,7 @@ Embers Time
 1Head
 13/4
 8
-Pyc Babys Secret 45
+Pyc-Babys-Secret-45
 3
 2Head
 23/4

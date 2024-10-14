@@ -990,7 +990,7 @@ De Nasty (Moreno, Cesar)
 flew late for win
 30Jun24 5EDR8
 3
-Glock 9 (Valenzuela, Jesus)
+Glock-9 (Valenzuela, Jesus)
 125 BL b
 3
 4
@@ -1109,7 +1109,7 @@ De Nasty
 3.60
 2.40
 3
-Glock 9
+Glock-9
 4.80
 3.40
 8
@@ -1148,7 +1148,7 @@ De Nasty
 2Nose
 1Neck
 3
-Glock 9
+Glock-9
 4
 1Nose
 1Nose

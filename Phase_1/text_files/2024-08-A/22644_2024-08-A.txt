@@ -2328,7 +2328,7 @@ Vvr Canella Velvet (Rivas, Juan)
 solid effort
 28Jul24 5WYO2
 6
-Glock 9 (Suarez, Guillermo)
+Glock-9 (Suarez, Guillermo)
 126 BL bf
 6
 9
@@ -2457,7 +2457,7 @@ Vvr Canella Velvet
 71/2
 72 1/4
 6
-Glock 9
+Glock-9
 9
 91
 81 1/2

@@ -835,7 +835,7 @@ L bf
 mid pack duel
 ---
 7
-Lovepotionumber 9 (Escobedo, Edwin)
+Lovepotionumber-9 (Escobedo, Edwin)
 124
 L bf
 5
@@ -951,7 +951,7 @@ Fanze Boy
 43/4
 43/4
 7
-Lovepotionumber 9
+Lovepotionumber-9
 4
 62 1/4
 52

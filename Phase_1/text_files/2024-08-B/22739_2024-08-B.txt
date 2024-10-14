@@ -325,7 +325,7 @@ Curls Dream Wagon, Brown Filly, by Pyc Paint Your Wagon out of Eye a Spit Curl G
 Breeder: Martin Stacy
 Owner: Martin Stacy
 Trainer: Maupin, Jim
-Scratched Horse(s): Cindy Pop (Stewards), Lovepotionumber 9 (Stewards)
+Scratched Horse(s): Cindy Pop (Stewards), Lovepotionumber-9 (Stewards)
 Total WPS Pool: $11,136
 Pgm Horse
 Win

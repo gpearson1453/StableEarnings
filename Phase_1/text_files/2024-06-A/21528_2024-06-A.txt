@@ -1014,7 +1014,7 @@ Favorite Secret N (Giles, Francisco)
 second best
 25May24 10HOU2
 1
-Slv 956 (Luna, Gerardo)
+Slv-956 (Luna, Gerardo)
 124 L bk
 1
 5
@@ -1097,7 +1097,7 @@ Breeder: Donna Mushinski
 Owner: Donna Mushinski
 Trainer: Mushinski, Kie
 Claiming Prices:
-3 - Dm Special Cat: $25,000; 10 - Favorite Secret N: $25,000; 1 - Slv 956: $25,000; 8 - Vp Prize Time Heart: $25,000; 9
+3 - Dm Special Cat: $25,000; 10 - Favorite Secret N: $25,000; 1 - Slv-956: $25,000; 8 - Vp Prize Time Heart: $25,000; 9
 - Candy Redds Corona: $25,000; 5 - Tuff Ruff Corona: $25,000; 6 - I Am the Queen B: $25,000; 7 - Sr Impact: $25,000;
 Scratched Horse(s): Kaptyn (Stewards), Mister Mingo (Veterinarian)
 Total WPS Pool: $13,871
@@ -1115,7 +1115,7 @@ Favorite Secret N
 5.20
 3.20
 1
-Slv 956
+Slv-956
 2.40
 Wager Type
 Winning Numbers
@@ -1174,7 +1174,7 @@ Favorite Secret N
 31
 21/2
 1
-Slv 956
+Slv-956
 5
 31/2
 21
@@ -1265,7 +1265,7 @@ L bfk
 gaining, up for place
 24May24 9HOU8
 2
-Pyc Babys Secret 45 (Villatoro, Noe)
+Pyc-Babys-Secret-45 (Villatoro, Noe)
 124
 L hfk
 2
@@ -1379,7 +1379,7 @@ Mm Cartel Princess
 8.00
 4.80
 2
-Pyc Babys Secret 45
+Pyc-Babys-Secret-45
 3.00
 Wager Type
 Winning Numbers
@@ -1421,7 +1421,7 @@ Mm Cartel Princess
 31
 23/4
 2
-Pyc Babys Secret 45
+Pyc-Babys-Secret-45
 3
 21/2
 33/4

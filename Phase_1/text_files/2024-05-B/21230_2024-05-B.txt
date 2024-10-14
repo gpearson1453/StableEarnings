@@ -744,7 +744,7 @@ Pilotos Girl (Cabrera, Rolando)
 bumped, even effort
 27Apr24 3DED9
 8
-The 300 (Alvarez, Arturo)
+The-300 (Alvarez, Arturo)
 124 L bk
 8
 8
@@ -865,7 +865,7 @@ Pilotos Girl
 41 1/2
 52 3/4
 8
-The 300
+The-300
 8
 72 1/4
 63
@@ -1245,7 +1245,7 @@ bk
 no real threat
 ---
 4
-Camo Cartel 5 (Ramirez, J.)
+Camo-Cartel-5 (Ramirez, J.)
 128
 L bk
 4
@@ -1290,7 +1290,7 @@ Owner: Blackmon Quarter Horses LLC
 Trainer: Keith, Larry
 Claiming Prices:
 2 - Foxinafix: $20,000; 1 - Dlj Running Eagle: $20,000; 7 - Sippin On Goose: $20,000; 10 - Whiskey Deluxe: $20,000; 5
-- Cos Ima Pilot: $20,000; 6 - Sweet Lady Jess: $20,000; 8 - Ruse Bonita: $20,000; 4 - Camo Cartel 5: $20,000; 9 -
+- Cos Ima Pilot: $20,000; 6 - Sweet Lady Jess: $20,000; 8 - Ruse Bonita: $20,000; 4 - Camo-Cartel-5: $20,000; 9 -
 Firstn Kool Moon: $20,000; 3 - Leaving Seperately: $20,000;
 Total WPS Pool: $12,314
 Pgm Horse
@@ -1374,7 +1374,7 @@ Ruse Bonita
 72
 71 1/4
 4
-Camo Cartel 5
+Camo-Cartel-5
 7
 61 3/4
 81 1/4

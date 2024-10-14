@@ -1260,7 +1260,7 @@ L bf
 broke out, bumped foe
 5May24 1RP6
 9
-Little Country 2 (Hernandez-Gallardo, Javier)
+Little-Country-2 (Hernandez-Gallardo, Javier)
 127
 L bk
 7
@@ -1318,7 +1318,7 @@ Owner: Martin Herrera
 Trainer: Mancillas, Juliana
 Claiming Prices:
 4 - Pyc Wicked Fun: $15,000; 1 - Best Tres Seis: $15,000; 3 - Rcr Dice Run: $15,000; 6 - Pickled Oats: $15,000; 9 -
-Little Country 2: $15,000; 10 - Royally Ethic: $15,000; 5 - Oak Tree Hero: $15,000; 8 - Sassy Corona Cartel: $15,000;
+Little-Country-2: $15,000; 10 - Royally Ethic: $15,000; 5 - Oak Tree Hero: $15,000; 8 - Sassy Corona Cartel: $15,000;
 Scratched Horse(s): Jb Expres (Veterinarian), Rock Candy Dani (Veterinarian)
 Total WPS Pool: $4,936
 Pgm Horse
@@ -1391,7 +1391,7 @@ Pickled Oats
 53/4
 41 1/4
 9
-Little Country 2
+Little-Country-2
 1
 43/4
 51 1/2

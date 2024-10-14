@@ -18,7 +18,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 2
-Wrangler 123 (Kellenberger, Kody)
+Wrangler-123 (Kellenberger, Kody)
 122
 B bf
 2
@@ -109,7 +109,7 @@ B bf
 good try
 Run-Up: 0 feet
 Winner:
-Wrangler 123, Brown Gelding, by Flying Cowboy 123 out of Marmolly, by Freighttrain B. Foaled May 20, 2022 in North Dakota.
+Wrangler-123, Brown Gelding, by Flying Cowboy 123 out of Marmolly, by Freighttrain B. Foaled May 20, 2022 in North Dakota.
 Breeder: Billy Buchholz
 Owner: Billy Buchholz
 Trainer: Johnson, Robert
@@ -119,7 +119,7 @@ Win
 Place
 Show
 2
-Wrangler 123
+Wrangler-123
 5.40
 2.10
 2.20
@@ -152,7 +152,7 @@ Start
 Str
 Fin
 2
-Wrangler 123
+Wrangler-123
 1
 11
 1Head
