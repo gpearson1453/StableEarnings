@@ -83,7 +83,7 @@ def getRaces(text_segment):
     # Extract final time
     if 'Final Time:' in text_segment:
         final_time_match = re.search(r"Final Time:\s(.*)\s", text_segment)
-        common_data['final_time'] = final_time_match.group(1) if final_time_match else 'N/A'
+        common_data['final_time'] = final_time_match.group(1).replace('(New Track Record)', '') if final_time_match else 'N/A'
     else:
         common_data['final_time'] = 'N/A'
 
@@ -114,7 +114,10 @@ def getRaces(text_segment):
         common_data['surface'] = SURFACE_MAPPING.get(raw_surface.strip()[0], "NOT FOUND")
 
     # Extract weather and temperature
-    weather_match = re.search(r"Weather:\s*(.*?),\s*(\d+)", text_segment)
+    if '° C' in text_segment:
+        weather_match = re.search(r"Weather:\s*(.*?),\s*(-*\d+°*\sC*)", text_segment)
+    else: 
+        weather_match = re.search(r"Weather:\s*(.*?),\s*(\d+)", text_segment)
     if weather_match:
         common_data['weather'] = weather_match.group(1).strip()
         common_data['temp'] = weather_match.group(2).strip()
