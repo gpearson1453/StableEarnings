@@ -38,6 +38,7 @@ def process_single_file(file_path):
                 or 'Cancelled - Equipment Malfunction' in segment
                 or 'CANCELLED - Thoroughbred' in segment
                 or 'CANCELLED - Quarter Horse' in segment
+                or 'CANCELLED' in segment[:segment.find('Race ') + 30]
                 or 'declared no contest' in segment):
                 continue
 

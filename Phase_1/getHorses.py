@@ -47,11 +47,16 @@ def getHorses(text_segment):
 
     # Extract jockey and weight information
     comments_idx = text_segment.find('Comments')
-    fractional_start_idx = text_segment[comments_idx:].find('Winner:') + comments_idx
+    fractional_start_idx = text_segment[comments_idx:].find('Fractional Times:') + comments_idx
+    winner_start_idx = text_segment[comments_idx:].find('Winner:') + comments_idx
 
     if comments_idx != -1 and fractional_start_idx != -1 and comments_idx < fractional_start_idx:
         jockey_text_block = text_segment[comments_idx + len('Comments'):fractional_start_idx].strip()
-        jockey_list = re.findall(r'\(([^)]+)\)', jockey_text_block)
+        jockey_list = re.findall(r'\(([^)]+?,[^)]+?)\)', jockey_text_block)
+        weight_list = re.findall(r'\)\s*(\d+)', jockey_text_block)
+    elif comments_idx != -1 and winner_start_idx != -1 and comments_idx < winner_start_idx:
+        jockey_text_block = text_segment[comments_idx + len('Comments'):winner_start_idx].strip()
+        jockey_list = re.findall(r'\(([^)]+?,[^)]+?)\)', jockey_text_block)
         weight_list = re.findall(r'\)\s*(\d+)', jockey_text_block)
     else:
         jockey_list = []
