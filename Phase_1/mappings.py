@@ -44,6 +44,7 @@ DISTANCE_CONVERSION = {
     "Four Miles": "4.0",
     "Four Furlongs": "0.5",
     "Five Hundred And Fifty Yards": "0.3125",
+    "Five Hundred And Seventy": "0.323864",
     "Two Furlongs": "0.25",
     "One And One Fourth Miles": "1.25",
     "Seven Hundred And Seventy Yards": "0.4375",
@@ -63,7 +64,14 @@ DISTANCE_CONVERSION = {
     "Three And One Half Miles": "3.5",
     "Three And One Eighth Miles": "3.125",
     "Two And One Fourth Miles": "2.25",
-    "Five And One Fourth Furlongs": "0.6562513"
+    "Two And Three Fourth Miles": "2.75",
+    "Five And One Fourth Furlongs": "0.6562513",
+    "Nine Hundred And Ninety Yards": "0.5625",
+    "Nine Hundred And Fifty Yards": "0.539773",
+    "Six Hundred And Thirty Yards": "0.357955",
+    "Seven Hundred And Thirty Yards": "0.414773",
+    "Six Hundred And Ten Yards": "0.346591",
+    "Four Furlongs And Seventy Yards": "0.5397727"
 }
 
 # Surface type mappings for races
