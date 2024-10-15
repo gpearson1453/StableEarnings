@@ -2866,7 +2866,7 @@ Kj Wiskey River (Candanosa, Bryan)
 lost footing, off slow
 12Jul24 1RUI8
 6
-Big Brown 509 (Ramos, Christian)
+Big-Brown-509 (Ramos, Christian)
 124 L bf
 5
 8
@@ -2976,7 +2976,7 @@ Kj Wiskey River
 88
 88 1/4
 6
-Big Brown 509
+Big-Brown-509
 8
 84
 99

@@ -45,7 +45,7 @@ bf
 outfinished,2nd best
 ---
 2
-The Perfect Girl 2 (Jimenez Aburto, Luis)
+The-Perfect-Girl-2 (Jimenez Aburto, Luis)
 122
 bf
 2
@@ -58,7 +58,7 @@ bf
 off bit slow,outkicked
 ---
 1
-Lucero Cartel 240 (Flores, Pablo)
+Lucero-Cartel-240 (Flores, Pablo)
 122
 bf
 1
@@ -88,7 +88,7 @@ Favorite Song
 Kitty On Fire
 2.40
 2
-The Perfect Girl 2
+The-Perfect-Girl-2
 Wager Type
 Winning Numbers
 Payoff
@@ -117,12 +117,12 @@ Kitty On Fire
 2Head
 21/2
 2
-The Perfect Girl 2
+The-Perfect-Girl-2
 3
 31/2
 32
 1
-Lucero Cartel 240
+Lucero-Cartel-240
 4
 46 1/2
 415 1/4

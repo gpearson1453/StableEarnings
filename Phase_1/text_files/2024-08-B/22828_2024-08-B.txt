@@ -59,7 +59,7 @@ The Special Pro (Rodriguez, Jose)
 brief lead,outfinished
 28Jul24 1SAC4
 4
-The Perfect Girl 2 (Garcia, Epifanio)
+The-Perfect-Girl-2 (Garcia, Epifanio)
 123
 bf
 4
@@ -139,7 +139,7 @@ The Special Pro
 41 1/2
 31
 4
-The Perfect Girl 2
+The-Perfect-Girl-2
 1
 31/2
 41 1/2

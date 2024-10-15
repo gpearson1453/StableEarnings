@@ -465,7 +465,7 @@ Sunday Sinner (Hernandez, Jr., Ricardo)
 broke in,outkicked
 12Jul24 1DED9
 8
-You Me and P3 (Luna, Ubaldo)
+You-Me-and-P3 (Luna, Ubaldo)
 126 L bf
 7
 1
@@ -561,7 +561,7 @@ Breeder: Jack Willie
 Owner: Dylan Hoda
 Trainer: Hoda, Danny
 Claiming Prices:
-6 - Wow She On Eagle: $10,000; 4 - Sunday Sinner: $10,000; 8 - You Me and P3: $10,000; 3 - Makinit: $10,000; 1 -
+6 - Wow She On Eagle: $10,000; 4 - Sunday Sinner: $10,000; 8 - You-Me-and-P3: $10,000; 3 - Makinit: $10,000; 1 -
 Narcissist: $10,000; 5 - Blues Mac Daddy: $10,000; 10 - Streakin by Tha Moon: $10,000; 9 - Three R One Fire:
 $10,000; 2 - Corona Leaving Hail: $10,000;
 Scratched Horse(s): Mawnees Faith (Stewards)
@@ -580,7 +580,7 @@ Sunday Sinner
 9.60
 6.00
 8
-You Me and P3
+You-Me-and-P3
 8.80
 Wager Type
 Winning Numbers
@@ -639,7 +639,7 @@ Sunday Sinner
 2Head
 21/2
 8
-You Me and P3
+You-Me-and-P3
 1
 4Neck
 4Neck

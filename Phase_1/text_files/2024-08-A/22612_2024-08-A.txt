@@ -850,7 +850,7 @@ Flashin Jamie (Martinez, Luz)
 losing ground
 20Jul24 2IND7
 5
-Prom Queen 22 (Quintero, Francisco)
+Prom-Queen-22 (Quintero, Francisco)
 129 L bf
 5
 7
@@ -967,7 +967,7 @@ Flashin Jamie
 72 3/4
 73 3/4
 5
-Prom Queen 22
+Prom-Queen-22
 7
 82
 83 1/2

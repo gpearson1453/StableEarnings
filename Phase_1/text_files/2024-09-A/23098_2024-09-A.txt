@@ -842,7 +842,7 @@ Palomita Blanca (Andrade, Jr., Oscar)
 drifted in,faded
 10Aug24 12ALB9
 1
-Big Brown 509 (Alvarez, Jose)
+Big-Brown-509 (Alvarez, Jose)
 131 L bf
 1
 6
@@ -862,7 +862,7 @@ Trainer: Sanchez, Jose
 Claiming Prices:
 9 - State of Blue: $20,000; 7 - Chilitoslove: $20,000; 8 - Bogarts Lil Jess: $20,000; 3 - Relentless Avery: $20,000; 6 -
 Lysiun: $20,000; 5 - Muddys Golden Nugget: $20,000; 4 - Amarillo by Tonight: $20,000; 10 - Ares War Wagon: $20,000;
-2 - Palomita Blanca: $20,000; 1 - Big Brown 509: $20,000;
+2 - Palomita Blanca: $20,000; 1 - Big-Brown-509: $20,000;
 Scratched Horse(s): D One Famous Bandit (Also-Eligible), One Famous Catrina (Also-Eligible)
 Total WPS Pool: $15,579
 Pgm Horse
@@ -965,7 +965,7 @@ Palomita Blanca
 82
 93 3/4
 1
-Big Brown 509
+Big-Brown-509
 6
 91 1/2
 103

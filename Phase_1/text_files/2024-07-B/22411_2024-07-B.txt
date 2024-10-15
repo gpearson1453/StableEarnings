@@ -59,7 +59,7 @@ f
 away well, outfinished
 14Jul24 1SAC3
 4
-The Perfect Girl 2 (Herrera, Hugo)
+The-Perfect-Girl-2 (Herrera, Hugo)
 122
 bf
 4
@@ -139,7 +139,7 @@ Louie
 21
 31 3/4
 4
-The Perfect Girl 2
+The-Perfect-Girl-2
 5
 42 1/2
 43 1/2

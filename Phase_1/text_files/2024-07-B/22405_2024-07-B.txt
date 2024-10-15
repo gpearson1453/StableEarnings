@@ -1050,7 +1050,7 @@ b
 dueled, game 2nd
 ---
 5
-Fire Tools 123 (Mendez, Cruz)
+Fire-Tools-123 (Mendez, Cruz)
 126
 b
 4
@@ -1135,7 +1135,7 @@ Dangerous Guy
 4.20
 2.40
 5
-Fire Tools 123
+Fire-Tools-123
 3.60
 Wager Type
 Winning Numbers
@@ -1177,7 +1177,7 @@ Dangerous Guy
 2Head
 2Head
 5
-Fire Tools 123
+Fire-Tools-123
 3
 3Head
 3Neck

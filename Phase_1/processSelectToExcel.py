@@ -94,8 +94,8 @@ def process_files(folder_path, output_excel_file):
             print(f)
 
 if __name__ == "__main__":
-    #folder_path = r'text_files\2024-06-B'
+    folder_path = r'text_files\2024-07-B'
     #folder_path = 'testing_files'
-    folder_path = r'text_files\temp'
+    #folder_path = r'text_files\temp'
     output_excel_file = 'select_race_data.xlsx'
     process_files(folder_path, output_excel_file)

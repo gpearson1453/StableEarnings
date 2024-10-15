@@ -663,7 +663,7 @@ Competent (Peinado, Oscar)
 scrambld/brsh,outkckd
 28Jul24 6LA3
 6
-Fire Tools 123 (Mendez, Cruz)
+Fire-Tools-123 (Mendez, Cruz)
 126 b
 6
 8
@@ -791,7 +791,7 @@ Competent
 31 3/4
 41 1/4
 6
-Fire Tools 123
+Fire-Tools-123
 8
 62 1/2
 62 3/4
@@ -1175,7 +1175,7 @@ Party Time Tom, Sorrel Gelding, by Kiddy Up out of The Partys On Fire, by Walk T
 Breeder: Allred & Siebly
 Owner: Dunn Ranch
 Trainer: Arrossa, Monty
-Scratched Horse(s): Astronomical 123 (Gate)
+Scratched Horse(s): Astronomical-123 (Gate)
 Total WPS Pool: $41,403
 Pgm Horse
 Win

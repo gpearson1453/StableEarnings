@@ -21,7 +21,7 @@ Odds Ind. Time
 Sp. In. Comments
 ---
 1
-Team Rip 109 (Hernandez, O.)
+Team-Rip-109 (Hernandez, O.)
 130 bf
 1
 2
@@ -86,7 +86,7 @@ O Winsmore (Garcia, Daniel)
 bumped,trailed
 Run-Up: 0 feet
 Winner:
-Team Rip 109, Chestnut Gelding, by Pyc Fun N Fancy out of See Me Do It Too, by Favorite Cartel. Foaled Mar 28, 2022 in AB.
+Team-Rip-109, Chestnut Gelding, by Pyc Fun N Fancy out of See Me Do It Too, by Favorite Cartel. Foaled Mar 28, 2022 in AB.
 Breeder: Buckey &/Or Beverly Stockwell
 Owner: Commotion Creek Contracting and WT Ranches, Ltd.
 Trainer: Stockwell, Buckey
@@ -98,7 +98,7 @@ Win
 Place
 Show
 1
-Team Rip 109
+Team-Rip-109
 9.40
 2.90
 2.40
@@ -132,7 +132,7 @@ Str 1
 Str
 Fin
 1
-Team Rip 109
+Team-Rip-109
 2
 12
 14

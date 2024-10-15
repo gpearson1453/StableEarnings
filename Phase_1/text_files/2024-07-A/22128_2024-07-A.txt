@@ -110,7 +110,7 @@ Chimes On Time (Lopez, Jose)
 brushed, veered in
 ---
 8
-Big Brown 509 (Constantin, Lucas)
+Big-Brown-509 (Constantin, Lucas)
 124 M bf
 7
 5
@@ -223,7 +223,7 @@ Chimes On Time
 73 3/4
 73 3/4
 8
-Big Brown 509
+Big-Brown-509
 5
 51 3/4
 84 1/4

@@ -1450,7 +1450,7 @@ b
 bumped early,outkickd
 ---
 8
-Astronomical 123 (Ramirez, Ricardo)
+Astronomical-123 (Ramirez, Ricardo)
 126
 bf
 8
@@ -1584,7 +1584,7 @@ Kiss a Seis
 51 1/2
 52 1/2
 8
-Astronomical 123
+Astronomical-123
 8
 62 3/4
 62 3/4

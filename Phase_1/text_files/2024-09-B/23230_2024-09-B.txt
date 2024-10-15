@@ -71,7 +71,7 @@ b
 broke out start
 23Aug24 1FER4
 3
-The Perfect Girl 2 (Lopez, Benjamin)
+The-Perfect-Girl-2 (Lopez, Benjamin)
 123
 b
 2
@@ -148,7 +148,7 @@ The Special Pro
 42
 41 3/4
 3
-The Perfect Girl 2
+The-Perfect-Girl-2
 5
 55
 53 3/4

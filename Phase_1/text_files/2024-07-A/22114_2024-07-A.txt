@@ -125,7 +125,7 @@ Power Game (Aquino, Jasiel)
 broke out, no threat
 ---
 5
-You Me and P3 (Luna, Ubaldo)
+You-Me-and-P3 (Luna, Ubaldo)
 125 L bf
 5
 8
@@ -157,7 +157,7 @@ Trainer: Martinez, Guillermo
 Claiming Prices:
 8 - Cos I Got Game: $50,000; 4 - Gold Heart Policy: $50,000; 2 - Pop Pop Rabbit: $50,000; 6 - Jess Surfing: $50,000;
 10 - Rockhard Ten: $50,000; 9 - Fast Dashin Lou: $50,000; 3 - Special Jam: $50,000; 7 - Power Game: $50,000; 5 -
-You Me and P3: $50,000; 1 - Rafaello: $50,000;
+You-Me-and-P3: $50,000; 1 - Rafaello: $50,000;
 Total WPS Pool: $21,038
 Pgm Horse
 Win
@@ -246,7 +246,7 @@ Power Game
 84 3/4
 86 1/4
 5
-You Me and P3
+You-Me-and-P3
 8
 82 1/4
 95 3/4

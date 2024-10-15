@@ -245,7 +245,7 @@ One Prime Eagle (Ramirez, Jr., Francisco)
 best late
 13Jul24 1PRM4
 8
-Ms Firefly 123 (Ramirez, Angel)
+Ms-Firefly-123 (Ramirez, Angel)
 124 BL bfk
 6
 6
@@ -325,7 +325,7 @@ One Prime Eagle
 3.40
 2.80
 8
-Ms Firefly 123
+Ms-Firefly-123
 9.00
 3.60
 4
@@ -368,7 +368,7 @@ One Prime Eagle
 21/2
 1Neck
 8
-Ms Firefly 123
+Ms-Firefly-123
 6
 63 3/4
 63

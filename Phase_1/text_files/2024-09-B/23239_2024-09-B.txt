@@ -650,7 +650,7 @@ of
 came out st,,outkicked
 13Jul24 8LA6
 2
-Astronomical 123 (Ayala, Jesus)
+Astronomical-123 (Ayala, Jesus)
 126
 bf
 2
@@ -781,7 +781,7 @@ Amber Alerrt
 3Neck
 3Neck
 2
-Astronomical 123
+Astronomical-123
 4
 43/4
 41 1/2

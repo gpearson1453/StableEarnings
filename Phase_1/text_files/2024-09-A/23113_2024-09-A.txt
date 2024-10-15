@@ -769,7 +769,7 @@ Odds Ind. Time
 Sp. In. Comments
 25Aug24 4LA5
 6
-Fire Tools 123 (Mendez, Cruz)
+Fire-Tools-123 (Mendez, Cruz)
 126
 b
 5
@@ -834,7 +834,7 @@ b
 ftg,bpd st,outrun
 Run-Up: 0 feet
 Winner:
-Fire Tools 123, Chestnut Gelding, by Flying Cowboy-123 out of Notoolson Fire, by Walk Thru Fire. Foaled Apr 10, 2022 in California.
+Fire-Tools-123, Chestnut Gelding, by Flying Cowboy-123 out of Notoolson Fire, by Walk Thru Fire. Foaled Apr 10, 2022 in California.
 Breeder: George & Sandra Villalobos
 Owner: CD Horses, Inc., Flores, Jose Antonio and Gordon, Robyn
 Trainer: Flores, Jose
@@ -845,7 +845,7 @@ Win
 Place
 Show
 6
-Fire Tools 123
+Fire-Tools-123
 3.20
 2.20
 2.10
@@ -886,7 +886,7 @@ Start
 Str
 Fin
 6
-Fire Tools 123
+Fire-Tools-123
 4
 11/2
 13/4

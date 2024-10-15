@@ -321,7 +321,7 @@ b
 no impact
 ---
 3
-Prom Queen 22 (Quintero, Francisco)
+Prom-Queen-22 (Quintero, Francisco)
 129
 L b
 3
@@ -429,7 +429,7 @@ Political Pippa
 63 1/4
 63 3/4
 3
-Prom Queen 22
+Prom-Queen-22
 6
 73 3/4
 75 1/4

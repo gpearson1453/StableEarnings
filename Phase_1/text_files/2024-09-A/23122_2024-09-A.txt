@@ -516,7 +516,7 @@ Princess Bird (Figueroa, Jose)
 shied out midstretch
 7Sep24 1FER5
 5
-The Perfect Girl 2 (Quezada, Miguel)
+The-Perfect-Girl-2 (Quezada, Miguel)
 135 B b
 5
 3
@@ -613,7 +613,7 @@ Princess Bird
 51 1/4
 51 1/4
 5
-The Perfect Girl 2
+The-Perfect-Girl-2
 3
 4Neck
 62 3/4

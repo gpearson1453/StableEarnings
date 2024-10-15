@@ -181,7 +181,7 @@ Odds Ind. Time
 Sp. In. Comments
 5Jul24 1CTM1
 5
-Team Rip 109 (Hernandez, O.)
+Team-Rip-109 (Hernandez, O.)
 130 b
 5
 4
@@ -297,7 +297,7 @@ First Gold Dash (Steadman, Linton)
 bmpd,lostrider,DNF
 Run-Up: 0 feet
 Winner:
-Team Rip 109, Chestnut Gelding, by Pyc Fun N Fancy out of See Me Do It Too, by Favorite Cartel. Foaled Mar 28, 2022 in AB.
+Team-Rip-109, Chestnut Gelding, by Pyc Fun N Fancy out of See Me Do It Too, by Favorite Cartel. Foaled Mar 28, 2022 in AB.
 Breeder: Buckey &/Or Beverly Stockwell
 Owner: Commotion Creek Contracting and WT Ranches, Ltd.
 Trainer: Stockwell, Buckey
@@ -308,7 +308,7 @@ Win
 Place
 Show
 5
-Team Rip 109
+Team-Rip-109
 3.20
 2.60
 2.60
@@ -346,7 +346,7 @@ Str 1
 Str
 Fin
 5
-Team Rip 109
+Team-Rip-109
 4
 21
 21/2

@@ -45,7 +45,7 @@ My Heart My Dynasty (Fonseca-Soto, Fernando)
 good finish
 8Sep24 2PRM2
 4
-Ms Firefly 123 (Ramirez, Angel)
+Ms-Firefly-123 (Ramirez, Angel)
 124 BL bfk
 4
 4
@@ -116,7 +116,7 @@ My Heart My Dynasty
 7.60
 4.40
 4
-Ms Firefly 123
+Ms-Firefly-123
 2.80
 Wager Type
 Winning Numbers
@@ -157,7 +157,7 @@ My Heart My Dynasty
 42 1/2
 23/4
 4
-Ms Firefly 123
+Ms-Firefly-123
 4
 32
 31 1/2
