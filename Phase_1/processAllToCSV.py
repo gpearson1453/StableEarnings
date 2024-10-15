@@ -45,6 +45,7 @@ def process_single_file(file_path):
             data_list = getRaces(segment)
 
             if data_list == 'Invalid Race Type':
+                print('Invalid race type found in ' + file_path)
                 continue
 
             if isinstance(data_list, list):

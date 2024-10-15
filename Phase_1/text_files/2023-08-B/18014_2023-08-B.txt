@@ -248,7 +248,7 @@ Odds Ind. Time
 Sp. In. Comments
 30Jul23 10WYO8
 9
-DQ-Jv Papp B Moven (Martinez,)
+DQ-Jv Papp B Moven (Martinez, A)
 127
 BL b
 9
@@ -1362,7 +1362,7 @@ BL b
 chased throughout
 5Aug23 8WYO9
 2
-Bold Legend (Martinez,)
+Bold Legend (Martinez, A)
 126
 BL bf
 2

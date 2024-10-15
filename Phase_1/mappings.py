@@ -27,6 +27,7 @@ DISTANCE_CONVERSION = {
     "One And Three Eighth Miles": "1.375",
     "One And Five Sixteenth Miles": "1.3125",
     "Eight Hundred And Seventy Yards": "0.494318",
+    "Eight Hundred And Eighty Yards": "0.5",
     "One Mile And Forty Yards": "1.0227273",
     "Three Hundred And Thirty Yards": "0.1875",
     "Two Hundred And Twenty Yards": "0.125",
@@ -89,9 +90,5 @@ SURFACE_MAPPING = {
 }
 
 # Regular expressions to identify different race types
-TYPE_PATTERNS = {
-    'Thoroughbred': re.compile(r'thoroughbred', re.IGNORECASE),
-    'Quarter Horse': re.compile(r'quarter horse', re.IGNORECASE),
-    'Mixed': re.compile(r'mixed', re.IGNORECASE),
-    'Arabian': re.compile(r'arabian', re.IGNORECASE),
-}
+TYPE_PATTERNS = [' - Thoroughbred',' - Quarter Horse',' - Mixed',' - Arabian']
+

@@ -129,12 +129,13 @@ def getRaces(text_segment):
 
     # Validate race type
     lines = text_segment.split('\n')
-    for line in lines[1:3]:  # Check second and third lines for race type
-        for race_type_key, pattern in TYPE_PATTERNS.items():
-            if pattern.search(line.strip()):
-                common_data['race_type'] = race_type_key
-                break
-    if common_data['race_type'] not in ["Thoroughbred", 'Quarter Horse']:
+    line = lines[1] + lines[2]
+    line = line.replace('\n', '')
+    for type in TYPE_PATTERNS:
+        if type in line:
+            common_data['race_type'] = type.replace(' - ', '')
+            break
+    if common_data['race_type'] not in ["Thoroughbred", 'Quarter Horse', 'Mixed', 'Arabian']:
         return 'Invalid Race Type'
 
     # Extract horse-specific data
