@@ -2042,7 +2042,7 @@ A Twisted Cowboy (Duran, Nestor)
 bumped repeatedly
 ---
 2
-Senteya 29 (Villatoro, Noe)
+Senteya-29 (Villatoro, Noe)
 124 L bfk
 2
 4
@@ -2156,7 +2156,7 @@ A Twisted Cowboy
 52 1/4
 53
 2
-Senteya 29
+Senteya-29
 4
 51 1/2
 62 1/2
