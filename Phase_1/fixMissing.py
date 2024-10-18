@@ -58,11 +58,9 @@ def find_next_available_number(subfolder):
     files = [f for f in os.listdir(subfolder) if f.endswith('.txt')]
     used_numbers = [int(f.split('_')[0]) for f in files]
     
-    # If no files exist, return None to indicate that next_max should be used
     if not used_numbers:
         return None
     
-    # Find the smallest missing number in the sequence
     for num in range(min(used_numbers), max(used_numbers)):
         if num not in used_numbers:
             return num
@@ -77,7 +75,6 @@ def extract_and_save_text(pdf_path, text_file_path):
                 page = pdf_file.load_page(page_num)
                 full_text += page.get_text("text")
 
-        # Save the extracted text to the text file
         with open(text_file_path, 'w', encoding='utf-8') as text_file:
             text_file.write(full_text)
         print(f"Extracted text to: {text_file_path}")
@@ -106,9 +103,12 @@ for pdf_file in os.listdir(missing_pdfs_dir):
                 next_number = next_max
                 next_max += 1
 
-            # Name the new text file based on the found number
-            base_filename = os.path.splitext(pdf_file)[0]
-            text_file_name = f"{next_number}_{base_filename.split('_')[1]}.txt"
+            # Extract the year-month part from the subfolder name
+            folder_name = os.path.basename(subfolder)
+            base_folder_name = folder_name.split('-')[0] + '-' + folder_name.split('-')[1]
+
+            # Name the new text file based on the found number and subfolder name
+            text_file_name = f"{next_number}_{base_folder_name}.txt"
             text_file_path = os.path.join(subfolder, text_file_name)
 
             # Extract text and save it
