@@ -52,7 +52,7 @@ both_names = [('Bg Vroom Vroom Broom1', 'Bg Vroom Vroom Broom 1'), ('Bg Vroom Vr
                 ('Bg Vroom Vroom Broom6', 'Bg Vroom Vroom Broom 6'), ('Bg Vroom Vroom Broom7', 'Bg Vroom Vroom Broom 7'), ('Bg Vroom Vroom Broom8', 'Bg Vroom Vroom Broom 8'), ('Bg Vroom Vroom Broom9', 'Bg Vroom Vroom Broom 9'), ('Bg Vroom Vroom Broom10', 'Bg Vroom Vroom Broom 10')]
 
 #this should not contain tuples
-names = []
+names = ['La Karmela 123', 'Tellmshesa 10']
 
 # Run all names in names list, only use if just replacing spaces with hyphens
 with ThreadPoolExecutor() as executor:
@@ -64,9 +64,9 @@ with ThreadPoolExecutor() as executor:
 
 # this version is used for more specific cases that nee specific replacements
 # each entity in names is a tuple of a target and replacement string        
-with ThreadPoolExecutor() as executor:
+'''with ThreadPoolExecutor() as executor:
     futures = [executor.submit(process_folder, folder_to_search, name[0], name[1]) for name in both_names]
     
     # Wait for all tasks to complete
     for future in as_completed(futures):
-        future.result()
+        future.result()'''

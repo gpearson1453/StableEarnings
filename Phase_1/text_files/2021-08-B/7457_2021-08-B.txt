@@ -827,7 +827,7 @@ BL b
 driving finish
 8Aug21 5ONE6
 5
-Tellmshesa 10 (Borbonio, Jose)
+Tellmshesa-10 (Borbonio, Jose)
 130
 BL
 5
@@ -896,7 +896,7 @@ Red Teller
 3.80
 2.40
 5
-Tellmshesa 10
+Tellmshesa-10
 14.20
 2.60
 3
@@ -934,7 +934,7 @@ Red Teller
 11/2
 2Neck
 5
-Tellmshesa 10
+Tellmshesa-10
 4
 21/2
 31 1/4
