@@ -2,6 +2,7 @@ import os
 import csv
 from datetime import datetime
 import fitz  # For text extraction from PDFs
+import shutil  # For moving files
 
 # Set the working directory to the script's location
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -82,12 +83,20 @@ def extract_and_save_text(pdf_path, text_file_path):
     except Exception as exc:
         print(f"Error extracting text from {pdf_path}: {exc}")
 
+def rename_and_move_pdf(pdf_file_path, new_pdf_file_path):
+    try:
+        shutil.move(pdf_file_path, new_pdf_file_path)
+        print(f"Renamed and moved PDF to: {new_pdf_file_path}")
+    except Exception as e:
+        print(f"Error moving the PDF file: {e}")
+
 # Usage
 csv_file = 'all_race_data.csv'
 next_max = get_next_max(csv_file)
 
 missing_pdfs_dir = 'missing_pdfs'
 text_files_dir = 'text_files'
+pdf_files_dir = 'pdf_files'  # New directory for storing PDFs
 
 # Loop through all PDF files in missing_pdfs folder
 for pdf_file in os.listdir(missing_pdfs_dir):
@@ -113,3 +122,14 @@ for pdf_file in os.listdir(missing_pdfs_dir):
 
             # Extract text and save it
             extract_and_save_text(pdf_path, text_file_path)
+
+            # Rename the PDF using the same convention
+            new_pdf_file_name = f"{next_number}_{base_folder_name}.pdf"
+            pdf_subfolder = os.path.join(pdf_files_dir, folder_name)  # Use the same subfolder name in pdf_files
+            if not os.path.exists(pdf_subfolder):
+                os.makedirs(pdf_subfolder)
+
+            new_pdf_file_path = os.path.join(pdf_subfolder, new_pdf_file_name)
+
+            # Rename and move the PDF to the corresponding subfolder in pdf_files
+            rename_and_move_pdf(pdf_path, new_pdf_file_path)
