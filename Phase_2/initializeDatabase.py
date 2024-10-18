@@ -60,7 +60,7 @@ tables = [
     );
     """,
     """
-    CREATE TABLE IF NOT EXISTS Performances (
+    CREATE TABLE IF NOT EXISTS Races (
         performance_id SERIAL PRIMARY KEY,
         date DATE NOT NULL,
         location VARCHAR(255),
