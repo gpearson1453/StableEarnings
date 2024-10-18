@@ -18,6 +18,7 @@ drop_tables = [
     "DROP TABLE IF EXISTS Owners CASCADE;",
     "DROP TABLE IF EXISTS Trainers CASCADE;",
     "DROP TABLE IF EXISTS Jockeys CASCADE;",
+    "DROP TABLE IF EXISTS Races CASCADE;",
     "DROP TABLE IF EXISTS Performances CASCADE;",
     "DROP TABLE IF EXISTS Horses CASCADE;",
     "DROP TABLE IF EXISTS Tracks CASCADE;"
@@ -57,6 +58,25 @@ tables = [
         turf_median_performance_factor DECIMAL(5, 2),
         awt_median_performance_factor DECIMAL(5, 2),
         distance_factor DECIMAL(5, 2)
+    );
+    """,
+    """
+    CREATE TABLE IF NOT EXISTS Performances (
+        performance_id SERIAL PRIMARY KEY,
+        date DATE NOT NULL,
+        location VARCHAR(255),
+        race_number INT NOT NULL,
+        race_type VARCHAR(100),
+        surface VARCHAR(100),
+        weather VARCHAR(100),
+        temperature DECIMAL(5, 2),
+        track_state VARCHAR(100),
+        distance DECIMAL(5, 2),
+        fractional_times_1_6 VARCHAR(255),
+        final_time DECIMAL(5, 2),
+        split_time_1_6 VARCHAR(255),
+        track_id INT,
+        FOREIGN KEY (track_id) REFERENCES Tracks(track_id)
     );
     """,
     """
