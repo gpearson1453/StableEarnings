@@ -106,6 +106,7 @@ tables = [
     CREATE TABLE IF NOT EXISTS Races (
         race_id SERIAL PRIMARY KEY,
         track_id INT REFERENCES Tracks(track_id),
+        race_num INT,
         date DATE,
         race_type VARCHAR(255),
         surface VARCHAR(255),
@@ -129,6 +130,9 @@ tables = [
     );
     """,
     """
+    CREATE TYPE IF NOT EXISTS use_type AS ENUM ('SETUP', 'TRAINING', 'TESTING');
+    """,
+    """
     CREATE TABLE IF NOT EXISTS Performances (
         race_id INT REFERENCES Races(race_id),
         horse_id INT REFERENCES Horses(horse_id),
@@ -144,6 +148,7 @@ tables = [
         last_pos_gained DECIMAL,
         pos_factor DECIMAL,
         perf_factor DECIMAL,
+        use use_type,
         PRIMARY KEY (race_id, horse_id)
     );
     """,
