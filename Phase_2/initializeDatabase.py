@@ -1,5 +1,4 @@
 import psycopg2
-from psycopg2 import sql
 
 # Establish connection to CockroachDB
 conn = psycopg2.connect(
@@ -15,11 +14,17 @@ cur = conn.cursor()
 
 # SQL statements for dropping tables if they exist (with CASCADE)
 drop_tables = [
+    "DROP TABLE IF EXISTS owner_trainer CASCADE;",
+    "DROP TABLE IF EXISTS horse_track CASCADE;",
+    "DROP TABLE IF EXISTS jockey_track CASCADE;",
+    "DROP TABLE IF EXISTS horse_jockey CASCADE;",
+    "DROP TABLE IF EXISTS horse_trainer CASCADE;",
+    "DROP TABLE IF EXISTS trainer_track CASCADE;",
+    "DROP TABLE IF EXISTS Performances CASCADE;",
+    "DROP TABLE IF EXISTS Races CASCADE;",
     "DROP TABLE IF EXISTS Owners CASCADE;",
     "DROP TABLE IF EXISTS Trainers CASCADE;",
     "DROP TABLE IF EXISTS Jockeys CASCADE;",
-    "DROP TABLE IF EXISTS Races CASCADE;",
-    "DROP TABLE IF EXISTS Performances CASCADE;",
     "DROP TABLE IF EXISTS Horses CASCADE;",
     "DROP TABLE IF EXISTS Tracks CASCADE;"
 ]
@@ -34,84 +39,40 @@ tables = [
     CREATE TABLE IF NOT EXISTS Tracks (
         track_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
-        track_speed_factor DECIMAL(5, 2),
-        surfaces VARCHAR(255)
+        track_speed_factor DECIMAL
     );
     """,
     """
     CREATE TABLE IF NOT EXISTS Horses (
         horse_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
-        total_races INT,
-        win_rate DECIMAL(5, 2),
-        place_rate DECIMAL(5, 2),
-        show_rate DECIMAL(5, 2),
-        avg_final_position_factor DECIMAL(5, 2),
-        stddev_final_position_factor DECIMAL(5, 2),
-        avg_positions_gained_start DECIMAL(5, 2),
-        stddev_positions_gained DECIMAL(5, 2),
-        avg_positions_gained_last_2_3_legs DECIMAL(5, 2),
-        avg_positions_gained_last_leg DECIMAL(5, 2),
-        median_performance_factor DECIMAL(5, 2),
-        recent_performance_factor DECIMAL(5, 2),
-        dirt_median_performance_factor DECIMAL(5, 2),
-        turf_median_performance_factor DECIMAL(5, 2),
-        awt_median_performance_factor DECIMAL(5, 2),
-        distance_factor DECIMAL(5, 2)
-    );
-    """,
-    """
-    CREATE TABLE IF NOT EXISTS Performances (
-        performance_id SERIAL PRIMARY KEY,
-        date DATE NOT NULL,
-        location VARCHAR(255),
-        race_number INT NOT NULL,
-        race_type VARCHAR(100),
-        surface VARCHAR(100),
-        weather VARCHAR(100),
-        temperature DECIMAL(5, 2),
-        track_state VARCHAR(100),
-        distance DECIMAL(5, 2),
-        fractional_times_1_6 VARCHAR(255),
-        final_time DECIMAL(5, 2),
-        split_time_1_6 VARCHAR(255),
-        track_id INT,
-        FOREIGN KEY (track_id) REFERENCES Tracks(track_id)
-    );
-    """,
-    """
-    CREATE TABLE IF NOT EXISTS Races (
-        performance_id SERIAL PRIMARY KEY,
-        date DATE NOT NULL,
-        location VARCHAR(255),
-        race_number INT NOT NULL,
-        race_type VARCHAR(100),
-        surface VARCHAR(100),
-        weather VARCHAR(100),
-        temperature DECIMAL(5, 2),
-        track_state VARCHAR(100),
-        distance DECIMAL(5, 2),
-        fractional_times_1_6 VARCHAR(255),
-        final_time DECIMAL(5, 2),
-        split_time_1_6 VARCHAR(255),
-        track_id INT,
-        FOREIGN KEY (track_id) REFERENCES Tracks(track_id)
+        avg_pos_factor DECIMAL,
+        st_dev_pos_factor DECIMAL,
+        avg_position_gain DECIMAL,
+        st_dev_position_gain DECIMAL,
+        avg_late_position_gain DECIMAL,
+        avg_last_position_gain DECIMAL,
+        ewma_perf_factor DECIMAL,
+        most_recent_perf_factor DECIMAL,
+        ewma_dirt_perf_factor DECIMAL,
+        ewma_turf_perf_factor DECIMAL,
+        ewma_awt_perf_factor DECIMAL,
+        distance_factor DECIMAL
     );
     """,
     """
     CREATE TABLE IF NOT EXISTS Jockeys (
         jockey_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
+        avg_position_gain DECIMAL,
+        avg_late_position_gain DECIMAL,
+        avg_last_position_gain DECIMAL,
         total_races INT,
-        win_rate DECIMAL(5, 2),
-        place_rate DECIMAL(5, 2),
-        show_rate DECIMAL(5, 2),
-        avg_final_position_factor DECIMAL(5, 2),
-        stddev_final_position_factor DECIMAL(5, 2),
-        median_performance_factor DECIMAL(5, 2),
-        avg_positions_gained_start DECIMAL(5, 2),
-        avg_positions_gained_last_2_3_legs DECIMAL(5, 2),
-        avg_positions_gained_last_leg DECIMAL(5, 2)
+        wins INT,
+        places INT,
+        shows INT,
+        avg_pos_factor DECIMAL,
+        ewma_perf_factor DECIMAL
     );
     """,
     """
@@ -119,12 +80,14 @@ tables = [
         trainer_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
         total_races INT,
-        win_rate DECIMAL(5, 2),
-        place_rate DECIMAL(5, 2),
-        show_rate DECIMAL(5, 2),
-        dirt_median_performance_factor DECIMAL(5, 2),
-        turf_median_performance_factor DECIMAL(5, 2),
-        awt_median_performance_factor DECIMAL(5, 2)
+        wins INT,
+        places INT,
+        shows INT,
+        avg_pos_factor DECIMAL,
+        ewma_perf_factor DECIMAL,
+        ewma_dirt_perf_factor DECIMAL,
+        ewma_turf_perf_factor DECIMAL,
+        ewma_awt_perf_factor DECIMAL
     );
     """,
     """
@@ -132,9 +95,134 @@ tables = [
         owner_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
         total_races INT,
-        win_rate DECIMAL(5, 2),
-        place_rate DECIMAL(5, 2),
-        show_rate DECIMAL(5, 2)
+        wins INT,
+        places INT,
+        shows INT,
+        avg_pos_factor DECIMAL,
+        ewma_perf_factor DECIMAL
+    );
+    """,
+    """
+    CREATE TABLE IF NOT EXISTS Races (
+        race_id SERIAL PRIMARY KEY,
+        track_id INT REFERENCES Tracks(track_id),
+        date DATE,
+        race_type VARCHAR(255),
+        surface VARCHAR(255),
+        weather VARCHAR(255),
+        temperature DECIMAL,
+        track_state VARCHAR(255),
+        distance DECIMAL,
+        final_time DECIMAL,
+        frac_time_1 DECIMAL,
+        frac_time_2 DECIMAL,
+        frac_time_3 DECIMAL,
+        frac_time_4 DECIMAL,
+        frac_time_5 DECIMAL,
+        frac_time_6 DECIMAL,
+        split_time_1 DECIMAL,
+        split_time_2 DECIMAL,
+        split_time_3 DECIMAL,
+        split_time_4 DECIMAL,
+        split_time_5 DECIMAL,
+        split_time_6 DECIMAL
+    );
+    """,
+    """
+    CREATE TABLE IF NOT EXISTS Performances (
+        race_id INT REFERENCES Races(race_id),
+        horse_id INT REFERENCES Horses(horse_id),
+        program_number INT,
+        weight DECIMAL,
+        start_pos INT,
+        final_pos INT,
+        jockey_id INT REFERENCES Jockeys(jockey_id),
+        trainer_id INT REFERENCES Trainers(trainer_id),
+        owner_id INT REFERENCES Owners(owner_id),
+        pos_gained DECIMAL,
+        late_pos_gained DECIMAL,
+        last_pos_gained DECIMAL,
+        pos_factor DECIMAL,
+        perf_factor DECIMAL,
+        PRIMARY KEY (race_id, horse_id)
+    );
+    """,
+    """
+    CREATE TABLE IF NOT EXISTS horse_jockey (
+        horse_id INT REFERENCES Horses(horse_id),
+        jockey_id INT REFERENCES Jockeys(jockey_id),
+        total_races INT,
+        wins INT,
+        places INT,
+        shows INT,
+        avg_pos_factor DECIMAL,
+        ewma_perf_factor DECIMAL,
+        PRIMARY KEY (horse_id, jockey_id)
+    );
+    """,
+    """
+    CREATE TABLE IF NOT EXISTS horse_trainer (
+        horse_id INT REFERENCES Horses(horse_id),
+        trainer_id INT REFERENCES Trainers(trainer_id),
+        total_races INT,
+        wins INT,
+        places INT,
+        shows INT,
+        avg_pos_factor DECIMAL,
+        ewma_perf_factor DECIMAL,
+        PRIMARY KEY (horse_id, trainer_id)
+    );
+    """,
+    """
+    CREATE TABLE IF NOT EXISTS trainer_track (
+        trainer_id INT REFERENCES Trainers(trainer_id),
+        track_id INT REFERENCES Tracks(track_id),
+        total_races INT,
+        wins INT,
+        places INT,
+        shows INT,
+        avg_pos_factor DECIMAL,
+        ewma_perf_factor DECIMAL,
+        PRIMARY KEY (trainer_id, track_id)
+    );
+    """,
+    """
+    CREATE TABLE IF NOT EXISTS owner_trainer (
+        owner_id INT REFERENCES Owners(owner_id),
+        trainer_id INT REFERENCES Trainers(trainer_id),
+        total_races INT,
+        wins INT,
+        places INT,
+        shows INT,
+        avg_pos_factor DECIMAL,
+        ewma_perf_factor DECIMAL,
+        PRIMARY KEY (owner_id, trainer_id)
+    );
+    """,
+    """
+    CREATE TABLE IF NOT EXISTS horse_track (
+        horse_id INT REFERENCES Horses(horse_id),
+        track_id INT REFERENCES Tracks(track_id),
+        total_races INT,
+        wins INT,
+        places INT,
+        shows INT,
+        avg_pos_factor DECIMAL,
+        ewma_perf_factor DECIMAL,
+        PRIMARY KEY (horse_id, track_id)
+    );
+    """,
+    """
+    CREATE TABLE IF NOT EXISTS jockey_track (
+        jockey_id INT REFERENCES Jockeys(jockey_id),
+        track_id INT REFERENCES Tracks(track_id),
+        total_races INT,
+        wins INT,
+        places INT,
+        shows INT,
+        avg_pos_factor DECIMAL,
+        ewma_perf_factor DECIMAL,
+        PRIMARY KEY (jockey_id, track_id)
     );
     """
 ]
