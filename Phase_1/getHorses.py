@@ -61,6 +61,17 @@ def getHorses(text_segment):
     else:
         jockey_list = []
         weight_list = []
+    
+    #this stuff should get the odds
+    horse_name_idx = text_segment.find('Horse Name')
+    odds_title_block = comments_idx != -1 and horse_name_idx != -1 and horse_name_idx < comments_idx
+    if odds_title_block:
+        odds_found = 'Odds' in text_segment[horse_name_idx:comments_idx]
+        odds = []
+        for j in jockey_list:
+            odds_match = re.search(r'\b\d+\.\d+\b', jockey_text_block[jockey_text_block.find(j):])
+            odds.append(odds_match.group() if odds_found and odds_match else 'N/A')
+        
 
     # Initialize list to store horse data
     horses_data = []
@@ -71,6 +82,7 @@ def getHorses(text_segment):
             horse_dict = {
                 'program_number': entry[0],
                 'horse_name': entry[1],
+                'odds': odds[i].strip() if odds_title_block else 'NOT FOUND',
                 'weight': int(weight_list[i]) if i < len(weight_list) else 'NOT FOUND',
                 'start_pos': 'N/A' if 'Start' not in PPRLP_text[PPRLP_text.find('Pgm'):PPRLP_text.find('Pgm')+25] else (entry[2] if entry[2] in ['---', 'N/A'] else int(entry[2])),
                 'figures': ', '.join(entry[2:]) if 'Start' not in PPRLP_text else ', '.join(entry[3:]),
