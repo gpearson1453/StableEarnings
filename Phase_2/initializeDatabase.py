@@ -39,6 +39,7 @@ tables = [
     CREATE TABLE IF NOT EXISTS Tracks (
         track_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
+        normalized_name VARCHAR(255) NOT NULL,
         track_speed_factor DECIMAL
     );
     """,
@@ -46,6 +47,7 @@ tables = [
     CREATE TABLE IF NOT EXISTS Horses (
         horse_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
+        normalized_name VARCHAR(255) NOT NULL,
         avg_pos_factor DECIMAL,
         st_dev_pos_factor DECIMAL,
         avg_position_gain DECIMAL,
@@ -64,6 +66,7 @@ tables = [
     CREATE TABLE IF NOT EXISTS Jockeys (
         jockey_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
+        normalized_name VARCHAR(255) NOT NULL,
         avg_position_gain DECIMAL,
         avg_late_position_gain DECIMAL,
         avg_last_position_gain DECIMAL,
@@ -79,6 +82,7 @@ tables = [
     CREATE TABLE IF NOT EXISTS Trainers (
         trainer_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
+        normalized_name VARCHAR(255) NOT NULL,
         total_races INT,
         wins INT,
         places INT,
@@ -94,6 +98,7 @@ tables = [
     CREATE TABLE IF NOT EXISTS Owners (
         owner_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
+        normalized_name VARCHAR(255) NOT NULL,
         total_races INT,
         wins INT,
         places INT,
@@ -138,6 +143,7 @@ tables = [
         horse_id INT REFERENCES Horses(horse_id),
         program_number INT,
         weight DECIMAL,
+        odds DECIMAL,
         start_pos INT,
         final_pos INT,
         jockey_id INT REFERENCES Jockeys(jockey_id),
