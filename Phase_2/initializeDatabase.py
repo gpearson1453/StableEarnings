@@ -48,6 +48,10 @@ tables = [
         horse_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
         normalized_name VARCHAR(255) NOT NULL,
+        total_races INT,
+        wins INT,
+        places INT,
+        shows INT,
         avg_pos_factor DECIMAL,
         st_dev_pos_factor DECIMAL,
         avg_position_gain DECIMAL,
@@ -91,7 +95,8 @@ tables = [
         ewma_perf_factor DECIMAL,
         ewma_dirt_perf_factor DECIMAL,
         ewma_turf_perf_factor DECIMAL,
-        ewma_awt_perf_factor DECIMAL
+        ewma_awt_perf_factor DECIMAL,
+        distance_factor DECIMAL
     );
     """,
     """
@@ -188,13 +193,14 @@ tables = [
     CREATE TABLE IF NOT EXISTS trainer_track (
         trainer_id INT REFERENCES Trainers(trainer_id),
         track_id INT REFERENCES Tracks(track_id),
+        surface VARCHAR(255),
         total_races INT,
         wins INT,
         places INT,
         shows INT,
         avg_pos_factor DECIMAL,
         ewma_perf_factor DECIMAL,
-        PRIMARY KEY (trainer_id, track_id)
+        PRIMARY KEY (trainer_id, track_id, surface)
     );
     """,
     """
@@ -214,26 +220,27 @@ tables = [
     CREATE TABLE IF NOT EXISTS horse_track (
         horse_id INT REFERENCES Horses(horse_id),
         track_id INT REFERENCES Tracks(track_id),
+        surface VARCHAR(255),
         total_races INT,
         wins INT,
         places INT,
         shows INT,
         avg_pos_factor DECIMAL,
         ewma_perf_factor DECIMAL,
-        PRIMARY KEY (horse_id, track_id)
+        PRIMARY KEY (horse_id, track_id, surface)
     );
     """,
     """
-    CREATE TABLE IF NOT EXISTS jockey_track (
+    CREATE TABLE IF NOT EXISTS jockey_trainer (
         jockey_id INT REFERENCES Jockeys(jockey_id),
-        track_id INT REFERENCES Tracks(track_id),
+        trainer_id INT REFERENCES Trainers(trainer_id),
         total_races INT,
         wins INT,
         places INT,
         shows INT,
         avg_pos_factor DECIMAL,
         ewma_perf_factor DECIMAL,
-        PRIMARY KEY (jockey_id, track_id)
+        PRIMARY KEY (jockey_id, trainer_id)
     );
     """
 ]
