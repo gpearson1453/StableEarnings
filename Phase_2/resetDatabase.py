@@ -37,16 +37,16 @@ for table in drop_tables:
 tables = [
     """
     CREATE TABLE IF NOT EXISTS Tracks (
-        track_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
-        normalized_name VARCHAR(255) NOT NULL
+        normalized_name VARCHAR(255) NOT NULL,
+        track_id VARCHAR(255) PRIMARY KEY
     );
     """,
     """
     CREATE TABLE IF NOT EXISTS Horses (
-        horse_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
         normalized_name VARCHAR(255) NOT NULL,
+        horse_id VARCHAR(255) PRIMARY KEY,
         total_races INT,
         wins INT,
         places INT,
@@ -67,9 +67,9 @@ tables = [
     """,
     """
     CREATE TABLE IF NOT EXISTS Jockeys (
-        jockey_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
         normalized_name VARCHAR(255) NOT NULL,
+        jockey_id VARCHAR(255) PRIMARY KEY,
         avg_position_gain DECIMAL,
         avg_late_position_gain DECIMAL,
         avg_last_position_gain DECIMAL,
@@ -83,9 +83,9 @@ tables = [
     """,
     """
     CREATE TABLE IF NOT EXISTS Trainers (
-        trainer_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
         normalized_name VARCHAR(255) NOT NULL,
+        trainer_id VARCHAR(255) PRIMARY KEY,
         total_races INT,
         wins INT,
         places INT,
@@ -100,9 +100,9 @@ tables = [
     """,
     """
     CREATE TABLE IF NOT EXISTS Owners (
-        owner_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
         normalized_name VARCHAR(255) NOT NULL,
+        owner_id VARCHAR(255) PRIMARY KEY,
         total_races INT,
         wins INT,
         places INT,
@@ -113,10 +113,10 @@ tables = [
     """,
     """
     CREATE TABLE IF NOT EXISTS Races (
-        race_id SERIAL PRIMARY KEY,
-        track_id INT REFERENCES Tracks(track_id),
-        race_num INT,
         date DATE,
+        race_num INT,
+        race_id VARCHAR(255) PRIMARY KEY,
+        track_id VARCHAR(255) REFERENCES Tracks(track_id),
         race_type VARCHAR(255),
         surface VARCHAR(255),
         weather VARCHAR(255),
@@ -143,16 +143,16 @@ tables = [
     """,
     """
     CREATE TABLE IF NOT EXISTS Performances (
-        race_id INT REFERENCES Races(race_id),
-        horse_id INT REFERENCES Horses(horse_id),
+        race_id VARCHAR(255) REFERENCES Races(race_id),
+        horse_id VARCHAR(255) REFERENCES Horses(horse_id),
         program_number INT,
         weight DECIMAL,
         odds DECIMAL,
         start_pos INT,
         final_pos INT,
-        jockey_id INT REFERENCES Jockeys(jockey_id),
-        trainer_id INT REFERENCES Trainers(trainer_id),
-        owner_id INT REFERENCES Owners(owner_id),
+        jockey_id VARCHAR(255) REFERENCES Jockeys(jockey_id),
+        trainer_id VARCHAR(255) REFERENCES Trainers(trainer_id),
+        owner_id VARCHAR(255) REFERENCES Owners(owner_id),
         pos_gained DECIMAL,
         late_pos_gained DECIMAL,
         last_pos_gained DECIMAL,
@@ -164,8 +164,8 @@ tables = [
     """,
     """
     CREATE TABLE IF NOT EXISTS horse_jockey (
-        horse_id INT REFERENCES Horses(horse_id),
-        jockey_id INT REFERENCES Jockeys(jockey_id),
+        horse_id VARCHAR(255) REFERENCES Horses(horse_id),
+        jockey_id VARCHAR(255) REFERENCES Jockeys(jockey_id),
         total_races INT,
         wins INT,
         places INT,
@@ -177,8 +177,8 @@ tables = [
     """,
     """
     CREATE TABLE IF NOT EXISTS horse_trainer (
-        horse_id INT REFERENCES Horses(horse_id),
-        trainer_id INT REFERENCES Trainers(trainer_id),
+        horse_id VARCHAR(255) REFERENCES Horses(horse_id),
+        trainer_id VARCHAR(255) REFERENCES Trainers(trainer_id),
         total_races INT,
         wins INT,
         places INT,
@@ -190,8 +190,8 @@ tables = [
     """,
     """
     CREATE TABLE IF NOT EXISTS trainer_track (
-        trainer_id INT REFERENCES Trainers(trainer_id),
-        track_id INT REFERENCES Tracks(track_id),
+        trainer_id VARCHAR(255) REFERENCES Trainers(trainer_id),
+        track_id VARCHAR(255) REFERENCES Tracks(track_id),
         surface VARCHAR(255),
         total_races INT,
         wins INT,
@@ -204,8 +204,8 @@ tables = [
     """,
     """
     CREATE TABLE IF NOT EXISTS owner_trainer (
-        owner_id INT REFERENCES Owners(owner_id),
-        trainer_id INT REFERENCES Trainers(trainer_id),
+        owner_id VARCHAR(255) REFERENCES Owners(owner_id),
+        trainer_id VARCHAR(255) REFERENCES Trainers(trainer_id),
         total_races INT,
         wins INT,
         places INT,
@@ -217,8 +217,8 @@ tables = [
     """,
     """
     CREATE TABLE IF NOT EXISTS horse_track (
-        horse_id INT REFERENCES Horses(horse_id),
-        track_id INT REFERENCES Tracks(track_id),
+        horse_id VARCHAR(255) REFERENCES Horses(horse_id),
+        track_id VARCHAR(255) REFERENCES Tracks(track_id),
         surface VARCHAR(255),
         total_races INT,
         wins INT,
@@ -231,8 +231,8 @@ tables = [
     """,
     """
     CREATE TABLE IF NOT EXISTS jockey_trainer (
-        jockey_id INT REFERENCES Jockeys(jockey_id),
-        trainer_id INT REFERENCES Trainers(trainer_id),
+        jockey_id VARCHAR(255) REFERENCES Jockeys(jockey_id),
+        trainer_id VARCHAR(255) REFERENCES Trainers(trainer_id),
         total_races INT,
         wins INT,
         places INT,

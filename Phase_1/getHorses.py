@@ -1,5 +1,6 @@
 from processPPRLP import processPPRLP
 import re
+import uuid
 
 def getHorses(text_segment):
     """
@@ -89,7 +90,8 @@ def getHorses(text_segment):
                 'final_pos': i + 1,
                 'jockey': jockey_list[i].strip() if i < len(jockey_list) else 'NOT FOUND',
                 'trainer': trainers_list[i].strip().replace('\n', '') if i < len(trainers_list) else 'NOT FOUND',
-                'owner': owners_list[i].strip().replace('\n', '') if i < len(owners_list) else 'NOT FOUND'
+                'owner': owners_list[i].strip().replace('\n', '') if i < len(owners_list) else 'NOT FOUND',
+                'performance_id': str(uuid.uuid4())
             }
             horses_data.append(horse_dict)
     return horses_data

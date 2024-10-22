@@ -1,6 +1,7 @@
 import re
 from mappings import TYPE_PATTERNS, DISTANCE_CONVERSION, SURFACE_MAPPING
 from getHorses import getHorses
+import uuid
 
 def remove_weird_chars(string):
     """
@@ -53,7 +54,8 @@ def getRaces(text_segment):
         'split_c': "NOT FOUND",
         'split_d': "NOT FOUND",
         'split_e': "NOT FOUND",
-        'split_f': "NOT FOUND"
+        'split_f': "NOT FOUND",
+        'unique_race_id': str(uuid.uuid4())
     }
 
     # this seciton will remove 'Inner' and 'Outer' from the surface segment to allow for correct mapping
