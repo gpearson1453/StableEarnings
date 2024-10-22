@@ -39,8 +39,7 @@ tables = [
     CREATE TABLE IF NOT EXISTS Tracks (
         track_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
-        normalized_name VARCHAR(255) NOT NULL,
-        track_speed_factor DECIMAL
+        normalized_name VARCHAR(255) NOT NULL
     );
     """,
     """
