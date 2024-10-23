@@ -2,6 +2,7 @@ import csv
 import dataMethods as dm
 import os
 import uuid
+import time
 
 # Set the working directory to the script's location
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -16,6 +17,7 @@ horse_cache = {}
 jockey_cache = {}
 trainer_cache = {}
 owner_cache = {}
+start_time = time.time()  # Start time of the program
 
 # Function to initialize the database connection and cursor
 def init_db():
@@ -44,7 +46,27 @@ def pushBatch():
         print(f"Error occurred: {e}")
     finally:
         batch_queries = []  # Clear the batch after pushing
-        
+
+def format_time(seconds):
+    """Helper function to format time in hours, minutes, and seconds."""
+    hours = int(seconds // 3600)
+    minutes = int((seconds % 3600) // 60)
+    seconds = int(seconds % 60)
+    return f"{hours}h {minutes}m {seconds}s"
+
+def clockCheck(row_num, total_rows):
+    elapsed_time = time.time() - start_time
+    rows_per_sec = row_num / elapsed_time
+    estimated_time_left = (total_rows - row_num) / rows_per_sec
+
+    # Format elapsed time and estimated time left in hours, minutes, and seconds
+    formatted_elapsed_time = format_time(elapsed_time)
+    formatted_time_left = format_time(estimated_time_left)
+
+    print(f"Time elapsed: {formatted_elapsed_time}")
+    print(f"Rows processed: {row_num}/{total_rows}")
+    print(f"Estimated time remaining: {formatted_time_left}")
+
 def addTrack(track_name):
     global track_cache
     if track_name in track_cache:
@@ -64,12 +86,19 @@ def addSetup(file_path):
     global cur, conn
     prev_file_num = -1
     prev_file_num_race_num = (-1, -1)
-    
+
+    # Get total number of rows in the CSV
+    with open(file_path, mode='r') as csv_file:
+        total_rows = sum(1 for row in csv_file) - 1  # Subtract 1 for the header row
+
+    # Process the CSV
     with open(file_path, mode='r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
-        for row in csv_reader:
+        for row_num, row in enumerate(csv_reader, start=1):
+            if row_num % 1000 == 0:
+                clockCheck(row_num, total_rows)
             if row['file_number'] != prev_file_num:
-                if len(batch_queries) > 2000:
+                if len(batch_queries) > 1000:
                     pushBatch()
                 track_id = addTrack(row['location'])
                 prev_file_num = row['file_number']
@@ -91,7 +120,6 @@ def addSetup(file_path):
                                                    row['split_e'] if row['split_e'] else None, 
                                                    row['split_f'] if row['split_f'] else None))
                 prev_file_num_race_num = (row['file_number'], row['race_number'])
-                
 
     pushBatch()  # Push all the queries after processing the CSV
 

@@ -145,7 +145,7 @@ tables = [
     CREATE TABLE IF NOT EXISTS Performances (
         race_id VARCHAR(255) REFERENCES Races(race_id),
         horse_id VARCHAR(255) REFERENCES Horses(horse_id),
-        program_number INT,
+        program_number VARCHAR(255),
         weight DECIMAL,
         odds DECIMAL,
         start_pos INT,

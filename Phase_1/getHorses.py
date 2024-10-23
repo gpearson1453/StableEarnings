@@ -88,10 +88,10 @@ def getHorses(text_segment):
                 'start_pos': 'N/A' if 'Start' not in PPRLP_text[PPRLP_text.find('Pgm'):PPRLP_text.find('Pgm')+25] else (entry[2] if entry[2] in ['---', 'N/A'] else int(entry[2])),
                 'figures': ', '.join(entry[2:]) if 'Start' not in PPRLP_text else ', '.join(entry[3:]),
                 'final_pos': i + 1,
+                'total_horses': len(pprlp_data),
                 'jockey': jockey_list[i].strip() if i < len(jockey_list) else 'NOT FOUND',
                 'trainer': trainers_list[i].strip().replace('\n', '') if i < len(trainers_list) else 'NOT FOUND',
-                'owner': owners_list[i].strip().replace('\n', '') if i < len(owners_list) else 'NOT FOUND',
-                'performance_id': str(uuid.uuid4())
+                'owner': owners_list[i].strip().replace('\n', '') if i < len(owners_list) else 'NOT FOUND'
             }
             horses_data.append(horse_dict)
     return horses_data
