@@ -94,4 +94,4 @@ traintest_thread.start()
 setup_thread.join()
 traintest_thread.join()
 
-print("CSV processing and time conversion complete.")
+print("CSV processing complete.")

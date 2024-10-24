@@ -1,6 +1,87 @@
 from processPPRLP import processPPRLP
 import re
-import uuid
+
+# This method converts the extracted text for the performance lines into usable data
+# Specifically, it returns a list of values of length 2n (where n is the number of performance lines in the PPRLP block)
+# where every two values are the horses position and distance to the next horse, respectively, for each performance line section
+def processFigs(start, figures, horse_count):
+    result = []
+    if horse_count < 10:
+        for fig in figures:
+            if fig == '---' or fig == '*':
+                result.extend(['---', '---'])
+            elif 'Nose' in fig:
+                result.extend([fig[0], '0.11275'])
+            elif 'Head' in fig:
+                result.extend([fig[0], '0.2255'])
+            elif 'Neck' in fig:
+                result.extend([fig[0], '2.125'])
+            elif ' ' in fig:
+                result.extend([fig[0], str(float(fig[1:-4]) + float(fig[-3]) / float(fig[-1]))])
+            elif '/' in fig:
+                result.extend([fig[0], str(float(fig[-3]) / float(fig[-1]))])
+            else:
+                result.extend([fig[0], fig[1:]])
+    else:
+        prev = start.replace('---', '').replace('*', '')
+        for i, fig in enumerate(figures):
+            if fig == '---' or fig == '*':
+                result.extend(['---', '---'])
+            elif 'Nose' in fig:
+                result.extend([fig[:-4], '0.11275'])
+                prev = fig[:-4]
+            elif 'Head' in fig:
+                result.extend([fig[:-4], '0.2255'])
+                prev = fig[:-4]
+            elif 'Neck' in fig:
+                result.extend([fig[:-4], '2.125'])
+                prev = fig[:-4]
+            elif ' ' in fig:
+                if fig[1] == '0':
+                    result.extend([fig[:2], str(float(fig[2:-4]) + float(fig[-3]) / float(fig[-1]))])
+                    prev = fig[:2]
+                elif prev:
+                    if (len(fig) == 6 
+                        or int(fig[:2]) > horse_count
+                        or max(int(prev) - int(fig[0]), int(fig[0]) - int(prev)) < max(int(prev) - int(fig[:2]), int(fig[:2]) - int(prev))):
+                        result.extend([fig[0], str(float(fig[1:-4]) + float(fig[-3]) / float(fig[-1]))])
+                        prev = fig[0]
+                    else:
+                        result.extend([fig[:2], str(float(fig[2:-4]) + float(fig[-3]) / float(fig[-1]))])
+                        prev = fig[:2]
+                else:
+                    if (len(fig) == 6 
+                        or int(fig[:2]) > horse_count):
+                        result.extend([fig[0], str(float(fig[1:-4]) + float(fig[-3]) / float(fig[-1]))])
+                        prev = fig[0]
+                    else:
+                        result.extend([fig[:2], str(float(fig[2:-4]) + float(fig[-3]) / float(fig[-1]))])
+                        prev = fig[:2]
+            elif '/' in fig:
+                result.extend([fig[:-3], str(float(fig[-3]) / float(fig[-1]))])
+                prev = fig[:-3]
+            else:
+                if fig[1] == '0':
+                    result.extend([fig[:2], fig[2:]])
+                    prev = fig[:2]
+                elif prev:
+                    if (len(fig) == 6 
+                        or int(fig[:2]) > horse_count
+                        or max(int(prev) - int(fig[0]), int(fig[0]) - int(prev)) < max(int(prev) - int(fig[:2]), int(fig[:2]) - int(prev))):
+                        result.extend([fig[0], fig[1:]])
+                        prev = fig[0]
+                    else:
+                        result.extend([fig[:2], fig[2:]])
+                        prev = fig[:2]
+                else:
+                    if (len(fig) == 2 
+                        or int(fig[:2]) > horse_count):
+                        result.extend([fig[0], fig[1:]])
+                        prev = fig[0]
+                    else:
+                        result.extend([fig[:2], fig[2:]])
+                        prev = fig[:2]
+    return result
 
 def getHorses(text_segment):
     """
@@ -86,7 +167,7 @@ def getHorses(text_segment):
                 'odds': odds[i].strip() if odds_title_block else 'NOT FOUND',
                 'weight': int(weight_list[i]) if i < len(weight_list) else 'NOT FOUND',
                 'start_pos': 'N/A' if 'Start' not in PPRLP_text[PPRLP_text.find('Pgm'):PPRLP_text.find('Pgm')+25] else (entry[2] if entry[2] in ['---', 'N/A'] else int(entry[2])),
-                'figures': ', '.join(entry[2:]) if 'Start' not in PPRLP_text else ', '.join(entry[3:]),
+                'figures': ', '.join(processFigs('', entry[2:], len(pprlp_data))) if 'Start' not in PPRLP_text[:PPRLP_text.find('Horse')+20] else ', '.join(processFigs(entry[2], entry[3:], len(pprlp_data))),
                 'final_pos': i + 1,
                 'total_horses': len(pprlp_data),
                 'jockey': jockey_list[i].strip() if i < len(jockey_list) else 'NOT FOUND',
