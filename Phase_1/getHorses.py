@@ -11,11 +11,11 @@ def processFigs(start, figures, horse_count):
             if fig == '---' or fig == '*':
                 result.extend(['---', '---'])
             elif 'Nose' in fig:
-                result.extend([fig[0], '0.11275'])
+                result.extend([fig[0], '0.05'])
             elif 'Head' in fig:
-                result.extend([fig[0], '0.2255'])
+                result.extend([fig[0], '0.2'])
             elif 'Neck' in fig:
-                result.extend([fig[0], '2.125'])
+                result.extend([fig[0], '0.3'])
             elif ' ' in fig:
                 result.extend([fig[0], str(float(fig[1:-4]) + float(fig[-3]) / float(fig[-1]))])
             elif '/' in fig:

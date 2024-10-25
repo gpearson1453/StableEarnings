@@ -2,6 +2,7 @@ import re
 from mappings import TYPE_PATTERNS, DISTANCE_CONVERSION, SURFACE_MAPPING
 from getHorses import getHorses
 import uuid
+import statistics as stats
 
 def remove_weird_chars(string):
     """
@@ -15,6 +16,28 @@ def remove_weird_chars(string):
     """
     translation_table = str.maketrans('', '', '<*?/[\n\r]')
     return string.translate(translation_table)
+
+# This method calculates a position factor based on horses' final positions relative to each other.
+# First, each horses' gap to each other horse is calculated. Apoitive value indicates leading another horse,
+# and a negative value indicated trailing another horse.
+# Then, for each horse, the average of all of the gaps to the other horses is calculated.
+# Finally, to reduce the skewing effect of horses trailing the pack  by large margins, the z-score of each
+# average gap is calculated by dividing the average gap by the standard deviation of all average gap values.
+# The function returns a list of these average gap z-score values.
+def calculatePosFactors(figs):
+    l = len(figs)
+    figs[0] = 0
+    arr = [[0] * l for _ in range(l)]
+    for i in range(l):
+        if i == 0:
+            for j in range(1, l):
+                arr[i][j] = arr[i][j-1] + float(figs[j])
+        else:
+            for j in range(l):
+                arr[i][j] = arr[i-1][j] - float(figs[i])
+    means =  [stats.mean(list) * l / (l-1) for list in arr]
+    sd = stats.stdev(means)
+    return [m / sd for m in means]
 
 def getRaces(text_segment):
     """
@@ -142,8 +165,16 @@ def getRaces(text_segment):
 
     # Extract horse-specific data
     horse_data_list = getHorses(text_segment)
+    
+    if len(horse_data_list) < 2:
+        return
+    
+    final_figs = [horse_data['figures'].split(', ')[-1] for horse_data in horse_data_list]
+    while final_figs[-1] == '---':
+        final_figs = final_figs[:-1]
+    pos_factors = calculatePosFactors(final_figs) if len(final_figs) > 1 else []
 
     # Combine common race data with horse data
-    combined_data = [{**common_data, **horse_data} for horse_data in horse_data_list]
+    combined_data = [{**common_data, **{**horse_data, **{'pos_factor': '' if i >= len(pos_factors) else pos_factors[i]}}} for i, horse_data in enumerate(horse_data_list)]
 
     return combined_data
