@@ -1,7 +1,6 @@
 import re
 from mappings import TYPE_PATTERNS, DISTANCE_CONVERSION, SURFACE_MAPPING
 from getHorses import getHorses
-import uuid
 import statistics as stats
 
 def remove_weird_chars(string):
@@ -77,8 +76,7 @@ def getRaces(text_segment):
         'split_c': "NOT FOUND",
         'split_d': "NOT FOUND",
         'split_e': "NOT FOUND",
-        'split_f': "NOT FOUND",
-        'unique_race_id': str(uuid.uuid4())
+        'split_f': "NOT FOUND"
     }
 
     # this seciton will remove 'Inner' and 'Outer' from the surface segment to allow for correct mapping
@@ -137,6 +135,8 @@ def getRaces(text_segment):
         raw_distance, raw_surface = distance_surface_match.groups()
         common_data['distance(miles)'] = DISTANCE_CONVERSION.get(raw_distance.replace("About", '').strip(), "NOT FOUND")
         common_data['surface'] = SURFACE_MAPPING.get(raw_surface.strip()[0], "NOT FOUND")
+        if common_data['surface'] == 'Turf':
+            print(common_data['race_id'])
 
     # Extract weather and temperature
     if '° C' in text_segment:

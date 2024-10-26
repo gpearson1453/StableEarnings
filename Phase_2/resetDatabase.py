@@ -39,7 +39,8 @@ tables = [
     CREATE TABLE IF NOT EXISTS Tracks (
         name VARCHAR(255) NOT NULL,
         normalized_name VARCHAR(255) NOT NULL,
-        track_id VARCHAR(255) PRIMARY KEY
+        track_id VARCHAR(255) PRIMARY KEY,
+        ewma_speed DECIMAL(10, 6)
     );
     """,
     """
@@ -47,22 +48,20 @@ tables = [
         name VARCHAR(255) NOT NULL,
         normalized_name VARCHAR(255) NOT NULL,
         horse_id VARCHAR(255) PRIMARY KEY,
-        total_races INT,
-        wins INT,
-        places INT,
-        shows INT,
-        avg_pos_factor DECIMAL,
-        st_dev_pos_factor DECIMAL,
-        avg_position_gain DECIMAL,
-        st_dev_position_gain DECIMAL,
-        avg_late_position_gain DECIMAL,
-        avg_last_position_gain DECIMAL,
-        ewma_perf_factor DECIMAL,
-        most_recent_perf_factor DECIMAL,
-        ewma_dirt_perf_factor DECIMAL,
-        ewma_turf_perf_factor DECIMAL,
-        ewma_awt_perf_factor DECIMAL,
-        distance_factor DECIMAL
+        total_races INT DEFAULT 0,
+        wins INT DEFAULT 0,
+        places INT DEFAULT 0,
+        shows INT DEFAULT 0,
+        ewma_pos_factor DECIMAL (10,6),
+        ewma_pos_gain DECIMAL (10,6),
+        ewma_late_pos_gain DECIMAL (10,6),
+        ewma_last_pos_gain DECIMAL (10,6),
+        ewma_perf_factor DECIMAL(10, 6),
+        recent_perf_factor DECIMAL(10, 6),
+        ewma_dirt_perf_factor DECIMAL(10, 6),
+        ewma_turf_perf_factor DECIMAL(10, 6),
+        ewma_awt_perf_factor DECIMAL(10, 6),
+        distance_factor DECIMAL(10, 6)
     );
     """,
     """
@@ -70,15 +69,15 @@ tables = [
         name VARCHAR(255) NOT NULL,
         normalized_name VARCHAR(255) NOT NULL,
         jockey_id VARCHAR(255) PRIMARY KEY,
-        avg_position_gain DECIMAL,
-        avg_late_position_gain DECIMAL,
-        avg_last_position_gain DECIMAL,
+        avg_position_gain DECIMAL(10, 6),
+        avg_late_position_gain DECIMAL(10, 6),
+        avg_last_position_gain DECIMAL(10, 6),
         total_races INT,
         wins INT,
         places INT,
         shows INT,
-        avg_pos_factor DECIMAL,
-        ewma_perf_factor DECIMAL
+        avg_pos_factor DECIMAL(10, 6),
+        ewma_perf_factor DECIMAL(10, 6)
     );
     """,
     """
@@ -90,12 +89,12 @@ tables = [
         wins INT,
         places INT,
         shows INT,
-        avg_pos_factor DECIMAL,
-        ewma_perf_factor DECIMAL,
-        ewma_dirt_perf_factor DECIMAL,
-        ewma_turf_perf_factor DECIMAL,
-        ewma_awt_perf_factor DECIMAL,
-        distance_factor DECIMAL
+        avg_pos_factor DECIMAL(10, 6),
+        ewma_perf_factor DECIMAL(10, 6),
+        ewma_dirt_perf_factor DECIMAL(10, 6),
+        ewma_turf_perf_factor DECIMAL(10, 6),
+        ewma_awt_perf_factor DECIMAL(10, 6),
+        distance_factor DECIMAL(10, 6)
     );
     """,
     """
@@ -107,8 +106,8 @@ tables = [
         wins INT,
         places INT,
         shows INT,
-        avg_pos_factor DECIMAL,
-        ewma_perf_factor DECIMAL
+        avg_pos_factor DECIMAL(10, 6),
+        ewma_perf_factor DECIMAL(10, 6)
     );
     """,
     """
@@ -120,22 +119,23 @@ tables = [
         race_type VARCHAR(255),
         surface VARCHAR(255),
         weather VARCHAR(255),
-        temperature DECIMAL,
+        temperature DECIMAL(10, 6),
         track_state VARCHAR(255),
-        distance DECIMAL,
-        final_time DECIMAL,
-        frac_time_1 DECIMAL,
-        frac_time_2 DECIMAL,
-        frac_time_3 DECIMAL,
-        frac_time_4 DECIMAL,
-        frac_time_5 DECIMAL,
-        frac_time_6 DECIMAL,
-        split_time_1 DECIMAL,
-        split_time_2 DECIMAL,
-        split_time_3 DECIMAL,
-        split_time_4 DECIMAL,
-        split_time_5 DECIMAL,
-        split_time_6 DECIMAL
+        distance DECIMAL(10, 6),
+        final_time DECIMAL(10, 6),
+        speed DECIMAL(10, 6),
+        frac_time_1 DECIMAL(10, 6),
+        frac_time_2 DECIMAL(10, 6),
+        frac_time_3 DECIMAL(10, 6),
+        frac_time_4 DECIMAL(10, 6),
+        frac_time_5 DECIMAL(10, 6),
+        frac_time_6 DECIMAL(10, 6),
+        split_time_1 DECIMAL(10, 6),
+        split_time_2 DECIMAL(10, 6),
+        split_time_3 DECIMAL(10, 6),
+        split_time_4 DECIMAL(10, 6),
+        split_time_5 DECIMAL(10, 6),
+        split_time_6 DECIMAL(10, 6)
     );
     """,
     """
@@ -146,18 +146,18 @@ tables = [
         race_id VARCHAR(255) REFERENCES Races(race_id),
         horse_id VARCHAR(255) REFERENCES Horses(horse_id),
         program_number VARCHAR(255),
-        weight DECIMAL,
-        odds DECIMAL,
+        weight DECIMAL(10, 6),
+        odds DECIMAL(10, 6),
         start_pos INT,
         final_pos INT,
         jockey_id VARCHAR(255) REFERENCES Jockeys(jockey_id),
         trainer_id VARCHAR(255) REFERENCES Trainers(trainer_id),
         owner_id VARCHAR(255) REFERENCES Owners(owner_id),
-        pos_gained DECIMAL,
-        late_pos_gained DECIMAL,
-        last_pos_gained DECIMAL,
-        pos_factor DECIMAL,
-        perf_factor DECIMAL,
+        pos_gained DECIMAL(10, 6),
+        late_pos_gained DECIMAL(10, 6),
+        last_pos_gained DECIMAL(10, 6),
+        pos_factor DECIMAL(10, 6),
+        perf_factor DECIMAL(10, 6),
         use use_type,
         PRIMARY KEY (race_id, horse_id)
     );
@@ -170,8 +170,8 @@ tables = [
         wins INT,
         places INT,
         shows INT,
-        avg_pos_factor DECIMAL,
-        ewma_perf_factor DECIMAL,
+        avg_pos_factor DECIMAL(10, 6),
+        ewma_perf_factor DECIMAL(10, 6),
         PRIMARY KEY (horse_id, jockey_id)
     );
     """,
@@ -183,8 +183,8 @@ tables = [
         wins INT,
         places INT,
         shows INT,
-        avg_pos_factor DECIMAL,
-        ewma_perf_factor DECIMAL,
+        avg_pos_factor DECIMAL(10, 6),
+        ewma_perf_factor DECIMAL(10, 6),
         PRIMARY KEY (horse_id, trainer_id)
     );
     """,
@@ -197,8 +197,8 @@ tables = [
         wins INT,
         places INT,
         shows INT,
-        avg_pos_factor DECIMAL,
-        ewma_perf_factor DECIMAL,
+        avg_pos_factor DECIMAL(10, 6),
+        ewma_perf_factor DECIMAL(10, 6),
         PRIMARY KEY (trainer_id, track_id, surface)
     );
     """,
@@ -210,8 +210,8 @@ tables = [
         wins INT,
         places INT,
         shows INT,
-        avg_pos_factor DECIMAL,
-        ewma_perf_factor DECIMAL,
+        avg_pos_factor DECIMAL(10, 6),
+        ewma_perf_factor DECIMAL(10, 6),
         PRIMARY KEY (owner_id, trainer_id)
     );
     """,
@@ -224,8 +224,8 @@ tables = [
         wins INT,
         places INT,
         shows INT,
-        avg_pos_factor DECIMAL,
-        ewma_perf_factor DECIMAL,
+        avg_pos_factor DECIMAL(10, 6),
+        ewma_perf_factor DECIMAL(10, 6),
         PRIMARY KEY (horse_id, track_id, surface)
     );
     """,
@@ -237,8 +237,8 @@ tables = [
         wins INT,
         places INT,
         shows INT,
-        avg_pos_factor DECIMAL,
-        ewma_perf_factor DECIMAL,
+        avg_pos_factor DECIMAL(10, 6),
+        ewma_perf_factor DECIMAL(10, 6),
         PRIMARY KEY (jockey_id, trainer_id)
     );
     """

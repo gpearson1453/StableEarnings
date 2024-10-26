@@ -14,6 +14,7 @@ csv_file_path = os.path.join(phase_1_folder, 'all_race_data.csv')
 phase_2_folder = os.path.join(parent_folder, 'Phase_2')
 setup_csv_path = os.path.join(phase_2_folder, 'setup.csv')
 traintest_csv_path = os.path.join(phase_2_folder, 'traintest.csv')
+testing_csv_path = os.path.join(phase_2_folder, 'testing.csv')
 
 # Function to determine the year from a date string in the format 'Month Date, Year'
 def extract_year_from_date(date_string):
@@ -58,22 +59,30 @@ def convert_columns_in_file(file_path):
 # Splitting the CSV data first
 with open(csv_file_path, mode='r', newline='', encoding='utf-8') as csvfile, \
      open(setup_csv_path, mode='w', newline='', encoding='utf-8') as setup_csvfile, \
-     open(traintest_csv_path, mode='w', newline='', encoding='utf-8') as traintest_csvfile:
+     open(traintest_csv_path, mode='w', newline='', encoding='utf-8') as traintest_csvfile, \
+     open(testing_csv_path, mode='w', newline='', encoding='utf-8') as testing_csvfile:
 
     csvreader = csv.reader(csvfile)
     setup_writer = csv.writer(setup_csvfile)
     traintest_writer = csv.writer(traintest_csvfile)
+    testing_writer = csv.writer(testing_csvfile)
 
     # Process the header
     header = next(csvreader)
-    setup_writer.writerow(header)  # Write the header to both CSV files
+    setup_writer.writerow(header)
     traintest_writer.writerow(header)
+    testing_writer.writerow(header)
 
-    # Process each row and split based on year
+    # Process each row and split based on year and month
     for row in csvreader:
         date_string = row[2]  # Assuming the date is in the third column (index 2)
         year = extract_year_from_date(date_string)
+        
+        # Check if the date is in January 2020
+        if date_string.startswith("January") and year == 2020:
+            testing_writer.writerow(row)
 
+        # Split based on the year for setup and traintest CSVs
         if year is not None:
             if year < train_test_start_year:
                 setup_writer.writerow(row)
@@ -85,13 +94,16 @@ with open(csv_file_path, mode='r', newline='', encoding='utf-8') as csvfile, \
 # Now that the CSVs are split, apply threading to handle the conversion
 setup_thread = threading.Thread(target=convert_columns_in_file, args=(setup_csv_path,))
 traintest_thread = threading.Thread(target=convert_columns_in_file, args=(traintest_csv_path,))
+testing_thread = threading.Thread(target=convert_columns_in_file, args=(testing_csv_path,))
 
-# Start the threads
+# Start all threads
 setup_thread.start()
 traintest_thread.start()
+testing_thread.start()
 
-# Wait for both threads to complete
+# Wait for all threads to complete
 setup_thread.join()
 traintest_thread.join()
+testing_thread.join()
 
 print("CSV processing complete.")

@@ -14,6 +14,99 @@ def connect_db():
         port="26257"
     )
 
+# Generate a single query to update horse values based on the current database state
+def updateHorse(horse_id, pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_pos_gain, perf_factor, surface, distance):
+    alpha = 0.25
+    d_factor_max_alpha = 0.5
+    d_factor_alpha = (1 - ((pos - 1) / (num_horses - 1))) * d_factor_max_alpha
+    
+    query = """
+        UPDATE Horses
+        SET total_races = total_races + 1,
+        
+            wins = CASE
+                WHEN %s = 1 THEN wins + 1
+                ELSE wins
+            END,
+            
+            places = CASE
+                WHEN %s < 3 THEN places + 1
+                ELSE places
+            END,
+            
+            shows = CASE
+                WHEN %s < 4 THEN shows + 1
+                ELSE shows
+            END,
+            
+            ewma_pos_factor = CASE
+                WHEN ewma_pos_factor IS NULL THEN %s
+                ELSE (%s * %s + (1 - %s) * ewma_pos_factor)
+            END,
+            
+            ewma_pos_gain = CASE
+                WHEN ewma_pos_gain IS NULL THEN %s
+                ELSE (%s * %s + (1 - %s) * ewma_pos_gain)
+            END,
+            
+            ewma_late_pos_gain = CASE
+                WHEN ewma_late_pos_gain IS NULL THEN %s
+                ELSE (%s * %s + (1 - %s) * ewma_late_pos_gain)
+            END,
+            
+            ewma_last_pos_gain = CASE
+                WHEN ewma_last_pos_gain IS NULL THEN %s
+                ELSE (%s * %s + (1 - %s) * ewma_last_pos_gain)
+            END,
+            
+            ewma_perf_factor = CASE
+                WHEN ewma_perf_factor IS NULL THEN %s
+                ELSE (%s * %s + (1 - %s) * ewma_perf_factor)
+            END,
+            
+            recent_perf_factor = %s,
+            
+            ewma_dirt_perf_factor = CASE
+                WHEN %s != 'Dirt' THEN ewma_dirt_perf_factor
+                WHEN ewma_dirt_perf_factor IS NULL THEN %s
+                ELSE (%s * %s + (1 - %s) * ewma_dirt_perf_factor)
+            END,
+            
+            ewma_turf_perf_factor = CASE
+                WHEN %s != 'Turf' THEN ewma_turf_perf_factor
+                WHEN ewma_turf_perf_factor IS NULL THEN %s
+                ELSE (%s * %s + (1 - %s) * ewma_turf_perf_factor)
+            END,
+            
+            ewma_awt_perf_factor = CASE
+                WHEN %s != 'AWT' THEN ewma_awt_perf_factor
+                WHEN ewma_awt_perf_factor IS NULL THEN %s
+                ELSE (%s * %s + (1 - %s) * ewma_awt_perf_factor)
+            END,
+            
+            distance_factor = CASE
+                WHEN %s < 2 THEN distance_factor
+                ELSE (%s * %s + (1 - %s) * distance_factor)
+            END
+            
+        WHERE horse_id = %s
+    """
+    values = (
+        pos, pos, pos,  # For wins, places, shows
+        pos_factor, pos_factor, alpha, alpha,  # ewma_pos_factor
+        pos_gain, pos_gain, alpha, alpha,  # ewma_pos_gain
+        late_pos_gain, late_pos_gain, alpha, alpha,  # ewma_late_pos_gain
+        last_pos_gain, last_pos_gain, alpha, alpha,  # ewma_last_pos_gain
+        perf_factor, perf_factor, alpha, alpha,  # ewma_perf_factor
+        perf_factor,  # recent_perf_factor
+        surface, perf_factor, perf_factor, alpha, alpha,  # ewma_dirt_perf_factor
+        surface, perf_factor, perf_factor, alpha, alpha,  # ewma_turf_perf_factor
+        surface, perf_factor, perf_factor, alpha, alpha,  # ewma_awt_perf_factor
+        num_horses, distance, d_factor_alpha, d_factor_alpha,  # distance_factor
+        horse_id  # horse_id in WHERE clause
+    )
+    return query, values
+
 # Add a horse to the Horses table
 def addNewHorse(name, avg_pos_factor=None, st_dev_pos_factor=None, avg_position_gain=None,
                 st_dev_position_gain=None, avg_late_position_gain=None, avg_last_position_gain=None,
@@ -30,23 +123,36 @@ def addNewHorse(name, avg_pos_factor=None, st_dev_pos_factor=None, avg_position_
     return query
 
 # Check for a track in the Tracks table
-def checkTrack(normalized_name, cur):
-    cur.execute("SELECT track_id, normalized_name FROM Tracks")
-    tracks = cur.fetchall()
-
-    for track_id, n_name in tracks:
+def check(normalized_name, cur, type):
+    cur.execute("SELECT " + type + "_id, normalized_name FROM Tracks")
+    for id, n_name in cur.fetchall():
         if n_name == normalized_name or is_similar(normalized_name, n_name):
-            return track_id
-    
+            return id
     return None
 
-# Add a track to the Tracks table
-def addNewTrack(track_id, name, n_name):
+# Generate a single query to update ewma_speed based on the current database value
+def updateTrack(track_id, new_speed):
+    alpha = 0.15
+    # The query to update ewma_speed using the existing value in the same query
     query = """
-    INSERT INTO Tracks (track_id, name, normalized_name)
-    VALUES (%s, %s, %s)
+        UPDATE Tracks
+        SET ewma_speed = CASE
+                            WHEN ewma_speed IS NULL THEN %s
+                            ELSE %s * %s + (1 - %s)) * ewma_speed
+                        END
+        WHERE track_id = %s
     """
-    return query, (track_id, name, n_name)
+    values = (new_speed, new_speed, alpha, alpha, track_id)
+    return query, values
+
+
+# Add a track to the Tracks table
+def addNewTrack(track_id, name, n_name, speed):
+    query = """
+    INSERT INTO Tracks (track_id, name, normalized_name, ewma_speed)
+    VALUES (%s, %s, %s, %s)
+    """
+    return query, (track_id, name, n_name, speed)
 
 # Add a jockey to the Jockeys table
 def addNewJockey(name, avg_position_gain=None, avg_late_position_gain=None, avg_last_position_gain=None,
@@ -81,19 +187,19 @@ def addNewOwner(name, total_races=None, wins=None, places=None, shows=None, avg_
 
 # Add a race to the Races table
 def addNewRace(race_id, track_id, race_num, date, race_type=None, surface=None, weather=None,
-               temperature=None, track_state=None, distance=None, final_time=None,
+               temperature=None, track_state=None, distance=None, final_time=None, speed=None,
                frac_time_1=None, frac_time_2=None, frac_time_3=None, frac_time_4=None, 
                frac_time_5=None, frac_time_6=None, split_time_1=None, split_time_2=None, 
                split_time_3=None, split_time_4=None, split_time_5=None, split_time_6=None):
     
     query = """
     INSERT INTO Races (race_id, track_id, race_num, date, race_type, surface, weather, temperature, track_state, 
-                       distance, final_time, frac_time_1, frac_time_2, frac_time_3, frac_time_4, frac_time_5, 
+                       distance, final_time, speed, frac_time_1, frac_time_2, frac_time_3, frac_time_4, frac_time_5, 
                        frac_time_6, split_time_1, split_time_2, split_time_3, split_time_4, split_time_5, split_time_6)
-    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
     """
     return query, (race_id, track_id, race_num, date, race_type, surface, weather, 
-                   temperature, track_state, distance, final_time, 
+                   temperature, track_state, distance, final_time, speed,
                    frac_time_1, frac_time_2, frac_time_3, frac_time_4, 
                    frac_time_5, frac_time_6, split_time_1, split_time_2, 
                    split_time_3, split_time_4, split_time_5, split_time_6)
