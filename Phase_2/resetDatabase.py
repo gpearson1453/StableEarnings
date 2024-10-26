@@ -56,6 +56,7 @@ tables = [
         ewma_pos_gain DECIMAL (10,6),
         ewma_late_pos_gain DECIMAL (10,6),
         ewma_last_pos_gain DECIMAL (10,6),
+        perf_factor_count INT DEFAULT 0,
         ewma_perf_factor DECIMAL(10, 6),
         recent_perf_factor DECIMAL(10, 6),
         ewma_dirt_perf_factor DECIMAL(10, 6),

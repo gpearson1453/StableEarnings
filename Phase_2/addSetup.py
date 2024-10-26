@@ -86,20 +86,20 @@ def addTrack(track_name, distance, time):
         track_cache[track_name] = new_track_id
         return new_track_id
     
-def addHorse(name, pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_pos_gain, perf_factor, surface, distance):
+def addHorse(name, pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_pos_gain, surface, distance, speed, track_id):
     global horse_cache
     if name in horse_cache:
-        batch_queries.append(dm.updateHorse(horse_cache[name], pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_pos_gain, perf_factor, surface, distance))
+        batch_queries.append(dm.updateHorse(horse_cache[name], pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_pos_gain, surface, distance, speed, track_id))
         return horse_cache[name]
     n_name = dm.normalize(name)
     match_id = dm.check(n_name, cur, 'horse')
     if match_id:
         horse_cache[name] = match_id
-        batch_queries.append(dm.updateHorse(match_id, pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_pos_gain, perf_factor, surface, distance))
+        batch_queries.append(dm.updateHorse(match_id, pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_pos_gain, surface, distance, speed, track_id))
         return match_id
     else:
         new_horse_id = str(uuid.uuid4())
-        batch_queries.append(dm.addNewHorse())
+        batch_queries.append(dm.addNewHorse(name, n_name, new_horse_id, pos, pos_factor, pos_gain, late_pos_gain, last_pos_gain, speed, track_id, surface, distance))
         horse_cache[name] = new_horse_id
         return new_horse_id
 
@@ -142,7 +142,8 @@ def addSetup(file_path):
                                                    row['split_e'] if row['split_e'] else None, 
                                                    row['split_f'] if row['split_f'] else None))
                 prev_file_num_race_num = (row['file_number'], row['race_number'])
-            #horse_id = addHorse(row['horse_name'])
+            horse_id = addHorse(row['horse_name'], row['final_pos'], row['total_horses'], row['pos_factor'], row['pos_gain'], row['late_pos_gain'], 
+                                row['last_pos_gain'], row['surface'], row['distance'], row['speed'], track_id)
 
     pushBatch()  # Push all the queries after processing the CSV
 

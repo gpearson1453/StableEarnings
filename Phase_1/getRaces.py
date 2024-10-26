@@ -169,10 +169,14 @@ def getRaces(text_segment):
     if len(horse_data_list) < 2:
         return
     
+    more_data = {}
+    
     final_figs = [horse_data['figures'].split(', ')[-1] for horse_data in horse_data_list]
     while final_figs[-1] == '---':
         final_figs = final_figs[:-1]
     pos_factors = calculatePosFactors(final_figs) if len(final_figs) > 1 else []
+    
+    
 
     # Combine common race data with horse data
     combined_data = [{**common_data, **{**horse_data, **{'pos_factor': '' if i >= len(pos_factors) else pos_factors[i]}}} for i, horse_data in enumerate(horse_data_list)]

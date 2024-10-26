@@ -15,12 +15,17 @@ def connect_db():
     )
 
 # Generate a single query to update horse values based on the current database state
-def updateHorse(horse_id, pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_pos_gain, perf_factor, surface, distance):
+def updateHorse(horse_id, pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_pos_gain, surface, distance, speed, track_id):
     alpha = 0.25
     d_factor_max_alpha = 0.5
     d_factor_alpha = (1 - ((pos - 1) / (num_horses - 1))) * d_factor_max_alpha
     
     query = """
+        WITH TrackSpeed AS (
+            SELECT ewma_speed 
+            FROM Tracks 
+            WHERE track_id = %s
+        )
         UPDATE Horses
         SET total_races = total_races + 1,
         
@@ -59,29 +64,34 @@ def updateHorse(horse_id, pos, num_horses, pos_factor, pos_gain, late_pos_gain, 
                 ELSE (%s * %s + (1 - %s) * ewma_last_pos_gain)
             END,
             
-            ewma_perf_factor = CASE
-                WHEN ewma_perf_factor IS NULL THEN %s
-                ELSE (%s * %s + (1 - %s) * ewma_perf_factor)
+            perf_factor_count = CASE 
+                WHEN %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL THEN perf_factor_count
+                ELSE perf_factor_count + 1
             END,
             
-            recent_perf_factor = %s,
-            
-            ewma_dirt_perf_factor = CASE
-                WHEN %s != 'Dirt' THEN ewma_dirt_perf_factor
-                WHEN ewma_dirt_perf_factor IS NULL THEN %s
-                ELSE (%s * %s + (1 - %s) * ewma_dirt_perf_factor)
+            ewma_perf_factor = CASE 
+                WHEN %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL THEN ewma_perf_factor
+                ELSE (%s + 10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1)) * %s + (1 - %s) * ewma_perf_factor
             END,
             
-            ewma_turf_perf_factor = CASE
-                WHEN %s != 'Turf' THEN ewma_turf_perf_factor
-                WHEN ewma_turf_perf_factor IS NULL THEN %s
-                ELSE (%s * %s + (1 - %s) * ewma_turf_perf_factor)
+            recent_perf_factor = CASE 
+                WHEN %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL THEN recent_perf_factor
+                ELSE %s + 10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1)
             END,
             
-            ewma_awt_perf_factor = CASE
-                WHEN %s != 'AWT' THEN ewma_awt_perf_factor
-                WHEN ewma_awt_perf_factor IS NULL THEN %s
-                ELSE (%s * %s + (1 - %s) * ewma_awt_perf_factor)
+            ewma_dirt_perf_factor = CASE 
+                WHEN %s != 'Dirt' OR %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL THEN ewma_dirt_perf_factor
+                ELSE (%s + 10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1)) * %s + (1 - %s) * ewma_dirt_perf_factor
+            END,
+            
+            ewma_turf_perf_factor = CASE 
+                WHEN %s != 'Turf' OR %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL THEN ewma_turf_perf_factor
+                ELSE (%s + 10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1)) * %s + (1 - %s) * ewma_turf_perf_factor
+            END,
+            
+            ewma_awt_perf_factor = CASE 
+                WHEN %s != 'AWT' OR %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL THEN ewma_awt_perf_factor
+                ELSE (%s + 10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1)) * %s + (1 - %s) * ewma_awt_perf_factor
             END,
             
             distance_factor = CASE
@@ -92,35 +102,92 @@ def updateHorse(horse_id, pos, num_horses, pos_factor, pos_gain, late_pos_gain, 
         WHERE horse_id = %s
     """
     values = (
+        track_id,  # For CTE
         pos, pos, pos,  # For wins, places, shows
         pos_factor, pos_factor, alpha, alpha,  # ewma_pos_factor
         pos_gain, pos_gain, alpha, alpha,  # ewma_pos_gain
         late_pos_gain, late_pos_gain, alpha, alpha,  # ewma_late_pos_gain
         last_pos_gain, last_pos_gain, alpha, alpha,  # ewma_last_pos_gain
-        perf_factor, perf_factor, alpha, alpha,  # ewma_perf_factor
-        perf_factor,  # recent_perf_factor
-        surface, perf_factor, perf_factor, alpha, alpha,  # ewma_dirt_perf_factor
-        surface, perf_factor, perf_factor, alpha, alpha,  # ewma_turf_perf_factor
-        surface, perf_factor, perf_factor, alpha, alpha,  # ewma_awt_perf_factor
+        speed,  # perf_factor_count
+        speed, speed, pos_factor, alpha, alpha,  # ewma_perf_factor
+        speed, pos_factor, speed,  # recent_perf_factor
+        surface, speed, pos_factor, speed, alpha, alpha,  # ewma_dirt_perf_factor
+        surface, speed, pos_factor, speed, alpha, alpha,  # ewma_turf_perf_factor
+        surface, speed, pos_factor, speed, alpha, alpha,  # ewma_awt_perf_factor
         num_horses, distance, d_factor_alpha, d_factor_alpha,  # distance_factor
         horse_id  # horse_id in WHERE clause
     )
     return query, values
 
-# Add a horse to the Horses table
-def addNewHorse(name, avg_pos_factor=None, st_dev_pos_factor=None, avg_position_gain=None,
-                st_dev_position_gain=None, avg_late_position_gain=None, avg_last_position_gain=None,
-                ewma_perf_factor=None, most_recent_perf_factor=None, ewma_dirt_perf_factor=None,
-                ewma_turf_perf_factor=None, ewma_awt_perf_factor=None, distance_factor=None):
-    
+
+# Add a new horse to the Horses table
+def addNewHorse(name, normalized_name, horse_id, pos, pos_factor, pos_gain, late_pos_gain, last_pos_gain, speed, track_id, surface, distance):
     query = """
-    INSERT INTO Horses (name, avg_pos_factor, st_dev_pos_factor, avg_position_gain, st_dev_position_gain,
-                        avg_late_position_gain, avg_last_position_gain, ewma_perf_factor, 
-                        most_recent_perf_factor, ewma_dirt_perf_factor, ewma_turf_perf_factor,
-                        ewma_awt_perf_factor, distance_factor)
-    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+    WITH TrackSpeed AS (
+        SELECT ewma_speed 
+        FROM Tracks 
+        WHERE track_id = %s
+    )
+    INSERT INTO Horses (
+        name, normalized_name, horse_id, total_races, wins, places, shows, ewma_pos_factor, 
+        ewma_pos_gain, ewma_late_pos_gain, ewma_last_pos_gain, perf_factor_count, ewma_perf_factor, recent_perf_factor, 
+        ewma_dirt_perf_factor, ewma_turf_perf_factor, ewma_awt_perf_factor, distance_factor
+    )
+    VALUES (
+        %s, %s, %s, 1, -- name through total-races
+        CASE WHEN %s = 1 THEN 1 ELSE 0, -- wins
+        CASE WHEN %s < 3 THEN 1 ELSE 0, -- places
+        CASE WHEN %s < 4 THEN 1 ELSE 0, -- shows
+        %s, %s, %s, %s, -- ewma_pos_factor through ewma_last_pos_gain
+        CASE WHEN %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL 
+            THEN 0
+            ELSE 1 
+        END,  -- perf_factor_count
+        CASE WHEN %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL 
+            THEN NULL
+            ELSE %s + 10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1)
+        END,  -- ewma_perf_factor
+        CASE WHEN %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL 
+            THEN NULL
+            ELSE %s + 10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1)
+        END,  -- recent_perf_factor
+        CASE 
+            WHEN %s = 'Dirt' AND %s IS NOT NULL AND (SELECT ewma_speed FROM TrackSpeed) IS NOT NULL
+                THEN %s + 10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1)
+            ELSE NULL 
+        END,  -- ewma_dirt_perf_factor
+        CASE 
+            WHEN %s = 'Turf' AND %s IS NOT NULL AND (SELECT ewma_speed FROM TrackSpeed) IS NOT NULL
+                THEN %s + 10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1)
+            ELSE NULL 
+        END,  -- ewma_turf_perf_factor
+        CASE 
+            WHEN %s = 'AWT' AND %s IS NOT NULL AND (SELECT ewma_speed FROM TrackSpeed) IS NOT NULL
+                THEN %s + 10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1)
+            ELSE NULL 
+        END,  -- ewma_awt_perf_factor
+        %s  -- distance_factor
+    )
     """
-    return query
+    values = (
+        track_id,  # For CTE
+        name, normalized_name, horse_id, # name through total-races
+        pos, # wins
+        pos, # places
+        pos, # shows
+        pos_factor, pos_gain, late_pos_gain, last_pos_gain,  # ewma_pos_factor through ewma_last_pos_gain
+        speed,  # null check for perf_factor_count
+        speed, pos_factor, speed,  # ewma_perf_factor
+        speed, pos_factor, speed,  # recent_perf_factor
+        surface, speed, pos_factor, speed,  # ewma_dirt_perf_factor
+        surface, speed, pos_factor, speed,  # ewma_turf_perf_factor
+        surface, speed, pos_factor, speed,  # ewma_awt_perf_factor
+        distance  # distance_factor
+    )
+    return query, values
+
+
+
 
 # Check for a track in the Tracks table
 def check(normalized_name, cur, type):
