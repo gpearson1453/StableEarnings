@@ -18,7 +18,7 @@ def connect_db():
 def updateHorse(horse_id, pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_pos_gain, surface, distance, speed, track_id):
     alpha = 0.25
     d_factor_max_alpha = 0.5
-    d_factor_alpha = (1 - ((pos - 1) / (num_horses - 1))) * d_factor_max_alpha
+    d_factor_alpha = (1 - ((int(pos) - 1) / (int(num_horses) - 1))) * d_factor_max_alpha
     
     query = """
         WITH TrackSpeed AS (
@@ -135,9 +135,9 @@ def addNewHorse(name, normalized_name, horse_id, pos, pos_factor, pos_gain, late
     )
     VALUES (
         %s, %s, %s, 1, -- name through total-races
-        CASE WHEN %s = 1 THEN 1 ELSE 0, -- wins
-        CASE WHEN %s < 3 THEN 1 ELSE 0, -- places
-        CASE WHEN %s < 4 THEN 1 ELSE 0, -- shows
+        CASE WHEN %s = 1 THEN 1 ELSE 0 END, -- wins
+        CASE WHEN %s < 3 THEN 1 ELSE 0 END, -- places
+        CASE WHEN %s < 4 THEN 1 ELSE 0 END, -- shows
         %s, %s, %s, %s, -- ewma_pos_factor through ewma_last_pos_gain
         CASE WHEN %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL 
             THEN 0
@@ -186,12 +186,9 @@ def addNewHorse(name, normalized_name, horse_id, pos, pos_factor, pos_gain, late
     )
     return query, values
 
-
-
-
 # Check for a track in the Tracks table
-def check(normalized_name, cur, type):
-    cur.execute("SELECT " + type + "_id, normalized_name FROM Tracks")
+def check(normalized_name, cur, typeA, typeB):
+    cur.execute("SELECT " + typeA + "_id, normalized_name FROM " + typeB)
     for id, n_name in cur.fetchall():
         if n_name == normalized_name or is_similar(normalized_name, n_name):
             return id
@@ -205,7 +202,7 @@ def updateTrack(track_id, new_speed):
         UPDATE Tracks
         SET ewma_speed = CASE
                             WHEN ewma_speed IS NULL THEN %s
-                            ELSE %s * %s + (1 - %s)) * ewma_speed
+                            ELSE %s * %s + (1 - %s) * ewma_speed
                         END
         WHERE track_id = %s
     """

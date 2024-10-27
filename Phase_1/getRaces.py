@@ -132,11 +132,22 @@ def getRaces(text_segment):
     # Extract distance and surface
     distance_surface_match = re.search(r"Distance:\s*(.*?)\s*On The\s*(\S+)", text_segment)
     if distance_surface_match:
+        distance_idx = text_segment.find('Distance:')
+        surface_segment = text_segment[distance_idx: distance_idx + 80].lower()
         raw_distance, raw_surface = distance_surface_match.groups()
         common_data['distance(miles)'] = DISTANCE_CONVERSION.get(raw_distance.replace("About", '').strip(), "NOT FOUND")
-        common_data['surface'] = SURFACE_MAPPING.get(raw_surface.strip()[0], "NOT FOUND")
-        if common_data['surface'] == 'Turf':
-            print(common_data['race_id'])
+        if 'dirt' in surface_segment:
+            common_data['surface'] = 'Dirt'
+        elif 'turf' in surface_segment:
+            common_data['surface'] = 'Turf'
+        elif 'all weather' in surface_segment:
+            common_data['surface'] = 'AWT'
+        elif 'hurdle' in surface_segment:
+            common_data['surface'] = 'Hurdle'
+        elif 'timber' in surface_segment:
+            common_data['surface'] = 'Timber'
+        else:
+            print('problem with ' + common_data['race_id'])
 
     # Extract weather and temperature
     if '° C' in text_segment:

@@ -74,7 +74,7 @@ def addTrack(track_name, distance, time):
             batch_queries.append(dm.updateTrack(track_cache[track_name], float(distance) / float(time)))
         return track_cache[track_name]
     n_name = dm.normalize(track_name)
-    match_id = dm.check(n_name, cur, 'track')
+    match_id = dm.check(n_name, cur, 'track', 'Tracks')
     if match_id:
         track_cache[track_name] = match_id
         if time:
@@ -92,7 +92,7 @@ def addHorse(name, pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_po
         batch_queries.append(dm.updateHorse(horse_cache[name], pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_pos_gain, surface, distance, speed, track_id))
         return horse_cache[name]
     n_name = dm.normalize(name)
-    match_id = dm.check(n_name, cur, 'horse')
+    match_id = dm.check(n_name, cur, 'horse', 'Horses')
     if match_id:
         horse_cache[name] = match_id
         batch_queries.append(dm.updateHorse(match_id, pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_pos_gain, surface, distance, speed, track_id))
@@ -142,8 +142,14 @@ def addSetup(file_path):
                                                    row['split_e'] if row['split_e'] else None, 
                                                    row['split_f'] if row['split_f'] else None))
                 prev_file_num_race_num = (row['file_number'], row['race_number'])
-            horse_id = addHorse(row['horse_name'], row['final_pos'], row['total_horses'], row['pos_factor'], row['pos_gain'], row['late_pos_gain'], 
-                                row['last_pos_gain'], row['surface'], row['distance'], row['speed'], track_id)
+            horse_id = addHorse(row['horse_name'], row['final_pos'], row['total_horses'], 
+                                row['pos_factor'] if row['pos_factor'] else None, 
+                                row['pos_gain'] if row['pos_gain'] else None, 
+                                row['late_pos_gain'] if row['late_pos_gain'] else None, 
+                                row['last_pos_gain'] if row['last_pos_gain'] else None, 
+                                row['surface'], row['distance(miles)'], 
+                                row['speed'] if row['speed'] else None, 
+                                track_id)
 
     pushBatch()  # Push all the queries after processing the CSV
 

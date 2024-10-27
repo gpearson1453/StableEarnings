@@ -69,21 +69,57 @@ with open(csv_file_path, mode='r', newline='', encoding='utf-8') as csvfile, \
 
     # Process the header
     header = next(csvreader)
+    header.extend(['pos_gain', 'late_pos_gain', 'last_pos_gain', 'speed'])  # Add new columns to header
     setup_writer.writerow(header)
     traintest_writer.writerow(header)
     testing_writer.writerow(header)
 
     # Process each row and split based on year and month
     for row in csvreader:
+        # Check conditions for track surface and horse type
+        if row[6] not in ['Dirt', 'Turf', 'AWT'] or row[5] not in ['Thoroughbred', 'Quarter Horse']:
+            continue  # Skip rows that don't meet the criteria
+
         date_string = row[2]  # Assuming the date is in the third column (index 2)
         year = extract_year_from_date(date_string)
-        
-        # Check if the date is in January 2020
+
+        # Calculate new column values
+        if row[17] == 'N/A':
+            speed = None
+        else:
+            speed = float(row[10]) / dm.convertTime(row[17])
+
+        figs = row[29].split(', ')
+        while '---' in figs:
+            figs.remove('---')
+        l = len(figs)
+        if l % 2 != 0:
+            print(f"Warning: Couldn't parse figs in row: {row}")
+        if l < 4:
+            pos_gain, late_pos_gain, last_pos_gain = None, None, None
+        elif l == 4:
+            pos_gain = int(figs[0]) - int(figs[-2])
+            late_pos_gain, last_pos_gain = None, None
+        elif l == 6:
+            pos_gain = int(figs[0]) - int(figs[-2])
+            last_pos_gain = int(figs[-4]) - int(figs[-2])
+            late_pos_gain = None
+        elif l < 10:
+            pos_gain = int(figs[0]) - int(figs[-2])
+            last_pos_gain = int(figs[-4]) - int(figs[-2])
+            late_pos_gain = int(figs[-6]) - int(figs[-2])
+        else:
+            pos_gain = int(figs[0]) - int(figs[-2])
+            last_pos_gain = int(figs[-4]) - int(figs[-2])
+            late_pos_gain = int(figs[-8]) - int(figs[-2])
+
+        # Add new values to the row
+        row.extend([pos_gain, late_pos_gain, last_pos_gain, speed])
+
+        # Write the row to the appropriate file
         if date_string.startswith("January") and year == 2020:
             testing_writer.writerow(row)
-
-        # Split based on the year for setup and traintest CSVs
-        if year is not None:
+        elif year is not None:
             if year < train_test_start_year:
                 setup_writer.writerow(row)
             else:

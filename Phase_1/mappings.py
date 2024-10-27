@@ -75,20 +75,6 @@ DISTANCE_CONVERSION = {
     "Four Furlongs And Seventy Yards": "0.5397727"
 }
 
-# Surface type mappings for races
-SURFACE_MAPPING = {
-    'D': 'Dirt',
-    'd': 'Dirt',
-    'T': 'Turf',
-    't': 'Turf',
-    'A': 'AWT',
-    'a': 'AWT',
-    'H': 'Hurdle',
-    'h': 'Hurdle',
-    'T': 'Timber',
-    't': 'Timber'
-}
-
 # Regular expressions to identify different race types
 TYPE_PATTERNS = [' - Thoroughbred',' - Quarter Horse',' - Mixed',' - Arabian']
 
