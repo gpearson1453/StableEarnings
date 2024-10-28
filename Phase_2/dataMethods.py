@@ -3,6 +3,7 @@ import re
 import unidecode
 from fuzzywuzzy import fuzz
 from datetime import datetime
+from decimal import Decimal
 
 # Establish connection to CockroachDB
 def connect_db():
@@ -16,9 +17,9 @@ def connect_db():
 
 # Generate a single query to update horse values based on the current database state
 def updateHorse(horse_id, pos, num_horses, pos_factor, pos_gain, late_pos_gain, last_pos_gain, surface, distance, speed, track_id):
-    alpha = 0.25
+    alpha = Decimal(0.25)
     d_factor_max_alpha = 0.5
-    d_factor_alpha = (1 - ((int(pos) - 1) / (int(num_horses) - 1))) * d_factor_max_alpha
+    d_factor_alpha = Decimal((1 - ((int(pos) - 1) / (int(num_horses) - 1))) * d_factor_max_alpha)
     
     query = """
         WITH TrackSpeed AS (
@@ -196,7 +197,7 @@ def check(normalized_name, cur, typeA, typeB):
 
 # Generate a single query to update ewma_speed based on the current database value
 def updateTrack(track_id, new_speed):
-    alpha = 0.15
+    alpha = Decimal(0.15)
     # The query to update ewma_speed using the existing value in the same query
     query = """
         UPDATE Tracks
