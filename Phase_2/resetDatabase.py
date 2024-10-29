@@ -39,16 +39,14 @@ def resetDatabase():
         """
         CREATE TABLE IF NOT EXISTS Tracks (
             name VARCHAR(255) NOT NULL,
-            normalized_name VARCHAR(255) NOT NULL,
-            track_id VARCHAR(255) PRIMARY KEY,
+            normalized_name VARCHAR(255) PRIMARY KEY,
             ewma_speed DECIMAL(10, 6)
         );
         """,
         """
         CREATE TABLE IF NOT EXISTS Horses (
             name VARCHAR(255) NOT NULL,
-            normalized_name VARCHAR(255) NOT NULL,
-            horse_id VARCHAR(255) PRIMARY KEY,
+            normalized_name VARCHAR(255) PRIMARY KEY,
             total_races INT DEFAULT 0,
             wins INT DEFAULT 0,
             places INT DEFAULT 0,
@@ -69,8 +67,7 @@ def resetDatabase():
         """
         CREATE TABLE IF NOT EXISTS Jockeys (
             name VARCHAR(255) NOT NULL,
-            normalized_name VARCHAR(255) NOT NULL,
-            jockey_id VARCHAR(255) PRIMARY KEY,
+            normalized_name VARCHAR(255) PRIMARY KEY,
             avg_position_gain DECIMAL(10, 6),
             avg_late_position_gain DECIMAL(10, 6),
             avg_last_position_gain DECIMAL(10, 6),
@@ -85,8 +82,7 @@ def resetDatabase():
         """
         CREATE TABLE IF NOT EXISTS Trainers (
             name VARCHAR(255) NOT NULL,
-            normalized_name VARCHAR(255) NOT NULL,
-            trainer_id VARCHAR(255) PRIMARY KEY,
+            normalized_name VARCHAR(255) PRIMARY KEY,
             total_races INT,
             wins INT,
             places INT,
@@ -102,8 +98,7 @@ def resetDatabase():
         """
         CREATE TABLE IF NOT EXISTS Owners (
             name VARCHAR(255) NOT NULL,
-            normalized_name VARCHAR(255) NOT NULL,
-            owner_id VARCHAR(255) PRIMARY KEY,
+            normalized_name VARCHAR(255) PRIMARY KEY,
             total_races INT,
             wins INT,
             places INT,
@@ -116,8 +111,7 @@ def resetDatabase():
         CREATE TABLE IF NOT EXISTS Races (
             date DATE,
             race_num INT,
-            race_id VARCHAR(255) PRIMARY KEY,
-            track_id VARCHAR(255) REFERENCES Tracks(track_id),
+            track_n_name VARCHAR(255) REFERENCES Tracks(normalized_name) ON DELETE CASCADE,
             race_type VARCHAR(255),
             surface VARCHAR(255),
             weather VARCHAR(255),
@@ -137,63 +131,68 @@ def resetDatabase():
             split_time_3 DECIMAL(10, 6),
             split_time_4 DECIMAL(10, 6),
             split_time_5 DECIMAL(10, 6),
-            split_time_6 DECIMAL(10, 6)
+            split_time_6 DECIMAL(10, 6),
+            PRIMARY KEY (date, race_num, track_n_name)
         );
+
         """,
         """
         CREATE TYPE IF NOT EXISTS use_type AS ENUM ('SETUP', 'TRAINING', 'TESTING');
         """,
         """
         CREATE TABLE IF NOT EXISTS Performances (
-            race_id VARCHAR(255) REFERENCES Races(race_id),
-            horse_id VARCHAR(255) REFERENCES Horses(horse_id),
+            date DATE,
+            race_num INT,
+            track_n_name VARCHAR(255),
+            horse_n_name VARCHAR(255) REFERENCES Horses(normalized_name) ON DELETE CASCADE,
             program_number VARCHAR(255),
             weight DECIMAL(10, 6),
             odds DECIMAL(10, 6),
             start_pos INT,
             final_pos INT,
-            jockey_id VARCHAR(255) REFERENCES Jockeys(jockey_id),
-            trainer_id VARCHAR(255) REFERENCES Trainers(trainer_id),
-            owner_id VARCHAR(255) REFERENCES Owners(owner_id),
+            jockey_n_name VARCHAR(255) REFERENCES Jockeys(normalized_name) ON DELETE CASCADE,
+            trainer_n_name VARCHAR(255) REFERENCES Trainers(normalized_name) ON DELETE CASCADE,
+            owner_n_name VARCHAR(255) REFERENCES Owners(normalized_name) ON DELETE CASCADE,
             pos_gained DECIMAL(10, 6),
             late_pos_gained DECIMAL(10, 6),
             last_pos_gained DECIMAL(10, 6),
             pos_factor DECIMAL(10, 6),
             perf_factor DECIMAL(10, 6),
             use use_type,
-            PRIMARY KEY (race_id, horse_id)
+            PRIMARY KEY (date, race_num, track_n_name, horse_n_name),
+            FOREIGN KEY (date, race_num, track_n_name) REFERENCES Races(date, race_num, track_n_name) ON DELETE CASCADE
         );
         """,
         """
         CREATE TABLE IF NOT EXISTS horse_jockey (
-            horse_id VARCHAR(255) REFERENCES Horses(horse_id),
-            jockey_id VARCHAR(255) REFERENCES Jockeys(jockey_id),
+            horse_n_name VARCHAR(255) REFERENCES Horses(normalized_name) ON DELETE CASCADE,
+            jockey_n_name VARCHAR(255) REFERENCES Jockeys(normalized_name) ON DELETE CASCADE,
             total_races INT,
             wins INT,
             places INT,
             shows INT,
             avg_pos_factor DECIMAL(10, 6),
             ewma_perf_factor DECIMAL(10, 6),
-            PRIMARY KEY (horse_id, jockey_id)
+            PRIMARY KEY (horse_n_name, jockey_n_name)
         );
         """,
         """
         CREATE TABLE IF NOT EXISTS horse_trainer (
-            horse_id VARCHAR(255) REFERENCES Horses(horse_id),
-            trainer_id VARCHAR(255) REFERENCES Trainers(trainer_id),
+            horse_n_name VARCHAR(255) REFERENCES Horses(normalized_name) ON DELETE CASCADE,
+            trainer_n_name VARCHAR(255) REFERENCES Trainers(normalized_name) ON DELETE CASCADE,
             total_races INT,
             wins INT,
             places INT,
             shows INT,
             avg_pos_factor DECIMAL(10, 6),
             ewma_perf_factor DECIMAL(10, 6),
-            PRIMARY KEY (horse_id, trainer_id)
+            PRIMARY KEY (horse_n_name, trainer_n_name)
         );
         """,
         """
         CREATE TABLE IF NOT EXISTS trainer_track (
-            trainer_id VARCHAR(255) REFERENCES Trainers(trainer_id),
-            track_id VARCHAR(255) REFERENCES Tracks(track_id),
+            trainer_n_name VARCHAR(255) REFERENCES Trainers(normalized_name) ON DELETE CASCADE,
+            track_n_name VARCHAR(255) REFERENCES Tracks(normalized_name) ON DELETE CASCADE,
             surface VARCHAR(255),
             total_races INT,
             wins INT,
@@ -201,26 +200,26 @@ def resetDatabase():
             shows INT,
             avg_pos_factor DECIMAL(10, 6),
             ewma_perf_factor DECIMAL(10, 6),
-            PRIMARY KEY (trainer_id, track_id, surface)
+            PRIMARY KEY (trainer_n_name, track_n_name, surface)
         );
         """,
         """
         CREATE TABLE IF NOT EXISTS owner_trainer (
-            owner_id VARCHAR(255) REFERENCES Owners(owner_id),
-            trainer_id VARCHAR(255) REFERENCES Trainers(trainer_id),
+            owner_n_name VARCHAR(255) REFERENCES Owners(normalized_name) ON DELETE CASCADE,
+            trainer_n_name VARCHAR(255) REFERENCES Trainers(normalized_name) ON DELETE CASCADE,
             total_races INT,
             wins INT,
             places INT,
             shows INT,
             avg_pos_factor DECIMAL(10, 6),
             ewma_perf_factor DECIMAL(10, 6),
-            PRIMARY KEY (owner_id, trainer_id)
+            PRIMARY KEY (owner_n_name, trainer_n_name)
         );
         """,
         """
         CREATE TABLE IF NOT EXISTS horse_track (
-            horse_id VARCHAR(255) REFERENCES Horses(horse_id),
-            track_id VARCHAR(255) REFERENCES Tracks(track_id),
+            horse_n_name VARCHAR(255) REFERENCES Horses(normalized_name) ON DELETE CASCADE,
+            track_n_name VARCHAR(255) REFERENCES Tracks(normalized_name) ON DELETE CASCADE,
             surface VARCHAR(255),
             total_races INT,
             wins INT,
@@ -228,20 +227,20 @@ def resetDatabase():
             shows INT,
             avg_pos_factor DECIMAL(10, 6),
             ewma_perf_factor DECIMAL(10, 6),
-            PRIMARY KEY (horse_id, track_id, surface)
+            PRIMARY KEY (horse_n_name, track_n_name, surface)
         );
         """,
         """
         CREATE TABLE IF NOT EXISTS jockey_trainer (
-            jockey_id VARCHAR(255) REFERENCES Jockeys(jockey_id),
-            trainer_id VARCHAR(255) REFERENCES Trainers(trainer_id),
+            jockey_n_name VARCHAR(255) REFERENCES Jockeys(normalized_name) ON DELETE CASCADE,
+            trainer_n_name VARCHAR(255) REFERENCES Trainers(normalized_name) ON DELETE CASCADE,
             total_races INT,
             wins INT,
             places INT,
             shows INT,
             avg_pos_factor DECIMAL(10, 6),
             ewma_perf_factor DECIMAL(10, 6),
-            PRIMARY KEY (jockey_id, trainer_id)
+            PRIMARY KEY (jockey_n_name, trainer_n_name)
         );
         """
     ]
