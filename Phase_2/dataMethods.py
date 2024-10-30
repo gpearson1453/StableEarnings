@@ -107,7 +107,7 @@ def addHorse(name, n_name, pos, pos_factor, pos_gain, late_pos_gain, last_pos_ga
         END,
         distance_factor = CASE
             WHEN excluded.distance_factor IS NULL THEN Horses.distance_factor
-            WHEN Horse.distance_factor IS NULL THEN excluded.distance_factor
+            WHEN Horses.distance_factor IS NULL THEN excluded.distance_factor
             ELSE (excluded.distance_factor * %s) + ((1 - %s) * Horses.distance_factor)
         END
     """
@@ -158,18 +158,89 @@ def addTrack(name, n_name, speed):
     return query, (name, n_name, speed, alpha, alpha)
 
 # Add a jockey to the Jockeys table
-def addNewJockey(name, avg_position_gain=None, avg_late_position_gain=None, avg_last_position_gain=None,
-                 total_races=None, wins=None, places=None, shows=None, avg_pos_factor=None, ewma_perf_factor=None):
-    
+def addJockey(name, n_name, pos_gain, late_pos_gain, last_pos_gain, pos, pos_factor, speed, track_n_name):
+    alpha = Decimal(0.15)
     query = """
-    INSERT INTO Jockeys (name, avg_position_gain, avg_late_position_gain, avg_last_position_gain, total_races, 
-                         wins, places, shows, avg_pos_factor, ewma_perf_factor)
-    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+    WITH TrackSpeed AS (
+        SELECT ewma_speed
+        FROM Tracks
+        WHERE normalized_name = %s
+    ),
+    PerformanceFactor AS (
+        SELECT 
+            CASE 
+                WHEN %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL THEN NULL
+                ELSE %s + (10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1))
+            END AS p_factor
+        FROM TrackSpeed
+    )
+    INSERT INTO Jockeys (name, normalized_name, ewma_pos_gain, ewma_late_pos_gain, ewma_last_pos_gain, 
+                        total_races, wins, places, shows, ewma_pos_factor, perf_factor_count, ewma_perf_factor)
+    SELECT
+        %s, %s, %s, %s, %s, 1, -- name, n_name, ewma_pos_gain, ewma_late_pos_gain, ewma_last_pos_gain, total_races
+        CASE WHEN %s = 1 THEN 1 ELSE 0 END, -- wins
+        CASE WHEN %s < 3 THEN 1 ELSE 0 END, -- places
+        CASE WHEN %s < 4 THEN 1 ELSE 0 END, -- shows
+        %s, -- ewma_pos_factor
+        CASE WHEN (SELECT p_factor FROM PerformanceFactor) IS NULL THEN 0 ELSE 1 END, -- perf_factor_count
+        (SELECT p_factor FROM PerformanceFactor) -- ewma_perf_factor
+    ON CONFLICT (normalized_name) DO UPDATE SET
+        ewma_pos_gain = CASE 
+            WHEN excluded.ewma_pos_gain IS NULL THEN Jockeys.ewma_pos_gain
+            WHEN Jockeys.ewma_pos_gain IS NULL THEN excluded.ewma_pos_gain
+            ELSE (excluded.ewma_pos_gain * %s) + ((1 - %s) * Jockeys.ewma_pos_gain)
+        END,
+        ewma_late_pos_gain = CASE 
+            WHEN excluded.ewma_late_pos_gain IS NULL THEN Jockeys.ewma_late_pos_gain
+            WHEN Jockeys.ewma_late_pos_gain IS NULL THEN excluded.ewma_late_pos_gain
+            ELSE (excluded.ewma_late_pos_gain * %s) + ((1 - %s) * Jockeys.ewma_late_pos_gain)
+        END,
+        ewma_last_pos_gain = CASE 
+            WHEN excluded.ewma_last_pos_gain IS NULL THEN Jockeys.ewma_last_pos_gain
+            WHEN Jockeys.ewma_last_pos_gain IS NULL THEN excluded.ewma_last_pos_gain
+            ELSE (excluded.ewma_last_pos_gain * %s) + ((1 - %s) * Jockeys.ewma_last_pos_gain)
+        END,
+        total_races = Jockeys.total_races + 1,
+        wins = Jockeys.wins + excluded.wins,
+        places = Jockeys.places + excluded.places,
+        shows = Jockeys.shows + excluded.shows,
+        ewma_pos_factor = CASE 
+            WHEN excluded.ewma_pos_factor IS NULL THEN Jockeys.ewma_pos_factor
+            WHEN Jockeys.ewma_pos_factor IS NULL THEN excluded.ewma_pos_factor
+            ELSE (excluded.ewma_pos_factor * %s) + ((1 - %s) * Jockeys.ewma_pos_factor)
+        END,
+        perf_factor_count = Jockeys.perf_factor_count + excluded.perf_factor_count,
+        ewma_perf_factor = CASE 
+            WHEN excluded.ewma_perf_factor IS NULL THEN Jockeys.ewma_perf_factor
+            WHEN Jockeys.ewma_perf_factor IS NULL THEN excluded.ewma_perf_factor
+            ELSE (excluded.ewma_perf_factor * %s) + ((1 - %s) * Jockeys.ewma_perf_factor)
+        END
     """
-    return query
+    
+    values = (
+        # CTEs
+        track_n_name, # TrackSpeed CTE
+        speed, pos_factor, speed, # PerformanceFactor CTE
+        
+        # ADDING
+        name, n_name, pos_gain, late_pos_gain, last_pos_gain, # name, n_name, ewma_pos_gain, late_pos_gain, last_pos_gain
+        pos, # wins
+        pos, # places
+        pos, # shows
+        pos_factor, # ewma_pos_factor
+        
+        # UPDATING
+        alpha, alpha, # ewma_pos_gain
+        alpha, alpha, # ewma_late_pos_gain
+        alpha, alpha, # ewma_last_pos_gain
+        alpha, alpha, # ewma_pos_factor
+        alpha, alpha, # ewma_perf_factor
+    )
+    
+    return query, values
 
 # Add a trainer to the Trainers table
-def addNewTrainer(name, total_races=None, wins=None, places=None, shows=None, avg_pos_factor=None,
+def addTrainer(name, total_races=None, wins=None, places=None, shows=None, avg_pos_factor=None,
                   ewma_perf_factor=None, ewma_dirt_perf_factor=None, ewma_turf_perf_factor=None, ewma_awt_perf_factor=None):
     
     query = """
@@ -177,6 +248,9 @@ def addNewTrainer(name, total_races=None, wins=None, places=None, shows=None, av
                           ewma_dirt_perf_factor, ewma_turf_perf_factor, ewma_awt_perf_factor)
     VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
     """
+    
+    values = ()
+    
     return query
 
 # Add an owner to the Owners table
@@ -189,7 +263,7 @@ def addNewOwner(name, total_races=None, wins=None, places=None, shows=None, avg_
     return query
 
 # Add a race to the Races table
-def addNewRace(track_n_name, race_num, date, race_type=None, surface=None, weather=None,
+def addRace(track_n_name, race_num, date, race_type=None, surface=None, weather=None,
                temperature=None, track_state=None, distance=None, final_time=None, speed=None,
                frac_time_1=None, frac_time_2=None, frac_time_3=None, frac_time_4=None, 
                frac_time_5=None, frac_time_6=None, split_time_1=None, split_time_2=None, 
@@ -209,17 +283,32 @@ def addNewRace(track_n_name, race_num, date, race_type=None, surface=None, weath
 
 
 # Add a performance to the Performances table
-def addNewPerformance(race_id, horse_id, program_number, weight=None, start_pos=None, final_pos=None,
-                      jockey_id=None, trainer_id=None, owner_id=None, pos_gained=None, late_pos_gained=None,
-                      last_pos_gained=None, pos_factor=None, perf_factor=None, use=None):
+def addPerformance(date, race_num, track_n_name, horse_n_name, program_number, weight, odds, start_pos, 
+                   final_pos, jockey_n_name, trainer_n_name, owner_n_name, pos_gained, late_pos_gained, 
+                   last_pos_gained, pos_factor, speed, use):
     
     query = """
-    INSERT INTO Performances (race_id, horse_id, program_number, weight, start_pos, final_pos, jockey_id,
-                              trainer_id, owner_id, pos_gained, late_pos_gained, last_pos_gained, 
-                              pos_factor, perf_factor, use)
-    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+    WITH TrackSpeed AS (
+        SELECT ewma_speed
+        FROM Tracks
+        WHERE normalized_name = %s
+    ),
+    PerformanceFactor AS (
+        SELECT 
+            CASE 
+                WHEN %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL THEN NULL
+                ELSE %s + (10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1))
+            END AS p_factor
+        FROM TrackSpeed
+    )
+    INSERT INTO Performances (date, race_num, track_n_name, horse_n_name, program_number, weight, odds, 
+                            start_pos, final_pos, jockey_n_name, trainer_n_name, owner_n_name, pos_gained, 
+                            late_pos_gained, last_pos_gained, pos_factor, perf_factor, use)
+    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, (SELECT p_factor FROM PerformanceFactor), %s)
     """
-    return query
+    return query, (track_n_name, speed, pos_factor, speed, date, race_num, track_n_name, horse_n_name, program_number, weight, 
+                   odds, start_pos, final_pos, jockey_n_name, trainer_n_name, owner_n_name, pos_gained, late_pos_gained, 
+                   last_pos_gained, pos_factor, use)
 
 # Add an owner_trainer relationship
 def addNewOwnerTrainer(owner_id, trainer_id, total_races=None, wins=None, places=None, shows=None, avg_pos_factor=None, ewma_perf_factor=None):

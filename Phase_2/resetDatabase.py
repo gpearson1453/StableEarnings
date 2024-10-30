@@ -68,14 +68,15 @@ def resetDatabase():
         CREATE TABLE IF NOT EXISTS Jockeys (
             name VARCHAR(255) NOT NULL,
             normalized_name VARCHAR(255) PRIMARY KEY,
-            avg_position_gain DECIMAL(10, 6),
-            avg_late_position_gain DECIMAL(10, 6),
-            avg_last_position_gain DECIMAL(10, 6),
+            ewma_pos_gain DECIMAL(10, 6),
+            ewma_late_pos_gain DECIMAL(10, 6),
+            ewma_last_pos_gain DECIMAL(10, 6),
             total_races INT,
             wins INT,
             places INT,
             shows INT,
-            avg_pos_factor DECIMAL(10, 6),
+            ewma_pos_factor DECIMAL(10, 6),
+            perf_factor_count INT DEFAULT 0,
             ewma_perf_factor DECIMAL(10, 6)
         );
         """,
@@ -144,7 +145,7 @@ def resetDatabase():
             date DATE,
             race_num INT,
             track_n_name VARCHAR(255),
-            horse_n_name VARCHAR(255) REFERENCES Horses(normalized_name) ON DELETE CASCADE,
+            horse_n_name VARCHAR(255),
             program_number VARCHAR(255),
             weight DECIMAL(10, 6),
             odds DECIMAL(10, 6),
@@ -160,7 +161,8 @@ def resetDatabase():
             perf_factor DECIMAL(10, 6),
             use use_type,
             PRIMARY KEY (date, race_num, track_n_name, horse_n_name),
-            FOREIGN KEY (date, race_num, track_n_name) REFERENCES Races(date, race_num, track_n_name) ON DELETE CASCADE
+            FOREIGN KEY (date, race_num, track_n_name) REFERENCES Races(date, race_num, track_n_name) ON DELETE CASCADE,
+            FOREIGN KEY (horse_n_name) REFERENCES Horses(normalized_name) ON DELETE CASCADE
         );
         """,
         """
