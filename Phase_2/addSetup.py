@@ -2,7 +2,7 @@ import csv
 import dataMethods as dm
 import os
 import time
-from resetDatabase import resetDatabase
+import resetDatabase as rd
 from decimal import Decimal
 import threading
 import queue
@@ -22,28 +22,32 @@ total_rows = -1
 # Function to push batches to the database
 def pushBatches():
     global batch_queue, batches_finished, total_rows
-    conn = None
-    while not batches_finished or not batch_queue.empty():
-        try:
-            # Establish a connection for the current thread
-            if conn is None or conn.closed:
-                conn = dm.connect_db()  # Open a new connection
-            with conn.cursor() as cur:
-                b, row_num = batch_queue.get()
-                for query, params in b:
-                    cur.execute(query, params)
-                conn.commit()
-            print(f"Batch of {len(b)} processed.")
-            clockCheck(row_num, total_rows)
-        except Exception as e:
-            if conn:
+    conn = dm.connect_db()  # Open the connection once at the start
+    
+    try:
+        while not batches_finished or not batch_queue.empty():
+            try:
+                with conn.cursor() as cur:
+                    b, row_num = batch_queue.get()
+                    for query, params in b:
+                        cur.execute(query, params)
+                    conn.commit()
+                    print(f"Batch of {len(b)} processed.")
+                    clockCheck(row_num, total_rows)
+                    
+            except Exception as e:
                 conn.rollback()
-            print(f"Error occurred in batch: {e}")
-        finally:
-            # Close connection if batches are finished
-            if batches_finished and batch_queue.empty():
-                if conn:
-                    conn.close()
+                print(f"Error occurred in batch: {e}")
+                # Reconnect if the connection is closed due to an error
+                if conn.closed:
+                    conn = dm.connect_db()
+                    
+    finally:
+        # Ensure connection is closed when all batches are finished
+        if conn and not conn.closed:
+            conn.close()
+            print("Connection closed after batch processing.")
+
 
 # Helper function to format elapsed time
 def formatTime(seconds):
@@ -117,7 +121,62 @@ def createBatches(file_path):
                                           Decimal(row['late_pos_gain']) if row['late_pos_gain'] else None, 
                                           Decimal(row['last_pos_gain']) if row['last_pos_gain'] else None, Decimal(row['final_pos']), 
                                           Decimal(row['pos_factor']) if row['pos_factor'] else None, 
-                                          Decimal(row['speed']) if row['speed'] else None, track_n_name))
+                                          Decimal(row['speed']) if row['speed'] else None, track_n_name
+                ))
+                trainer_n_name = dm.normalize(row['trainer'])
+                batch.append(dm.addTrainer(row['trainer'], trainer_n_name, Decimal(row['final_pos']),
+                                           Decimal(row['pos_factor']) if row['pos_factor'] else None,
+                                           Decimal(row['speed']) if row['speed'] else None, track_n_name,
+                                           row['surface'], Decimal(row['distance(miles)']), Decimal(row['total_horses'])
+                ))
+                owner_n_name = dm.normalize(row['owner'])
+                batch.append(dm.addOwner(row['owner'], owner_n_name, Decimal(row['final_pos']),
+                                           Decimal(row['pos_factor']) if row['pos_factor'] else None,
+                                           Decimal(row['speed']) if row['speed'] else None, track_n_name
+                ))
+                batch.append(dm.addPerformance(row['date'], row['race_number'], track_n_name, horse_n_name, row['program_number'], 
+                                               Decimal(row['weight']) if row['weight'] else None, 
+                                               None if row['odds'] == 'N/A' else Decimal(row['odds']), 
+                                               row['start_pos'] if row['start_pos'] != '---' else None, 
+                                               Decimal(row['final_pos']), 
+                                               jockey_n_name, trainer_n_name, owner_n_name, 
+                                               Decimal(row['pos_gain']) if row['pos_gain'] else None, 
+                                               Decimal(row['late_pos_gain']) if row['late_pos_gain'] else None, 
+                                               Decimal(row['last_pos_gain']) if row['last_pos_gain'] else None, 
+                                               Decimal(row['pos_factor']) if row['pos_factor'] else None, 
+                                               Decimal(row['speed']) if row['speed'] else None, 
+                                               'SETUP'
+                ))
+                batch.append(dm.addOwnerTrainer(owner_n_name, trainer_n_name, Decimal(row['final_pos']), 
+                                             Decimal(row['pos_factor']) if row['pos_factor'] else None, 
+                                             Decimal(row['speed']) if row['speed'] else None, 
+                                             track_n_name
+                ))
+                batch.append(dm.addHorseJockey(horse_n_name, jockey_n_name, Decimal(row['final_pos']), 
+                                             Decimal(row['pos_factor']) if row['pos_factor'] else None, 
+                                             Decimal(row['speed']) if row['speed'] else None, 
+                                             track_n_name
+                ))
+                batch.append(dm.addHorseTrainer(horse_n_name, trainer_n_name, Decimal(row['final_pos']), 
+                                             Decimal(row['pos_factor']) if row['pos_factor'] else None, 
+                                             Decimal(row['speed']) if row['speed'] else None, 
+                                             track_n_name
+                ))
+                batch.append(dm.addTrainerTrack(trainer_n_name, track_n_name, Decimal(row['final_pos']), 
+                                             Decimal(row['pos_factor']) if row['pos_factor'] else None, 
+                                             Decimal(row['speed']) if row['speed'] else None,
+                                             row['surface']
+                ))
+                batch.append(dm.addHorseTrack(horse_n_name, track_n_name, Decimal(row['final_pos']), 
+                                             Decimal(row['pos_factor']) if row['pos_factor'] else None, 
+                                             Decimal(row['speed']) if row['speed'] else None,
+                                             row['surface']
+                ))
+                batch.append(dm.addJockeyTrainer(jockey_n_name, trainer_n_name, Decimal(row['final_pos']), 
+                                             Decimal(row['pos_factor']) if row['pos_factor'] else None, 
+                                             Decimal(row['speed']) if row['speed'] else None,
+                                             track_n_name
+                ))
 
             # Push any remaining queries as the final batch
             if batch:
@@ -128,7 +187,7 @@ def createBatches(file_path):
         batches_finished = True
 
 if __name__ == "__main__":
-    resetDatabase()
+    rd.resetDatabase()
     
     create_batches_thread = threading.Thread(target=createBatches, args=('testing.csv',))
     #create_batches_thread = threading.Thread(target=create_batches, args='setup.csv')

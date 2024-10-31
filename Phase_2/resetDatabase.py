@@ -17,7 +17,7 @@ def resetDatabase():
     drop_tables = [
         "DROP TABLE IF EXISTS owner_trainer CASCADE;",
         "DROP TABLE IF EXISTS horse_track CASCADE;",
-        "DROP TABLE IF EXISTS jockey_track CASCADE;",
+        "DROP TABLE IF EXISTS jockey_trainer CASCADE;",
         "DROP TABLE IF EXISTS horse_jockey CASCADE;",
         "DROP TABLE IF EXISTS horse_trainer CASCADE;",
         "DROP TABLE IF EXISTS trainer_track CASCADE;",
@@ -88,7 +88,8 @@ def resetDatabase():
             wins INT,
             places INT,
             shows INT,
-            avg_pos_factor DECIMAL(10, 6),
+            ewma_pos_factor DECIMAL(10, 6),
+            perf_factor_count INT DEFAULT 0,
             ewma_perf_factor DECIMAL(10, 6),
             ewma_dirt_perf_factor DECIMAL(10, 6),
             ewma_turf_perf_factor DECIMAL(10, 6),
@@ -104,7 +105,8 @@ def resetDatabase():
             wins INT,
             places INT,
             shows INT,
-            avg_pos_factor DECIMAL(10, 6),
+            ewma_pos_factor DECIMAL(10, 6),
+            perf_factor_count INT DEFAULT 0,
             ewma_perf_factor DECIMAL(10, 6)
         );
         """,
@@ -173,7 +175,8 @@ def resetDatabase():
             wins INT,
             places INT,
             shows INT,
-            avg_pos_factor DECIMAL(10, 6),
+            ewma_pos_factor DECIMAL(10, 6),
+            perf_factor_count INT DEFAULT 0,
             ewma_perf_factor DECIMAL(10, 6),
             PRIMARY KEY (horse_n_name, jockey_n_name)
         );
@@ -186,7 +189,8 @@ def resetDatabase():
             wins INT,
             places INT,
             shows INT,
-            avg_pos_factor DECIMAL(10, 6),
+            ewma_pos_factor DECIMAL(10, 6),
+            perf_factor_count INT DEFAULT 0,
             ewma_perf_factor DECIMAL(10, 6),
             PRIMARY KEY (horse_n_name, trainer_n_name)
         );
@@ -200,7 +204,8 @@ def resetDatabase():
             wins INT,
             places INT,
             shows INT,
-            avg_pos_factor DECIMAL(10, 6),
+            ewma_pos_factor DECIMAL(10, 6),
+            perf_factor_count INT DEFAULT 0,
             ewma_perf_factor DECIMAL(10, 6),
             PRIMARY KEY (trainer_n_name, track_n_name, surface)
         );
@@ -213,7 +218,8 @@ def resetDatabase():
             wins INT,
             places INT,
             shows INT,
-            avg_pos_factor DECIMAL(10, 6),
+            ewma_pos_factor DECIMAL(10, 6),
+            perf_factor_count INT DEFAULT 0,
             ewma_perf_factor DECIMAL(10, 6),
             PRIMARY KEY (owner_n_name, trainer_n_name)
         );
@@ -227,7 +233,8 @@ def resetDatabase():
             wins INT,
             places INT,
             shows INT,
-            avg_pos_factor DECIMAL(10, 6),
+            ewma_pos_factor DECIMAL(10, 6),
+            perf_factor_count INT DEFAULT 0,
             ewma_perf_factor DECIMAL(10, 6),
             PRIMARY KEY (horse_n_name, track_n_name, surface)
         );
@@ -240,7 +247,8 @@ def resetDatabase():
             wins INT,
             places INT,
             shows INT,
-            avg_pos_factor DECIMAL(10, 6),
+            ewma_pos_factor DECIMAL(10, 6),
+            perf_factor_count INT DEFAULT 0,
             ewma_perf_factor DECIMAL(10, 6),
             PRIMARY KEY (jockey_n_name, trainer_n_name)
         );
