@@ -88,6 +88,9 @@ with open(csv_file_path, mode='r', newline='', encoding='utf-8') as csvfile, \
             speed = None
         else:
             speed = float(row[10]) / dm.convertTime(row[17])
+            
+        if row[28] in ['---', 'N/A']:
+            row[28] = None
 
         figs = row[29].split(', ')
         while '---' in figs:
@@ -112,12 +115,14 @@ with open(csv_file_path, mode='r', newline='', encoding='utf-8') as csvfile, \
             pos_gain = int(figs[0]) - int(figs[-2])
             last_pos_gain = int(figs[-4]) - int(figs[-2])
             late_pos_gain = int(figs[-8]) - int(figs[-2])
+            
+        
 
         # Add new values to the row
         row.extend([pos_gain, late_pos_gain, last_pos_gain, speed])
 
         # Write the row to the appropriate file
-        if date_string.startswith("January") and year == 2020:
+        if date_string.startswith("August") and year == 2020:
             testing_writer.writerow(row)
         elif year is not None:
             if year < train_test_start_year:

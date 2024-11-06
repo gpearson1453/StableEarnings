@@ -1,5 +1,5 @@
 import re
-from mappings import TYPE_PATTERNS, DISTANCE_CONVERSION, SURFACE_MAPPING
+from mappings import TYPE_PATTERNS, DISTANCE_CONVERSION
 from getHorses import getHorses
 import statistics as stats
 
