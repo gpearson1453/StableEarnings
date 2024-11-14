@@ -3,7 +3,7 @@ import psycopg2
 def resetDatabase():
     # Establish connection to CockroachDB
     conn = psycopg2.connect(
-        dbname="defaultdb",
+        #dbname = "",  # this line is commented out to ensure that i have to put in the db name so i dont unintentionally reset a db
         user="molomala",
         password="aPyds3qPNhslU5xV8H-pMw",
         host="stable-earnings-3899.j77.aws-us-east-1.cockroachlabs.cloud",
