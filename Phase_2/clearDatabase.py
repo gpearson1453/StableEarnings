@@ -23,7 +23,8 @@ def clearDatabase():
         "DROP TABLE IF EXISTS Horses CASCADE;",
         "DROP TABLE IF EXISTS Tracks CASCADE;",
         "DROP TYPE IF EXISTS use_type CASCADE;",
-        "DROP TABLE IF EXISTS Trainables CASCADE;"
+        "DROP TABLE IF EXISTS Trainables CASCADE;",
+        "DROP TABLE IF EXISTS Testables CASCADE;"
     ]
 
     # Execute each SQL statement to drop the tables

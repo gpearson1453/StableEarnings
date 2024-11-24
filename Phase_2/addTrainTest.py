@@ -4,7 +4,7 @@ import os
 import time
 from decimal import Decimal
 import queue
-import uuid
+import random
 
 # Set the working directory to the script's location
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -19,6 +19,7 @@ weather_cache = {}
 valid_weather_num = 0
 track_state_cache = {}
 valid_track_state_num = 0
+test_ratio = 0.0
 
 def buildCaches(csv_reader):
     
@@ -94,6 +95,23 @@ def buildCaches(csv_reader):
             # adding more weather and track state values for this race
             prev_file_num_race_num = (row['file_number'], row['race_number'])
 
+def getTestRatio(csv_reader):
+    prev_file_num_race_num = (-1, -1)
+    odds_count = 0
+    other_count = 0
+    
+    for row in csv_reader:
+        if (row['file_number'], row['race_number']) != prev_file_num_race_num:
+            if row['odds'] != 'N/A':
+                odds_count += 1
+            else:
+                other_count += 1
+            prev_file_num_race_num = (row['file_number'], row['race_number'])
+    
+    total = odds_count + other_count
+    
+    return (0.2 * total) / odds_count
+
 def encodeWeather(normalized_w):
     # if the length of normalized_w <= 2, there was most likely an error,
     # meaning this weather is invalid and gets an encoded value of 0
@@ -166,7 +184,7 @@ def clockCheck(row_num, total_rows):
     print(f"Rows processed: {row_num}/{total_rows}.     Time elapsed: {formatted_elapsed_time}     Estimated time remaining: {formatted_time_left}")
 
 def addTrainTestToDB(file_path, reset):
-    global batch_queue, total_rows, weather_cache, track_state_cache
+    global batch_queue, total_rows, weather_cache, track_state_cache, test_ratio
     try:
         print('Adding Trainables, Testables, and Updates to DB.')
         
@@ -178,6 +196,11 @@ def addTrainTestToDB(file_path, reset):
             batch_queue.put((batch.copy(), None))
             batch.clear()
             print('Trainables table reset.')
+            batch.append((dm.dropTestables(), None))
+            batch.append((dm.createTestables(), None))
+            batch_queue.put((batch.copy(), None))
+            batch.clear()
+            print('Testables table reset.')
         
         # Get total number of rows in the CSV for progress tracking
         with open(file_path, mode='r') as csv_file:
@@ -189,6 +212,12 @@ def addTrainTestToDB(file_path, reset):
             prev_file_num = -1
             
             buildCaches(csv_reader)
+            
+            csv_file.seek(0)  # Rewind again for second iteration
+            csv_reader = csv.DictReader(csv_file)  # Reinitialize DictReader
+            
+            test_ratio = getTestRatio(csv_reader)
+            print(test_ratio)
             
             csv_file.seek(0)  # Rewind again for second iteration
             csv_reader = csv.DictReader(csv_file)  # Reinitialize DictReader
@@ -205,6 +234,7 @@ def addTrainTestToDB(file_path, reset):
                 trainer_n_name = dm.normalize(row['trainer'])
                 
                 if (row['file_number'], row['race_number']) != prev_file_num_race_num:
+                    test = random.random() < test_ratio and row['odds'] != 'N/A'
                     batch.append(dm.addRace(
                         row['race_id'], row['file_number'], track_n_name, row['race_number'], row['date'], row['race_type'], row['surface'],
                         row['weather'], row['temp'], row['track_state'], Decimal(row['distance(miles)']),
@@ -218,16 +248,26 @@ def addTrainTestToDB(file_path, reset):
                     ))
                     prev_file_num_race_num = (row['file_number'], row['race_number'])
                 
-                batch.append(dm.addTrainable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, 
-                                             owner_n_name, row['surface'], row['race_id'], row['final_pos'], row['race_type'], 
-                                             Decimal(row['weight']) if row['weight'] else None, 
-                                             encodeWeather(dm.normalize(row['weather'])),
-                                             row['temp'], 
-                                             encodeTrackState(dm.normalize(row['track_state'])), 
-                                             Decimal(row['distance(miles)']), 
-                                             Decimal(0) if int(row['final_pos']) == 1 else Decimal(100), 
-                                             Decimal(0) if int(row['final_pos']) <= 2 else Decimal(100), 
-                                             Decimal(0) if int(row['final_pos']) <= 3 else Decimal(100)))
+                if test:
+                    batch.append(dm.addTestable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, 
+                                                owner_n_name, row['surface'], row['race_id'], row['final_pos'], row['race_type'], 
+                                                Decimal(row['weight']) if row['weight'] else None, 
+                                                encodeWeather(dm.normalize(row['weather'])),
+                                                row['temp'], 
+                                                encodeTrackState(dm.normalize(row['track_state'])), 
+                                                Decimal(row['distance(miles)']), 
+                                                row['odds']))
+                else:
+                    batch.append(dm.addTrainable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, 
+                                                owner_n_name, row['surface'], row['race_id'], row['final_pos'], row['race_type'], 
+                                                Decimal(row['weight']) if row['weight'] else None, 
+                                                encodeWeather(dm.normalize(row['weather'])),
+                                                row['temp'], 
+                                                encodeTrackState(dm.normalize(row['track_state'])), 
+                                                Decimal(row['distance(miles)']), 
+                                                Decimal(0) if int(row['final_pos']) == 1 else Decimal(100), 
+                                                Decimal(0) if int(row['final_pos']) <= 2 else Decimal(100), 
+                                                Decimal(0) if int(row['final_pos']) <= 3 else Decimal(100)))
                 
                 if row['file_number'] != prev_file_num:
                     batch.append(dm.addTrack(row['location'], track_n_name, Decimal(row['distance(miles)']) / Decimal(row['final_time']) if row['final_time'] else None))
@@ -262,7 +302,6 @@ def addTrainTestToDB(file_path, reset):
                                            Decimal(row['pos_factor']) if row['pos_factor'] else None,
                                            Decimal(row['speed']) if row['speed'] else None, track_n_name
                 ))
-                
                 batch.append(dm.addPerformance(row['race_id'], row['file_number'], row['date'], row['race_number'], track_n_name, horse_n_name, row['program_number'], 
                                                Decimal(row['weight']) if row['weight'] else None, 
                                                None if row['odds'] == 'N/A' else Decimal(row['odds']), 
@@ -274,7 +313,7 @@ def addTrainTestToDB(file_path, reset):
                                                Decimal(row['last_pos_gain']) if row['last_pos_gain'] else None, 
                                                Decimal(row['pos_factor']) if row['pos_factor'] else None, 
                                                Decimal(row['speed']) if row['speed'] else None, 
-                                               'TRAINING'
+                                               'TESTING' if test else 'TRAINING'
                 ))
                 
                 batch.append(dm.addOwnerTrainer(owner_n_name, trainer_n_name, Decimal(row['final_pos']), 
