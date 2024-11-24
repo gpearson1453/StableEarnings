@@ -1,7 +1,8 @@
 import csv
 import os
 import threading
-import dataMethods as dm  # Import dataMethods as dm
+import dataMethods as dm
+import uuid
 
 # Variable to determine the year cutoff
 train_test_start_year = 2022  # Set this to the desired cutoff year
@@ -69,13 +70,19 @@ with open(csv_file_path, mode='r', newline='', encoding='utf-8') as csvfile, \
 
     # Process the header
     header = next(csvreader)
-    header.extend(['pos_gain', 'late_pos_gain', 'last_pos_gain', 'speed'])  # Add new columns to header
+    header.extend(['pos_gain', 'late_pos_gain', 'last_pos_gain', 'speed', 'race_id'])  # Add new columns to header
     setup_writer.writerow(header)
     traintest_writer.writerow(header)
     testing_writer.writerow(header)
+    race_id = str(uuid.uuid4())
+    prev_file_num_race_num = (-1, -1)
 
     # Process each row and split based on year and month
     for row in csvreader:
+        if (row[0], row[1]) != prev_file_num_race_num:
+            race_id = str(uuid.uuid4())
+            prev_file_num_race_num = (row[0], row[1])
+        
         # Check conditions for track surface and horse type
         if row[6] not in ['Dirt', 'Turf', 'AWT'] or row[5] not in ['Thoroughbred', 'Quarter Horse']:
             continue  # Skip rows that don't meet the criteria
@@ -119,7 +126,7 @@ with open(csv_file_path, mode='r', newline='', encoding='utf-8') as csvfile, \
         
 
         # Add new values to the row
-        row.extend([pos_gain, late_pos_gain, last_pos_gain, speed])
+        row.extend([pos_gain, late_pos_gain, last_pos_gain, speed, race_id])
 
         # Write the row to the appropriate file
         if date_string.startswith("August") and year == 2020:

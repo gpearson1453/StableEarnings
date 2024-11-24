@@ -2,7 +2,6 @@ import csv
 import dataMethods as dm
 import os
 import time
-import resetDatabase as rd
 from decimal import Decimal
 import queue
 import uuid
@@ -21,7 +20,7 @@ total_rows = -1
 def pushBatches():
     global batch_queue, total_rows, start_time
     b_total = 0
-    conn = dm.connect_db("defaultdb")  # Open the connection once at the start
+    conn = dm.local_connect("StableEarnings")  # Open the connection once at the start
     start_time = time.time()
     try:
         while not batch_queue.empty():
@@ -33,7 +32,7 @@ def pushBatches():
                         cur.execute(query, params)
                     conn.commit()
                     if row_num:
-                        if b_total >= 5000:
+                        if b_total >= 50000:
                             print(f"{b_total} queries processed.")
                             clockCheck(row_num, total_rows)
                             b_total = 0
@@ -117,7 +116,7 @@ def addTracksToDB(file_path, reset):
 def addRacesAndPerformancesToDB(file_path, reset):
     global batch_queue, total_rows
     try:
-        print('Adding Races to DB.')
+        print('Adding Races and Performances to DB.')
         
         batch = []
         
@@ -148,10 +147,9 @@ def addRacesAndPerformancesToDB(file_path, reset):
                     if len(batch) >= 1000:
                         batch_queue.put((batch.copy(), row_num))
                         batch.clear()
-                    race_id = str(uuid.uuid4())
                     track_n_name = dm.normalize(row['location'])
                     batch.append(dm.addRace(
-                        race_id, row['file_number'], track_n_name, row['race_number'], row['date'], row['race_type'], row['surface'],
+                        row['race_id'], row['file_number'], track_n_name, row['race_number'], row['date'], row['race_type'], row['surface'],
                         row['weather'], row['temp'], row['track_state'], Decimal(row['distance(miles)']),
                         Decimal(row['final_time']) if row['final_time'] else None, Decimal(row['speed']) if row['speed'] else None,
                         Decimal(row['fractional_a']) if row['fractional_a'] else None, Decimal(row['fractional_b']) if row['fractional_b'] else None,
@@ -166,7 +164,7 @@ def addRacesAndPerformancesToDB(file_path, reset):
                 horse_n_name = dm.normalize(row['horse_name'])
                 jockey_n_name = dm.normalize(row['jockey'])
                 trainer_n_name = dm.normalize(row['trainer'])
-                batch.append(dm.addPerformance(race_id, row['file_number'], row['date'], row['race_number'], track_n_name, horse_n_name, row['program_number'], 
+                batch.append(dm.addPerformance(row['race_id'], row['file_number'], row['date'], row['race_number'], track_n_name, horse_n_name, row['program_number'], 
                                                Decimal(row['weight']) if row['weight'] else None, 
                                                None if row['odds'] == 'N/A' else Decimal(row['odds']), 
                                                row['start_pos'] if row['start_pos'] else None, 
@@ -619,15 +617,14 @@ def addTrainerTrackToDB(file_path, reset):
     finally:
         pushBatches()
 
-#if __name__ == "__main__":
+if __name__ == "__main__":
     # Testing
     #addTracksToDB('testing.csv', True)
-    #addRacesToDB('testing.csv', True)
     #addHorsesToDB('testing.csv', True)
     #addJockeysToDB('testing.csv', True)
     #addTrainersToDB('testing.csv', True)
-    #addOwnersToDB('testing.csv', True),
-    #addPerformancesToDB('testing.csv', True),
+    #addOwnersToDB('testing.csv', True)
+    #addRacesAndPerformancesToDB('testing.csv', True)
     
     #addOwnerTrainerToDB('testing.csv', True)
     #addHorseTrackToDB('testing.csv', True)
@@ -637,16 +634,17 @@ def addTrainerTrackToDB(file_path, reset):
     #addTrainerTrackToDB('testing.csv', True)
     
     # Setup
-    #addTracksToDB('setup.csv', True)
-    #addRacesAndPerformancesToDB('setup.csv', True)
-    #addHorsesToDB('setup.csv', True)
-    #addJockeysToDB('setup.csv', True)
-    #addTrainersToDB('setup.csv', True)
-    #addOwnersToDB('setup.csv', True),
     
-    #addOwnerTrainerToDB('setup.csv', True)
-    #addHorseTrackToDB('setup.csv', True)
-    #addJockeyTrainerToDB('setup.csv', True)
-    #addHorseJockeyToDB('setup.csv', True)
-    #addHorseTrainerToDB('setup.csv', True)
-    #addTrainerTrackToDB('setup.csv', True)
+    addTracksToDB('setup.csv', True) # reset here
+    addHorsesToDB('setup.csv', True)
+    addJockeysToDB('setup.csv', True)
+    addTrainersToDB('setup.csv', True)
+    addOwnersToDB('setup.csv', True)
+    addRacesAndPerformancesToDB('setup.csv', True)
+    
+    addOwnerTrainerToDB('setup.csv', True)
+    addHorseTrackToDB('setup.csv', True)
+    addJockeyTrainerToDB('setup.csv', True)
+    addHorseJockeyToDB('setup.csv', True)
+    addHorseTrainerToDB('setup.csv', True)
+    addTrainerTrackToDB('setup.csv', True)

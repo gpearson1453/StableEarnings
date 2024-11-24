@@ -3,6 +3,7 @@ import pandas as pd
 from getRaces import getRaces
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime
 
 # Set the working directory to the script's location
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -79,7 +80,14 @@ def process_files(folder_path, output_csv_file):
                     print(f"Error processing file: {exc}")
 
     if all_data:
-        sorted_data = sorted(all_data, key=lambda x: (x.get('file_number', 0), x.get('race_number', 0)))
+        sorted_data = sorted(
+            all_data,
+            key=lambda x: (
+                datetime.strptime(x.get('date', 'January 1, 1970'), '%B %d, %Y'),  # Parse 'Month Date, Year' format
+                int(x.get('file_number', 0)),  # Ensure file_number is treated as an integer
+                int(x.get('race_number', 0))  # Ensure race_number is treated as an integer
+            )
+        )
         df = pd.DataFrame(sorted_data)
         df = df[['file_number', 'race_number'] + [col for col in df.columns if col not in ['file_number', 'race_number']]]
         df.to_csv(output_csv_file, index=False)

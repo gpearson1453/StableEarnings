@@ -4,8 +4,18 @@ import unidecode
 from datetime import datetime
 from decimal import Decimal
 
+# Establish connection to local postgres db
+def local_connect(db_name):
+    return psycopg2.connect(
+        dbname=db_name,
+        user="postgres",
+        password="B!h8Cjxa37!78Yh",
+        host="localhost",
+        port="5432"
+    )
+
 # Establish connection to CockroachDB
-def connect_db(db_name):
+def cockroach_connect(db_name):
     return psycopg2.connect(
         dbname=db_name,
         user="molomala",
@@ -229,8 +239,9 @@ def dropPerformances():
 # Creates use_type for Performances, Trainables, Testables tables
 def createPerformancesUseType():
     return """
-        CREATE TYPE IF NOT EXISTS use_type AS ENUM ('SETUP', 'TRAINING', 'TESTING');
-        """
+        DROP TYPE IF EXISTS use_type CASCADE;
+        CREATE TYPE use_type AS ENUM ('SETUP', 'TRAINING', 'TESTING');
+    """
 
 # Builds Performances table
 def createPerformances():
@@ -299,6 +310,7 @@ def createTrainables():
     return """
         CREATE TABLE IF NOT EXISTS Trainables (
             race_id VARCHAR(255),
+            final_pos INT,
             horse_n_name VARCHAR(255),
             race_type VARCHAR(255),
             
@@ -354,9 +366,9 @@ def createTrainables():
             owner_ewma_perf_factor DECIMAL(10, 6),
             
             -- Race stats
-            weather INT[],
+            weather INT,
             temperature DECIMAL(10, 6),
-            track_state INT[],
+            track_state INT,
             distance DECIMAL(10, 6),
             
             -- Horse-Jockey stats
@@ -418,14 +430,13 @@ def createTrainables():
             placed DECIMAL(10, 6),
             showed DECIMAL(10, 6),
             
-            PRIMARY KEY (race_id, horse_n_name),
-            FOREIGN KEY (race_id) REFERENCES Races(race_id) ON DELETE CASCADE,
-            FOREIGN KEY (horse_n_name) REFERENCES Horses(normalized_name) ON DELETE CASCADE
+            PRIMARY KEY (race_id, final_pos),
+            FOREIGN KEY (race_id) REFERENCES Races(race_id) ON DELETE CASCADE
         );
         """
 
 # Add a Trainable to the Trainables table
-def addTrainable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owner_n_name, surface, race_id, race_type, weight, weather, temp, track_state, distance, won, placed, showed):
+def addTrainable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owner_n_name, surface, race_id, final_pos, race_type, weight, weather, temp, track_state, distance, won, placed, showed):
     
     query = """
     WITH TrackSpeed AS (
@@ -434,7 +445,17 @@ def addTrainable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owne
         WHERE normalized_name = %s
     ), 
     HorseStats AS (
-        SELECT *
+        SELECT 
+            total_races, wins, places, shows, 
+            ewma_pos_factor, ewma_pos_gain, ewma_late_pos_gain, 
+            ewma_last_pos_gain, perf_factor_count, ewma_perf_factor, 
+            recent_perf_factor, 
+            CASE 
+                WHEN %s = 'Dirt' THEN ewma_dirt_perf_factor
+                WHEN %s = 'Turf' THEN ewma_turf_perf_factor
+                WHEN %s = 'AWT' THEN ewma_awt_perf_factor
+            END as ewma_surface_perf_factor, 
+            distance_factor
         FROM Horses
         WHERE normalized_name = %s
     ), 
@@ -444,7 +465,15 @@ def addTrainable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owne
         WHERE normalized_name = %s
     ), 
     TrainerStats AS (
-        SELECT *
+        SELECT 
+            total_races, wins, places, shows, ewma_pos_factor, 
+            perf_factor_count, ewma_perf_factor, 
+            CASE 
+                WHEN %s = 'Dirt' THEN ewma_dirt_perf_factor
+                WHEN %s = 'Turf' THEN ewma_turf_perf_factor
+                WHEN %s = 'AWT' THEN ewma_awt_perf_factor
+            END as ewma_surface_perf_factor, 
+            distance_factor
         FROM Trainers
         WHERE normalized_name = %s
     ), 
@@ -483,8 +512,8 @@ def addTrainable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owne
         FROM jockey_trainer
         WHERE jockey_n_name = %s AND trainer_n_name = %s
     )
-    INSERT INTO Performances (
-        race_id, horse_n_name, race_type,
+    INSERT INTO Trainables (
+        race_id, final_pos, horse_n_name, race_type,
         
         track_ewma_speed,
         
@@ -533,62 +562,104 @@ def addTrainable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owne
         won, placed, showed)
     
     SELECT
-        %s, %s, %s, -- race_id, horse_n_name, race_type
+        %s, %s, %s, %s, -- race_id, final_pos, horse_n_name, race_type
         
         (SELECT ewma_speed FROM TrackSpeed), -- track_ewma_speed
         
         %s, -- weight
-        (SELECT total_races, wins, places, shows, 
-            ewma_pos_factor, ewma_pos_gain, ewma_late_pos_gain, 
-            ewma_last_pos_gain, perf_factor_count, ewma_perf_factor, 
-            recent_perf_factor, ewma_surface_perf_factor, distance_factor
-        FROM HorseStats), -- horse stats
         
-        (SELECT ewma_pos_gain, ewma_late_pos_gain, ewma_last_pos_gain, 
-            total_races, wins, places, shows, 
-            ewma_pos_factor, perf_factor_count, ewma_perf_factor
-        FROM JockeyStats), -- jockey stats
+        (SELECT total_races FROM HorseStats), 
+        (SELECT wins FROM HorseStats), 
+        (SELECT places FROM HorseStats), 
+        (SELECT shows FROM HorseStats), 
+        (SELECT ewma_pos_factor FROM HorseStats), 
+        (SELECT ewma_pos_gain FROM HorseStats), 
+        (SELECT ewma_late_pos_gain FROM HorseStats), 
+        (SELECT ewma_last_pos_gain FROM HorseStats), 
+        (SELECT perf_factor_count FROM HorseStats), 
+        (SELECT ewma_perf_factor FROM HorseStats), 
+        (SELECT recent_perf_factor FROM HorseStats), 
+        (SELECT ewma_surface_perf_factor FROM HorseStats), 
+        (SELECT distance_factor FROM HorseStats), -- horse stats
         
-        (SELECT total_races, wins, places, shows, 
-            ewma_pos_factor, perf_factor_count, ewma_perf_factor, 
-            ewma_surface_perf_factor, distance_factor
-        FROM TrainerStats), -- trainer stats
+        (SELECT ewma_pos_gain FROM JockeyStats), 
+        (SELECT ewma_late_pos_gain FROM JockeyStats), 
+        (SELECT ewma_last_pos_gain FROM JockeyStats), 
+        (SELECT total_races FROM JockeyStats), 
+        (SELECT wins FROM JockeyStats), 
+        (SELECT places FROM JockeyStats), 
+        (SELECT shows FROM JockeyStats), 
+        (SELECT ewma_pos_factor FROM JockeyStats), 
+        (SELECT perf_factor_count FROM JockeyStats), 
+        (SELECT ewma_perf_factor FROM JockeyStats), -- jockey stats
         
-        (SELECT total_races, wins, places, shows, ewma_pos_factor, 
-            perf_factor_count, ewma_perf_factor
-        FROM OwnerStats), -- owner stats
+        (SELECT total_races FROM TrainerStats), 
+        (SELECT wins FROM TrainerStats), 
+        (SELECT places FROM TrainerStats), 
+        (SELECT shows FROM TrainerStats), 
+        (SELECT ewma_pos_factor FROM TrainerStats), 
+        (SELECT perf_factor_count FROM TrainerStats), 
+        (SELECT ewma_perf_factor FROM TrainerStats), 
+        (SELECT ewma_surface_perf_factor FROM TrainerStats), 
+        (SELECT distance_factor FROM TrainerStats), -- trainer stats
+        
+        (SELECT total_races FROM OwnerStats), 
+        (SELECT wins FROM OwnerStats), 
+        (SELECT places FROM OwnerStats), 
+        (SELECT shows FROM OwnerStats), 
+        (SELECT ewma_pos_factor FROM OwnerStats), 
+        (SELECT perf_factor_count FROM OwnerStats), 
+        (SELECT ewma_perf_factor FROM OwnerStats), -- owner stats
         
         %s, %s, %s, %s, -- weather, temperature, track_state, distance
         
-        (SELECT total_races, wins, places, 
-            shows, ewma_pos_factor, perf_factor_count, 
-            ewma_perf_factor
-        FROM HorseJockeyStats), -- horse-jockey stats
+        (SELECT total_races FROM HorseJockeyStats), 
+        (SELECT wins FROM HorseJockeyStats), 
+        (SELECT places FROM HorseJockeyStats), 
+        (SELECT shows FROM HorseJockeyStats), 
+        (SELECT ewma_pos_factor FROM HorseJockeyStats), 
+        (SELECT perf_factor_count FROM HorseJockeyStats), 
+        (SELECT ewma_perf_factor FROM HorseJockeyStats), -- horse-jockey stats
         
-        (SELECT total_races, wins, places, 
-            shows, ewma_pos_factor, perf_factor_count, 
-            ewma_perf_factor
-        FROM HorseTrainerStats), -- horse-trainer stats
+        (SELECT total_races FROM HorseTrainerStats), 
+        (SELECT wins FROM HorseTrainerStats), 
+        (SELECT places FROM HorseTrainerStats), 
+        (SELECT shows FROM HorseTrainerStats), 
+        (SELECT ewma_pos_factor FROM HorseTrainerStats), 
+        (SELECT perf_factor_count FROM HorseTrainerStats), 
+        (SELECT ewma_perf_factor FROM HorseTrainerStats), -- horse-trainer stats
         
-        (SELECT total_races, wins, places, 
-            shows, ewma_pos_factor, perf_factor_count, 
-            ewma_perf_factor
-        FROM TrainerTrackStats), -- trainer-track stats
+        (SELECT total_races FROM TrainerTrackStats), 
+        (SELECT wins FROM TrainerTrackStats), 
+        (SELECT places FROM TrainerTrackStats), 
+        (SELECT shows FROM TrainerTrackStats), 
+        (SELECT ewma_pos_factor FROM TrainerTrackStats), 
+        (SELECT perf_factor_count FROM TrainerTrackStats), 
+        (SELECT ewma_perf_factor FROM TrainerTrackStats), -- trainer-track stats
         
-        (SELECT total_races, wins, places, 
-            shows, ewma_pos_factor, perf_factor_count, 
-            ewma_perf_factor
-        FROM OwnerTrainerStats), -- owner-trainer stats
+        (SELECT total_races FROM OwnerTrainerStats), 
+        (SELECT wins FROM OwnerTrainerStats), 
+        (SELECT places FROM OwnerTrainerStats), 
+        (SELECT shows FROM OwnerTrainerStats), 
+        (SELECT ewma_pos_factor FROM OwnerTrainerStats), 
+        (SELECT perf_factor_count FROM OwnerTrainerStats), 
+        (SELECT ewma_perf_factor FROM OwnerTrainerStats), -- owner-trainer stats
         
-        (SELECT total_races, wins, places, 
-            shows, ewma_pos_factor, perf_factor_count, 
-            ewma_perf_factor
-        FROM HorseTrackStats), -- horse-track stats
+        (SELECT total_races FROM HorseTrackStats), 
+        (SELECT wins FROM HorseTrackStats), 
+        (SELECT places FROM HorseTrackStats), 
+        (SELECT shows FROM HorseTrackStats), 
+        (SELECT ewma_pos_factor FROM HorseTrackStats), 
+        (SELECT perf_factor_count FROM HorseTrackStats), 
+        (SELECT ewma_perf_factor FROM HorseTrackStats), -- horse-track stats
         
-        (SELECT total_races, wins, places, 
-            shows, ewma_pos_factor, perf_factor_count, 
-            ewma_perf_factor
-        FROM JockeyTrainerStats), -- jockey-trainer stats
+        (SELECT total_races FROM JockeyTrainerStats), 
+        (SELECT wins FROM JockeyTrainerStats), 
+        (SELECT places FROM JockeyTrainerStats), 
+        (SELECT shows FROM JockeyTrainerStats), 
+        (SELECT ewma_pos_factor FROM JockeyTrainerStats), 
+        (SELECT perf_factor_count FROM JockeyTrainerStats), 
+        (SELECT ewma_perf_factor FROM JockeyTrainerStats), -- jockey-trainer stats
         
         %s, %s, %s
     """
@@ -596,9 +667,9 @@ def addTrainable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owne
     values = (
         # CTEs
         track_n_name, # TrackSpeed
-        horse_n_name, # HorseStats
+        surface, surface, surface, horse_n_name, # HorseStats
         jockey_n_name, # JockeyStats
-        trainer_n_name, # TrainerStats
+        surface, surface, surface, trainer_n_name, # TrainerStats
         owner_n_name, # OwnerStats
         
         horse_n_name, jockey_n_name, # HorseJockeyStats
@@ -609,7 +680,7 @@ def addTrainable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owne
         jockey_n_name, trainer_n_name, # JockeyTrainerStats
         
         # ADDING
-        race_id, horse_n_name, race_type,
+        race_id, final_pos, horse_n_name, race_type,
         weight,
         weather, temp, track_state, distance,
         won, placed, showed
@@ -938,8 +1009,7 @@ def createRaces():
             split_time_3 DECIMAL(10, 6),
             split_time_4 DECIMAL(10, 6),
             split_time_5 DECIMAL(10, 6),
-            split_time_6 DECIMAL(10, 6),
-            FOREIGN KEY (track_n_name) REFERENCES Tracks(normalized_name) ON DELETE CASCADE
+            split_time_6 DECIMAL(10, 6)
         );
 
         """
