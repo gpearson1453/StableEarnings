@@ -98,17 +98,14 @@ def buildCaches(csv_reader):
 def getTestRatio(csv_reader):
     prev_file_num_race_num = (-1, -1)
     odds_count = 0
-    other_count = 0
+    total = 0
     
     for row in csv_reader:
         if (row['file_number'], row['race_number']) != prev_file_num_race_num:
             if row['odds'] != 'N/A':
                 odds_count += 1
-            else:
-                other_count += 1
+            total += 1
             prev_file_num_race_num = (row['file_number'], row['race_number'])
-    
-    total = odds_count + other_count
     
     return (0.2 * total) / odds_count
 
@@ -217,7 +214,6 @@ def addTrainTestToDB(file_path, reset):
             csv_reader = csv.DictReader(csv_file)  # Reinitialize DictReader
             
             test_ratio = getTestRatio(csv_reader)
-            print(test_ratio)
             
             csv_file.seek(0)  # Rewind again for second iteration
             csv_reader = csv.DictReader(csv_file)  # Reinitialize DictReader
@@ -256,7 +252,7 @@ def addTrainTestToDB(file_path, reset):
                                                 row['temp'], 
                                                 encodeTrackState(dm.normalize(row['track_state'])), 
                                                 Decimal(row['distance(miles)']), 
-                                                row['odds']))
+                                                Decimal(row['odds']) if row['odds'] != 'N/A' else None))
                 else:
                     batch.append(dm.addTrainable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, 
                                                 owner_n_name, row['surface'], row['race_id'], row['final_pos'], row['race_type'], 
@@ -356,7 +352,13 @@ def addTrainTestToDB(file_path, reset):
             if batch:
                 batch_queue.put((batch.copy(), row_num))
                 batch.clear()  # Clear for next batch
-
+    
+        batch.append(dm.copyBadTestables())
+        batch.append(dm.deleteBadTestables())
+        batch_queue.put((batch.copy(), row_num))
+        batch.clear()
+        
+        
     finally:
         pushBatches()
 

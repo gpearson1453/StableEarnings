@@ -1073,6 +1073,119 @@ def addTestable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owner
     
     return query, values
 
+def copyBadTestables():
+    return """
+    WITH BadEntries AS (
+        SELECT *
+        FROM Testables
+        WHERE race_id IN (
+            SELECT race_id
+            FROM Testables
+            WHERE odds IS NULL
+        )
+    )
+    INSERT INTO Trainables (
+        race_id, final_pos, horse_n_name, race_type,
+        track_ewma_speed,
+        weight, horse_total_races, horse_wins, horse_places, horse_shows, 
+        horse_ewma_pos_factor, horse_ewma_pos_gain, horse_ewma_late_pos_gain, 
+        horse_ewma_last_pos_gain, horse_perf_factor_count, horse_ewma_perf_factor, 
+        horse_recent_perf_factor, horse_ewma_surface_perf_factor, horse_distance_factor,
+        jockey_ewma_pos_gain, jockey_ewma_late_pos_gain, jockey_ewma_last_pos_gain, 
+        jockey_total_races, jockey_wins, jockey_places, jockey_shows, 
+        jockey_ewma_pos_factor, jockey_perf_factor_count, jockey_ewma_perf_factor,
+        trainer_total_races, trainer_wins, trainer_places, trainer_shows, 
+        trainer_ewma_pos_factor, trainer_perf_factor_count, trainer_ewma_perf_factor, 
+        trainer_ewma_surface_perf_factor, trainer_distance_factor,
+        owner_total_races, owner_wins, owner_places, owner_shows, owner_ewma_pos_factor, 
+        owner_perf_factor_count, owner_ewma_perf_factor,
+        weather, temperature, track_state, distance,
+        horse_jockey_total_races, horse_jockey_wins, horse_jockey_places, 
+        horse_jockey_shows, horse_jockey_ewma_pos_factor, horse_jockey_perf_factor_count, 
+        horse_jockey_ewma_perf_factor,
+        horse_trainer_total_races, horse_trainer_wins, horse_trainer_places, 
+        horse_trainer_shows, horse_trainer_ewma_pos_factor, horse_trainer_perf_factor_count, 
+        horse_trainer_ewma_perf_factor,
+        trainer_track_total_races, trainer_track_wins, trainer_track_places, 
+        trainer_track_shows, trainer_track_ewma_pos_factor, trainer_track_perf_factor_count, 
+        trainer_track_ewma_perf_factor,
+        owner_trainer_total_races, owner_trainer_wins, owner_trainer_places, 
+        owner_trainer_shows, owner_trainer_ewma_pos_factor, owner_trainer_perf_factor_count, 
+        owner_trainer_ewma_perf_factor,
+        horse_track_total_races, horse_track_wins, horse_track_places, 
+        horse_track_shows, horse_track_ewma_pos_factor, horse_track_perf_factor_count, 
+        horse_track_ewma_perf_factor,
+        jockey_trainer_total_races, jockey_trainer_wins, jockey_trainer_places, 
+        jockey_trainer_shows, jockey_trainer_ewma_pos_factor, jockey_trainer_perf_factor_count, 
+        jockey_trainer_ewma_perf_factor,
+        won, placed, showed
+    )
+    SELECT
+        race_id, final_pos, horse_n_name, race_type,
+        track_ewma_speed,
+        weight, horse_total_races, horse_wins, horse_places, horse_shows, 
+        horse_ewma_pos_factor, horse_ewma_pos_gain, horse_ewma_late_pos_gain, 
+        horse_ewma_last_pos_gain, horse_perf_factor_count, horse_ewma_perf_factor, 
+        horse_recent_perf_factor, horse_ewma_surface_perf_factor, horse_distance_factor,
+        jockey_ewma_pos_gain, jockey_ewma_late_pos_gain, jockey_ewma_last_pos_gain, 
+        jockey_total_races, jockey_wins, jockey_places, jockey_shows, 
+        jockey_ewma_pos_factor, jockey_perf_factor_count, jockey_ewma_perf_factor,
+        trainer_total_races, trainer_wins, trainer_places, trainer_shows, 
+        trainer_ewma_pos_factor, trainer_perf_factor_count, trainer_ewma_perf_factor, 
+        trainer_ewma_surface_perf_factor, trainer_distance_factor,
+        owner_total_races, owner_wins, owner_places, owner_shows, owner_ewma_pos_factor, 
+        owner_perf_factor_count, owner_ewma_perf_factor,
+        weather, temperature, track_state, distance,
+        horse_jockey_total_races, horse_jockey_wins, horse_jockey_places, 
+        horse_jockey_shows, horse_jockey_ewma_pos_factor, horse_jockey_perf_factor_count, 
+        horse_jockey_ewma_perf_factor,
+        horse_trainer_total_races, horse_trainer_wins, horse_trainer_places, 
+        horse_trainer_shows, horse_trainer_ewma_pos_factor, horse_trainer_perf_factor_count, 
+        horse_trainer_ewma_perf_factor,
+        trainer_track_total_races, trainer_track_wins, trainer_track_places, 
+        trainer_track_shows, trainer_track_ewma_pos_factor, trainer_track_perf_factor_count, 
+        trainer_track_ewma_perf_factor,
+        owner_trainer_total_races, owner_trainer_wins, owner_trainer_places, 
+        owner_trainer_shows, owner_trainer_ewma_pos_factor, owner_trainer_perf_factor_count, 
+        owner_trainer_ewma_perf_factor,
+        horse_track_total_races, horse_track_wins, horse_track_places, 
+        horse_track_shows, horse_track_ewma_pos_factor, horse_track_perf_factor_count, 
+        horse_track_ewma_perf_factor,
+        jockey_trainer_total_races, jockey_trainer_wins, jockey_trainer_places, 
+        jockey_trainer_shows, jockey_trainer_ewma_pos_factor, jockey_trainer_perf_factor_count, 
+        jockey_trainer_ewma_perf_factor,
+        CASE
+            WHEN final_pos = 1 THEN 0
+            ELSE 100
+        END AS won,
+        CASE
+            WHEN final_pos <= 2 THEN 0
+            ELSE 100
+        END AS placed,
+        CASE
+            WHEN final_pos <= 3 THEN 0
+            ELSE 100
+        END AS showed
+    FROM BadEntries;
+    """
+
+def deleteBadTestables():
+    return """
+    WITH BadEntries AS (
+        SELECT *
+        FROM Testables
+        WHERE race_id IN (
+            SELECT race_id
+            FROM Testables
+            WHERE odds IS NULL
+        )
+    ) DELETE FROM Testables
+    WHERE race_id IN (
+        SELECT race_id
+        FROM BadEntries
+    );
+    """
+
 # Drops Horses table
 def dropHorses():
     return "DROP TABLE IF EXISTS Horses CASCADE;"
@@ -1244,7 +1357,7 @@ def createTracks():
 
 # Add a track to the Tracks table
 def addTrack(name, n_name, speed):
-    alpha = Decimal(0.15)
+    alpha = Decimal(0.1)
     query = """
     INSERT INTO Tracks (name, normalized_name, ewma_speed)
     VALUES (%s, %s, %s)
