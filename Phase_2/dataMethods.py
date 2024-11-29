@@ -1073,6 +1073,7 @@ def addTestable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owner
     
     return query, values
 
+# Copy bad testables to trainables
 def copyBadTestables():
     return """
     WITH BadEntries AS (
@@ -1169,6 +1170,7 @@ def copyBadTestables():
     FROM BadEntries;
     """
 
+# Remove bad testables
 def deleteBadTestables():
     return """
     WITH BadEntries AS (
@@ -1183,6 +1185,18 @@ def deleteBadTestables():
     WHERE race_id IN (
         SELECT race_id
         FROM BadEntries
+    );
+    """
+
+# Fix the bad testables' performance entries
+def fixPerformances():
+    return """
+    UPDATE Performances
+    SET use = 'TRAINING'
+    WHERE race_id IN (
+        SELECT race_id
+        FROM Testables
+        WHERE odds IS NULL
     );
     """
 

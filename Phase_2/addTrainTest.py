@@ -353,8 +353,9 @@ def addTrainTestToDB(file_path, reset):
                 batch_queue.put((batch.copy(), row_num))
                 batch.clear()  # Clear for next batch
     
-        batch.append(dm.copyBadTestables())
-        batch.append(dm.deleteBadTestables())
+        batch.append((dm.fixPerformances(), None))
+        batch.append((dm.copyBadTestables(), None))
+        batch.append((dm.deleteBadTestables(), None))
         batch_queue.put((batch.copy(), row_num))
         batch.clear()
         
