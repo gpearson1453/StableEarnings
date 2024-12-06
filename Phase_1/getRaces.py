@@ -16,6 +16,7 @@ def remove_weird_chars(string):
     translation_table = str.maketrans('', '', '<*?/[\n\r]')
     return string.translate(translation_table)
 
+
 # This method calculates a position factor based on horses' final positions relative to each other.
 # First, each horses' gap to each other horse is calculated. Apoitive value indicates leading another horse,
 # and a negative value indicated trailing another horse.
