@@ -1,5 +1,6 @@
 import dataMethods as dm
 
+
 def clearDatabase():
     # Establish connection to CockroachDB
     conn = dm.local_connect("StableEarnings")
@@ -24,19 +25,20 @@ def clearDatabase():
         "DROP TABLE IF EXISTS Tracks CASCADE;",
         "DROP TYPE IF EXISTS use_type CASCADE;",
         "DROP TABLE IF EXISTS Trainables CASCADE;",
-        "DROP TABLE IF EXISTS Testables CASCADE;"
+        "DROP TABLE IF EXISTS Testables CASCADE;",
     ]
 
     # Execute each SQL statement to drop the tables
     for table in drop_tables:
         cur.execute(table)
-    
+
     # Commit the changes
     conn.commit()
     print("Database cleared successfully.")
 
     # Close the connection
     conn.close()
+
 
 if __name__ == "__main__":
     clearDatabase()

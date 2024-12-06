@@ -6,8 +6,9 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(script_dir)
 
 # Directories
-pdfs_dir = 'pdf_files'
-text_files_dir = 'text_files'
+pdfs_dir = "pdf_files"
+text_files_dir = "text_files"
+
 
 def reformat_files_sequentially(pdfs_folder, text_folder_base):
     """
@@ -37,7 +38,11 @@ def reformat_files_sequentially(pdfs_folder, text_folder_base):
             os.makedirs(text_folder)
 
         # Get all files in the folder and their creation times
-        files_with_times = [(file, os.path.getctime(os.path.join(folder_path, file))) for file in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, file))]
+        files_with_times = [
+            (file, os.path.getctime(os.path.join(folder_path, file)))
+            for file in os.listdir(folder_path)
+            if os.path.isfile(os.path.join(folder_path, file))
+        ]
 
         # Sort files by creation time
         files_with_times.sort(key=lambda x: x[1])
@@ -71,7 +76,7 @@ def reformat_files_sequentially(pdfs_folder, text_folder_base):
                         full_text += page.get_text("text")
 
                 # Save the extracted text to the text file
-                with open(text_file_path, 'w', encoding='utf-8') as text_file:
+                with open(text_file_path, "w", encoding="utf-8") as text_file:
                     text_file.write(full_text)
 
                 print(f"Extracted text to: {text_file_path}")
@@ -80,6 +85,7 @@ def reformat_files_sequentially(pdfs_folder, text_folder_base):
                 print(f"Error extracting text from {new_file_path}: {exc}")
 
             current_number += 1  # Increment the number for the next file
+
 
 # Call the function with the 'pdf_files' and 'text_files' directories
 reformat_files_sequentially(pdfs_dir, text_files_dir)

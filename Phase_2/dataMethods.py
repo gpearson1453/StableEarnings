@@ -4,6 +4,7 @@ import unidecode
 from datetime import datetime
 from decimal import Decimal
 
+
 # Establish connection to local postgres db
 def local_connect(db_name):
     return psycopg2.connect(
@@ -11,8 +12,9 @@ def local_connect(db_name):
         user="postgres",
         password="B!h8Cjxa37!78Yh",
         host="localhost",
-        port="5432"
+        port="5432",
     )
+
 
 # Establish connection to CockroachDB
 def cockroach_connect(db_name):
@@ -21,13 +23,15 @@ def cockroach_connect(db_name):
         user="molomala",
         password="aPyds3qPNhslU5xV8H-pMw",
         host="stable-earnings-3899.j77.aws-us-east-1.cockroachlabs.cloud",
-        port="26257"
+        port="26257",
     )
+
 
 # Drops Trainers Table
 def dropTrainers():
     return "DROP TABLE IF EXISTS Trainers CASCADE;"
-    
+
+
 # Builds Trainers table
 def createTrainers():
     return """
@@ -48,11 +52,16 @@ def createTrainers():
         );
         """
 
+
 # Add a trainer to the Trainers table
-def addTrainer(name, n_name, pos, pos_factor, speed, track_n_name, surface, distance, num_horses):
+def addTrainer(
+    name, n_name, pos, pos_factor, speed, track_n_name, surface, distance, num_horses
+):
     alpha = Decimal(0.15)
     d_factor_max_alpha = 0.5
-    d_factor_alpha = Decimal((1 - ((int(pos) - 1) / (int(num_horses) - 1))) * d_factor_max_alpha)
+    d_factor_alpha = Decimal(
+        (1 - ((int(pos) - 1) / (int(num_horses) - 1))) * d_factor_max_alpha
+    )
 
     query = """
     WITH TrackSpeed AS (
@@ -120,37 +129,47 @@ def addTrainer(name, n_name, pos, pos_factor, speed, track_n_name, surface, dist
             ELSE (excluded.distance_factor * %s) + ((1 - %s) * Trainers.distance_factor)
         END
     """
-    
+
     values = (
         # CTEs
-        track_n_name, # TrackSpeed CTE
-        speed, pos_factor, speed, # PerformanceFactor CTE
-        
+        track_n_name,  # TrackSpeed CTE
+        speed,
+        pos_factor,
+        speed,  # PerformanceFactor CTE
         # ADDING
-        name, n_name, # name, n_name
-        pos, # wins
-        pos, # places
-        pos, # shows
-        pos_factor, # ewma_pos_factor
-        surface, # ewma_dirt_perf_factor
-        surface, # ewma_turf_perf_factor
-        surface, # ewma_awt_perf_factor
-        num_horses, distance, # distance_factor
-        
+        name,
+        n_name,  # name, n_name
+        pos,  # wins
+        pos,  # places
+        pos,  # shows
+        pos_factor,  # ewma_pos_factor
+        surface,  # ewma_dirt_perf_factor
+        surface,  # ewma_turf_perf_factor
+        surface,  # ewma_awt_perf_factor
+        num_horses,
+        distance,  # distance_factor
         # UPDATING
-        alpha, alpha, # ewma_pos_factor
-        alpha, alpha, # ewma_perf_factor
-        alpha, alpha, # ewma_dirt_perf_factor
-        alpha, alpha, # ewma_turf_perf_factor
-        alpha, alpha, # ewma_awt_perf_factor
-        d_factor_alpha, d_factor_alpha # distance_factor
+        alpha,
+        alpha,  # ewma_pos_factor
+        alpha,
+        alpha,  # ewma_perf_factor
+        alpha,
+        alpha,  # ewma_dirt_perf_factor
+        alpha,
+        alpha,  # ewma_turf_perf_factor
+        alpha,
+        alpha,  # ewma_awt_perf_factor
+        d_factor_alpha,
+        d_factor_alpha,  # distance_factor
     )
-    
+
     return query, values
+
 
 # Drops Owners table
 def dropOwners():
     return "DROP TABLE IF EXISTS Owners CASCADE;"
+
 
 # Builds Owners table
 def createOwners():
@@ -168,10 +187,11 @@ def createOwners():
         );
         """
 
+
 # Add an owner to the Owners table
 def addOwner(name, n_name, pos, pos_factor, speed, track_n_name):
     alpha = Decimal(0.15)
-    
+
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
@@ -212,29 +232,34 @@ def addOwner(name, n_name, pos, pos_factor, speed, track_n_name):
             ELSE (excluded.ewma_perf_factor * %s) + ((1 - %s) * Owners.ewma_perf_factor)
         END
     """
-    
+
     values = (
         # CTEs
-        track_n_name, # TrackSpeed CTE
-        speed, pos_factor, speed, # PerformanceFactor CTE
-        
-        # ADDING
-        name, n_name, # name, n_name
-        pos, # wins
-        pos, # places
-        pos, # shows
+        track_n_name,  # TrackSpeed CTE
+        speed,
         pos_factor,
-        
+        speed,  # PerformanceFactor CTE
+        # ADDING
+        name,
+        n_name,  # name, n_name
+        pos,  # wins
+        pos,  # places
+        pos,  # shows
+        pos_factor,
         # UPDATING
-        alpha, alpha, # ewma_pos_factor
-        alpha, alpha # ewma_perf_factor
+        alpha,
+        alpha,  # ewma_pos_factor
+        alpha,
+        alpha,  # ewma_perf_factor
     )
-    
+
     return query, values
+
 
 # Drops Performances table
 def dropPerformances():
     return "DROP TABLE IF EXISTS Performances CASCADE;"
+
 
 # Creates use_type for Performances, Trainables, Testables tables
 def createPerformancesUseType():
@@ -242,6 +267,7 @@ def createPerformancesUseType():
         DROP TYPE IF EXISTS use_type CASCADE;
         CREATE TYPE use_type AS ENUM ('SETUP', 'TRAINING', 'TESTING');
     """
+
 
 # Builds Performances table
 def createPerformances():
@@ -273,11 +299,31 @@ def createPerformances():
         );
         """
 
+
 # Add a performance to the Performances table
-def addPerformance(race_id, file_num, date, race_num, track_n_name, horse_n_name, program_number, weight, odds, start_pos, 
-                   final_pos, jockey_n_name, trainer_n_name, owner_n_name, pos_gain, late_pos_gain, 
-                   last_pos_gain, pos_factor, speed, use):
-    
+def addPerformance(
+    race_id,
+    file_num,
+    date,
+    race_num,
+    track_n_name,
+    horse_n_name,
+    program_number,
+    weight,
+    odds,
+    start_pos,
+    final_pos,
+    jockey_n_name,
+    trainer_n_name,
+    owner_n_name,
+    pos_gain,
+    late_pos_gain,
+    last_pos_gain,
+    pos_factor,
+    speed,
+    use,
+):
+
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
@@ -297,13 +343,37 @@ def addPerformance(race_id, file_num, date, race_num, track_n_name, horse_n_name
                             late_pos_gained, last_pos_gained, pos_factor, perf_factor, use)
     VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, (SELECT p_factor FROM PerformanceFactor), %s)
     """
-    return query, (track_n_name, speed, pos_factor, speed, race_id, file_num, date, track_n_name, race_num, horse_n_name, program_number, weight, 
-                   odds, start_pos, final_pos, jockey_n_name, trainer_n_name, owner_n_name, pos_gain, late_pos_gain, 
-                   last_pos_gain, pos_factor, use)
-    
+    return query, (
+        track_n_name,
+        speed,
+        pos_factor,
+        speed,
+        race_id,
+        file_num,
+        date,
+        track_n_name,
+        race_num,
+        horse_n_name,
+        program_number,
+        weight,
+        odds,
+        start_pos,
+        final_pos,
+        jockey_n_name,
+        trainer_n_name,
+        owner_n_name,
+        pos_gain,
+        late_pos_gain,
+        last_pos_gain,
+        pos_factor,
+        use,
+    )
+
+
 # Drops Trainables table
 def dropTrainables():
     return "DROP TABLE IF EXISTS Trainables CASCADE;"
+
 
 # Builds Trainables table
 def createTrainables():
@@ -435,9 +505,28 @@ def createTrainables():
         );
         """
 
+
 # Add a Trainable to the Trainables table
-def addTrainable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owner_n_name, surface, race_id, final_pos, race_type, weight, weather, temp, track_state, distance, won, placed, showed):
-    
+def addTrainable(
+    horse_n_name,
+    track_n_name,
+    jockey_n_name,
+    trainer_n_name,
+    owner_n_name,
+    surface,
+    race_id,
+    final_pos,
+    race_type,
+    weight,
+    weather,
+    temp,
+    track_state,
+    distance,
+    won,
+    placed,
+    showed,
+):
+
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
@@ -663,34 +752,56 @@ def addTrainable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owne
         
         %s, %s, %s
     """
-    
+
     values = (
         # CTEs
-        track_n_name, # TrackSpeed
-        surface, surface, surface, horse_n_name, # HorseStats
-        jockey_n_name, # JockeyStats
-        surface, surface, surface, trainer_n_name, # TrainerStats
-        owner_n_name, # OwnerStats
-        
-        horse_n_name, jockey_n_name, # HorseJockeyStats
-        horse_n_name, trainer_n_name, # HorseTrainerStats
-        trainer_n_name, track_n_name, surface, # TrainerTrackStats
-        owner_n_name, trainer_n_name, # OwnerTrainerStats
-        horse_n_name, track_n_name, surface, # HorseTrackStats
-        jockey_n_name, trainer_n_name, # JockeyTrainerStats
-        
+        track_n_name,  # TrackSpeed
+        surface,
+        surface,
+        surface,
+        horse_n_name,  # HorseStats
+        jockey_n_name,  # JockeyStats
+        surface,
+        surface,
+        surface,
+        trainer_n_name,  # TrainerStats
+        owner_n_name,  # OwnerStats
+        horse_n_name,
+        jockey_n_name,  # HorseJockeyStats
+        horse_n_name,
+        trainer_n_name,  # HorseTrainerStats
+        trainer_n_name,
+        track_n_name,
+        surface,  # TrainerTrackStats
+        owner_n_name,
+        trainer_n_name,  # OwnerTrainerStats
+        horse_n_name,
+        track_n_name,
+        surface,  # HorseTrackStats
+        jockey_n_name,
+        trainer_n_name,  # JockeyTrainerStats
         # ADDING
-        race_id, final_pos, horse_n_name, race_type,
+        race_id,
+        final_pos,
+        horse_n_name,
+        race_type,
         weight,
-        weather, temp, track_state, distance,
-        won, placed, showed
+        weather,
+        temp,
+        track_state,
+        distance,
+        won,
+        placed,
+        showed,
     )
-    
+
     return query, values
+
 
 # Drops Testables table
 def dropTestables():
     return "DROP TABLE IF EXISTS Testables CASCADE;"
+
 
 # Builds Testables table
 def createTestables():
@@ -820,9 +931,26 @@ def createTestables():
         );
         """
 
+
 # Add a Testable to the Testables table
-def addTestable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owner_n_name, surface, race_id, final_pos, race_type, weight, weather, temp, track_state, distance, odds):
-    
+def addTestable(
+    horse_n_name,
+    track_n_name,
+    jockey_n_name,
+    trainer_n_name,
+    owner_n_name,
+    surface,
+    race_id,
+    final_pos,
+    race_type,
+    weight,
+    weather,
+    temp,
+    track_state,
+    distance,
+    odds,
+):
+
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
@@ -1048,30 +1176,49 @@ def addTestable(horse_n_name, track_n_name, jockey_n_name, trainer_n_name, owner
         
         %s
     """
-    
+
     values = (
         # CTEs
-        track_n_name, # TrackSpeed
-        surface, surface, surface, horse_n_name, # HorseStats
-        jockey_n_name, # JockeyStats
-        surface, surface, surface, trainer_n_name, # TrainerStats
-        owner_n_name, # OwnerStats
-        
-        horse_n_name, jockey_n_name, # HorseJockeyStats
-        horse_n_name, trainer_n_name, # HorseTrainerStats
-        trainer_n_name, track_n_name, surface, # TrainerTrackStats
-        owner_n_name, trainer_n_name, # OwnerTrainerStats
-        horse_n_name, track_n_name, surface, # HorseTrackStats
-        jockey_n_name, trainer_n_name, # JockeyTrainerStats
-        
+        track_n_name,  # TrackSpeed
+        surface,
+        surface,
+        surface,
+        horse_n_name,  # HorseStats
+        jockey_n_name,  # JockeyStats
+        surface,
+        surface,
+        surface,
+        trainer_n_name,  # TrainerStats
+        owner_n_name,  # OwnerStats
+        horse_n_name,
+        jockey_n_name,  # HorseJockeyStats
+        horse_n_name,
+        trainer_n_name,  # HorseTrainerStats
+        trainer_n_name,
+        track_n_name,
+        surface,  # TrainerTrackStats
+        owner_n_name,
+        trainer_n_name,  # OwnerTrainerStats
+        horse_n_name,
+        track_n_name,
+        surface,  # HorseTrackStats
+        jockey_n_name,
+        trainer_n_name,  # JockeyTrainerStats
         # ADDING
-        race_id, final_pos, horse_n_name, race_type,
+        race_id,
+        final_pos,
+        horse_n_name,
+        race_type,
         weight,
-        weather, temp, track_state, distance,
-        odds
+        weather,
+        temp,
+        track_state,
+        distance,
+        odds,
     )
-    
+
     return query, values
+
 
 # Copy bad testables to trainables
 def copyBadTestables():
@@ -1170,6 +1317,7 @@ def copyBadTestables():
     FROM BadEntries;
     """
 
+
 # Remove bad testables
 def deleteBadTestables():
     return """
@@ -1188,6 +1336,7 @@ def deleteBadTestables():
     );
     """
 
+
 # Fix the bad testables' performance entries
 def fixPerformances():
     return """
@@ -1200,9 +1349,11 @@ def fixPerformances():
     );
     """
 
+
 # Drops Horses table
 def dropHorses():
     return "DROP TABLE IF EXISTS Horses CASCADE;"
+
 
 # Builds Horses table
 def createHorses():
@@ -1228,11 +1379,27 @@ def createHorses():
         );
         """
 
+
 # Add a new horse to the Horses table
-def addHorse(name, n_name, pos, pos_factor, pos_gain, late_pos_gain, last_pos_gain, speed, track_n_name, surface, distance, num_horses):
+def addHorse(
+    name,
+    n_name,
+    pos,
+    pos_factor,
+    pos_gain,
+    late_pos_gain,
+    last_pos_gain,
+    speed,
+    track_n_name,
+    surface,
+    distance,
+    num_horses,
+):
     alpha = Decimal(0.25)
     d_factor_max_alpha = 0.5
-    d_factor_alpha = Decimal((1 - ((int(pos) - 1) / (int(num_horses) - 1))) * d_factor_max_alpha)
+    d_factor_alpha = Decimal(
+        (1 - ((int(pos) - 1) / (int(num_horses) - 1))) * d_factor_max_alpha
+    )
 
     query = """
     WITH TrackSpeed AS (
@@ -1324,40 +1491,56 @@ def addHorse(name, n_name, pos, pos_factor, pos_gain, late_pos_gain, last_pos_ga
             ELSE (excluded.distance_factor * %s) + ((1 - %s) * Horses.distance_factor)
         END
     """
-    
+
     values = (
         # CTEs
-        track_n_name, # TrackSpeed CTE
-        speed, pos_factor, speed, # PerformanceFactor CTE
-        
+        track_n_name,  # TrackSpeed CTE
+        speed,
+        pos_factor,
+        speed,  # PerformanceFactor CTE
         # ADDING
-        name, n_name, # name, n_name
-        pos, # wins
-        pos, # places
-        pos, # shows
-        pos_factor, pos_gain, late_pos_gain, last_pos_gain, # ewma_pos_factor, ewma_pos_gain, ewma_late_pos_gain, ewma_last_pos_gain
-        surface, # ewma_dirt_perf_factor
-        surface, # ewma_turf_perf_factor
-        surface, # ewma_awt_perf_factor
-        num_horses, distance, # distance_factor
-        
+        name,
+        n_name,  # name, n_name
+        pos,  # wins
+        pos,  # places
+        pos,  # shows
+        pos_factor,
+        pos_gain,
+        late_pos_gain,
+        last_pos_gain,  # ewma_pos_factor, ewma_pos_gain, ewma_late_pos_gain, ewma_last_pos_gain
+        surface,  # ewma_dirt_perf_factor
+        surface,  # ewma_turf_perf_factor
+        surface,  # ewma_awt_perf_factor
+        num_horses,
+        distance,  # distance_factor
         # UPDATING
-        alpha, alpha, # ewma_pos_factor
-        alpha, alpha, # ewma_pos_gain
-        alpha, alpha, # ewma_late_pos_gain
-        alpha, alpha, # ewma_last_pos_gain
-        alpha, alpha, # ewma_perf_factor
-        alpha, alpha, # ewma_dirt_perf_factor
-        alpha, alpha, # ewma_turf_perf_factor
-        alpha, alpha, # ewma_awt_perf_factor
-        d_factor_alpha, d_factor_alpha # distance_factor
+        alpha,
+        alpha,  # ewma_pos_factor
+        alpha,
+        alpha,  # ewma_pos_gain
+        alpha,
+        alpha,  # ewma_late_pos_gain
+        alpha,
+        alpha,  # ewma_last_pos_gain
+        alpha,
+        alpha,  # ewma_perf_factor
+        alpha,
+        alpha,  # ewma_dirt_perf_factor
+        alpha,
+        alpha,  # ewma_turf_perf_factor
+        alpha,
+        alpha,  # ewma_awt_perf_factor
+        d_factor_alpha,
+        d_factor_alpha,  # distance_factor
     )
-    
+
     return query, values
+
 
 # Drops Tracks table
 def dropTracks():
     return "DROP TABLE IF EXISTS Tracks CASCADE;"
+
 
 # Builds Tracks table
 def createTracks():
@@ -1368,6 +1551,7 @@ def createTracks():
             ewma_speed DECIMAL(10, 6)
         );
         """
+
 
 # Add a track to the Tracks table
 def addTrack(name, n_name, speed):
@@ -1384,9 +1568,11 @@ def addTrack(name, n_name, speed):
     """
     return query, (name, n_name, speed, alpha, alpha)
 
+
 # Drops Jockeys Table
 def dropJockeys():
     return "DROP TABLE IF EXISTS Jockeys CASCADE;"
+
 
 # Builds Jockeys table
 def createJockeys():
@@ -1407,8 +1593,19 @@ def createJockeys():
         );
         """
 
+
 # Add a jockey to the Jockeys table
-def addJockey(name, n_name, pos_gain, late_pos_gain, last_pos_gain, pos, pos_factor, speed, track_n_name):
+def addJockey(
+    name,
+    n_name,
+    pos_gain,
+    late_pos_gain,
+    last_pos_gain,
+    pos,
+    pos_factor,
+    speed,
+    track_n_name,
+):
     alpha = Decimal(0.15)
     query = """
     WITH TrackSpeed AS (
@@ -1466,32 +1663,43 @@ def addJockey(name, n_name, pos_gain, late_pos_gain, last_pos_gain, pos, pos_fac
             ELSE (excluded.ewma_perf_factor * %s) + ((1 - %s) * Jockeys.ewma_perf_factor)
         END
     """
-    
+
     values = (
         # CTEs
-        track_n_name, # TrackSpeed CTE
-        speed, pos_factor, speed, # PerformanceFactor CTE
-        
+        track_n_name,  # TrackSpeed CTE
+        speed,
+        pos_factor,
+        speed,  # PerformanceFactor CTE
         # ADDING
-        name, n_name, pos_gain, late_pos_gain, last_pos_gain, # name, n_name, ewma_pos_gain, late_pos_gain, last_pos_gain
-        pos, # wins
-        pos, # places
-        pos, # shows
-        pos_factor, # ewma_pos_factor
-        
+        name,
+        n_name,
+        pos_gain,
+        late_pos_gain,
+        last_pos_gain,  # name, n_name, ewma_pos_gain, late_pos_gain, last_pos_gain
+        pos,  # wins
+        pos,  # places
+        pos,  # shows
+        pos_factor,  # ewma_pos_factor
         # UPDATING
-        alpha, alpha, # ewma_pos_gain
-        alpha, alpha, # ewma_late_pos_gain
-        alpha, alpha, # ewma_last_pos_gain
-        alpha, alpha, # ewma_pos_factor
-        alpha, alpha, # ewma_perf_factor
+        alpha,
+        alpha,  # ewma_pos_gain
+        alpha,
+        alpha,  # ewma_late_pos_gain
+        alpha,
+        alpha,  # ewma_last_pos_gain
+        alpha,
+        alpha,  # ewma_pos_factor
+        alpha,
+        alpha,  # ewma_perf_factor
     )
-    
+
     return query, values
+
 
 # Drops Races table
 def dropRaces():
     return "DROP TABLE IF EXISTS Races CASCADE;"
+
 
 # Builds Races table
 def createRaces():
@@ -1526,28 +1734,75 @@ def createRaces():
 
         """
 
+
 # Add a race to the Races table
-def addRace(race_id, file_num, track_n_name, race_num, date, race_type=None, surface=None, weather=None,
-               temperature=None, track_state=None, distance=None, final_time=None, speed=None,
-               frac_time_1=None, frac_time_2=None, frac_time_3=None, frac_time_4=None, 
-               frac_time_5=None, frac_time_6=None, split_time_1=None, split_time_2=None, 
-               split_time_3=None, split_time_4=None, split_time_5=None, split_time_6=None):
-    
+def addRace(
+    race_id,
+    file_num,
+    track_n_name,
+    race_num,
+    date,
+    race_type=None,
+    surface=None,
+    weather=None,
+    temperature=None,
+    track_state=None,
+    distance=None,
+    final_time=None,
+    speed=None,
+    frac_time_1=None,
+    frac_time_2=None,
+    frac_time_3=None,
+    frac_time_4=None,
+    frac_time_5=None,
+    frac_time_6=None,
+    split_time_1=None,
+    split_time_2=None,
+    split_time_3=None,
+    split_time_4=None,
+    split_time_5=None,
+    split_time_6=None,
+):
+
     query = """
     INSERT INTO Races (race_id, file_num, track_n_name, race_num, date, race_type, surface, weather, temperature, track_state, 
                        distance, final_time, speed, frac_time_1, frac_time_2, frac_time_3, frac_time_4, frac_time_5, 
                        frac_time_6, split_time_1, split_time_2, split_time_3, split_time_4, split_time_5, split_time_6)
     VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
     """
-    return query, (race_id, file_num, track_n_name, race_num, date, race_type, surface, weather, 
-                   temperature, track_state, distance, final_time, speed,
-                   frac_time_1, frac_time_2, frac_time_3, frac_time_4, 
-                   frac_time_5, frac_time_6, split_time_1, split_time_2, 
-                   split_time_3, split_time_4, split_time_5, split_time_6)
+    return query, (
+        race_id,
+        file_num,
+        track_n_name,
+        race_num,
+        date,
+        race_type,
+        surface,
+        weather,
+        temperature,
+        track_state,
+        distance,
+        final_time,
+        speed,
+        frac_time_1,
+        frac_time_2,
+        frac_time_3,
+        frac_time_4,
+        frac_time_5,
+        frac_time_6,
+        split_time_1,
+        split_time_2,
+        split_time_3,
+        split_time_4,
+        split_time_5,
+        split_time_6,
+    )
+
 
 # Drops horse_jockey table
 def dropHorseJockey():
     return "DROP TABLE IF EXISTS horse_jockey CASCADE;"
+
 
 # Builds horse_jockey table
 def createHorseJockey():
@@ -1568,10 +1823,11 @@ def createHorseJockey():
         );
         """
 
+
 # Add a horse_jockey relationship
 def addHorseJockey(horse_n_name, jockey_n_name, pos, pos_factor, speed, track_n_name):
     alpha = Decimal(0.2)
-    
+
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
@@ -1612,29 +1868,34 @@ def addHorseJockey(horse_n_name, jockey_n_name, pos, pos_factor, speed, track_n_
             ELSE (excluded.ewma_perf_factor * %s) + ((1 - %s) * horse_jockey.ewma_perf_factor)
         END
     """
-    
+
     values = (
         # CTEs
-        track_n_name, # TrackSpeed CTE
-        speed, pos_factor, speed, # PerformanceFactor CTE
-        
+        track_n_name,  # TrackSpeed CTE
+        speed,
+        pos_factor,
+        speed,  # PerformanceFactor CTE
         # ADDING
-        horse_n_name, jockey_n_name, # horse_n_name, jockey_n_name
-        pos, # wins
-        pos, # places
-        pos, # shows
-        pos_factor, # ewma_pos_factor
-        
+        horse_n_name,
+        jockey_n_name,  # horse_n_name, jockey_n_name
+        pos,  # wins
+        pos,  # places
+        pos,  # shows
+        pos_factor,  # ewma_pos_factor
         # UPDATING
-        alpha, alpha, # ewma_pos_factor
-        alpha, alpha, # ewma_perf_factor
-        )
-    
+        alpha,
+        alpha,  # ewma_pos_factor
+        alpha,
+        alpha,  # ewma_perf_factor
+    )
+
     return query, values
+
 
 # Drops horse_trainer table
 def dropHorseTrainer():
     return "DROP TABLE IF EXISTS horse_trainer CASCADE;"
+
 
 # Builds horse_trainer table
 def createHorseTrainer():
@@ -1655,10 +1916,11 @@ def createHorseTrainer():
         );
         """
 
+
 # Add a horse_trainer relationship
 def addHorseTrainer(horse_n_name, trainer_n_name, pos, pos_factor, speed, track_n_name):
     alpha = Decimal(0.2)
-    
+
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
@@ -1699,29 +1961,34 @@ def addHorseTrainer(horse_n_name, trainer_n_name, pos, pos_factor, speed, track_
             ELSE (excluded.ewma_perf_factor * %s) + ((1 - %s) * horse_trainer.ewma_perf_factor)
         END
     """
-    
+
     values = (
         # CTEs
-        track_n_name, # TrackSpeed CTE
-        speed, pos_factor, speed, # PerformanceFactor CTE
-        
+        track_n_name,  # TrackSpeed CTE
+        speed,
+        pos_factor,
+        speed,  # PerformanceFactor CTE
         # ADDING
-        horse_n_name, trainer_n_name, # horse_n_name, trainer_n_name
-        pos, # wins
-        pos, # places
-        pos, # shows
-        pos_factor, # ewma_pos_factor
-        
+        horse_n_name,
+        trainer_n_name,  # horse_n_name, trainer_n_name
+        pos,  # wins
+        pos,  # places
+        pos,  # shows
+        pos_factor,  # ewma_pos_factor
         # UPDATING
-        alpha, alpha, # ewma_pos_factor
-        alpha, alpha, # ewma_perf_factor
-        )
-    
+        alpha,
+        alpha,  # ewma_pos_factor
+        alpha,
+        alpha,  # ewma_perf_factor
+    )
+
     return query, values
+
 
 # Drops trainer_track table
 def dropTrainerTrack():
     return "DROP TABLE IF EXISTS trainer_track CASCADE;"
+
 
 # Builds trainer_track table
 def createTrainerTrack():
@@ -1743,10 +2010,11 @@ def createTrainerTrack():
         );
         """
 
+
 # Add a trainer_track relationship
 def addTrainerTrack(trainer_n_name, track_n_name, pos, pos_factor, speed, surface):
     alpha = Decimal(0.15)
-    
+
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
@@ -1787,29 +2055,35 @@ def addTrainerTrack(trainer_n_name, track_n_name, pos, pos_factor, speed, surfac
             ELSE (excluded.ewma_perf_factor * %s) + ((1 - %s) * trainer_track.ewma_perf_factor)
         END
     """
-    
+
     values = (
         # CTEs
-        track_n_name, # TrackSpeed CTE
-        speed, pos_factor, speed, # PerformanceFactor CTE
-        
+        track_n_name,  # TrackSpeed CTE
+        speed,
+        pos_factor,
+        speed,  # PerformanceFactor CTE
         # ADDING
-        trainer_n_name, track_n_name, surface, # trainer_n_name, track_n_name, surface
-        pos, # wins
-        pos, # places
-        pos, # shows
-        pos_factor, # ewma_pos_factor
-        
+        trainer_n_name,
+        track_n_name,
+        surface,  # trainer_n_name, track_n_name, surface
+        pos,  # wins
+        pos,  # places
+        pos,  # shows
+        pos_factor,  # ewma_pos_factor
         # UPDATING
-        alpha, alpha, # ewma_pos_factor
-        alpha, alpha, # ewma_perf_factor
-        )
-    
+        alpha,
+        alpha,  # ewma_pos_factor
+        alpha,
+        alpha,  # ewma_perf_factor
+    )
+
     return query, values
+
 
 # Drops horse_track table
 def dropHorseTrack():
     return "DROP TABLE IF EXISTS horse_track CASCADE;"
+
 
 # Builds horse_tracke table
 def createHorseTrack():
@@ -1831,10 +2105,11 @@ def createHorseTrack():
         );
         """
 
+
 # Add a horse_track relationship
 def addHorseTrack(horse_n_name, track_n_name, pos, pos_factor, speed, surface):
     alpha = Decimal(0.2)
-    
+
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
@@ -1875,29 +2150,35 @@ def addHorseTrack(horse_n_name, track_n_name, pos, pos_factor, speed, surface):
             ELSE (excluded.ewma_perf_factor * %s) + ((1 - %s) * horse_track.ewma_perf_factor)
         END
     """
-    
+
     values = (
         # CTEs
-        track_n_name, # TrackSpeed CTE
-        speed, pos_factor, speed, # PerformanceFactor CTE
-        
+        track_n_name,  # TrackSpeed CTE
+        speed,
+        pos_factor,
+        speed,  # PerformanceFactor CTE
         # ADDING
-        horse_n_name, track_n_name, surface, # horse_n_name, track_n_name, surface
-        pos, # wins
-        pos, # places
-        pos, # shows
-        pos_factor, # ewma_pos_factor
-        
+        horse_n_name,
+        track_n_name,
+        surface,  # horse_n_name, track_n_name, surface
+        pos,  # wins
+        pos,  # places
+        pos,  # shows
+        pos_factor,  # ewma_pos_factor
         # UPDATING
-        alpha, alpha, # ewma_pos_factor
-        alpha, alpha, # ewma_perf_factor
-        )
-    
+        alpha,
+        alpha,  # ewma_pos_factor
+        alpha,
+        alpha,  # ewma_perf_factor
+    )
+
     return query, values
+
 
 # Drops jockey_trainer table
 def dropJockeyTrainer():
     return "DROP TABLE IF EXISTS jockey_trainer CASCADE;"
+
 
 # Builds jockey_trainer table
 def createJockeyTrainer():
@@ -1918,10 +2199,13 @@ def createJockeyTrainer():
         );
         """
 
+
 # Add a jockey_track relationship
-def addJockeyTrainer(jockey_n_name, trainer_n_name, pos, pos_factor, speed, track_n_name):
+def addJockeyTrainer(
+    jockey_n_name, trainer_n_name, pos, pos_factor, speed, track_n_name
+):
     alpha = Decimal(0.15)
-    
+
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
@@ -1962,29 +2246,34 @@ def addJockeyTrainer(jockey_n_name, trainer_n_name, pos, pos_factor, speed, trac
             ELSE (excluded.ewma_perf_factor * %s) + ((1 - %s) * jockey_trainer.ewma_perf_factor)
         END
     """
-    
+
     values = (
         # CTEs
-        track_n_name, # TrackSpeed CTE
-        speed, pos_factor, speed, # PerformanceFactor CTE
-        
+        track_n_name,  # TrackSpeed CTE
+        speed,
+        pos_factor,
+        speed,  # PerformanceFactor CTE
         # ADDING
-        jockey_n_name, trainer_n_name, # jockey_n_name, trainer_n_name
-        pos, # wins
-        pos, # places
-        pos, # shows
-        pos_factor, # ewma_pos_factor
-        
+        jockey_n_name,
+        trainer_n_name,  # jockey_n_name, trainer_n_name
+        pos,  # wins
+        pos,  # places
+        pos,  # shows
+        pos_factor,  # ewma_pos_factor
         # UPDATING
-        alpha, alpha, # ewma_pos_factor
-        alpha, alpha, # ewma_perf_factor
-        )
-    
+        alpha,
+        alpha,  # ewma_pos_factor
+        alpha,
+        alpha,  # ewma_perf_factor
+    )
+
     return query, values
+
 
 # Drops owner_trainer table
 def dropOwnerTrainer():
     return "DROP TABLE IF EXISTS owner_trainer CASCADE;"
+
 
 # Builds owner_trainer table
 def createOwnerTrainer():
@@ -2005,10 +2294,11 @@ def createOwnerTrainer():
         );
         """
 
+
 # Add an owner_trainer relationship
 def addOwnerTrainer(owner_n_name, trainer_n_name, pos, pos_factor, speed, track_n_name):
     alpha = Decimal(0.15)
-    
+
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
@@ -2049,49 +2339,56 @@ def addOwnerTrainer(owner_n_name, trainer_n_name, pos, pos_factor, speed, track_
             ELSE (excluded.ewma_perf_factor * %s) + ((1 - %s) * owner_trainer.ewma_perf_factor)
         END
     """
-    
+
     values = (
         # CTEs
-        track_n_name, # TrackSpeed CTE
-        speed, pos_factor, speed, # PerformanceFactor CTE
-        
+        track_n_name,  # TrackSpeed CTE
+        speed,
+        pos_factor,
+        speed,  # PerformanceFactor CTE
         # ADDING
-        owner_n_name, trainer_n_name, # owner_n_name, trainer_n_name
-        pos, # wins
-        pos, # places
-        pos, # shows
-        pos_factor, # ewma_pos_factor
-        
+        owner_n_name,
+        trainer_n_name,  # owner_n_name, trainer_n_name
+        pos,  # wins
+        pos,  # places
+        pos,  # shows
+        pos_factor,  # ewma_pos_factor
         # UPDATING
-        alpha, alpha, # ewma_pos_factor
-        alpha, alpha, # ewma_perf_factor
-        )
-    
+        alpha,
+        alpha,  # ewma_pos_factor
+        alpha,
+        alpha,  # ewma_perf_factor
+    )
+
     return query, values
+
 
 # Normalize a name string
 def normalize(name):
-    return re.sub(r'[^a-z0-9]', '', unidecode.unidecode(name.strip().lower()))
+    return re.sub(r"[^a-z0-9]", "", unidecode.unidecode(name.strip().lower()))
+
 
 # This method converts date strings in the form "Month Date, Year" to sql date variables
 def convertDate(date_str):
     # Convert the string date into a datetime object
-    date_obj = datetime.strptime(date_str, '%B %d, %Y')
-    
+    date_obj = datetime.strptime(date_str, "%B %d, %Y")
+
     # Convert the datetime object into the SQL 'YYYY-MM-DD' format
-    return date_obj.strftime('%Y-%m-%d')
+    return date_obj.strftime("%Y-%m-%d")
+
 
 # This method converts strings of temperatures to floats and accounts for celsius temps
 def convertTemp(temp):
-    if '° C' in temp:
-        return (float(temp.replace('° C', '')) * (9/5)) + 32
+    if "° C" in temp:
+        return (float(temp.replace("° C", "")) * (9 / 5)) + 32
     else:
         return float(temp)
-    
+
+
 # This method converts times to floats
 def convertTime(time):
-    if time != 'N/A':
-        nums = [float(n) for n in re.split('[:.]', time)]
+    if time != "N/A":
+        nums = [float(n) for n in re.split("[:.]", time)]
         if len(nums) == 1:
             return nums[0] / 100
         elif len(nums) == 2:

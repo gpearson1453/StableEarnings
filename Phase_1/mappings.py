@@ -60,7 +60,7 @@ DISTANCE_CONVERSION = {
     "One And Seven Sixteenth Miles": "1.4375",
     "One And Nine Sixteenth Miles": "1.5625",
     "Two And Three Eighth Miles": "2.375",
-    "One And Seven Eighth Miles" : "1.875",
+    "One And Seven Eighth Miles": "1.875",
     "Two Miles And Seventy Yards": "2.0397727",
     "Three And One Half Miles": "3.5",
     "Three And One Eighth Miles": "3.125",
@@ -72,9 +72,8 @@ DISTANCE_CONVERSION = {
     "Six Hundred And Thirty Yards": "0.357955",
     "Seven Hundred And Thirty Yards": "0.414773",
     "Six Hundred And Ten Yards": "0.346591",
-    "Four Furlongs And Seventy Yards": "0.5397727"
+    "Four Furlongs And Seventy Yards": "0.5397727",
 }
 
 # Regular expressions to identify different race types
-TYPE_PATTERNS = [' - Thoroughbred',' - Quarter Horse',' - Mixed',' - Arabian']
-
+TYPE_PATTERNS = [" - Thoroughbred", " - Quarter Horse", " - Mixed", " - Arabian"]
