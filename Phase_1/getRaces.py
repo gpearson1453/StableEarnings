@@ -60,7 +60,7 @@ def getRaces(text_segment):
         "race_number": "NOT FOUND",
         "date": "NOT FOUND",
         "location": "NOT FOUND",
-        "race_id": "NOT FOUND",
+        "race_description": "NOT FOUND",
         "race_type": "NOT FOUND",
         "surface": "NOT FOUND",
         "weather": "NOT FOUND",
@@ -171,7 +171,7 @@ def getRaces(text_segment):
             common_data["race_number"] != "NOT FOUND",
         ]
     ):
-        common_data["race_id"] = (
+        common_data["race_description"] = (
             f"{common_data['date']}_{common_data['location']}_{common_data['race_number']}"
         )
 
