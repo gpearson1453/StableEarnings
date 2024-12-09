@@ -1,7 +1,13 @@
-import re
-import os
+"""
+mappings.py contains distance conversions and horse race type patterns.
 
-# Distance conversion mappings from race distance descriptions to miles
+This file contains a distance conversion dictionary (from text versions to
+decimal values) and a list of horse race type patterns, which are both used in
+getRaces.py.
+"""
+
+# Distance conversion mappings from text distance descriptions to decimal
+# values in miles
 DISTANCE_CONVERSION = {
     "Six Furlongs": "0.75",
     "Three Furlongs": "0.375",
@@ -76,4 +82,9 @@ DISTANCE_CONVERSION = {
 }
 
 # Regular expressions to identify different race types
-TYPE_PATTERNS = [" - Thoroughbred", " - Quarter Horse", " - Mixed", " - Arabian"]
+TYPE_PATTERNS = [
+    " - Thoroughbred",
+    " - Quarter Horse",
+    " - Mixed",
+    " - Arabian"
+]
