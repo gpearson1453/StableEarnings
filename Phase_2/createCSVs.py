@@ -139,7 +139,7 @@ with open(csv_file_path, mode="r", newline="", encoding="utf-8") as csvfile, ope
         row.extend([pos_gain, late_pos_gain, last_pos_gain, speed, race_id])
 
         # Write the row to the appropriate file
-        if date_string.startswith("August") and year == 2020:
+        if date_string.startswith("August") and year == 2022:
             testing_writer.writerow(row)
         elif year is not None:
             if year < train_test_start_year:
