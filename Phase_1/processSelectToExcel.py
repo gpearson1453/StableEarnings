@@ -2,8 +2,8 @@
 processSelectToExcel.py extracts selected race data from text files and compiles it into an Excel file.
 
 This script processes a folder of text files derived from race files, extracts relevant race information from each file,
-and saves the data to an output Excel file, select_race_data.xlsx. It skips files or segments that are invalid,
-contain cancellation messages, or have an unsupported race type.
+and saves the data to an output Excel file, select_race_data.xlsx. It skips files or segments that are invalid, contain
+cancellation messages, or have an unsupported race type.
 
 Steps:
     - Splits the text of each file into manageable segments using a predefined delimiter.
