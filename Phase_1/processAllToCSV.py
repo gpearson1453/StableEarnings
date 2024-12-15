@@ -1,9 +1,9 @@
 """
 processAllToCSV.py extracts race data from text files and compiles it into a CSV file.
 
-This script processes folders of text files derived from race files, extracts relevant race information
-from each file, and saves the data to an output CSV file, all_race_data.csv. It skips files or segments
-that are invalid, contain cancellation messages, or have an unsupported race type.
+This script processes folders of text files derived from race files, extracts relevant race information from each file, and
+saves the data to an output CSV file, all_race_data.csv. It skips files or segments that are invalid, contain cancellation
+messages, or have an unsupported race type.
 
 Steps:
     - Splits the text of each file into manageable segments using a predefined delimiter.
@@ -19,10 +19,8 @@ Functions:
     - process_files: Iterates through all files in a folder and compiles the data.
 
 Usage:
-    Execute the script directly to process files in the 'text_files' folder and output
-    the results to 'all_race_data.csv'. Ensure the folder path and output file name
-    are configured as needed before execution.
-
+    Execute the script directly to process files in the 'text_files' folder and output the results to 'all_race_data.csv'.
+    Ensure the folder path and output file name are configured as needed before execution.
 """
 
 import os

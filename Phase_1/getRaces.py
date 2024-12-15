@@ -19,8 +19,8 @@ Functions:
     - getRaces: Main function to extract race data from a text segment and combine it with horse data.
 
 Usage:
-    Import the getRaces function into other scripts to extract structured race data from text segments.
-    This script is not intended to be executed directly.
+    Import the getRaces function into other scripts to extract structured race data from text segments. This script is not
+    intended to be executed directly.
 """
 
 import re
