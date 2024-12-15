@@ -10,13 +10,13 @@ created using text on Equibase for that month, and looking through the Excel
 file to ensure that those values appear. Finally, it prints out the
 information of missing and duplicate files, if any are found.
 
-This script performs the following steps:
-    - Creating a pandas DataFrame to parse the data in the Excel file.
-    - Identifying duplicate rows that have the same 'race_id' and 'horse_name'.
-    - Verifying the presence of specific date and track combinations in the
+Steps:
+    - Creates a pandas DataFrame to parse the data in the Excel file.
+    - Identifies duplicate rows that have the same 'race_id' and 'horse_name'.
+    - Verifies the presence of specific date and track combinations in the
         dataset using a text block containing all race locations and dates for
         a certain month.
-    - Printing missing entries and duplicate information for review.
+    - Prints missing entries and duplicate information for review.
 
 Functions:
     - load_excel: Loads the Excel file into a pandas DataFrame.
