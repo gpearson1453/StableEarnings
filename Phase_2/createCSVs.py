@@ -1,8 +1,8 @@
 """
 createCSVs.py extracts data from all_race_data.csv into three files, testing.csv, setup.csv, and traintest.csv.
 
-This script takes race data from a large input file, processes it into the required format, and calculates additional
-fields like position gains and race speed. Data is divided into three categories:
+This script takes race data from a large input file, processes it into the required format, and calculates additional fields
+like position gains and race speed. Data is divided into three categories:
     - Setup data (before the train-test start year)
     - Train/Test data (from the train-test start year onward)
     - Testing data (specific conditions like dates in August 2022)
