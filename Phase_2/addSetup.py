@@ -755,23 +755,23 @@ def addTrainerTrackToDB(file_path, reset):
 
 if __name__ == "__main__":
     # Testing
-    # addTracksToDB('testing.csv', True)
-    # addHorsesToDB('testing.csv', True)
-    # addJockeysToDB('testing.csv', True)
-    # addTrainersToDB('testing.csv', True)
-    # addOwnersToDB('testing.csv', True)
-    # addRacesAndPerformancesToDB('testing.csv', True)
+    '''addTracksToDB('testing.csv', True)
+    addHorsesToDB('testing.csv', True)
+    addJockeysToDB('testing.csv', True)
+    addTrainersToDB('testing.csv', True)
+    addOwnersToDB('testing.csv', True)
+    addRacesAndPerformancesToDB('testing.csv', True)
 
-    # addOwnerTrainerToDB('testing.csv', True)
-    # addHorseTrackToDB('testing.csv', True)
-    # addJockeyTrainerToDB('testing.csv', True)
-    # addHorseJockeyToDB('testing.csv', True)
-    # addHorseTrainerToDB('testing.csv', True)
-    # addTrainerTrackToDB('testing.csv', True)
+    addOwnerTrainerToDB('testing.csv', True)
+    addHorseTrackToDB('testing.csv', True)
+    addJockeyTrainerToDB('testing.csv', True)
+    addHorseJockeyToDB('testing.csv', True)
+    addHorseTrainerToDB('testing.csv', True)
+    addTrainerTrackToDB('testing.csv', True)'''
 
     # Setup
 
-    addTracksToDB("setup.csv", True)  # reset here
+    addTracksToDB("setup.csv", True)
     addHorsesToDB("setup.csv", True)
     addJockeysToDB("setup.csv", True)
     addTrainersToDB("setup.csv", True)

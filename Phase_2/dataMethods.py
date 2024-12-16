@@ -1,3 +1,21 @@
+"""
+dataMethods.py provides a collection of utility functions for database interactions and some additional supportive functions.
+
+This script contains reusable methods for connecting to and interacting with the database, defining schema creation and
+modification queries, and implementing complex SQL commands for inserting and updating records. These methods are designed
+to ensure consistency and efficiency across database operations.
+
+Functions:
+    - Connection Methods: Establish connections to local or remote databases.
+    - Schema Definitions: SQL commands to create and drop tables and types, ensuring database consistency.
+    - Data Insertion/Update: Methods to add and update records for entities like horses, jockeys, trainers, and owners.
+    - Statistical Updates: Advanced queries to calculate and update metrics such as performance factors and position gains.
+    - Relationship Management: Methods to handle many-to-many relationships (e.g., horse-jockey or trainer-track).
+
+Usage:
+    Import this module to execute database operations from other scripts. Ensure database connection parameters are
+    configured correctly before use.
+"""
 import psycopg2
 import re
 import unidecode
@@ -5,8 +23,19 @@ from datetime import datetime
 from decimal import Decimal
 
 
-# Establish connection to local postgres db
 def local_connect(db_name):
+    """
+    Establish a connection to a PostgreSQL database on the local host.
+
+    Args:
+        db_name (str): The name of the database to connect to.
+
+    Returns:
+        psycopg2.connection: A connection object for the specified database.
+
+    Raises:
+        psycopg2.Error: If the connection to the database fails.
+    """
     return psycopg2.connect(
         dbname=db_name,
         user="postgres",
@@ -16,8 +45,19 @@ def local_connect(db_name):
     )
 
 
-# Establish connection to CockroachDB
 def cockroach_connect(db_name):
+    """
+    Establish a connection to a CockroachDB cluster.
+
+    Args:
+        db_name (str): The name of the database to connect to.
+
+    Returns:
+        psycopg2.connection: A connection object for the specified CockroachDB database.
+
+    Raises:
+        psycopg2.Error: If the connection to the database fails.
+    """
     return psycopg2.connect(
         dbname=db_name,
         user="molomala",
@@ -27,13 +67,24 @@ def cockroach_connect(db_name):
     )
 
 
-# Drops Trainers Table
 def dropTrainers():
+    """
+    Generate a SQL query to drop the 'Trainers' table if it exists.
+
+    Returns:
+        str: A SQL query string to drop the 'Trainers' table, including all its
+        dependent objects.
+    """
     return "DROP TABLE IF EXISTS Trainers CASCADE;"
 
 
-# Builds Trainers table
 def createTrainers():
+    """
+    Generate a SQL query to create the 'Trainers' table.
+
+    Returns:
+        str: A SQL query string to create the 'Trainers' table with its schema definition.
+    """
     return """
         CREATE TABLE IF NOT EXISTS Trainers (
             name VARCHAR(255) NOT NULL,
@@ -53,10 +104,27 @@ def createTrainers():
         """
 
 
-# Add a trainer to the Trainers table
 def addTrainer(
     name, n_name, pos, pos_factor, speed, track_n_name, surface, distance, num_horses
 ):
+    """
+    Add or update a trainer's record in the 'Trainers' table.
+
+    Args:
+        name (str): Full name of the trainer.
+        n_name (str): Normalized name of the trainer.
+        pos (int): The final position of the trainer's horse in the race.
+        pos_factor (Decimal): Position factor for trainer's horse in the race.
+        speed (Decimal): Speed of the race.
+        track_n_name (str): Normalized name of the track.
+        surface (str): Surface type of the track (e.g., 'Dirt', 'Turf', 'AWT').
+        distance (Decimal): Distance of the race.
+        num_horses (int): Total number of horses in the race.
+
+    Returns:
+        tuple: A SQL query string and its parameters for adding or updating a trainer's record.
+    """
+    # Define alpha values for performance factor calculations
     alpha = Decimal(0.15)
     d_factor_max_alpha = 0.5
     d_factor_alpha = Decimal(
@@ -70,15 +138,15 @@ def addTrainer(
         WHERE normalized_name = %s
     ),
     PerformanceFactor AS (
-        SELECT 
-            CASE 
+        SELECT
+            CASE
                 WHEN %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL THEN NULL
                 ELSE %s + (10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1))
             END AS p_factor
         FROM TrackSpeed
     )
-    INSERT INTO Trainers (name, normalized_name, total_races, wins, places, shows, ewma_pos_factor, 
-                            perf_factor_count, ewma_perf_factor, ewma_dirt_perf_factor, 
+    INSERT INTO Trainers (name, normalized_name, total_races, wins, places, shows, ewma_pos_factor,
+                            perf_factor_count, ewma_perf_factor, ewma_dirt_perf_factor,
                             ewma_turf_perf_factor, ewma_awt_perf_factor, distance_factor)
     SELECT
         %s, %s, 1, -- name, n_name, total_races
@@ -97,28 +165,28 @@ def addTrainer(
         wins = Trainers.wins + excluded.wins,
         places = Trainers.places + excluded.places,
         shows = Trainers.shows + excluded.shows,
-        ewma_pos_factor = CASE 
+        ewma_pos_factor = CASE
             WHEN excluded.ewma_pos_factor IS NULL THEN Trainers.ewma_pos_factor
             WHEN Trainers.ewma_pos_factor IS NULL THEN excluded.ewma_pos_factor
             ELSE (excluded.ewma_pos_factor * %s) + ((1 - %s) * Trainers.ewma_pos_factor)
         END,
         perf_factor_count = Trainers.perf_factor_count + excluded.perf_factor_count,
-        ewma_perf_factor = CASE 
+        ewma_perf_factor = CASE
             WHEN excluded.ewma_perf_factor IS NULL THEN Trainers.ewma_perf_factor
             WHEN Trainers.ewma_perf_factor IS NULL THEN excluded.ewma_perf_factor
             ELSE (excluded.ewma_perf_factor * %s) + ((1 - %s) * Trainers.ewma_perf_factor)
         END,
-        ewma_dirt_perf_factor = CASE 
+        ewma_dirt_perf_factor = CASE
             WHEN excluded.ewma_dirt_perf_factor IS NULL THEN Trainers.ewma_dirt_perf_factor
             WHEN Trainers.ewma_dirt_perf_factor IS NULL THEN excluded.ewma_dirt_perf_factor
             ELSE (excluded.ewma_dirt_perf_factor * %s) + ((1 - %s) * Trainers.ewma_dirt_perf_factor)
         END,
-        ewma_turf_perf_factor = CASE 
+        ewma_turf_perf_factor = CASE
             WHEN excluded.ewma_turf_perf_factor IS NULL THEN Trainers.ewma_turf_perf_factor
             WHEN Trainers.ewma_turf_perf_factor IS NULL THEN excluded.ewma_turf_perf_factor
             ELSE (excluded.ewma_turf_perf_factor * %s) + ((1 - %s) * Trainers.ewma_turf_perf_factor)
         END,
-        ewma_awt_perf_factor = CASE 
+        ewma_awt_perf_factor = CASE
             WHEN excluded.ewma_awt_perf_factor IS NULL THEN Trainers.ewma_awt_perf_factor
             WHEN Trainers.ewma_awt_perf_factor IS NULL THEN excluded.ewma_awt_perf_factor
             ELSE (excluded.ewma_awt_perf_factor * %s) + ((1 - %s) * Trainers.ewma_awt_perf_factor)
@@ -130,6 +198,7 @@ def addTrainer(
         END
     """
 
+    # Parameters for the SQL query
     values = (
         # CTEs
         track_n_name,  # TrackSpeed CTE
@@ -166,13 +235,23 @@ def addTrainer(
     return query, values
 
 
-# Drops Owners table
 def dropOwners():
+    """
+    Generate a SQL query to drop the 'Owners' table if it exists.
+
+    Returns:
+        str: A SQL query string to drop the 'Owners' table, including all its dependent objects.
+    """
     return "DROP TABLE IF EXISTS Owners CASCADE;"
 
 
-# Builds Owners table
 def createOwners():
+    """
+    Generate a SQL query to drop the 'Owners' table if it exists.
+
+    Returns:
+        str: A SQL query string to drop the 'Owners' table, including all its dependent objects.
+    """
     return """
         CREATE TABLE IF NOT EXISTS Owners (
             name VARCHAR(255) NOT NULL,
@@ -188,10 +267,24 @@ def createOwners():
         """
 
 
-# Add an owner to the Owners table
 def addOwner(name, n_name, pos, pos_factor, speed, track_n_name):
-    alpha = Decimal(0.15)
+    """
+    Add or update an owner's record in the 'Owners' table.
 
+    Args:
+        name (str): Full name of the owner.
+        n_name (str): Normalized name of the owner.
+        pos (int): Final position of the owner's horse in the race.
+        pos_factor (Decimal): Position factor of the owner's horse in the race.
+        speed (Decimal): Average speed of the race.
+        track_n_name (str): Normalized name of the track where the race occurred.
+
+    Returns:
+        tuple: A SQL query string and its parameters for adding or updating the owner's record.
+    """
+    alpha = Decimal(0.15)  # Weight for EWMA calculations
+
+    # SQL query to calculate performance factor and insert or update owner's record
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
@@ -199,14 +292,16 @@ def addOwner(name, n_name, pos, pos_factor, speed, track_n_name):
         WHERE normalized_name = %s
     ),
     PerformanceFactor AS (
-        SELECT 
-            CASE 
+        SELECT
+            CASE
                 WHEN %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL THEN NULL
                 ELSE %s + (10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1))
             END AS p_factor
         FROM TrackSpeed
     )
-    INSERT INTO Owners (name, normalized_name, total_races, wins, places, shows, ewma_pos_factor, perf_factor_count, ewma_perf_factor)
+    INSERT INTO Owners (
+        name, normalized_name, total_races, wins, places, shows, ewma_pos_factor, perf_factor_count, ewma_perf_factor
+    )
     SELECT
         %s, %s, 1, -- name, n_name, total_races
         CASE WHEN %s = 1 THEN 1 ELSE 0 END, -- wins
@@ -220,19 +315,20 @@ def addOwner(name, n_name, pos, pos_factor, speed, track_n_name):
         wins = Owners.wins + excluded.wins,
         places = Owners.places + excluded.places,
         shows = Owners.shows + excluded.shows,
-        ewma_pos_factor = CASE 
+        ewma_pos_factor = CASE
             WHEN excluded.ewma_pos_factor IS NULL THEN Owners.ewma_pos_factor
             WHEN Owners.ewma_pos_factor IS NULL THEN excluded.ewma_pos_factor
             ELSE (excluded.ewma_pos_factor * %s) + ((1 - %s) * Owners.ewma_pos_factor)
         END,
         perf_factor_count = Owners.perf_factor_count + excluded.perf_factor_count,
-        ewma_perf_factor = CASE 
+        ewma_perf_factor = CASE
             WHEN excluded.ewma_perf_factor IS NULL THEN Owners.ewma_perf_factor
             WHEN Owners.ewma_perf_factor IS NULL THEN excluded.ewma_perf_factor
             ELSE (excluded.ewma_perf_factor * %s) + ((1 - %s) * Owners.ewma_perf_factor)
         END
     """
 
+    # Parameters for the SQL query
     values = (
         # CTEs
         track_n_name,  # TrackSpeed CTE
@@ -256,21 +352,36 @@ def addOwner(name, n_name, pos, pos_factor, speed, track_n_name):
     return query, values
 
 
-# Drops Performances table
 def dropPerformances():
+    """
+    Generate a SQL query to drop the 'Performances' table if it exists.
+
+    Returns:
+        str: A SQL query string to drop the 'Performances' table, including all dependent objects.
+    """
     return "DROP TABLE IF EXISTS Performances CASCADE;"
 
 
-# Creates use_type for Performances, Trainables, Testables tables
 def createPerformancesUseType():
+    """
+    Create the 'use_type' ENUM type for categorizing race data.
+
+    Returns:
+        str: A SQL query string to create the 'use_type' ENUM type with possible values 'SETUP', 'TRAINING', and 'TESTING'.
+    """
     return """
         DROP TYPE IF EXISTS use_type CASCADE;
         CREATE TYPE use_type AS ENUM ('SETUP', 'TRAINING', 'TESTING');
     """
 
 
-# Builds Performances table
 def createPerformances():
+    """
+    Create the 'Performances' table in the database.
+
+    Returns:
+        str: A SQL query string to create the 'Performances' table with its schema definition.
+    """
     return """
         CREATE TABLE IF NOT EXISTS Performances (
             race_id VARCHAR(255),
@@ -300,7 +411,6 @@ def createPerformances():
         """
 
 
-# Add a performance to the Performances table
 def addPerformance(
     race_id,
     file_num,
@@ -323,7 +433,34 @@ def addPerformance(
     speed,
     use,
 ):
+    """
+    Add a new performance record to the 'Performances' table.
 
+    Args:
+        race_id (str): Unique identifier for the race.
+        file_num (int): File number associated with the race data.
+        date (date): Date of the race.
+        race_num (int): Number of the race in the file.
+        track_n_name (str): Normalized name of the track where the race occurred.
+        horse_n_name (str): Normalized name of the horse.
+        program_number (str): Program number assigned to the horse in the race.
+        weight (Decimal): Weight carried by the horse in the race.
+        odds (Decimal): Odds for the horse in the race.
+        start_pos (int): Starting position of the horse in the race.
+        final_pos (int): Final position of the horse in the race.
+        jockey_n_name (str): Normalized name of the jockey.
+        trainer_n_name (str): Normalized name of the trainer.
+        owner_n_name (str): Normalized name of the owner.
+        pos_gain (Decimal): Total positions gained by the horse in the race.
+        late_pos_gain (Decimal): Positions gained by the horse in the later stages of the race.
+        last_pos_gain (Decimal): Positions gained by the horse in the final stages of the race.
+        pos_factor (Decimal): Performance factor based on the horse's position in the race.
+        speed (Decimal): Average speed of the race.
+        use (str): Use type of the record ('SETUP', 'TRAINING', or 'TESTING').
+
+    Returns:
+        tuple: A SQL query string and a tuple of parameters for executing the query.
+    """
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
@@ -331,19 +468,22 @@ def addPerformance(
         WHERE normalized_name = %s
     ),
     PerformanceFactor AS (
-        SELECT 
-            CASE 
+        SELECT
+            CASE
                 WHEN %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL THEN NULL
                 ELSE %s + (10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1))
             END AS p_factor
         FROM TrackSpeed
     )
-    INSERT INTO Performances (race_id, file_num, date, track_n_name, race_num, horse_n_name, program_number, weight, odds, 
-                            start_pos, final_pos, jockey_n_name, trainer_n_name, owner_n_name, pos_gained, 
+    INSERT INTO Performances (race_id, file_num, date, track_n_name, race_num, horse_n_name, program_number, weight, odds,
+                            start_pos, final_pos, jockey_n_name, trainer_n_name, owner_n_name, pos_gained,
                             late_pos_gained, last_pos_gained, pos_factor, perf_factor, use)
-    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, (SELECT p_factor FROM PerformanceFactor), %s)
+    VALUES (
+        %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, (SELECT p_factor FROM PerformanceFactor), %s
+    )
     """
-    return query, (
+    # Values to be inserted into the query
+    values = (
         track_n_name,
         speed,
         pos_factor,
@@ -369,24 +509,36 @@ def addPerformance(
         use,
     )
 
+    return query, values
 
-# Drops Trainables table
+
 def dropTrainables():
+    """
+    Drop the 'Trainables' table if it exists.
+
+    Returns:
+        str: A SQL query string to drop the 'Trainables' table, including all dependent objects.
+    """
     return "DROP TABLE IF EXISTS Trainables CASCADE;"
 
 
-# Builds Trainables table
 def createTrainables():
+    """
+    Create the 'Trainables' table in the database.
+
+    Returns:
+        str: A SQL query string to create the 'Trainables' table with its schema definition.
+    """
     return """
         CREATE TABLE IF NOT EXISTS Trainables (
             race_id VARCHAR(255),
             final_pos INT,
             horse_n_name VARCHAR(255),
             race_type VARCHAR(255),
-            
+
             -- Track stats
             track_ewma_speed DECIMAL(10, 6),
-            
+
             -- Horse stats
             weight DECIMAL(10, 6),
             horse_total_races INT DEFAULT 0,
@@ -402,7 +554,7 @@ def createTrainables():
             horse_recent_perf_factor DECIMAL(10, 6),
             horse_ewma_surface_perf_factor DECIMAL(10, 6),
             horse_distance_factor DECIMAL(10, 6),
-            
+
             -- Jockey stats
             jockey_ewma_pos_gain DECIMAL(10, 6),
             jockey_ewma_late_pos_gain DECIMAL(10, 6),
@@ -414,7 +566,7 @@ def createTrainables():
             jockey_ewma_pos_factor DECIMAL(10, 6),
             jockey_perf_factor_count INT DEFAULT 0,
             jockey_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Trainer stats
             trainer_total_races INT,
             trainer_wins INT,
@@ -425,7 +577,7 @@ def createTrainables():
             trainer_ewma_perf_factor DECIMAL(10, 6),
             trainer_ewma_surface_perf_factor DECIMAL(10, 6),
             trainer_distance_factor DECIMAL(10, 6),
-            
+
             -- Owner stats
             owner_total_races INT,
             owner_wins INT,
@@ -434,13 +586,13 @@ def createTrainables():
             owner_ewma_pos_factor DECIMAL(10, 6),
             owner_perf_factor_count INT DEFAULT 0,
             owner_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Race stats
             weather INT,
             temperature DECIMAL(10, 6),
             track_state INT,
             distance DECIMAL(10, 6),
-            
+
             -- Horse-Jockey stats
             horse_jockey_total_races INT,
             horse_jockey_wins INT,
@@ -449,7 +601,7 @@ def createTrainables():
             horse_jockey_ewma_pos_factor DECIMAL(10, 6),
             horse_jockey_perf_factor_count INT DEFAULT 0,
             horse_jockey_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Horse-Trainer stats
             horse_trainer_total_races INT,
             horse_trainer_wins INT,
@@ -458,7 +610,7 @@ def createTrainables():
             horse_trainer_ewma_pos_factor DECIMAL(10, 6),
             horse_trainer_perf_factor_count INT DEFAULT 0,
             horse_trainer_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Trainer-Track stats
             trainer_track_total_races INT,
             trainer_track_wins INT,
@@ -467,7 +619,7 @@ def createTrainables():
             trainer_track_ewma_pos_factor DECIMAL(10, 6),
             trainer_track_perf_factor_count INT DEFAULT 0,
             trainer_track_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Owner-Trainer stats
             owner_trainer_total_races INT,
             owner_trainer_wins INT,
@@ -476,7 +628,7 @@ def createTrainables():
             owner_trainer_ewma_pos_factor DECIMAL(10, 6),
             owner_trainer_perf_factor_count INT DEFAULT 0,
             owner_trainer_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Horse-Track stats
             horse_track_total_races INT,
             horse_track_wins INT,
@@ -485,7 +637,7 @@ def createTrainables():
             horse_track_ewma_pos_factor DECIMAL(10, 6),
             horse_track_perf_factor_count INT DEFAULT 0,
             horse_track_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Jockey-Trainer stats
             jockey_trainer_total_races INT,
             jockey_trainer_wins INT,
@@ -494,19 +646,18 @@ def createTrainables():
             jockey_trainer_ewma_pos_factor DECIMAL(10, 6),
             jockey_trainer_perf_factor_count INT DEFAULT 0,
             jockey_trainer_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Outcomes (will either be 0 or 100)
             won DECIMAL(10, 6),
             placed DECIMAL(10, 6),
             showed DECIMAL(10, 6),
-            
+
             PRIMARY KEY (race_id, final_pos),
             FOREIGN KEY (race_id) REFERENCES Races(race_id) ON DELETE CASCADE
         );
         """
 
 
-# Add a Trainable to the Trainables table
 def addTrainable(
     horse_n_name,
     track_n_name,
@@ -526,76 +677,100 @@ def addTrainable(
     placed,
     showed,
 ):
+    """
+    Add a new trainable record to the 'Trainables' table.
 
+    Args:
+        horse_n_name (str): Normalized name of the horse.
+        track_n_name (str): Normalized name of the track.
+        jockey_n_name (str): Normalized name of the jockey.
+        trainer_n_name (str): Normalized name of the trainer.
+        owner_n_name (str): Normalized name of the owner.
+        surface (str): Surface type of the track (e.g., 'Dirt', 'Turf').
+        race_id (str): Unique identifier for the race.
+        final_pos (int): Final position of the horse in the race.
+        race_type (str): Type of the race.
+        weight (Decimal): Weight carried by the horse.
+        weather (int): Weather condition code during the race.
+        temp (Decimal): Temperature during the race.
+        track_state (int): Track condition code during the race.
+        distance (Decimal): Distance of the race.
+        won (Decimal): 'Odds' for winning the race (0 if yes, 100 otherwise).
+        placed (Decimal): 'Odds' for placing in the race (0 if yes, 100 otherwise).
+        showed (Decimal): 'Odds' for showing in the race (0 if yes, 100 otherwise).
+
+    Returns:
+        tuple: A SQL query string and a tuple of parameters for executing the query.
+    """
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
         FROM Tracks
         WHERE normalized_name = %s
-    ), 
+    ),
     HorseStats AS (
-        SELECT 
-            total_races, wins, places, shows, 
-            ewma_pos_factor, ewma_pos_gain, ewma_late_pos_gain, 
-            ewma_last_pos_gain, perf_factor_count, ewma_perf_factor, 
-            recent_perf_factor, 
-            CASE 
+        SELECT
+            total_races, wins, places, shows,
+            ewma_pos_factor, ewma_pos_gain, ewma_late_pos_gain,
+            ewma_last_pos_gain, perf_factor_count, ewma_perf_factor,
+            recent_perf_factor,
+            CASE
                 WHEN %s = 'Dirt' THEN ewma_dirt_perf_factor
                 WHEN %s = 'Turf' THEN ewma_turf_perf_factor
                 WHEN %s = 'AWT' THEN ewma_awt_perf_factor
-            END as ewma_surface_perf_factor, 
+            END as ewma_surface_perf_factor,
             distance_factor
         FROM Horses
         WHERE normalized_name = %s
-    ), 
+    ),
     JockeyStats AS (
         SELECT *
         FROM Jockeys
         WHERE normalized_name = %s
-    ), 
+    ),
     TrainerStats AS (
-        SELECT 
-            total_races, wins, places, shows, ewma_pos_factor, 
-            perf_factor_count, ewma_perf_factor, 
-            CASE 
+        SELECT
+            total_races, wins, places, shows, ewma_pos_factor,
+            perf_factor_count, ewma_perf_factor,
+            CASE
                 WHEN %s = 'Dirt' THEN ewma_dirt_perf_factor
                 WHEN %s = 'Turf' THEN ewma_turf_perf_factor
                 WHEN %s = 'AWT' THEN ewma_awt_perf_factor
-            END as ewma_surface_perf_factor, 
+            END as ewma_surface_perf_factor,
             distance_factor
         FROM Trainers
         WHERE normalized_name = %s
-    ), 
+    ),
     OwnerStats AS (
         SELECT *
         FROM Owners
         WHERE normalized_name = %s
-    ), 
+    ),
     HorseJockeyStats AS (
         SELECT *
         FROM horse_jockey
         WHERE horse_n_name = %s AND jockey_n_name = %s
-    ), 
+    ),
     HorseTrainerStats AS (
         SELECT *
         FROM horse_trainer
         WHERE horse_n_name = %s AND trainer_n_name = %s
-    ), 
+    ),
     TrainerTrackStats AS (
         SELECT *
         FROM trainer_track
         WHERE trainer_n_name = %s AND track_n_name = %s AND surface = %s
-    ), 
+    ),
     OwnerTrainerStats AS (
         SELECT *
         FROM owner_trainer
         WHERE owner_n_name = %s AND trainer_n_name = %s
-    ), 
+    ),
     HorseTrackStats AS (
         SELECT *
         FROM horse_track
         WHERE horse_n_name = %s AND track_n_name = %s AND surface = %s
-    ), 
+    ),
     JockeyTrainerStats AS (
         SELECT *
         FROM jockey_trainer
@@ -603,156 +778,157 @@ def addTrainable(
     )
     INSERT INTO Trainables (
         race_id, final_pos, horse_n_name, race_type,
-        
+
         track_ewma_speed,
-        
-        weight, horse_total_races, horse_wins, horse_places, horse_shows, 
-        horse_ewma_pos_factor, horse_ewma_pos_gain, horse_ewma_late_pos_gain, 
-        horse_ewma_last_pos_gain, horse_perf_factor_count, horse_ewma_perf_factor, 
+
+        weight, horse_total_races, horse_wins, horse_places, horse_shows,
+        horse_ewma_pos_factor, horse_ewma_pos_gain, horse_ewma_late_pos_gain,
+        horse_ewma_last_pos_gain, horse_perf_factor_count, horse_ewma_perf_factor,
         horse_recent_perf_factor, horse_ewma_surface_perf_factor, horse_distance_factor,
-        
-        jockey_ewma_pos_gain, jockey_ewma_late_pos_gain, jockey_ewma_last_pos_gain, 
-        jockey_total_races, jockey_wins, jockey_places, jockey_shows, 
+
+        jockey_ewma_pos_gain, jockey_ewma_late_pos_gain, jockey_ewma_last_pos_gain,
+        jockey_total_races, jockey_wins, jockey_places, jockey_shows,
         jockey_ewma_pos_factor, jockey_perf_factor_count, jockey_ewma_perf_factor,
-        
-        trainer_total_races, trainer_wins, trainer_places, trainer_shows, 
-        trainer_ewma_pos_factor, trainer_perf_factor_count, trainer_ewma_perf_factor, 
+
+        trainer_total_races, trainer_wins, trainer_places, trainer_shows,
+        trainer_ewma_pos_factor, trainer_perf_factor_count, trainer_ewma_perf_factor,
         trainer_ewma_surface_perf_factor, trainer_distance_factor,
-        
-        owner_total_races, owner_wins, owner_places, owner_shows, owner_ewma_pos_factor, 
+
+        owner_total_races, owner_wins, owner_places, owner_shows, owner_ewma_pos_factor,
         owner_perf_factor_count, owner_ewma_perf_factor,
-        
+
         weather, temperature, track_state, distance,
-        
-        horse_jockey_total_races, horse_jockey_wins, horse_jockey_places, 
-        horse_jockey_shows, horse_jockey_ewma_pos_factor, horse_jockey_perf_factor_count, 
+
+        horse_jockey_total_races, horse_jockey_wins, horse_jockey_places,
+        horse_jockey_shows, horse_jockey_ewma_pos_factor, horse_jockey_perf_factor_count,
         horse_jockey_ewma_perf_factor,
-        
-        horse_trainer_total_races, horse_trainer_wins, horse_trainer_places, 
-        horse_trainer_shows, horse_trainer_ewma_pos_factor, horse_trainer_perf_factor_count, 
+
+        horse_trainer_total_races, horse_trainer_wins, horse_trainer_places,
+        horse_trainer_shows, horse_trainer_ewma_pos_factor, horse_trainer_perf_factor_count,
         horse_trainer_ewma_perf_factor,
-        
-        trainer_track_total_races, trainer_track_wins, trainer_track_places, 
-        trainer_track_shows, trainer_track_ewma_pos_factor, trainer_track_perf_factor_count, 
+
+        trainer_track_total_races, trainer_track_wins, trainer_track_places,
+        trainer_track_shows, trainer_track_ewma_pos_factor, trainer_track_perf_factor_count,
         trainer_track_ewma_perf_factor,
-        
-        owner_trainer_total_races, owner_trainer_wins, owner_trainer_places, 
-        owner_trainer_shows, owner_trainer_ewma_pos_factor, owner_trainer_perf_factor_count, 
+
+        owner_trainer_total_races, owner_trainer_wins, owner_trainer_places,
+        owner_trainer_shows, owner_trainer_ewma_pos_factor, owner_trainer_perf_factor_count,
         owner_trainer_ewma_perf_factor,
-        
-        horse_track_total_races, horse_track_wins, horse_track_places, 
-        horse_track_shows, horse_track_ewma_pos_factor, horse_track_perf_factor_count, 
+
+        horse_track_total_races, horse_track_wins, horse_track_places,
+        horse_track_shows, horse_track_ewma_pos_factor, horse_track_perf_factor_count,
         horse_track_ewma_perf_factor,
-        
-        jockey_trainer_total_races, jockey_trainer_wins, jockey_trainer_places, 
-        jockey_trainer_shows, jockey_trainer_ewma_pos_factor, jockey_trainer_perf_factor_count, 
+
+        jockey_trainer_total_races, jockey_trainer_wins, jockey_trainer_places,
+        jockey_trainer_shows, jockey_trainer_ewma_pos_factor, jockey_trainer_perf_factor_count,
         jockey_trainer_ewma_perf_factor,
-        
+
         won, placed, showed)
-    
+
     SELECT
         %s, %s, %s, %s, -- race_id, final_pos, horse_n_name, race_type
-        
+
         (SELECT ewma_speed FROM TrackSpeed), -- track_ewma_speed
-        
+
         %s, -- weight
-        
-        (SELECT total_races FROM HorseStats), 
-        (SELECT wins FROM HorseStats), 
-        (SELECT places FROM HorseStats), 
-        (SELECT shows FROM HorseStats), 
-        (SELECT ewma_pos_factor FROM HorseStats), 
-        (SELECT ewma_pos_gain FROM HorseStats), 
-        (SELECT ewma_late_pos_gain FROM HorseStats), 
-        (SELECT ewma_last_pos_gain FROM HorseStats), 
-        (SELECT perf_factor_count FROM HorseStats), 
-        (SELECT ewma_perf_factor FROM HorseStats), 
-        (SELECT recent_perf_factor FROM HorseStats), 
-        (SELECT ewma_surface_perf_factor FROM HorseStats), 
+
+        (SELECT total_races FROM HorseStats),
+        (SELECT wins FROM HorseStats),
+        (SELECT places FROM HorseStats),
+        (SELECT shows FROM HorseStats),
+        (SELECT ewma_pos_factor FROM HorseStats),
+        (SELECT ewma_pos_gain FROM HorseStats),
+        (SELECT ewma_late_pos_gain FROM HorseStats),
+        (SELECT ewma_last_pos_gain FROM HorseStats),
+        (SELECT perf_factor_count FROM HorseStats),
+        (SELECT ewma_perf_factor FROM HorseStats),
+        (SELECT recent_perf_factor FROM HorseStats),
+        (SELECT ewma_surface_perf_factor FROM HorseStats),
         (SELECT distance_factor FROM HorseStats), -- horse stats
-        
-        (SELECT ewma_pos_gain FROM JockeyStats), 
-        (SELECT ewma_late_pos_gain FROM JockeyStats), 
-        (SELECT ewma_last_pos_gain FROM JockeyStats), 
-        (SELECT total_races FROM JockeyStats), 
-        (SELECT wins FROM JockeyStats), 
-        (SELECT places FROM JockeyStats), 
-        (SELECT shows FROM JockeyStats), 
-        (SELECT ewma_pos_factor FROM JockeyStats), 
-        (SELECT perf_factor_count FROM JockeyStats), 
+
+        (SELECT ewma_pos_gain FROM JockeyStats),
+        (SELECT ewma_late_pos_gain FROM JockeyStats),
+        (SELECT ewma_last_pos_gain FROM JockeyStats),
+        (SELECT total_races FROM JockeyStats),
+        (SELECT wins FROM JockeyStats),
+        (SELECT places FROM JockeyStats),
+        (SELECT shows FROM JockeyStats),
+        (SELECT ewma_pos_factor FROM JockeyStats),
+        (SELECT perf_factor_count FROM JockeyStats),
         (SELECT ewma_perf_factor FROM JockeyStats), -- jockey stats
-        
-        (SELECT total_races FROM TrainerStats), 
-        (SELECT wins FROM TrainerStats), 
-        (SELECT places FROM TrainerStats), 
-        (SELECT shows FROM TrainerStats), 
-        (SELECT ewma_pos_factor FROM TrainerStats), 
-        (SELECT perf_factor_count FROM TrainerStats), 
-        (SELECT ewma_perf_factor FROM TrainerStats), 
-        (SELECT ewma_surface_perf_factor FROM TrainerStats), 
+
+        (SELECT total_races FROM TrainerStats),
+        (SELECT wins FROM TrainerStats),
+        (SELECT places FROM TrainerStats),
+        (SELECT shows FROM TrainerStats),
+        (SELECT ewma_pos_factor FROM TrainerStats),
+        (SELECT perf_factor_count FROM TrainerStats),
+        (SELECT ewma_perf_factor FROM TrainerStats),
+        (SELECT ewma_surface_perf_factor FROM TrainerStats),
         (SELECT distance_factor FROM TrainerStats), -- trainer stats
-        
-        (SELECT total_races FROM OwnerStats), 
-        (SELECT wins FROM OwnerStats), 
-        (SELECT places FROM OwnerStats), 
-        (SELECT shows FROM OwnerStats), 
-        (SELECT ewma_pos_factor FROM OwnerStats), 
-        (SELECT perf_factor_count FROM OwnerStats), 
+
+        (SELECT total_races FROM OwnerStats),
+        (SELECT wins FROM OwnerStats),
+        (SELECT places FROM OwnerStats),
+        (SELECT shows FROM OwnerStats),
+        (SELECT ewma_pos_factor FROM OwnerStats),
+        (SELECT perf_factor_count FROM OwnerStats),
         (SELECT ewma_perf_factor FROM OwnerStats), -- owner stats
-        
+
         %s, %s, %s, %s, -- weather, temperature, track_state, distance
-        
-        (SELECT total_races FROM HorseJockeyStats), 
-        (SELECT wins FROM HorseJockeyStats), 
-        (SELECT places FROM HorseJockeyStats), 
-        (SELECT shows FROM HorseJockeyStats), 
-        (SELECT ewma_pos_factor FROM HorseJockeyStats), 
-        (SELECT perf_factor_count FROM HorseJockeyStats), 
+
+        (SELECT total_races FROM HorseJockeyStats),
+        (SELECT wins FROM HorseJockeyStats),
+        (SELECT places FROM HorseJockeyStats),
+        (SELECT shows FROM HorseJockeyStats),
+        (SELECT ewma_pos_factor FROM HorseJockeyStats),
+        (SELECT perf_factor_count FROM HorseJockeyStats),
         (SELECT ewma_perf_factor FROM HorseJockeyStats), -- horse-jockey stats
-        
-        (SELECT total_races FROM HorseTrainerStats), 
-        (SELECT wins FROM HorseTrainerStats), 
-        (SELECT places FROM HorseTrainerStats), 
-        (SELECT shows FROM HorseTrainerStats), 
-        (SELECT ewma_pos_factor FROM HorseTrainerStats), 
-        (SELECT perf_factor_count FROM HorseTrainerStats), 
+
+        (SELECT total_races FROM HorseTrainerStats),
+        (SELECT wins FROM HorseTrainerStats),
+        (SELECT places FROM HorseTrainerStats),
+        (SELECT shows FROM HorseTrainerStats),
+        (SELECT ewma_pos_factor FROM HorseTrainerStats),
+        (SELECT perf_factor_count FROM HorseTrainerStats),
         (SELECT ewma_perf_factor FROM HorseTrainerStats), -- horse-trainer stats
-        
-        (SELECT total_races FROM TrainerTrackStats), 
-        (SELECT wins FROM TrainerTrackStats), 
-        (SELECT places FROM TrainerTrackStats), 
-        (SELECT shows FROM TrainerTrackStats), 
-        (SELECT ewma_pos_factor FROM TrainerTrackStats), 
-        (SELECT perf_factor_count FROM TrainerTrackStats), 
+
+        (SELECT total_races FROM TrainerTrackStats),
+        (SELECT wins FROM TrainerTrackStats),
+        (SELECT places FROM TrainerTrackStats),
+        (SELECT shows FROM TrainerTrackStats),
+        (SELECT ewma_pos_factor FROM TrainerTrackStats),
+        (SELECT perf_factor_count FROM TrainerTrackStats),
         (SELECT ewma_perf_factor FROM TrainerTrackStats), -- trainer-track stats
-        
-        (SELECT total_races FROM OwnerTrainerStats), 
-        (SELECT wins FROM OwnerTrainerStats), 
-        (SELECT places FROM OwnerTrainerStats), 
-        (SELECT shows FROM OwnerTrainerStats), 
-        (SELECT ewma_pos_factor FROM OwnerTrainerStats), 
-        (SELECT perf_factor_count FROM OwnerTrainerStats), 
+
+        (SELECT total_races FROM OwnerTrainerStats),
+        (SELECT wins FROM OwnerTrainerStats),
+        (SELECT places FROM OwnerTrainerStats),
+        (SELECT shows FROM OwnerTrainerStats),
+        (SELECT ewma_pos_factor FROM OwnerTrainerStats),
+        (SELECT perf_factor_count FROM OwnerTrainerStats),
         (SELECT ewma_perf_factor FROM OwnerTrainerStats), -- owner-trainer stats
-        
-        (SELECT total_races FROM HorseTrackStats), 
-        (SELECT wins FROM HorseTrackStats), 
-        (SELECT places FROM HorseTrackStats), 
-        (SELECT shows FROM HorseTrackStats), 
-        (SELECT ewma_pos_factor FROM HorseTrackStats), 
-        (SELECT perf_factor_count FROM HorseTrackStats), 
+
+        (SELECT total_races FROM HorseTrackStats),
+        (SELECT wins FROM HorseTrackStats),
+        (SELECT places FROM HorseTrackStats),
+        (SELECT shows FROM HorseTrackStats),
+        (SELECT ewma_pos_factor FROM HorseTrackStats),
+        (SELECT perf_factor_count FROM HorseTrackStats),
         (SELECT ewma_perf_factor FROM HorseTrackStats), -- horse-track stats
-        
-        (SELECT total_races FROM JockeyTrainerStats), 
-        (SELECT wins FROM JockeyTrainerStats), 
-        (SELECT places FROM JockeyTrainerStats), 
-        (SELECT shows FROM JockeyTrainerStats), 
-        (SELECT ewma_pos_factor FROM JockeyTrainerStats), 
-        (SELECT perf_factor_count FROM JockeyTrainerStats), 
+
+        (SELECT total_races FROM JockeyTrainerStats),
+        (SELECT wins FROM JockeyTrainerStats),
+        (SELECT places FROM JockeyTrainerStats),
+        (SELECT shows FROM JockeyTrainerStats),
+        (SELECT ewma_pos_factor FROM JockeyTrainerStats),
+        (SELECT perf_factor_count FROM JockeyTrainerStats),
         (SELECT ewma_perf_factor FROM JockeyTrainerStats), -- jockey-trainer stats
-        
+
         %s, %s, %s
     """
 
+    # Values to be used in the query
     values = (
         # CTEs
         track_n_name,  # TrackSpeed
@@ -798,23 +974,33 @@ def addTrainable(
     return query, values
 
 
-# Drops Testables table
 def dropTestables():
+    """
+    Drop the 'Testables' table if it exists.
+
+    Returns:
+        str: A SQL query string to drop the 'Testables' table, including all dependent objects.
+    """
     return "DROP TABLE IF EXISTS Testables CASCADE;"
 
 
-# Builds Testables table
 def createTestables():
+    """
+    Create the 'Testables' table in the database.
+
+    Returns:
+        str: A SQL query string to create the 'Testables' table with its schema definition.
+    """
     return """
         CREATE TABLE IF NOT EXISTS Testables (
             race_id VARCHAR(255),
             final_pos INT,
             horse_n_name VARCHAR(255),
             race_type VARCHAR(255),
-            
+
             -- Track stats
             track_ewma_speed DECIMAL(10, 6),
-            
+
             -- Horse stats
             weight DECIMAL(10, 6),
             horse_total_races INT DEFAULT 0,
@@ -830,7 +1016,7 @@ def createTestables():
             horse_recent_perf_factor DECIMAL(10, 6),
             horse_ewma_surface_perf_factor DECIMAL(10, 6),
             horse_distance_factor DECIMAL(10, 6),
-            
+
             -- Jockey stats
             jockey_ewma_pos_gain DECIMAL(10, 6),
             jockey_ewma_late_pos_gain DECIMAL(10, 6),
@@ -842,7 +1028,7 @@ def createTestables():
             jockey_ewma_pos_factor DECIMAL(10, 6),
             jockey_perf_factor_count INT DEFAULT 0,
             jockey_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Trainer stats
             trainer_total_races INT,
             trainer_wins INT,
@@ -853,7 +1039,7 @@ def createTestables():
             trainer_ewma_perf_factor DECIMAL(10, 6),
             trainer_ewma_surface_perf_factor DECIMAL(10, 6),
             trainer_distance_factor DECIMAL(10, 6),
-            
+
             -- Owner stats
             owner_total_races INT,
             owner_wins INT,
@@ -862,13 +1048,13 @@ def createTestables():
             owner_ewma_pos_factor DECIMAL(10, 6),
             owner_perf_factor_count INT DEFAULT 0,
             owner_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Race stats
             weather INT,
             temperature DECIMAL(10, 6),
             track_state INT,
             distance DECIMAL(10, 6),
-            
+
             -- Horse-Jockey stats
             horse_jockey_total_races INT,
             horse_jockey_wins INT,
@@ -877,7 +1063,7 @@ def createTestables():
             horse_jockey_ewma_pos_factor DECIMAL(10, 6),
             horse_jockey_perf_factor_count INT DEFAULT 0,
             horse_jockey_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Horse-Trainer stats
             horse_trainer_total_races INT,
             horse_trainer_wins INT,
@@ -886,7 +1072,7 @@ def createTestables():
             horse_trainer_ewma_pos_factor DECIMAL(10, 6),
             horse_trainer_perf_factor_count INT DEFAULT 0,
             horse_trainer_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Trainer-Track stats
             trainer_track_total_races INT,
             trainer_track_wins INT,
@@ -895,7 +1081,7 @@ def createTestables():
             trainer_track_ewma_pos_factor DECIMAL(10, 6),
             trainer_track_perf_factor_count INT DEFAULT 0,
             trainer_track_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Owner-Trainer stats
             owner_trainer_total_races INT,
             owner_trainer_wins INT,
@@ -904,7 +1090,7 @@ def createTestables():
             owner_trainer_ewma_pos_factor DECIMAL(10, 6),
             owner_trainer_perf_factor_count INT DEFAULT 0,
             owner_trainer_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Horse-Track stats
             horse_track_total_races INT,
             horse_track_wins INT,
@@ -913,7 +1099,7 @@ def createTestables():
             horse_track_ewma_pos_factor DECIMAL(10, 6),
             horse_track_perf_factor_count INT DEFAULT 0,
             horse_track_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Jockey-Trainer stats
             jockey_trainer_total_races INT,
             jockey_trainer_wins INT,
@@ -922,17 +1108,16 @@ def createTestables():
             jockey_trainer_ewma_pos_factor DECIMAL(10, 6),
             jockey_trainer_perf_factor_count INT DEFAULT 0,
             jockey_trainer_ewma_perf_factor DECIMAL(10, 6),
-            
+
             -- Odds (will be tested against the model's predictions)
             odds DECIMAL(10, 6),
-            
+
             PRIMARY KEY (race_id, final_pos),
             FOREIGN KEY (race_id) REFERENCES Races(race_id) ON DELETE CASCADE
         );
         """
 
 
-# Add a Testable to the Testables table
 def addTestable(
     horse_n_name,
     track_n_name,
@@ -950,76 +1135,98 @@ def addTestable(
     distance,
     odds,
 ):
+    """
+    Add a new testable record to the 'Testables' table.
 
+    Args:
+        horse_n_name (str): Normalized name of the horse.
+        track_n_name (str): Normalized name of the track.
+        jockey_n_name (str): Normalized name of the jockey.
+        trainer_n_name (str): Normalized name of the trainer.
+        owner_n_name (str): Normalized name of the owner.
+        surface (str): Surface type of the track (e.g., 'Dirt', 'Turf').
+        race_id (str): Unique identifier for the race.
+        final_pos (int): Final position of the horse in the race.
+        race_type (str): Type of the race.
+        weight (Decimal): Weight carried by the horse.
+        weather (int): Weather condition code during the race.
+        temp (Decimal): Temperature during the race.
+        track_state (int): Track condition code during the race.
+        distance (Decimal): Distance of the race.
+        odds (Decimal): Odds associated with the horse's performance.
+
+    Returns:
+        tuple: A SQL query string and a tuple of parameters for executing the query.
+    """
     query = """
     WITH TrackSpeed AS (
         SELECT ewma_speed
         FROM Tracks
         WHERE normalized_name = %s
-    ), 
+    ),
     HorseStats AS (
-        SELECT 
-            total_races, wins, places, shows, 
-            ewma_pos_factor, ewma_pos_gain, ewma_late_pos_gain, 
-            ewma_last_pos_gain, perf_factor_count, ewma_perf_factor, 
-            recent_perf_factor, 
-            CASE 
+        SELECT
+            total_races, wins, places, shows,
+            ewma_pos_factor, ewma_pos_gain, ewma_late_pos_gain,
+            ewma_last_pos_gain, perf_factor_count, ewma_perf_factor,
+            recent_perf_factor,
+            CASE
                 WHEN %s = 'Dirt' THEN ewma_dirt_perf_factor
                 WHEN %s = 'Turf' THEN ewma_turf_perf_factor
                 WHEN %s = 'AWT' THEN ewma_awt_perf_factor
-            END as ewma_surface_perf_factor, 
+            END as ewma_surface_perf_factor,
             distance_factor
         FROM Horses
         WHERE normalized_name = %s
-    ), 
+    ),
     JockeyStats AS (
         SELECT *
         FROM Jockeys
         WHERE normalized_name = %s
-    ), 
+    ),
     TrainerStats AS (
-        SELECT 
-            total_races, wins, places, shows, ewma_pos_factor, 
-            perf_factor_count, ewma_perf_factor, 
-            CASE 
+        SELECT
+            total_races, wins, places, shows, ewma_pos_factor,
+            perf_factor_count, ewma_perf_factor,
+            CASE
                 WHEN %s = 'Dirt' THEN ewma_dirt_perf_factor
                 WHEN %s = 'Turf' THEN ewma_turf_perf_factor
                 WHEN %s = 'AWT' THEN ewma_awt_perf_factor
-            END as ewma_surface_perf_factor, 
+            END as ewma_surface_perf_factor,
             distance_factor
         FROM Trainers
         WHERE normalized_name = %s
-    ), 
+    ),
     OwnerStats AS (
         SELECT *
         FROM Owners
         WHERE normalized_name = %s
-    ), 
+    ),
     HorseJockeyStats AS (
         SELECT *
         FROM horse_jockey
         WHERE horse_n_name = %s AND jockey_n_name = %s
-    ), 
+    ),
     HorseTrainerStats AS (
         SELECT *
         FROM horse_trainer
         WHERE horse_n_name = %s AND trainer_n_name = %s
-    ), 
+    ),
     TrainerTrackStats AS (
         SELECT *
         FROM trainer_track
         WHERE trainer_n_name = %s AND track_n_name = %s AND surface = %s
-    ), 
+    ),
     OwnerTrainerStats AS (
         SELECT *
         FROM owner_trainer
         WHERE owner_n_name = %s AND trainer_n_name = %s
-    ), 
+    ),
     HorseTrackStats AS (
         SELECT *
         FROM horse_track
         WHERE horse_n_name = %s AND track_n_name = %s AND surface = %s
-    ), 
+    ),
     JockeyTrainerStats AS (
         SELECT *
         FROM jockey_trainer
@@ -1027,156 +1234,157 @@ def addTestable(
     )
     INSERT INTO Testables (
         race_id, final_pos, horse_n_name, race_type,
-        
+
         track_ewma_speed,
-        
-        weight, horse_total_races, horse_wins, horse_places, horse_shows, 
-        horse_ewma_pos_factor, horse_ewma_pos_gain, horse_ewma_late_pos_gain, 
-        horse_ewma_last_pos_gain, horse_perf_factor_count, horse_ewma_perf_factor, 
+
+        weight, horse_total_races, horse_wins, horse_places, horse_shows,
+        horse_ewma_pos_factor, horse_ewma_pos_gain, horse_ewma_late_pos_gain,
+        horse_ewma_last_pos_gain, horse_perf_factor_count, horse_ewma_perf_factor,
         horse_recent_perf_factor, horse_ewma_surface_perf_factor, horse_distance_factor,
-        
-        jockey_ewma_pos_gain, jockey_ewma_late_pos_gain, jockey_ewma_last_pos_gain, 
-        jockey_total_races, jockey_wins, jockey_places, jockey_shows, 
+
+        jockey_ewma_pos_gain, jockey_ewma_late_pos_gain, jockey_ewma_last_pos_gain,
+        jockey_total_races, jockey_wins, jockey_places, jockey_shows,
         jockey_ewma_pos_factor, jockey_perf_factor_count, jockey_ewma_perf_factor,
-        
-        trainer_total_races, trainer_wins, trainer_places, trainer_shows, 
-        trainer_ewma_pos_factor, trainer_perf_factor_count, trainer_ewma_perf_factor, 
+
+        trainer_total_races, trainer_wins, trainer_places, trainer_shows,
+        trainer_ewma_pos_factor, trainer_perf_factor_count, trainer_ewma_perf_factor,
         trainer_ewma_surface_perf_factor, trainer_distance_factor,
-        
-        owner_total_races, owner_wins, owner_places, owner_shows, owner_ewma_pos_factor, 
+
+        owner_total_races, owner_wins, owner_places, owner_shows, owner_ewma_pos_factor,
         owner_perf_factor_count, owner_ewma_perf_factor,
-        
+
         weather, temperature, track_state, distance,
-        
-        horse_jockey_total_races, horse_jockey_wins, horse_jockey_places, 
-        horse_jockey_shows, horse_jockey_ewma_pos_factor, horse_jockey_perf_factor_count, 
+
+        horse_jockey_total_races, horse_jockey_wins, horse_jockey_places,
+        horse_jockey_shows, horse_jockey_ewma_pos_factor, horse_jockey_perf_factor_count,
         horse_jockey_ewma_perf_factor,
-        
-        horse_trainer_total_races, horse_trainer_wins, horse_trainer_places, 
-        horse_trainer_shows, horse_trainer_ewma_pos_factor, horse_trainer_perf_factor_count, 
+
+        horse_trainer_total_races, horse_trainer_wins, horse_trainer_places,
+        horse_trainer_shows, horse_trainer_ewma_pos_factor, horse_trainer_perf_factor_count,
         horse_trainer_ewma_perf_factor,
-        
-        trainer_track_total_races, trainer_track_wins, trainer_track_places, 
-        trainer_track_shows, trainer_track_ewma_pos_factor, trainer_track_perf_factor_count, 
+
+        trainer_track_total_races, trainer_track_wins, trainer_track_places,
+        trainer_track_shows, trainer_track_ewma_pos_factor, trainer_track_perf_factor_count,
         trainer_track_ewma_perf_factor,
-        
-        owner_trainer_total_races, owner_trainer_wins, owner_trainer_places, 
-        owner_trainer_shows, owner_trainer_ewma_pos_factor, owner_trainer_perf_factor_count, 
+
+        owner_trainer_total_races, owner_trainer_wins, owner_trainer_places,
+        owner_trainer_shows, owner_trainer_ewma_pos_factor, owner_trainer_perf_factor_count,
         owner_trainer_ewma_perf_factor,
-        
-        horse_track_total_races, horse_track_wins, horse_track_places, 
-        horse_track_shows, horse_track_ewma_pos_factor, horse_track_perf_factor_count, 
+
+        horse_track_total_races, horse_track_wins, horse_track_places,
+        horse_track_shows, horse_track_ewma_pos_factor, horse_track_perf_factor_count,
         horse_track_ewma_perf_factor,
-        
-        jockey_trainer_total_races, jockey_trainer_wins, jockey_trainer_places, 
-        jockey_trainer_shows, jockey_trainer_ewma_pos_factor, jockey_trainer_perf_factor_count, 
+
+        jockey_trainer_total_races, jockey_trainer_wins, jockey_trainer_places,
+        jockey_trainer_shows, jockey_trainer_ewma_pos_factor, jockey_trainer_perf_factor_count,
         jockey_trainer_ewma_perf_factor,
-        
+
         odds)
-    
+
     SELECT
         %s, %s, %s, %s, -- race_id, final_pos, horse_n_name, race_type
-        
+
         (SELECT ewma_speed FROM TrackSpeed), -- track_ewma_speed
-        
+
         %s, -- weight
-        
-        (SELECT total_races FROM HorseStats), 
-        (SELECT wins FROM HorseStats), 
-        (SELECT places FROM HorseStats), 
-        (SELECT shows FROM HorseStats), 
-        (SELECT ewma_pos_factor FROM HorseStats), 
-        (SELECT ewma_pos_gain FROM HorseStats), 
-        (SELECT ewma_late_pos_gain FROM HorseStats), 
-        (SELECT ewma_last_pos_gain FROM HorseStats), 
-        (SELECT perf_factor_count FROM HorseStats), 
-        (SELECT ewma_perf_factor FROM HorseStats), 
-        (SELECT recent_perf_factor FROM HorseStats), 
-        (SELECT ewma_surface_perf_factor FROM HorseStats), 
+
+        (SELECT total_races FROM HorseStats),
+        (SELECT wins FROM HorseStats),
+        (SELECT places FROM HorseStats),
+        (SELECT shows FROM HorseStats),
+        (SELECT ewma_pos_factor FROM HorseStats),
+        (SELECT ewma_pos_gain FROM HorseStats),
+        (SELECT ewma_late_pos_gain FROM HorseStats),
+        (SELECT ewma_last_pos_gain FROM HorseStats),
+        (SELECT perf_factor_count FROM HorseStats),
+        (SELECT ewma_perf_factor FROM HorseStats),
+        (SELECT recent_perf_factor FROM HorseStats),
+        (SELECT ewma_surface_perf_factor FROM HorseStats),
         (SELECT distance_factor FROM HorseStats), -- horse stats
-        
-        (SELECT ewma_pos_gain FROM JockeyStats), 
-        (SELECT ewma_late_pos_gain FROM JockeyStats), 
-        (SELECT ewma_last_pos_gain FROM JockeyStats), 
-        (SELECT total_races FROM JockeyStats), 
-        (SELECT wins FROM JockeyStats), 
-        (SELECT places FROM JockeyStats), 
-        (SELECT shows FROM JockeyStats), 
-        (SELECT ewma_pos_factor FROM JockeyStats), 
-        (SELECT perf_factor_count FROM JockeyStats), 
+
+        (SELECT ewma_pos_gain FROM JockeyStats),
+        (SELECT ewma_late_pos_gain FROM JockeyStats),
+        (SELECT ewma_last_pos_gain FROM JockeyStats),
+        (SELECT total_races FROM JockeyStats),
+        (SELECT wins FROM JockeyStats),
+        (SELECT places FROM JockeyStats),
+        (SELECT shows FROM JockeyStats),
+        (SELECT ewma_pos_factor FROM JockeyStats),
+        (SELECT perf_factor_count FROM JockeyStats),
         (SELECT ewma_perf_factor FROM JockeyStats), -- jockey stats
-        
-        (SELECT total_races FROM TrainerStats), 
-        (SELECT wins FROM TrainerStats), 
-        (SELECT places FROM TrainerStats), 
-        (SELECT shows FROM TrainerStats), 
-        (SELECT ewma_pos_factor FROM TrainerStats), 
-        (SELECT perf_factor_count FROM TrainerStats), 
-        (SELECT ewma_perf_factor FROM TrainerStats), 
-        (SELECT ewma_surface_perf_factor FROM TrainerStats), 
+
+        (SELECT total_races FROM TrainerStats),
+        (SELECT wins FROM TrainerStats),
+        (SELECT places FROM TrainerStats),
+        (SELECT shows FROM TrainerStats),
+        (SELECT ewma_pos_factor FROM TrainerStats),
+        (SELECT perf_factor_count FROM TrainerStats),
+        (SELECT ewma_perf_factor FROM TrainerStats),
+        (SELECT ewma_surface_perf_factor FROM TrainerStats),
         (SELECT distance_factor FROM TrainerStats), -- trainer stats
-        
-        (SELECT total_races FROM OwnerStats), 
-        (SELECT wins FROM OwnerStats), 
-        (SELECT places FROM OwnerStats), 
-        (SELECT shows FROM OwnerStats), 
-        (SELECT ewma_pos_factor FROM OwnerStats), 
-        (SELECT perf_factor_count FROM OwnerStats), 
+
+        (SELECT total_races FROM OwnerStats),
+        (SELECT wins FROM OwnerStats),
+        (SELECT places FROM OwnerStats),
+        (SELECT shows FROM OwnerStats),
+        (SELECT ewma_pos_factor FROM OwnerStats),
+        (SELECT perf_factor_count FROM OwnerStats),
         (SELECT ewma_perf_factor FROM OwnerStats), -- owner stats
-        
+
         %s, %s, %s, %s, -- weather, temperature, track_state, distance
-        
-        (SELECT total_races FROM HorseJockeyStats), 
-        (SELECT wins FROM HorseJockeyStats), 
-        (SELECT places FROM HorseJockeyStats), 
-        (SELECT shows FROM HorseJockeyStats), 
-        (SELECT ewma_pos_factor FROM HorseJockeyStats), 
-        (SELECT perf_factor_count FROM HorseJockeyStats), 
+
+        (SELECT total_races FROM HorseJockeyStats),
+        (SELECT wins FROM HorseJockeyStats),
+        (SELECT places FROM HorseJockeyStats),
+        (SELECT shows FROM HorseJockeyStats),
+        (SELECT ewma_pos_factor FROM HorseJockeyStats),
+        (SELECT perf_factor_count FROM HorseJockeyStats),
         (SELECT ewma_perf_factor FROM HorseJockeyStats), -- horse-jockey stats
-        
-        (SELECT total_races FROM HorseTrainerStats), 
-        (SELECT wins FROM HorseTrainerStats), 
-        (SELECT places FROM HorseTrainerStats), 
-        (SELECT shows FROM HorseTrainerStats), 
-        (SELECT ewma_pos_factor FROM HorseTrainerStats), 
-        (SELECT perf_factor_count FROM HorseTrainerStats), 
+
+        (SELECT total_races FROM HorseTrainerStats),
+        (SELECT wins FROM HorseTrainerStats),
+        (SELECT places FROM HorseTrainerStats),
+        (SELECT shows FROM HorseTrainerStats),
+        (SELECT ewma_pos_factor FROM HorseTrainerStats),
+        (SELECT perf_factor_count FROM HorseTrainerStats),
         (SELECT ewma_perf_factor FROM HorseTrainerStats), -- horse-trainer stats
-        
-        (SELECT total_races FROM TrainerTrackStats), 
-        (SELECT wins FROM TrainerTrackStats), 
-        (SELECT places FROM TrainerTrackStats), 
-        (SELECT shows FROM TrainerTrackStats), 
-        (SELECT ewma_pos_factor FROM TrainerTrackStats), 
-        (SELECT perf_factor_count FROM TrainerTrackStats), 
+
+        (SELECT total_races FROM TrainerTrackStats),
+        (SELECT wins FROM TrainerTrackStats),
+        (SELECT places FROM TrainerTrackStats),
+        (SELECT shows FROM TrainerTrackStats),
+        (SELECT ewma_pos_factor FROM TrainerTrackStats),
+        (SELECT perf_factor_count FROM TrainerTrackStats),
         (SELECT ewma_perf_factor FROM TrainerTrackStats), -- trainer-track stats
-        
-        (SELECT total_races FROM OwnerTrainerStats), 
-        (SELECT wins FROM OwnerTrainerStats), 
-        (SELECT places FROM OwnerTrainerStats), 
-        (SELECT shows FROM OwnerTrainerStats), 
-        (SELECT ewma_pos_factor FROM OwnerTrainerStats), 
-        (SELECT perf_factor_count FROM OwnerTrainerStats), 
+
+        (SELECT total_races FROM OwnerTrainerStats),
+        (SELECT wins FROM OwnerTrainerStats),
+        (SELECT places FROM OwnerTrainerStats),
+        (SELECT shows FROM OwnerTrainerStats),
+        (SELECT ewma_pos_factor FROM OwnerTrainerStats),
+        (SELECT perf_factor_count FROM OwnerTrainerStats),
         (SELECT ewma_perf_factor FROM OwnerTrainerStats), -- owner-trainer stats
-        
-        (SELECT total_races FROM HorseTrackStats), 
-        (SELECT wins FROM HorseTrackStats), 
-        (SELECT places FROM HorseTrackStats), 
-        (SELECT shows FROM HorseTrackStats), 
-        (SELECT ewma_pos_factor FROM HorseTrackStats), 
-        (SELECT perf_factor_count FROM HorseTrackStats), 
+
+        (SELECT total_races FROM HorseTrackStats),
+        (SELECT wins FROM HorseTrackStats),
+        (SELECT places FROM HorseTrackStats),
+        (SELECT shows FROM HorseTrackStats),
+        (SELECT ewma_pos_factor FROM HorseTrackStats),
+        (SELECT perf_factor_count FROM HorseTrackStats),
         (SELECT ewma_perf_factor FROM HorseTrackStats), -- horse-track stats
-        
-        (SELECT total_races FROM JockeyTrainerStats), 
-        (SELECT wins FROM JockeyTrainerStats), 
-        (SELECT places FROM JockeyTrainerStats), 
-        (SELECT shows FROM JockeyTrainerStats), 
-        (SELECT ewma_pos_factor FROM JockeyTrainerStats), 
-        (SELECT perf_factor_count FROM JockeyTrainerStats), 
+
+        (SELECT total_races FROM JockeyTrainerStats),
+        (SELECT wins FROM JockeyTrainerStats),
+        (SELECT places FROM JockeyTrainerStats),
+        (SELECT shows FROM JockeyTrainerStats),
+        (SELECT ewma_pos_factor FROM JockeyTrainerStats),
+        (SELECT perf_factor_count FROM JockeyTrainerStats),
         (SELECT ewma_perf_factor FROM JockeyTrainerStats), -- jockey-trainer stats
-        
+
         %s
     """
 
+    # Values to be used in the query
     values = (
         # CTEs
         track_n_name,  # TrackSpeed
@@ -1220,8 +1428,19 @@ def addTestable(
     return query, values
 
 
-# Copy bad testables to trainables
 def copyBadTestables():
+    """
+    Copy invalid testable records to the Trainables table.
+
+    An testable is invalid if any other testables from the same race, which will have the same race_id, do not have a
+    valid Odds value. This often means that soemthing went wrong with a certain horse's race performance, and in these cases,
+    we do not want to test our model against this data. Instead, we will convert these testables into trainables. There is
+    still some value in training based off of these unusual results because the other horses in most cases still compete
+    normally against each other.
+
+    Returns:
+        str: A SQL query string to insert invalid testable records into the Trainables table.
+    """
     return """
     WITH BadEntries AS (
         SELECT *
@@ -1235,72 +1454,72 @@ def copyBadTestables():
     INSERT INTO Trainables (
         race_id, final_pos, horse_n_name, race_type,
         track_ewma_speed,
-        weight, horse_total_races, horse_wins, horse_places, horse_shows, 
-        horse_ewma_pos_factor, horse_ewma_pos_gain, horse_ewma_late_pos_gain, 
-        horse_ewma_last_pos_gain, horse_perf_factor_count, horse_ewma_perf_factor, 
+        weight, horse_total_races, horse_wins, horse_places, horse_shows,
+        horse_ewma_pos_factor, horse_ewma_pos_gain, horse_ewma_late_pos_gain,
+        horse_ewma_last_pos_gain, horse_perf_factor_count, horse_ewma_perf_factor,
         horse_recent_perf_factor, horse_ewma_surface_perf_factor, horse_distance_factor,
-        jockey_ewma_pos_gain, jockey_ewma_late_pos_gain, jockey_ewma_last_pos_gain, 
-        jockey_total_races, jockey_wins, jockey_places, jockey_shows, 
+        jockey_ewma_pos_gain, jockey_ewma_late_pos_gain, jockey_ewma_last_pos_gain,
+        jockey_total_races, jockey_wins, jockey_places, jockey_shows,
         jockey_ewma_pos_factor, jockey_perf_factor_count, jockey_ewma_perf_factor,
-        trainer_total_races, trainer_wins, trainer_places, trainer_shows, 
-        trainer_ewma_pos_factor, trainer_perf_factor_count, trainer_ewma_perf_factor, 
+        trainer_total_races, trainer_wins, trainer_places, trainer_shows,
+        trainer_ewma_pos_factor, trainer_perf_factor_count, trainer_ewma_perf_factor,
         trainer_ewma_surface_perf_factor, trainer_distance_factor,
-        owner_total_races, owner_wins, owner_places, owner_shows, owner_ewma_pos_factor, 
+        owner_total_races, owner_wins, owner_places, owner_shows, owner_ewma_pos_factor,
         owner_perf_factor_count, owner_ewma_perf_factor,
         weather, temperature, track_state, distance,
-        horse_jockey_total_races, horse_jockey_wins, horse_jockey_places, 
-        horse_jockey_shows, horse_jockey_ewma_pos_factor, horse_jockey_perf_factor_count, 
+        horse_jockey_total_races, horse_jockey_wins, horse_jockey_places,
+        horse_jockey_shows, horse_jockey_ewma_pos_factor, horse_jockey_perf_factor_count,
         horse_jockey_ewma_perf_factor,
-        horse_trainer_total_races, horse_trainer_wins, horse_trainer_places, 
-        horse_trainer_shows, horse_trainer_ewma_pos_factor, horse_trainer_perf_factor_count, 
+        horse_trainer_total_races, horse_trainer_wins, horse_trainer_places,
+        horse_trainer_shows, horse_trainer_ewma_pos_factor, horse_trainer_perf_factor_count,
         horse_trainer_ewma_perf_factor,
-        trainer_track_total_races, trainer_track_wins, trainer_track_places, 
-        trainer_track_shows, trainer_track_ewma_pos_factor, trainer_track_perf_factor_count, 
+        trainer_track_total_races, trainer_track_wins, trainer_track_places,
+        trainer_track_shows, trainer_track_ewma_pos_factor, trainer_track_perf_factor_count,
         trainer_track_ewma_perf_factor,
-        owner_trainer_total_races, owner_trainer_wins, owner_trainer_places, 
-        owner_trainer_shows, owner_trainer_ewma_pos_factor, owner_trainer_perf_factor_count, 
+        owner_trainer_total_races, owner_trainer_wins, owner_trainer_places,
+        owner_trainer_shows, owner_trainer_ewma_pos_factor, owner_trainer_perf_factor_count,
         owner_trainer_ewma_perf_factor,
-        horse_track_total_races, horse_track_wins, horse_track_places, 
-        horse_track_shows, horse_track_ewma_pos_factor, horse_track_perf_factor_count, 
+        horse_track_total_races, horse_track_wins, horse_track_places,
+        horse_track_shows, horse_track_ewma_pos_factor, horse_track_perf_factor_count,
         horse_track_ewma_perf_factor,
-        jockey_trainer_total_races, jockey_trainer_wins, jockey_trainer_places, 
-        jockey_trainer_shows, jockey_trainer_ewma_pos_factor, jockey_trainer_perf_factor_count, 
+        jockey_trainer_total_races, jockey_trainer_wins, jockey_trainer_places,
+        jockey_trainer_shows, jockey_trainer_ewma_pos_factor, jockey_trainer_perf_factor_count,
         jockey_trainer_ewma_perf_factor,
         won, placed, showed
     )
     SELECT
         race_id, final_pos, horse_n_name, race_type,
         track_ewma_speed,
-        weight, horse_total_races, horse_wins, horse_places, horse_shows, 
-        horse_ewma_pos_factor, horse_ewma_pos_gain, horse_ewma_late_pos_gain, 
-        horse_ewma_last_pos_gain, horse_perf_factor_count, horse_ewma_perf_factor, 
+        weight, horse_total_races, horse_wins, horse_places, horse_shows,
+        horse_ewma_pos_factor, horse_ewma_pos_gain, horse_ewma_late_pos_gain,
+        horse_ewma_last_pos_gain, horse_perf_factor_count, horse_ewma_perf_factor,
         horse_recent_perf_factor, horse_ewma_surface_perf_factor, horse_distance_factor,
-        jockey_ewma_pos_gain, jockey_ewma_late_pos_gain, jockey_ewma_last_pos_gain, 
-        jockey_total_races, jockey_wins, jockey_places, jockey_shows, 
+        jockey_ewma_pos_gain, jockey_ewma_late_pos_gain, jockey_ewma_last_pos_gain,
+        jockey_total_races, jockey_wins, jockey_places, jockey_shows,
         jockey_ewma_pos_factor, jockey_perf_factor_count, jockey_ewma_perf_factor,
-        trainer_total_races, trainer_wins, trainer_places, trainer_shows, 
-        trainer_ewma_pos_factor, trainer_perf_factor_count, trainer_ewma_perf_factor, 
+        trainer_total_races, trainer_wins, trainer_places, trainer_shows,
+        trainer_ewma_pos_factor, trainer_perf_factor_count, trainer_ewma_perf_factor,
         trainer_ewma_surface_perf_factor, trainer_distance_factor,
-        owner_total_races, owner_wins, owner_places, owner_shows, owner_ewma_pos_factor, 
+        owner_total_races, owner_wins, owner_places, owner_shows, owner_ewma_pos_factor,
         owner_perf_factor_count, owner_ewma_perf_factor,
         weather, temperature, track_state, distance,
-        horse_jockey_total_races, horse_jockey_wins, horse_jockey_places, 
-        horse_jockey_shows, horse_jockey_ewma_pos_factor, horse_jockey_perf_factor_count, 
+        horse_jockey_total_races, horse_jockey_wins, horse_jockey_places,
+        horse_jockey_shows, horse_jockey_ewma_pos_factor, horse_jockey_perf_factor_count,
         horse_jockey_ewma_perf_factor,
-        horse_trainer_total_races, horse_trainer_wins, horse_trainer_places, 
-        horse_trainer_shows, horse_trainer_ewma_pos_factor, horse_trainer_perf_factor_count, 
+        horse_trainer_total_races, horse_trainer_wins, horse_trainer_places,
+        horse_trainer_shows, horse_trainer_ewma_pos_factor, horse_trainer_perf_factor_count,
         horse_trainer_ewma_perf_factor,
-        trainer_track_total_races, trainer_track_wins, trainer_track_places, 
-        trainer_track_shows, trainer_track_ewma_pos_factor, trainer_track_perf_factor_count, 
+        trainer_track_total_races, trainer_track_wins, trainer_track_places,
+        trainer_track_shows, trainer_track_ewma_pos_factor, trainer_track_perf_factor_count,
         trainer_track_ewma_perf_factor,
-        owner_trainer_total_races, owner_trainer_wins, owner_trainer_places, 
-        owner_trainer_shows, owner_trainer_ewma_pos_factor, owner_trainer_perf_factor_count, 
+        owner_trainer_total_races, owner_trainer_wins, owner_trainer_places,
+        owner_trainer_shows, owner_trainer_ewma_pos_factor, owner_trainer_perf_factor_count,
         owner_trainer_ewma_perf_factor,
-        horse_track_total_races, horse_track_wins, horse_track_places, 
-        horse_track_shows, horse_track_ewma_pos_factor, horse_track_perf_factor_count, 
+        horse_track_total_races, horse_track_wins, horse_track_places,
+        horse_track_shows, horse_track_ewma_pos_factor, horse_track_perf_factor_count,
         horse_track_ewma_perf_factor,
-        jockey_trainer_total_races, jockey_trainer_wins, jockey_trainer_places, 
-        jockey_trainer_shows, jockey_trainer_ewma_pos_factor, jockey_trainer_perf_factor_count, 
+        jockey_trainer_total_races, jockey_trainer_wins, jockey_trainer_places,
+        jockey_trainer_shows, jockey_trainer_ewma_pos_factor, jockey_trainer_perf_factor_count,
         jockey_trainer_ewma_perf_factor,
         CASE
             WHEN final_pos = 1 THEN 0
@@ -1318,8 +1537,13 @@ def copyBadTestables():
     """
 
 
-# Remove bad testables
 def deleteBadTestables():
+    """
+    Delete invalid testable records from the 'Testables' table.
+
+    Returns:
+        str: A SQL query string to delete invalid testable records.
+    """
     return """
     WITH BadEntries AS (
         SELECT *
@@ -1337,8 +1561,13 @@ def deleteBadTestables():
     """
 
 
-# Fix the bad testables' performance entries
 def fixPerformances():
+    """
+    Change invalid testable performances to be recorded as trainables.
+
+    Returns:
+        str: A SQL query string to update invalid testable performances.
+    """
     return """
     UPDATE Performances
     SET use = 'TRAINING'
@@ -1350,13 +1579,23 @@ def fixPerformances():
     """
 
 
-# Drops Horses table
 def dropHorses():
+    """
+    Generate a SQL query to drop the 'Horses' table if it exists.
+
+    Returns:
+        str: A SQL query string to drop the 'Horses' table, including all dependent objects.
+    """
     return "DROP TABLE IF EXISTS Horses CASCADE;"
 
 
-# Builds Horses table
 def createHorses():
+    """
+    Generate a SQL query to create the 'Horses' table.
+
+    Returns:
+        str: A SQL query string to create the 'Horses' table with its schema definition.
+    """
     return """
         CREATE TABLE IF NOT EXISTS Horses (
             name VARCHAR(255) NOT NULL,
@@ -1380,7 +1619,6 @@ def createHorses():
         """
 
 
-# Add a new horse to the Horses table
 def addHorse(
     name,
     n_name,
@@ -1395,6 +1633,27 @@ def addHorse(
     distance,
     num_horses,
 ):
+    """
+    Add or update a horse's record in the 'Horses' table.
+
+    Args:
+        name (str): Full name of the horse.
+        n_name (str): Normalized name of the horse (unique identifier).
+        pos (int): Final position of the horse in the race.
+        pos_factor (Decimal): Position factor for the horse in the race.
+        pos_gain (Decimal): Positions gained by the horse during the race.
+        late_pos_gain (Decimal): Positions gained by the horse in the later stages of the race.
+        last_pos_gain (Decimal): Positions gained by the horse in the final stretch of the race.
+        speed (Decimal): Average speed of the race.
+        track_n_name (str): Normalized name of the track where the race occurred.
+        surface (str): Surface type of the track (e.g., 'Dirt', 'Turf', 'AWT').
+        distance (Decimal): Distance of the race.
+        num_horses (int): Total number of horses participating in the race.
+
+    Returns:
+        tuple: A SQL query string and a tuple of parameters for executing the query.
+    """
+    # Define alpha values for EWMA calculations
     alpha = Decimal(0.25)
     d_factor_max_alpha = 0.5
     d_factor_alpha = Decimal(
@@ -1408,18 +1667,18 @@ def addHorse(
         WHERE normalized_name = %s
     ),
     PerformanceFactor AS (
-        SELECT 
-            CASE 
+        SELECT
+            CASE
                 WHEN %s IS NULL OR (SELECT ewma_speed FROM TrackSpeed) IS NULL THEN NULL
                 ELSE %s + (10 * ((%s / (SELECT ewma_speed FROM TrackSpeed)) - 1))
             END AS p_factor
         FROM TrackSpeed
     )
     INSERT INTO Horses (
-        name, normalized_name, total_races, wins, places, shows, 
-        ewma_pos_factor, ewma_pos_gain, ewma_late_pos_gain, 
-        ewma_last_pos_gain, perf_factor_count, ewma_perf_factor, 
-        recent_perf_factor, ewma_dirt_perf_factor, ewma_turf_perf_factor, 
+        name, normalized_name, total_races, wins, places, shows,
+        ewma_pos_factor, ewma_pos_gain, ewma_late_pos_gain,
+        ewma_last_pos_gain, perf_factor_count, ewma_perf_factor,
+        recent_perf_factor, ewma_dirt_perf_factor, ewma_turf_perf_factor,
         ewma_awt_perf_factor, distance_factor
     )
     SELECT
@@ -1440,28 +1699,28 @@ def addHorse(
         wins = Horses.wins + excluded.wins,
         places = Horses.places + excluded.places,
         shows = Horses.shows + excluded.shows,
-        ewma_pos_factor = CASE 
+        ewma_pos_factor = CASE
             WHEN excluded.ewma_pos_factor IS NULL THEN Horses.ewma_pos_factor
             WHEN Horses.ewma_pos_factor IS NULL THEN excluded.ewma_pos_factor
             ELSE (excluded.ewma_pos_factor * %s) + ((1 - %s) * Horses.ewma_pos_factor)
         END,
-        ewma_pos_gain = CASE 
+        ewma_pos_gain = CASE
             WHEN excluded.ewma_pos_gain IS NULL THEN Horses.ewma_pos_gain
             WHEN Horses.ewma_pos_gain IS NULL THEN excluded.ewma_pos_gain
             ELSE (excluded.ewma_pos_gain * %s) + ((1 - %s) * Horses.ewma_pos_gain)
         END,
-        ewma_late_pos_gain = CASE 
+        ewma_late_pos_gain = CASE
             WHEN excluded.ewma_late_pos_gain IS NULL THEN Horses.ewma_late_pos_gain
             WHEN Horses.ewma_late_pos_gain IS NULL THEN excluded.ewma_late_pos_gain
             ELSE (excluded.ewma_late_pos_gain * %s) + ((1 - %s) * Horses.ewma_late_pos_gain)
         END,
-        ewma_last_pos_gain = CASE 
+        ewma_last_pos_gain = CASE
             WHEN excluded.ewma_last_pos_gain IS NULL THEN Horses.ewma_last_pos_gain
             WHEN Horses.ewma_last_pos_gain IS NULL THEN excluded.ewma_last_pos_gain
             ELSE (excluded.ewma_last_pos_gain * %s) + ((1 - %s) * Horses.ewma_last_pos_gain)
         END,
         perf_factor_count = Horses.perf_factor_count + excluded.perf_factor_count,
-        ewma_perf_factor = CASE 
+        ewma_perf_factor = CASE
             WHEN excluded.ewma_perf_factor IS NULL THEN Horses.ewma_perf_factor
             WHEN Horses.ewma_perf_factor IS NULL THEN excluded.ewma_perf_factor
             ELSE (excluded.ewma_perf_factor * %s) + ((1 - %s) * Horses.ewma_perf_factor)
@@ -1470,17 +1729,17 @@ def addHorse(
             WHEN excluded.recent_perf_factor IS NULL THEN Horses.recent_perf_factor
             ELSE excluded.recent_perf_factor
         END,
-        ewma_dirt_perf_factor = CASE 
+        ewma_dirt_perf_factor = CASE
             WHEN excluded.ewma_dirt_perf_factor IS NULL THEN Horses.ewma_dirt_perf_factor
             WHEN Horses.ewma_dirt_perf_factor IS NULL THEN excluded.ewma_dirt_perf_factor
             ELSE (excluded.ewma_dirt_perf_factor * %s) + ((1 - %s) * Horses.ewma_dirt_perf_factor)
         END,
-        ewma_turf_perf_factor = CASE 
+        ewma_turf_perf_factor = CASE
             WHEN excluded.ewma_turf_perf_factor IS NULL THEN Horses.ewma_turf_perf_factor
             WHEN Horses.ewma_turf_perf_factor IS NULL THEN excluded.ewma_turf_perf_factor
             ELSE (excluded.ewma_turf_perf_factor * %s) + ((1 - %s) * Horses.ewma_turf_perf_factor)
         END,
-        ewma_awt_perf_factor = CASE 
+        ewma_awt_perf_factor = CASE
             WHEN excluded.ewma_awt_perf_factor IS NULL THEN Horses.ewma_awt_perf_factor
             WHEN Horses.ewma_awt_perf_factor IS NULL THEN excluded.ewma_awt_perf_factor
             ELSE (excluded.ewma_awt_perf_factor * %s) + ((1 - %s) * Horses.ewma_awt_perf_factor)
@@ -1492,6 +1751,7 @@ def addHorse(
         END
     """
 
+    # Parameters for the SQL query
     values = (
         # CTEs
         track_n_name,  # TrackSpeed CTE
@@ -1537,12 +1797,10 @@ def addHorse(
     return query, values
 
 
-# Drops Tracks table
 def dropTracks():
     return "DROP TABLE IF EXISTS Tracks CASCADE;"
 
 
-# Builds Tracks table
 def createTracks():
     return """
         CREATE TABLE IF NOT EXISTS Tracks (
@@ -1553,7 +1811,6 @@ def createTracks():
         """
 
 
-# Add a track to the Tracks table
 def addTrack(name, n_name, speed):
     alpha = Decimal(0.1)
     query = """
@@ -1569,12 +1826,10 @@ def addTrack(name, n_name, speed):
     return query, (name, n_name, speed, alpha, alpha)
 
 
-# Drops Jockeys Table
 def dropJockeys():
     return "DROP TABLE IF EXISTS Jockeys CASCADE;"
 
 
-# Builds Jockeys table
 def createJockeys():
     return """
         CREATE TABLE IF NOT EXISTS Jockeys (
@@ -1594,7 +1849,6 @@ def createJockeys():
         """
 
 
-# Add a jockey to the Jockeys table
 def addJockey(
     name,
     n_name,
@@ -1696,12 +1950,10 @@ def addJockey(
     return query, values
 
 
-# Drops Races table
 def dropRaces():
     return "DROP TABLE IF EXISTS Races CASCADE;"
 
 
-# Builds Races table
 def createRaces():
     return """
         CREATE TABLE IF NOT EXISTS Races (
@@ -1735,7 +1987,6 @@ def createRaces():
         """
 
 
-# Add a race to the Races table
 def addRace(
     race_id,
     file_num,
@@ -1799,12 +2050,10 @@ def addRace(
     )
 
 
-# Drops horse_jockey table
 def dropHorseJockey():
     return "DROP TABLE IF EXISTS horse_jockey CASCADE;"
 
 
-# Builds horse_jockey table
 def createHorseJockey():
     return """
         CREATE TABLE IF NOT EXISTS horse_jockey (
@@ -1824,7 +2073,6 @@ def createHorseJockey():
         """
 
 
-# Add a horse_jockey relationship
 def addHorseJockey(horse_n_name, jockey_n_name, pos, pos_factor, speed, track_n_name):
     alpha = Decimal(0.2)
 
@@ -1892,12 +2140,10 @@ def addHorseJockey(horse_n_name, jockey_n_name, pos, pos_factor, speed, track_n_
     return query, values
 
 
-# Drops horse_trainer table
 def dropHorseTrainer():
     return "DROP TABLE IF EXISTS horse_trainer CASCADE;"
 
 
-# Builds horse_trainer table
 def createHorseTrainer():
     return """
         CREATE TABLE IF NOT EXISTS horse_trainer (
@@ -1917,7 +2163,6 @@ def createHorseTrainer():
         """
 
 
-# Add a horse_trainer relationship
 def addHorseTrainer(horse_n_name, trainer_n_name, pos, pos_factor, speed, track_n_name):
     alpha = Decimal(0.2)
 
@@ -1985,12 +2230,10 @@ def addHorseTrainer(horse_n_name, trainer_n_name, pos, pos_factor, speed, track_
     return query, values
 
 
-# Drops trainer_track table
 def dropTrainerTrack():
     return "DROP TABLE IF EXISTS trainer_track CASCADE;"
 
 
-# Builds trainer_track table
 def createTrainerTrack():
     return """
         CREATE TABLE IF NOT EXISTS trainer_track (
@@ -2011,7 +2254,6 @@ def createTrainerTrack():
         """
 
 
-# Add a trainer_track relationship
 def addTrainerTrack(trainer_n_name, track_n_name, pos, pos_factor, speed, surface):
     alpha = Decimal(0.15)
 
@@ -2080,12 +2322,10 @@ def addTrainerTrack(trainer_n_name, track_n_name, pos, pos_factor, speed, surfac
     return query, values
 
 
-# Drops horse_track table
 def dropHorseTrack():
     return "DROP TABLE IF EXISTS horse_track CASCADE;"
 
 
-# Builds horse_tracke table
 def createHorseTrack():
     return """
         CREATE TABLE IF NOT EXISTS horse_track (
@@ -2106,7 +2346,6 @@ def createHorseTrack():
         """
 
 
-# Add a horse_track relationship
 def addHorseTrack(horse_n_name, track_n_name, pos, pos_factor, speed, surface):
     alpha = Decimal(0.2)
 
@@ -2175,12 +2414,10 @@ def addHorseTrack(horse_n_name, track_n_name, pos, pos_factor, speed, surface):
     return query, values
 
 
-# Drops jockey_trainer table
 def dropJockeyTrainer():
     return "DROP TABLE IF EXISTS jockey_trainer CASCADE;"
 
 
-# Builds jockey_trainer table
 def createJockeyTrainer():
     return """
         CREATE TABLE IF NOT EXISTS jockey_trainer (
@@ -2200,7 +2437,6 @@ def createJockeyTrainer():
         """
 
 
-# Add a jockey_track relationship
 def addJockeyTrainer(
     jockey_n_name, trainer_n_name, pos, pos_factor, speed, track_n_name
 ):
@@ -2270,12 +2506,10 @@ def addJockeyTrainer(
     return query, values
 
 
-# Drops owner_trainer table
 def dropOwnerTrainer():
     return "DROP TABLE IF EXISTS owner_trainer CASCADE;"
 
 
-# Builds owner_trainer table
 def createOwnerTrainer():
     return """
         CREATE TABLE IF NOT EXISTS owner_trainer (
@@ -2295,7 +2529,6 @@ def createOwnerTrainer():
         """
 
 
-# Add an owner_trainer relationship
 def addOwnerTrainer(owner_n_name, trainer_n_name, pos, pos_factor, speed, track_n_name):
     alpha = Decimal(0.15)
 
@@ -2363,12 +2596,10 @@ def addOwnerTrainer(owner_n_name, trainer_n_name, pos, pos_factor, speed, track_
     return query, values
 
 
-# Normalize a name string
 def normalize(name):
     return re.sub(r"[^a-z0-9]", "", unidecode.unidecode(name.strip().lower()))
 
 
-# This method converts date strings in the form "Month Date, Year" to sql date variables
 def convertDate(date_str):
     # Convert the string date into a datetime object
     date_obj = datetime.strptime(date_str, "%B %d, %Y")
@@ -2377,7 +2608,6 @@ def convertDate(date_str):
     return date_obj.strftime("%Y-%m-%d")
 
 
-# This method converts strings of temperatures to floats and accounts for celsius temps
 def convertTemp(temp):
     if "° C" in temp:
         return (float(temp.replace("° C", "")) * (9 / 5)) + 32
@@ -2385,7 +2615,6 @@ def convertTemp(temp):
         return float(temp)
 
 
-# This method converts times to floats
 def convertTime(time):
     if time != "N/A":
         nums = [float(n) for n in re.split("[:.]", time)]
