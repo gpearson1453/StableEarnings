@@ -1,112 +1,168 @@
+"""
+addSetup.py processes setup.csv (or testing.csv) to populate the database with setup data.
+
+This script adds setup data, such as tracks, horses, jockeys, trainers, owners, races, and relationships between these
+entities. Data is read from a CSV file and inserted into the corresponding database tables in batches for efficient
+processing. Setup data is added before training and testing data to allow for horses, jockeys, etc. to have established
+statistical profiles before the model is trained on how those profiles compare to each other.
+
+Steps:
+    - Optionally reset specific database tables before inserting new data.
+    - Process rows from a CSV file in batches of 1000.
+    - Normalize and transform data where needed (e.g., locations, horse names).
+    - Add data for tracks, horses, jockeys, trainers, owners, races, and entity relationships.
+    - Commit batches to the database to optimize performance and avoid memory overload.
+
+Functions:
+    - addTracksToDB: Adds track data to the database.
+    - addHorsesToDB: Adds horse data to the database.
+    - addJockeysToDB: Adds jockey data to the database.
+    - addTrainersToDB: Adds trainer data to the database.
+    - addOwnersToDB: Adds owner data to the database.
+    - addRacesAndPerformancesToDB: Adds race and performance data to the database.
+    - addOwnerTrainerToDB: Adds owner-trainer relationship data to the database.
+    - addHorseTrackToDB: Adds horse-track relationship data to the database.
+    - addJockeyTrainerToDB: Adds jockey-trainer relationship data to the database.
+    - addHorseJockeyToDB: Adds horse-jockey relationship data to the database.
+    - addHorseTrainerToDB: Adds horse-trainer relationship data to the database.
+    - addTrainerTrackToDB: Adds trainer-track relationship data to the database.
+
+Usage:
+    Execute this script to populate the database with setup data. Ensure the CSV file path is correct.
+"""
 import csv
 import dataMethods as dm
 import os
 import time
 from decimal import Decimal
 import queue
-import uuid
 
-# Set the working directory to the script's location
+# Set script directory to ensure relative paths work correctly
 script_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(script_dir)
 
-# Global variables
-conn = None
-batch_queue = queue.Queue()
-start_time = time.time()  # Start time of the program
-total_rows = -1
+# Global variables for batch processing
+conn = None  # Database connection object
+batch_queue = queue.Queue()  # Queue to hold batches of queries for processing
+start_time = time.time()  # Start time for progress tracking
+total_rows = -1  # Total rows in the CSV file
 
 
-# Function to push batches to the database
 def pushBatches():
+    """
+    Process and commit batches of database queries stored in the batch queue.
+
+    This function handles and gives an approximate location of the problematic row in the csv file and retries database
+    connection if necessary.
+    """
     global batch_queue, total_rows, start_time
     b_total = 0
-    conn = dm.local_connect("StableEarnings")  # Open the connection once at the start
-    start_time = time.time()
+    conn = dm.local_connect("StableEarnings")  # Establish connection to the database
+    start_time = time.time()  # Reset the start time
     try:
         while not batch_queue.empty():
             try:
                 with conn.cursor() as cur:
-                    b, row_num = batch_queue.get()
+                    b, row_num = batch_queue.get()  # Retrieve the batch and row number
                     b_total += len(b)
                     for query, params in b:
-                        cur.execute(query, params)
-                    conn.commit()
+                        cur.execute(query, params)  # Execute each query in the batch
+                    conn.commit()  # Commit the batch to the database
                     if row_num:
                         if b_total >= 50000:
                             print(f"{b_total} queries processed.")
-                            clockCheck(row_num, total_rows)
+                            clockCheck(row_num, total_rows)  # Display progress
                             b_total = 0
                     else:
                         print("Reset processed.")
 
             except Exception as e:
-                conn.rollback()
+                conn.rollback()  # Rollback in case of an error
                 print(f"Error occurred in batch: {e} at around row {row_num}")
-                # Reconnect if the connection is closed due to an error
                 if conn.closed:
-                    conn = dm.connect_db("defaultdb")
+                    conn = dm.connect_db("defaultdb")  # Reconnect if the connection is closed
 
     finally:
-        # Ensure connection is closed when all batches are finished
         if conn and not conn.closed:
             conn.close()
             print("Connection closed after batch processing.")
 
 
-# Helper function to format elapsed time
 def formatTime(seconds):
+    """
+    Format elapsed time in hours, minutes, and seconds.
+
+    Args:
+        seconds (float): Elapsed time in seconds.
+
+    Returns:
+        str: Formatted time string.
+    """
     hours = int(seconds // 3600)
     minutes = int((seconds % 3600) // 60)
     seconds = int(seconds % 60)
     return f"{hours}h {minutes}m {seconds}s"
 
 
-# Progress tracker
 def clockCheck(row_num, total_rows):
+    """
+    Display progress information based on elapsed time and rows processed.
+
+    Args:
+        row_num (int): Number of rows processed so far.
+        total_rows (int): Total number of rows to process.
+    """
     elapsed_time = time.time() - start_time
     rows_per_sec = row_num / elapsed_time
     estimated_time_left = (total_rows - row_num) / rows_per_sec
 
-    # Format elapsed time and estimated time left in hours, minutes, and seconds
     formatted_elapsed_time = formatTime(elapsed_time)
     formatted_time_left = formatTime(estimated_time_left)
 
     print(
-        f"Rows processed: {row_num}/{total_rows}.     Time elapsed: {formatted_elapsed_time}     Estimated time remaining: {formatted_time_left}"
+        f"Rows processed: {row_num}/{total_rows}.     " +
+        f"Time elapsed: {formatted_elapsed_time}     Estimated time remaining: {formatted_time_left}"
     )
 
 
 def addTracksToDB(file_path, reset):
+    """
+    Add track data to the database from a CSV file.
+
+    Args:
+        file_path (str): Path to the CSV file containing the data.
+        reset (bool): If True, reset the tracks table before adding data.
+    """
     global batch_queue, total_rows
     try:
         print("Adding Tracks to DB.")
 
-        batch = []
+        batch = []  # Initialize a batch for queries
 
         if reset:
+            # Drop and recreate the Tracks table if reset is True
             batch.append((dm.dropTracks(), None))
             batch.append((dm.createTracks(), None))
             batch_queue.put((batch.copy(), None))
             batch.clear()
             print("Tracks table reset.")
 
-        # Get total number of rows in the CSV for progress tracking
+        # Count total rows in the file for progress tracking
         with open(file_path, mode="r") as csv_file:
-            total_rows = sum(1 for row in csv_file) - 1  # Subtract 1 for the header row
+            total_rows = sum(1 for row in csv_file) - 1
 
+        # Reopen file to read data rows
         with open(file_path, mode="r") as csv_file:
             csv_reader = csv.DictReader(csv_file)
-            prev_file_num = -1
+            prev_file_num = -1  # Track the last file number processed
 
             for row_num, row in enumerate(csv_reader, start=1):
-                # Add logic to prepare each batch
+                # If file number changes or batch reaches size 1000, process the batch
                 if row["file_number"] != prev_file_num:
                     if len(batch) >= 1000:
                         batch_queue.put((batch.copy(), row_num))
-                        batch.clear()  # Clear for next batch
-                    # Process and add track
-                    track_n_name = dm.normalize(row["location"])
+                        batch.clear()
+                    track_n_name = dm.normalize(row["location"])  # Normalize track location name
                     batch.append(
                         dm.addTrack(
                             row["location"],
@@ -116,21 +172,31 @@ def addTracksToDB(file_path, reset):
                                 / Decimal(row["final_time"])
                                 if row["final_time"]
                                 else None
-                            ),
+                            ),  # Calculate speed if time is provided
                         )
                     )
-                    prev_file_num = row["file_number"]
+                    prev_file_num = row["file_number"]  # Update previous file number
 
-            # Push any remaining queries as the final batch
+            # Process any remaining queries in the batch
             if batch:
                 batch_queue.put((batch.copy(), row_num))
-                batch.clear()  # Clear for next batch
+                batch.clear()
 
     finally:
-        pushBatches()
+        pushBatches()  # Commit all remaining batches to the database
+
+
+# All other functions for adding data (addRacesAndPerformancesToDB(), addHorses(), etc.) have similar structures.
 
 
 def addRacesAndPerformancesToDB(file_path, reset):
+    """
+    Add race and performance data to the database from a CSV file.
+
+    Args:
+        file_path (str): Path to the CSV file containing the data.
+        reset (bool): If True, reset the races and performances tables before adding data.
+    """
     global batch_queue, total_rows
     try:
         print("Adding Races and Performances to DB.")
@@ -150,16 +216,14 @@ def addRacesAndPerformancesToDB(file_path, reset):
             batch.clear()
             print("Performances table reset.")
 
-        # Get total number of rows in the CSV for progress tracking
         with open(file_path, mode="r") as csv_file:
-            total_rows = sum(1 for row in csv_file) - 1  # Subtract 1 for the header row
+            total_rows = sum(1 for row in csv_file) - 1
 
         with open(file_path, mode="r") as csv_file:
             csv_reader = csv.DictReader(csv_file)
             prev_file_num_race_num = (-1, -1)
 
             for row_num, row in enumerate(csv_reader, start=1):
-                # Add logic to prepare each batch
                 if (row["file_number"], row["race_number"]) != prev_file_num_race_num:
                     if len(batch) >= 1000:
                         batch_queue.put((batch.copy(), row_num))
@@ -248,16 +312,22 @@ def addRacesAndPerformancesToDB(file_path, reset):
                     )
                 )
 
-            # Push any remaining queries as the final batch
             if batch:
                 batch_queue.put((batch.copy(), row_num))
-                batch.clear()  # Clear for next batch
+                batch.clear()
 
     finally:
         pushBatches()
 
 
 def addHorsesToDB(file_path, reset):
+    """
+    Add horse data to the database from a CSV file.
+
+    Args:
+        file_path (str): Path to the CSV file containing the data.
+        reset (bool): If True, reset the horses table before adding data.
+    """
     global batch_queue, total_rows
     try:
         print("Adding Horses to DB.")
@@ -271,15 +341,13 @@ def addHorsesToDB(file_path, reset):
             batch.clear()
             print("Horses table reset.")
 
-        # Get total number of rows in the CSV for progress tracking
         with open(file_path, mode="r") as csv_file:
-            total_rows = sum(1 for row in csv_file) - 1  # Subtract 1 for the header row
+            total_rows = sum(1 for row in csv_file) - 1
 
         with open(file_path, mode="r") as csv_file:
             csv_reader = csv.DictReader(csv_file)
 
             for row_num, row in enumerate(csv_reader, start=1):
-                # Add logic to prepare each batch
                 if len(batch) >= 1000:
                     batch_queue.put((batch.copy(), row_num))
                     batch.clear()
@@ -302,16 +370,22 @@ def addHorsesToDB(file_path, reset):
                     )
                 )
 
-            # Push any remaining queries as the final batch
             if batch:
                 batch_queue.put((batch.copy(), row_num))
-                batch.clear()  # Clear for next batch
+                batch.clear()
 
     finally:
         pushBatches()
 
 
 def addJockeysToDB(file_path, reset):
+    """
+    Add jockey data to the database from a CSV file.
+
+    Args:
+        file_path (str): Path to the CSV file containing the data.
+        reset (bool): If True, reset the jockeys table before adding data.
+    """
     global batch_queue, total_rows
     try:
         print("Adding Jockeys to DB.")
@@ -325,15 +399,13 @@ def addJockeysToDB(file_path, reset):
             batch.clear()
             print("Jockeys table reset.")
 
-        # Get total number of rows in the CSV for progress tracking
         with open(file_path, mode="r") as csv_file:
-            total_rows = sum(1 for row in csv_file) - 1  # Subtract 1 for the header row
+            total_rows = sum(1 for row in csv_file) - 1
 
         with open(file_path, mode="r") as csv_file:
             csv_reader = csv.DictReader(csv_file)
 
             for row_num, row in enumerate(csv_reader, start=1):
-                # Add logic to prepare each batch
                 if len(batch) >= 1000:
                     batch_queue.put((batch.copy(), row_num))
                     batch.clear()
@@ -353,16 +425,22 @@ def addJockeysToDB(file_path, reset):
                     )
                 )
 
-            # Push any remaining queries as the final batch
             if batch:
                 batch_queue.put((batch.copy(), row_num))
-                batch.clear()  # Clear for next batch
+                batch.clear()
 
     finally:
         pushBatches()
 
 
 def addTrainersToDB(file_path, reset):
+    """
+    Add trainer data to the database from a CSV file.
+
+    Args:
+        file_path (str): Path to the CSV file containing the data.
+        reset (bool): If True, reset the trainers table before adding data.
+    """
     global batch_queue, total_rows
     try:
         print("Adding Trainers to DB.")
@@ -376,15 +454,13 @@ def addTrainersToDB(file_path, reset):
             batch.clear()
             print("Trainers table reset.")
 
-        # Get total number of rows in the CSV for progress tracking
         with open(file_path, mode="r") as csv_file:
-            total_rows = sum(1 for row in csv_file) - 1  # Subtract 1 for the header row
+            total_rows = sum(1 for row in csv_file) - 1
 
         with open(file_path, mode="r") as csv_file:
             csv_reader = csv.DictReader(csv_file)
 
             for row_num, row in enumerate(csv_reader, start=1):
-                # Add logic to prepare each batch
                 if len(batch) >= 1000:
                     batch_queue.put((batch.copy(), row_num))
                     batch.clear()
@@ -404,16 +480,22 @@ def addTrainersToDB(file_path, reset):
                     )
                 )
 
-            # Push any remaining queries as the final batch
             if batch:
                 batch_queue.put((batch.copy(), row_num))
-                batch.clear()  # Clear for next batch
+                batch.clear()
 
     finally:
         pushBatches()
 
 
 def addOwnersToDB(file_path, reset):
+    """
+    Add owner data to the database from a CSV file.
+
+    Args:
+        file_path (str): Path to the CSV file containing the data.
+        reset (bool): If True, reset the owners table before adding data.
+    """
     global batch_queue, total_rows
     try:
         print("Adding Owners to DB.")
@@ -427,15 +509,13 @@ def addOwnersToDB(file_path, reset):
             batch.clear()
             print("Owners table reset.")
 
-        # Get total number of rows in the CSV for progress tracking
         with open(file_path, mode="r") as csv_file:
-            total_rows = sum(1 for row in csv_file) - 1  # Subtract 1 for the header row
+            total_rows = sum(1 for row in csv_file) - 1
 
         with open(file_path, mode="r") as csv_file:
             csv_reader = csv.DictReader(csv_file)
 
             for row_num, row in enumerate(csv_reader, start=1):
-                # Add logic to prepare each batch
                 if len(batch) >= 1000:
                     batch_queue.put((batch.copy(), row_num))
                     batch.clear()
@@ -452,16 +532,22 @@ def addOwnersToDB(file_path, reset):
                     )
                 )
 
-            # Push any remaining queries as the final batch
             if batch:
                 batch_queue.put((batch.copy(), row_num))
-                batch.clear()  # Clear for next batch
+                batch.clear()
 
     finally:
         pushBatches()
 
 
 def addOwnerTrainerToDB(file_path, reset):
+    """
+    Add owner-trainer relationship data to the database from a CSV file.
+
+    Args:
+        file_path (str): Path to the CSV file containing the data.
+        reset (bool): If True, reset the owner-trainer table before adding data.
+    """
     global batch_queue, total_rows
     try:
         print("Adding Owner-Trainer relationships to DB.")
@@ -475,15 +561,13 @@ def addOwnerTrainerToDB(file_path, reset):
             batch.clear()
             print("Owner-Trainer table reset.")
 
-        # Get total number of rows in the CSV for progress tracking
         with open(file_path, mode="r") as csv_file:
-            total_rows = sum(1 for row in csv_file) - 1  # Subtract 1 for the header row
+            total_rows = sum(1 for row in csv_file) - 1
 
         with open(file_path, mode="r") as csv_file:
             csv_reader = csv.DictReader(csv_file)
 
             for row_num, row in enumerate(csv_reader, start=1):
-                # Add logic to prepare each batch
                 if len(batch) >= 1000:
                     batch_queue.put((batch.copy(), row_num))
                     batch.clear()
@@ -501,16 +585,22 @@ def addOwnerTrainerToDB(file_path, reset):
                     )
                 )
 
-            # Push any remaining queries as the final batch
             if batch:
                 batch_queue.put((batch.copy(), row_num))
-                batch.clear()  # Clear for next batch
+                batch.clear()
 
     finally:
         pushBatches()
 
 
 def addHorseTrackToDB(file_path, reset):
+    """
+    Add horse-track relationship data to the database from a CSV file.
+
+    Args:
+        file_path (str): Path to the CSV file containing the data.
+        reset (bool): If True, reset the horse-track table before adding data.
+    """
     global batch_queue, total_rows
     try:
         print("Adding Horse-Track relationships to DB.")
@@ -524,15 +614,13 @@ def addHorseTrackToDB(file_path, reset):
             batch.clear()
             print("Horse-Track table reset.")
 
-        # Get total number of rows in the CSV for progress tracking
         with open(file_path, mode="r") as csv_file:
-            total_rows = sum(1 for row in csv_file) - 1  # Subtract 1 for the header row
+            total_rows = sum(1 for row in csv_file) - 1
 
         with open(file_path, mode="r") as csv_file:
             csv_reader = csv.DictReader(csv_file)
 
             for row_num, row in enumerate(csv_reader, start=1):
-                # Add logic to prepare each batch
                 if len(batch) >= 1000:
                     batch_queue.put((batch.copy(), row_num))
                     batch.clear()
@@ -549,16 +637,22 @@ def addHorseTrackToDB(file_path, reset):
                     )
                 )
 
-            # Push any remaining queries as the final batch
             if batch:
                 batch_queue.put((batch.copy(), row_num))
-                batch.clear()  # Clear for next batch
+                batch.clear()
 
     finally:
         pushBatches()
 
 
 def addJockeyTrainerToDB(file_path, reset):
+    """
+    Add jockey-trainer relationship data to the database from a CSV file.
+
+    Args:
+        file_path (str): Path to the CSV file containing the data.
+        reset (bool): If True, reset the jockey-trainer table before adding data.
+    """
     global batch_queue, total_rows
     try:
         print("Adding Jockey-Trainer relationships to DB.")
@@ -572,15 +666,13 @@ def addJockeyTrainerToDB(file_path, reset):
             batch.clear()
             print("Jockey-Trainer table reset.")
 
-        # Get total number of rows in the CSV for progress tracking
         with open(file_path, mode="r") as csv_file:
-            total_rows = sum(1 for row in csv_file) - 1  # Subtract 1 for the header row
+            total_rows = sum(1 for row in csv_file) - 1
 
         with open(file_path, mode="r") as csv_file:
             csv_reader = csv.DictReader(csv_file)
 
             for row_num, row in enumerate(csv_reader, start=1):
-                # Add logic to prepare each batch
                 if len(batch) >= 1000:
                     batch_queue.put((batch.copy(), row_num))
                     batch.clear()
@@ -598,16 +690,22 @@ def addJockeyTrainerToDB(file_path, reset):
                     )
                 )
 
-            # Push any remaining queries as the final batch
             if batch:
                 batch_queue.put((batch.copy(), row_num))
-                batch.clear()  # Clear for next batch
+                batch.clear()
 
     finally:
         pushBatches()
 
 
 def addHorseJockeyToDB(file_path, reset):
+    """
+    Add horse-jockey relationship data to the database from a CSV file.
+
+    Args:
+        file_path (str): Path to the CSV file containing the data.
+        reset (bool): If True, reset the horse-jockey table before adding data.
+    """
     global batch_queue, total_rows
     try:
         print("Adding Horse-Jockey relationships to DB.")
@@ -621,15 +719,13 @@ def addHorseJockeyToDB(file_path, reset):
             batch.clear()
             print("Horse-Jockey table reset.")
 
-        # Get total number of rows in the CSV for progress tracking
         with open(file_path, mode="r") as csv_file:
-            total_rows = sum(1 for row in csv_file) - 1  # Subtract 1 for the header row
+            total_rows = sum(1 for row in csv_file) - 1
 
         with open(file_path, mode="r") as csv_file:
             csv_reader = csv.DictReader(csv_file)
 
             for row_num, row in enumerate(csv_reader, start=1):
-                # Add logic to prepare each batch
                 if len(batch) >= 1000:
                     batch_queue.put((batch.copy(), row_num))
                     batch.clear()
@@ -647,16 +743,22 @@ def addHorseJockeyToDB(file_path, reset):
                     )
                 )
 
-            # Push any remaining queries as the final batch
             if batch:
                 batch_queue.put((batch.copy(), row_num))
-                batch.clear()  # Clear for next batch
+                batch.clear()
 
     finally:
         pushBatches()
 
 
 def addHorseTrainerToDB(file_path, reset):
+    """
+    Add horse-trainer relationship data to the database from a CSV file.
+
+    Args:
+        file_path (str): Path to the CSV file containing the data.
+        reset (bool): If True, reset the horse-trainer table before adding data.
+    """
     global batch_queue, total_rows
     try:
         print("Adding Horse-Trainer relationships to DB.")
@@ -670,15 +772,13 @@ def addHorseTrainerToDB(file_path, reset):
             batch.clear()
             print("Horse-Trainer table reset.")
 
-        # Get total number of rows in the CSV for progress tracking
         with open(file_path, mode="r") as csv_file:
-            total_rows = sum(1 for row in csv_file) - 1  # Subtract 1 for the header row
+            total_rows = sum(1 for row in csv_file) - 1
 
         with open(file_path, mode="r") as csv_file:
             csv_reader = csv.DictReader(csv_file)
 
             for row_num, row in enumerate(csv_reader, start=1):
-                # Add logic to prepare each batch
                 if len(batch) >= 1000:
                     batch_queue.put((batch.copy(), row_num))
                     batch.clear()
@@ -696,16 +796,22 @@ def addHorseTrainerToDB(file_path, reset):
                     )
                 )
 
-            # Push any remaining queries as the final batch
             if batch:
                 batch_queue.put((batch.copy(), row_num))
-                batch.clear()  # Clear for next batch
+                batch.clear()
 
     finally:
         pushBatches()
 
 
 def addTrainerTrackToDB(file_path, reset):
+    """
+    Add trainer-track relationship data to the database from a CSV file.
+
+    Args:
+        file_path (str): Path to the CSV file containing the data.
+        reset (bool): If True, reset the trainer-track table before adding data.
+    """
     global batch_queue, total_rows
     try:
         print("Adding Trainer-Track relationships to DB.")
@@ -719,15 +825,13 @@ def addTrainerTrackToDB(file_path, reset):
             batch.clear()
             print("Trainer-Track table reset.")
 
-        # Get total number of rows in the CSV for progress tracking
         with open(file_path, mode="r") as csv_file:
-            total_rows = sum(1 for row in csv_file) - 1  # Subtract 1 for the header row
+            total_rows = sum(1 for row in csv_file) - 1
 
         with open(file_path, mode="r") as csv_file:
             csv_reader = csv.DictReader(csv_file)
 
             for row_num, row in enumerate(csv_reader, start=1):
-                # Add logic to prepare each batch
                 if len(batch) >= 1000:
                     batch_queue.put((batch.copy(), row_num))
                     batch.clear()
@@ -744,18 +848,22 @@ def addTrainerTrackToDB(file_path, reset):
                     )
                 )
 
-            # Push any remaining queries as the final batch
             if batch:
                 batch_queue.put((batch.copy(), row_num))
-                batch.clear()  # Clear for next batch
+                batch.clear()
 
     finally:
         pushBatches()
 
 
 if __name__ == "__main__":
+    """
+    Main script execution for adding setup data to the database.
+
+    This section executes all functions to populate the database tables with data from setup.csv or testing.csv.
+    """
     # Testing
-    '''addTracksToDB('testing.csv', True)
+    """addTracksToDB('testing.csv', True)
     addHorsesToDB('testing.csv', True)
     addJockeysToDB('testing.csv', True)
     addTrainersToDB('testing.csv', True)
@@ -767,7 +875,7 @@ if __name__ == "__main__":
     addJockeyTrainerToDB('testing.csv', True)
     addHorseJockeyToDB('testing.csv', True)
     addHorseTrainerToDB('testing.csv', True)
-    addTrainerTrackToDB('testing.csv', True)'''
+    addTrainerTrackToDB('testing.csv', True)"""
 
     # Setup
 
