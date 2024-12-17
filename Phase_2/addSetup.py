@@ -157,13 +157,14 @@ def addTracksToDB(file_path, reset):
             prev_file_num = -1  # Track the last file number processed
 
             for row_num, row in enumerate(csv_reader, start=1):
-                # If file number changes or batch reaches size 1000, process the batch
+                # If file number changes and batch reaches size 1000, process the batch
                 if row["file_number"] != prev_file_num:
                     if len(batch) >= 1000:
                         batch_queue.put((batch.copy(), row_num))
                         batch.clear()
                     track_n_name = dm.normalize(row["location"])  # Normalize track location name
                     batch.append(
+                        # Add or update a Track
                         dm.addTrack(
                             row["location"],
                             track_n_name,
@@ -172,7 +173,7 @@ def addTracksToDB(file_path, reset):
                                 / Decimal(row["final_time"])
                                 if row["final_time"]
                                 else None
-                            ),  # Calculate speed if time is provided
+                            ),
                         )
                     )
                     prev_file_num = row["file_number"]  # Update previous file number
