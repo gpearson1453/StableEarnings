@@ -1,2 +1,2 @@
-local postgres:
+local postgresql:
 password: B!h8Cjxa37!78Yh
