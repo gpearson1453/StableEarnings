@@ -45,28 +45,6 @@ def local_connect(db_name):
     )
 
 
-def cockroach_connect(db_name):
-    """
-    Establish a connection to a CockroachDB cluster.
-
-    Args:
-        db_name (str): The name of the database to connect to.
-
-    Returns:
-        psycopg2.connection: A connection object for the specified CockroachDB database.
-
-    Raises:
-        psycopg2.Error: If the connection to the database fails.
-    """
-    return psycopg2.connect(
-        dbname=db_name,
-        user="molomala",
-        password="aPyds3qPNhslU5xV8H-pMw",
-        host="stable-earnings-3899.j77.aws-us-east-1.cockroachlabs.cloud",
-        port="26257",
-    )
-
-
 def dropTrainers():
     """
     Generate a SQL query to drop the 'Trainers' table if it exists.
