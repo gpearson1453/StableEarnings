@@ -30,6 +30,10 @@ import uuid
 # Define cutoff between setup and traintest
 train_test_start_year = 2022
 
+# Define month to be included in testing.csv
+testing_month = 'June'
+testing_year = 2021  # This should be an int, not a string.
+
 # Define folder and file paths
 parent_folder = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 phase_1_folder = os.path.join(parent_folder, "Phase_1")
@@ -179,7 +183,7 @@ if __name__ == "__main__":
             row.extend([pos_gain, late_pos_gain, last_pos_gain, speed, race_id])
 
             # Write rows to the appropriate file
-            if date_string.startswith("August") and year == 2022:
+            if date_string.startswith(testing_month) and year == testing_year:
                 testing_writer.writerow(row)
             elif year is not None:
                 if year < train_test_start_year:
