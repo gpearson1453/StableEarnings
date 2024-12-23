@@ -1,65 +1,81 @@
-import os  # For file and directory operations
-import fitz  # PyMuPDF for reading PDF files
+"""
+reformatRaceFiles.py renames race PDF files sequentially and extracts their text content.
 
-# Automatically set the working directory to the script's location
+This script processes folders of PDF files, renaming them in a sequential order based on their creation time and extracting
+their text content into corresponding text files. The extracted text files are saved in a folder named after the original
+folder where the PDF files were found.
+
+Steps:
+    - Iterates through folders within a specified PDF directory.
+    - Renames PDF files sequentially, ensuring unique names even in case of conflicts.
+    - Extracts text content from each PDF and saves it as a text file in the corresponding output folder.
+
+Functions:
+    - reformat_files_sequentially: Handles renaming and text extraction for all files in a given PDF folder.
+
+Usage:
+    Execute the script directly to process files in the 'pdf_files' folder and output the results to 'text_files'.
+    Ensure the input and output folder paths are configured as needed before execution.
+"""
+import os
+import fitz
+
+# Set the working directory to the script's location
 script_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(script_dir)
 
-# Directories
-pdfs_dir = 'pdf_files'
-text_files_dir = 'text_files'
+# Define the input and output directories
+pdfs_dir = "pdf_files"
+text_files_dir = "text_files"
+
 
 def reformat_files_sequentially(pdfs_folder, text_folder_base):
     """
-    Renames PDF files in a sequential manner and extracts text from each PDF, saving it in a corresponding text file.
+    Process PDF files in a folder by renaming them sequentially and extracting their text content.
 
-    The function performs the following steps:
-    1. Iterates over each subfolder in the PDFs folder.
-    2. Renames the files inside each subfolder sequentially and stores the renamed files in the same subfolder.
-    3. Extracts text from the renamed PDFs and stores it in text files in a corresponding subfolder in the text folder base.
-
-    Parameters:
-    - pdfs_folder (str): Path to the folder containing the subfolders with PDF files.
-    - text_folder_base (str): Path to the base folder where extracted text files will be stored.
+    Args:
+        pdfs_folder (str): Path to the folder containing PDF files to process.
+        text_folder_base (str): Base path for the output folders containing extracted text files.
     """
-    current_number = 1  # Start numbering from 1
+    current_number = 1
 
-    # Iterate over each subfolder in the PDFs directory
     for folder in os.listdir(pdfs_folder):
         folder_path = os.path.join(pdfs_folder, folder)
         if not os.path.isdir(folder_path):
             print(f"{folder_path} is not a directory. Skipping.")
             continue
 
-        # Create a corresponding folder in text_files if it doesn't already exist
+        # Create a corresponding text folder if it does not exist
         text_folder = os.path.join(text_folder_base, folder)
         if not os.path.exists(text_folder):
             os.makedirs(text_folder)
 
-        # Get all files in the folder and their creation times
-        files_with_times = [(file, os.path.getctime(os.path.join(folder_path, file))) for file in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, file))]
+        # Get files sorted by creation time
+        files_with_times = [
+            (file, os.path.getctime(os.path.join(folder_path, file)))
+            for file in os.listdir(folder_path)
+            if os.path.isfile(os.path.join(folder_path, file))
+        ]
 
-        # Sort files by creation time
         files_with_times.sort(key=lambda x: x[1])
 
-        # Process each file in the folder
         for file, _ in files_with_times:
             old_file_path = os.path.join(folder_path, file)
             new_file_name = f"{current_number}_{folder}.pdf"
             new_file_path = os.path.join(folder_path, new_file_name)
 
-            # Avoid conflicts by appending a version suffix if the new file name already exists
+            # Handle name conflicts by appending a version number
             counter = 1
             while os.path.exists(new_file_path):
                 new_file_name = f"{current_number}_{folder}_v{counter}.pdf"
                 new_file_path = os.path.join(folder_path, new_file_name)
                 counter += 1
 
-            # Rename the file
+            # Rename the PDF file
             os.rename(old_file_path, new_file_path)
             print(f"Renamed: {old_file_path} to {new_file_path}")
 
-            # Extract text from the PDF and save it in a corresponding text file
+            # Extract text content from the renamed PDF file
             text_file_name = f"{current_number}_{folder}.txt"
             text_file_path = os.path.join(text_folder, text_file_name)
 
@@ -70,8 +86,8 @@ def reformat_files_sequentially(pdfs_folder, text_folder_base):
                         page = pdf_file.load_page(page_num)
                         full_text += page.get_text("text")
 
-                # Save the extracted text to the text file
-                with open(text_file_path, 'w', encoding='utf-8') as text_file:
+                # Save the extracted text to a file
+                with open(text_file_path, "w", encoding="utf-8") as text_file:
                     text_file.write(full_text)
 
                 print(f"Extracted text to: {text_file_path}")
@@ -79,7 +95,13 @@ def reformat_files_sequentially(pdfs_folder, text_folder_base):
             except Exception as exc:
                 print(f"Error extracting text from {new_file_path}: {exc}")
 
-            current_number += 1  # Increment the number for the next file
+            # Increment the file counter
+            current_number += 1
 
-# Call the function with the 'pdf_files' and 'text_files' directories
-reformat_files_sequentially(pdfs_dir, text_files_dir)
+
+if __name__ == "__main__":
+    """
+    Main script execution. Processes PDF files in the 'pdf_files' folder, renames them sequentially, and extracts their text
+    content into corresponding text files in the 'text_files' folder.
+    """
+    reformat_files_sequentially(pdfs_dir, text_files_dir)

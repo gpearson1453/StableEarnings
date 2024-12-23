@@ -1817,7 +1817,7 @@ Includes: $4,000 Other Sources
 Plus: $3,000 ALBSS-Accredited LA Bred Slot Supplement
 Available Money: $23,000
 Value of Race: $20,000 1st $12,000, 2nd $4,000, 3rd $2,200, 4th $1,200, 5th $600
-Weather: Clear, 12539° Track: Firm
+Weather: Clear, 55° Track: Firm
 Off at: 4:27 Start: Good for all Timing Method: Electronic
 Video Race Replay
 Last Raced

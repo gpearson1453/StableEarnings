@@ -1,7 +1,13 @@
-import re
-import os
+"""
+mappings.py contains distance conversions and horse race type patterns.
 
-# Distance conversion mappings from race distance descriptions to miles
+This file contains a distance conversion dictionary (from text versions to
+decimal values) and a list of horse race type patterns, which are both used in
+getRaces.py.
+"""
+
+# Distance conversion mappings from text distance descriptions to decimal
+# values in miles
 DISTANCE_CONVERSION = {
     "Six Furlongs": "0.75",
     "Three Furlongs": "0.375",
@@ -60,7 +66,7 @@ DISTANCE_CONVERSION = {
     "One And Seven Sixteenth Miles": "1.4375",
     "One And Nine Sixteenth Miles": "1.5625",
     "Two And Three Eighth Miles": "2.375",
-    "One And Seven Eighth Miles" : "1.875",
+    "One And Seven Eighth Miles": "1.875",
     "Two Miles And Seventy Yards": "2.0397727",
     "Three And One Half Miles": "3.5",
     "Three And One Eighth Miles": "3.125",
@@ -72,23 +78,13 @@ DISTANCE_CONVERSION = {
     "Six Hundred And Thirty Yards": "0.357955",
     "Seven Hundred And Thirty Yards": "0.414773",
     "Six Hundred And Ten Yards": "0.346591",
-    "Four Furlongs And Seventy Yards": "0.5397727"
-}
-
-# Surface type mappings for races
-SURFACE_MAPPING = {
-    'D': 'Dirt',
-    'd': 'Dirt',
-    'T': 'Turf',
-    't': 'Turf',
-    'A': 'AWT',
-    'a': 'AWT',
-    'H': 'Hurdle',
-    'h': 'Hurdle',
-    'T': 'Timber',
-    't': 'Timber'
+    "Four Furlongs And Seventy Yards": "0.5397727",
 }
 
 # Regular expressions to identify different race types
-TYPE_PATTERNS = [' - Thoroughbred',' - Quarter Horse',' - Mixed',' - Arabian']
-
+TYPE_PATTERNS = [
+    " - Thoroughbred",
+    " - Quarter Horse",
+    " - Mixed",
+    " - Arabian"
+]
