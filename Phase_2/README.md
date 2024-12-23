@@ -3,13 +3,6 @@ In Phase 2, the extracted information is converted into usable data for the lear
 
 ---
 
-## Folders
-
-### `Phase 2/db_backups`
-This folder contains `.tar` backup files for the PostgreSQL database. This folder is not tracked by Github.
-
----
-
 ## Python Files
 
 ### `Phase 2/addSetup.py`
