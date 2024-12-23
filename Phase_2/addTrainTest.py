@@ -1,7 +1,7 @@
 """
 addTrainTest.py processes traintest.csv (or testing.csv) to populate the database with trainable and testable data.
 
-This script reads data from traintest.csv or traintest.csv, builds caches for weather and track state encoding, and inserts
+This script reads data from a CSV file, builds caches for weather and track state encoding, and inserts
 rows into the database in batches. Data is split into training and testing datasets based on a calculated test ratio. The
 script also normalizes data values, encodes weather and track state values, and handles progress tracking.
 
