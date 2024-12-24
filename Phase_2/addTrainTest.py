@@ -438,9 +438,9 @@ def addTrainTestToDB(file_path, reset):
                             row["temp"],
                             encodeTrackState(dm.normalize(row["track_state"])),
                             Decimal(row["distance(miles)"]),
-                            Decimal(0) if int(row["final_pos"]) == 1 else Decimal(100),
-                            Decimal(0) if int(row["final_pos"]) <= 2 else Decimal(100),
-                            Decimal(0) if int(row["final_pos"]) <= 3 else Decimal(100),
+                            Decimal(0) if int(row["final_pos"]) == 1 else Decimal(1),
+                            Decimal(0) if int(row["final_pos"]) <= 2 else Decimal(1),
+                            Decimal(0) if int(row["final_pos"]) <= 3 else Decimal(1),
                         )
                     )
 
