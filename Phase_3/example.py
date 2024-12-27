@@ -7,15 +7,33 @@ class RacePredictor(nn.Module):
     def __init__(self, input_dim, embed_dim, num_heads, output_dim=3):
         super(RacePredictor, self).__init__()
         self.embedding = nn.Linear(input_dim, embed_dim)  # Transform raw features into embeddings
+        self.weather_embedding = nn.Embedding(8, 4, padding_idx=0)  # weather embedding
+        self.track_state_embedding = nn.Embedding(12, 6, padding_idx=0)  # track_state_embedding
         self.attention = nn.MultiheadAttention(embed_dim, num_heads, batch_first=True)
         self.fc = nn.Linear(embed_dim, output_dim)  # Predict 3 probabilities for each car
         self.softmax = nn.Softmax(dim=-1)  # Ensure probabilities sum to 1 for each car
 
-    def forward(self, x):
-        # x: (batch_size, num_cars, input_dim)
+    def forward(self, x_num, x_weather, x_track_state):
+        """
+        Forward pass for the RacePredictor model.
+
+        Args:
+        x_num (torch.Tensor): Numerical features of shape (batch_size, num_cars, input_dim).
+        x_weather (torch.Tensor): Weather categorical values of shape (batch_size, num_cars).
+        x_track_state (torch.Tensor): Track state categorical values of shape (batch_size, num_cars).
+
+        Returns:
+        torch.Tensor: Probabilities for each car of shape (batch_size, num_cars, output_dim).
+        """
+        # Embed numerical features
+        x_num = self.embedding(x_num)  # (batch_size, num_cars, embed_dim)
         
-        # Embed raw features
-        x = self.embedding(x)  # (batch_size, num_cars, embed_dim)
+        # Embed categorical variables
+        x_weather_emb = self.weather_embedding(x_weather)  # (batch_size, num_cars, weather_embed_dim)
+        x_track_state_emb = self.track_state_embedding(x_track_state)  # (batch_size, num_cars, track_state_embed_dim)
+        
+        # Concatenate all features
+        x = torch.cat([x_num, x_weather_emb, x_track_state_emb], dim=-1)  # (batch_size, num_cars, combined_embed_dim)
         
         # Apply multihead attention
         attn_output, _ = self.attention(x, x, x)  # Self-attention: Q = K = V = x
@@ -25,6 +43,7 @@ class RacePredictor(nn.Module):
         probs = self.softmax(logits)   # Convert logits to probabilities
         
         return probs  # (batch_size, num_cars, output_dim)
+
 
 # Example usage
 input_dim = 2   # Weight and horsepower
