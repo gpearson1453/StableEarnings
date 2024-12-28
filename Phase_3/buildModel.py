@@ -286,3 +286,6 @@ if __name__ == "__main__":
 
     # Train the model
     train_model(model, batches, num_epochs=20, learning_rate=0.001)
+
+    torch.save(model.state_dict(), "race_predictor.pth")
+    print("Model saved as race_predictor_model.pth")
