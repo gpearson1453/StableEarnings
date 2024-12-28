@@ -110,13 +110,33 @@ batches = []
 
 
 class RacePredictor(nn.Module):
-    def __init__(self, input_dim, embed_dim, w_input_dim, w_embed_dim, ts_input_dim, ts_embed_dim, num_heads, output_dim=3):
+    def __init__(
+        self,
+        input_dim,
+        embed_dim,
+        w_input_dim,
+        w_embed_dim,
+        ts_input_dim,
+        ts_embed_dim,
+        num_heads,
+        output_dim=3,
+    ):
         super(RacePredictor, self).__init__()
-        self.embedding = nn.Linear(input_dim, embed_dim)  # Transform raw features into embeddings
-        self.weather_embedding = nn.Embedding(w_input_dim, w_embed_dim, padding_idx=0)  # weather embedding
-        self.track_state_embedding = nn.Embedding(ts_input_dim, ts_embed_dim, padding_idx=0)  # track_state_embedding
-        self.attention = nn.MultiheadAttention(embed_dim + w_embed_dim + ts_embed_dim, num_heads, batch_first=True)
-        self.fc = nn.Linear(embed_dim + w_embed_dim + ts_embed_dim, output_dim)  # Predict 3 probabilities for each car
+        self.embedding = nn.Linear(
+            input_dim, embed_dim
+        )  # Transform raw features into embeddings
+        self.weather_embedding = nn.Embedding(
+            w_input_dim, w_embed_dim, padding_idx=0
+        )  # weather embedding
+        self.track_state_embedding = nn.Embedding(
+            ts_input_dim, ts_embed_dim, padding_idx=0
+        )  # track_state_embedding
+        self.attention = nn.MultiheadAttention(
+            embed_dim + w_embed_dim + ts_embed_dim, num_heads, batch_first=True
+        )
+        self.fc = nn.Linear(
+            embed_dim + w_embed_dim + ts_embed_dim, output_dim
+        )  # Predict 3 probabilities for each car
         self.softmax = nn.Softmax(dim=-1)  # Ensure probabilities sum to 1 for each car
 
     def forward(self, x_num, x_weather, x_track_state):
@@ -135,18 +155,24 @@ class RacePredictor(nn.Module):
         x_num_emb = self.embedding(x_num)  # (batch_size, num_cars, embed_dim)
 
         # Embed categorical variables
-        x_weather_emb = self.weather_embedding(x_weather)  # (batch_size, num_cars, weather_embed_dim)
-        x_track_state_emb = self.track_state_embedding(x_track_state)  # (batch_size, num_cars, track_state_embed_dim)
-        
+        x_weather_emb = self.weather_embedding(
+            x_weather
+        )  # (batch_size, num_cars, weather_embed_dim)
+        x_track_state_emb = self.track_state_embedding(
+            x_track_state
+        )  # (batch_size, num_cars, track_state_embed_dim)
+
         # Concatenate all features
-        x = torch.cat([x_num_emb, x_weather_emb, x_track_state_emb], dim=-1)  # (batch_size, num_cars, combined_embed_dim)
-        
+        x = torch.cat(
+            [x_num_emb, x_weather_emb, x_track_state_emb], dim=-1
+        )  # (batch_size, num_cars, combined_embed_dim)
+
         # Apply multihead attention
         attn_output, _ = self.attention(x, x, x)  # Self-attention: Q = K = V = x
-        
+
         # Predict probabilities
         logits = self.fc(attn_output)  # (batch_size, num_cars, output_dim)
-        
+
         return logits  # (batch_size, num_cars, output_dim)
 
 
@@ -160,7 +186,9 @@ def local_connect(db_name):
     Returns:
         sqlalchemy.engine.base.Engine: An SQLAlchemy engine object for the database.
     """
-    return create_engine(f"postgresql+psycopg2://postgres:B!h8Cjxa37!78Yh@localhost:5432/{db_name}")
+    return create_engine(
+        f"postgresql+psycopg2://postgres:B!h8Cjxa37!78Yh@localhost:5432/{db_name}"
+    )
 
 
 def getWeatherTrackStateDims():
@@ -174,7 +202,7 @@ def getWeatherTrackStateDims():
 
     engine.dispose()
 
-    return int(df['max_w'].iloc[0]) + 1, int(df['max_ts'].iloc[0]) + 1
+    return int(df["max_w"].iloc[0]) + 1, int(df["max_ts"].iloc[0]) + 1
 
 
 def buildBatches(batch_size):
@@ -191,7 +219,7 @@ def buildBatches(batch_size):
 
     engine.dispose()
 
-    grouped = df.groupby('race_id')
+    grouped = df.groupby("race_id")
 
     group_numpys = [data_frame.to_numpy() for race_id, data_frame in grouped]
 
@@ -204,12 +232,20 @@ def buildBatches(batch_size):
         if arr_len in batch_maker:
             batch_maker[arr_len] = np.append(batch_maker[arr_len], [arr], axis=0)
             if len(batch_maker[arr_len]) == batch_size:
-                batches.append(torch.from_numpy(batch_maker.pop(arr_len)[:, :, 4:].astype(np.float32)).float())
+                batches.append(
+                    torch.from_numpy(
+                        batch_maker.pop(arr_len)[:, :, 4:].astype(np.float32)
+                    ).float()
+                )
         else:
             batch_maker[arr_len] = np.array([arr])
 
     for arr_len in list(batch_maker.keys()):
-        batches.append(torch.from_numpy(batch_maker.pop(arr_len)[:, :, 4:].astype(np.float32)).float())
+        batches.append(
+            torch.from_numpy(
+                batch_maker.pop(arr_len)[:, :, 4:].astype(np.float32)
+            ).float()
+        )
 
 
 # Define a training function
@@ -238,14 +274,17 @@ def train_model(model, batches, num_epochs=10, learning_rate=0.001):
         for batch in batches:
             # Prepare the data
             features = torch.cat(
-                (
-                    batch[:, :, :41],
-                    batch[:, :, 42:43],
-                    batch[:, :, 44:-3]
-                ), dim=2)  # Prepare the data
-            missing_mask = torch.isnan(features).float()  # 1 for NaN, 0 for valid values
-            data_filled = torch.nan_to_num(features, nan=0.0)  # fills NaNs with a placeholder
-            data_with_mask = torch.cat([data_filled, missing_mask], dim=-1)  # concatenates data with mask
+                (batch[:, :, :41], batch[:, :, 42:43], batch[:, :, 44:-3]), dim=2
+            )  # Prepare the data
+            missing_mask = torch.isnan(
+                features
+            ).float()  # 1 for NaN, 0 for valid values
+            data_filled = torch.nan_to_num(
+                features, nan=0.0
+            )  # fills NaNs with a placeholder
+            data_with_mask = torch.cat(
+                [data_filled, missing_mask], dim=-1
+            )  # concatenates data with mask
             weather = batch[:, :, 41].long()  # Weather as categorical
             track_state = batch[:, :, 43].long()  # Weather as categorical
             targets = batch[:, :, -3:]  # Labels
@@ -255,7 +294,7 @@ def train_model(model, batches, num_epochs=10, learning_rate=0.001):
 
             # Forward pass
             outputs = model(data_with_mask, weather, track_state)
-            
+
             # Compute the loss
             loss = criterion(outputs, targets)
 
@@ -277,12 +316,22 @@ if __name__ == "__main__":
     w_input_dim, ts_input_dim = getWeatherTrackStateDims()
 
     # Initialize the model
-    input_dim = 170  # Number of input features ((87 features - 2 categoricals) * 2 for masking)
+    input_dim = (
+        170  # Number of input features ((87 features - 2 categoricals) * 2 for masking)
+    )
     embed_dim = 54  # Embedding dimension
     w_embed_dim = 4  # weather embedding dimension
     ts_embed_dim = 6  # track_state embedding dimension
-    num_heads = 8   # Number of attention heads
-    model = RacePredictor(input_dim, embed_dim, w_input_dim, w_embed_dim, ts_input_dim, ts_embed_dim, num_heads)
+    num_heads = 8  # Number of attention heads
+    model = RacePredictor(
+        input_dim,
+        embed_dim,
+        w_input_dim,
+        w_embed_dim,
+        ts_input_dim,
+        ts_embed_dim,
+        num_heads,
+    )
 
     # Train the model
     train_model(model, batches, num_epochs=20, learning_rate=0.001)
