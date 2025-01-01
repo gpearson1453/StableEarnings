@@ -298,6 +298,11 @@ def addTrainTestToDB(file_path, reset):
             batch_queue.put((batch.copy(), None))
             batch.clear()
             print("Trainables table reset.")
+            batch.append((dm.dropAltTrainables(), None))
+            batch.append((dm.createAltTrainables(), None))
+            batch_queue.put((batch.copy(), None))
+            batch.clear()
+            print("AltTrainables table reset.")
             batch.append((dm.dropTestables(), None))
             batch.append((dm.createTestables(), None))
             batch_queue.put((batch.copy(), None))
@@ -441,6 +446,28 @@ def addTrainTestToDB(file_path, reset):
                             Decimal(0) if int(row["final_pos"]) == 1 else Decimal(1),
                             Decimal(0) if int(row["final_pos"]) <= 2 else Decimal(1),
                             Decimal(0) if int(row["final_pos"]) <= 3 else Decimal(1),
+                        )
+                    )
+
+                    batch.append(
+                        dm.addAltTrainable(
+                            horse_n_name,
+                            track_n_name,
+                            jockey_n_name,
+                            trainer_n_name,
+                            owner_n_name,
+                            row["surface"],
+                            row["race_id"],
+                            row["final_pos"],
+                            row["race_type"],
+                            Decimal(row["weight"]) if row["weight"] else None,
+                            encodeWeather(dm.normalize(row["weather"])),
+                            row["temp"],
+                            encodeTrackState(dm.normalize(row["track_state"])),
+                            Decimal(row["distance(miles)"]),
+                            Decimal(row['pos_factor']) if row['pos_factor'] else None,
+                            Decimal(row['pos_factor']) if row['pos_factor'] else None,
+                            Decimal(row['pos_factor']) if row['pos_factor'] else None
                         )
                     )
 

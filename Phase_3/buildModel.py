@@ -106,8 +106,6 @@ import torch.optim as optim
 import numpy as np
 import random
 
-batches = []
-
 
 class RacePredictor(nn.Module):
     def __init__(
@@ -119,7 +117,7 @@ class RacePredictor(nn.Module):
         ts_input_dim,
         ts_embed_dim,
         num_heads,
-        output_dim=3,
+        output_dim=1,
     ):
         super(RacePredictor, self).__init__()
         self.embedding = nn.Linear(
@@ -136,8 +134,8 @@ class RacePredictor(nn.Module):
         )
         self.fc = nn.Linear(
             embed_dim + w_embed_dim + ts_embed_dim, output_dim
-        )  # Predict 3 probabilities for each car
-        self.softmax = nn.Softmax(dim=-1)  # Ensure probabilities sum to 1 for each car
+        )  # Predict probabilities for each car
+        self.softmax = nn.Softmax(dim=1)  # Ensure probabilities sum to 1 for each car
 
     def forward(self, x_num, x_weather, x_track_state):
         """
@@ -151,6 +149,7 @@ class RacePredictor(nn.Module):
         Returns:
         torch.Tensor: Probabilities for each car of shape (batch_size, num_cars, output_dim).
         """
+
         # Embed numerical features
         x_num_emb = self.embedding(x_num)  # (batch_size, num_cars, embed_dim)
 
@@ -167,13 +166,27 @@ class RacePredictor(nn.Module):
             [x_num_emb, x_weather_emb, x_track_state_emb], dim=-1
         )  # (batch_size, num_cars, combined_embed_dim)
 
+        #print(x)
+        #exit()
+
         # Apply multihead attention
         attn_output, _ = self.attention(x, x, x)  # Self-attention: Q = K = V = x
+
+        #print(attn_output)
+        #exit()
 
         # Predict probabilities
         logits = self.fc(attn_output)  # (batch_size, num_cars, output_dim)
 
-        return logits  # (batch_size, num_cars, output_dim)
+        #print(logits)
+        #exit()
+
+        probabilities = self.softmax(logits)
+
+        #print(probabilities)
+        #exit()
+
+        return probabilities  # (batch_size, num_cars, output_dim)
 
 
 def local_connect(db_name):
@@ -205,16 +218,25 @@ def getWeatherTrackStateDims():
     return int(df["max_w"].iloc[0]) + 1, int(df["max_ts"].iloc[0]) + 1
 
 
-def buildBatches(batch_size):
-    global batches
+def buildBatches(batch_size, alt):
+    batches = []
 
     engine = local_connect("StableEarnings")
 
-    query = """
-        SELECT *
-        FROM trainables
-        ORDER BY race_id;
-    """
+    if alt:
+        query = """
+            SELECT *
+            FROM alttrainables
+            WHERE won IS NOT NULL
+            ORDER BY race_id limit 100;
+        """
+    else:
+        query = """
+            SELECT *
+            FROM trainables
+            ORDER BY race_id;
+        """
+
     df = pd.read_sql_query(query, engine)
 
     engine.dispose()
@@ -247,9 +269,11 @@ def buildBatches(batch_size):
             ).float()
         )
 
+    return batches
+
 
 # Define a training function
-def train_model(model, batches, num_epochs=10, learning_rate=0.001):
+def train_model(model, batches, alt, num_epochs=10, learning_rate=0.001):
     """
     Train the RacePredictor model.
 
@@ -260,7 +284,7 @@ def train_model(model, batches, num_epochs=10, learning_rate=0.001):
         learning_rate (float): Learning rate for the optimizer.
     """
     # Define loss function and optimizer
-    criterion = nn.BCEWithLogitsLoss()
+    criterion = criterion = nn.MSELoss()
     optimizer = optim.Adam(model.parameters(), lr=learning_rate)
 
     # Iterate over epochs
@@ -275,7 +299,7 @@ def train_model(model, batches, num_epochs=10, learning_rate=0.001):
             # Prepare the data
             features = torch.cat(
                 (batch[:, :, :41], batch[:, :, 42:43], batch[:, :, 44:-3]), dim=2
-            )  # Prepare the data
+            )
             missing_mask = torch.isnan(
                 features
             ).float()  # 1 for NaN, 0 for valid values
@@ -287,31 +311,57 @@ def train_model(model, batches, num_epochs=10, learning_rate=0.001):
             )  # concatenates data with mask
             weather = batch[:, :, 41].long()  # Weather as categorical
             track_state = batch[:, :, 43].long()  # Weather as categorical
-            targets = batch[:, :, -3:]  # Labels
+
+            if alt:
+                targets = torch.softmax(batch[:, :, -3:-2], 1)  # pos_factor label
+            else:
+                targets = batch[:, :, -3:-2]  # 0s and 1s labels
 
             # Zero the gradients
             optimizer.zero_grad()
 
+            '''print(batch[:, :, -3:-2].shape)
+            print(batch[:, :, -3:-2][0])
+            print(targets.shape)
+            print(targets[0])
+            exit()'''
+
             # Forward pass
             outputs = model(data_with_mask, weather, track_state)
 
-            # Compute the loss
-            loss = criterion(outputs, targets)
+            '''print(targets[0])
+            print(outputs.shape)
+            print(outputs[0])
+            exit()'''
+
+            base_loss = criterion(outputs, targets)
+
+            # Compute diversity penalty
+            num_horses = outputs.shape[1]  # Number of horses in each race
+            uniform = torch.full_like(outputs, 1.0 / num_horses)  # Uniform distribution
+            
+            diversity_penalty = torch.mean((outputs - uniform) ** 2)  # Penalize uniform predictions
+            
+
+            # Total loss
+            total_loss = base_loss + 10 * diversity_penalty
 
             # Backward pass and optimization
-            loss.backward()
+            total_loss.backward()
             optimizer.step()
 
             # Accumulate loss for reporting
-            epoch_loss += loss.item()
+            epoch_loss += total_loss.item()
 
         # Print epoch loss
         print(f"Epoch {epoch + 1}/{num_epochs}, Loss: {epoch_loss / len(batches)}")
 
 
 if __name__ == "__main__":
+    alt = True  # Use AltTrainables table with pos_factors instead of 0s and 1s
+    
     # Build batches
-    buildBatches(32)
+    batches = buildBatches(32, alt)
 
     w_input_dim, ts_input_dim = getWeatherTrackStateDims()
 
@@ -334,7 +384,7 @@ if __name__ == "__main__":
     )
 
     # Train the model
-    train_model(model, batches, num_epochs=20, learning_rate=0.001)
+    train_model(model, batches, alt, num_epochs=20, learning_rate=0.001)
 
     torch.save(model.state_dict(), "race_predictor.pth")
     print("Model saved as race_predictor_model.pth")

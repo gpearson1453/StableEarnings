@@ -50,6 +50,7 @@ def clearDatabase():
         "DROP TABLE IF EXISTS Tracks CASCADE;",
         "DROP TYPE IF EXISTS use_type CASCADE;",
         "DROP TABLE IF EXISTS Trainables CASCADE;",
+        "DROP TABLE IF EXISTS AltTrainables CASCADE;",
         "DROP TABLE IF EXISTS Testables CASCADE;",
     ]
 
