@@ -27,15 +27,35 @@ def testModel(model):
 
     group_numpys = [data_frame.to_numpy() for race_id, data_frame in grouped]
 
-    for item in group_numpys:
-        item[:, -1] = item[:, -1] / np.sum(item[:, -1])
+    testables = []
 
-    testables = [torch.from_numpy(item[:, 4:].astype(np.float32)).float().unsqueeze(0) for item in group_numpys]
+    for arr in group_numpys:
+        arr_len = len(arr)
+        if arr_len < 4:
+            continue
+        for i in range(arr_len - 1):
+            for j in range(i + 1, arr_len):
+                testables.append(
+                    torch.from_numpy(
+                        np.array(
+                            [np.append(
+                                np.append(
+                                    arr[i:i+1][:, 4:], np.array([[1.0]]), axis=1
+                                ),
+                                np.append(
+                                    arr[j:j+1][:, 4:], np.array([[0.0]]), axis=1
+                                ), axis=0
+                            )]
+                        ).astype(np.float32)
+                    ).float()
+                )
 
+    weird = 0
+    total = 0
     for t in testables:
         # Prepare the data
         features = torch.cat(
-            (t[:, :, :41], t[:, :, 42:43], t[:, :, 44:-1]), dim=2
+            (t[:, :, :41], t[:, :, 42:43], t[:, :, 44:-2]), dim=2
         )
         missing_mask = torch.isnan(
             features
@@ -46,17 +66,18 @@ def testModel(model):
         data_with_mask = torch.cat(
             [data_filled, missing_mask], dim=-1
         )  # concatenates data with mask
-        weather = t[:, :, 41].long()  # Weather as categorical
-        track_state = t[:, :, 43].long()  # Weather as categorical
-        odds = t[:, :, -1:]  # Labels
+        weather = t[:, :2, 41].long()  # Weather as categorical
+        track_state = t[:, :2, 43].long()  # Weather as categorical
+        odds = t[:, :2, -1:]  # Labels
 
         outputs = model(data_with_mask, weather, track_state)
 
-        #print(t)
-        print(odds)
-        print(outputs)
-        exit()
-
+        if not ((0.999 < outputs[0][0][0].item() < 1.001 and -0.001 < outputs[0][1][0].item() < 0.001)
+                or (-0.001 < outputs[0][0][0].item() < 0.001 and 0.999 < outputs[0][1][0].item() < 1.001)):
+            weird += 1
+        total += 1
+    print(weird / total)
+    exit()
     return
 
 
@@ -80,5 +101,5 @@ if __name__ == "__main__":
     )
 
     # Load the saved model
-    model.load_state_dict(torch.load("race_predictor.pth"))
+    model.load_state_dict(torch.load("race_pairwise_predictor_model.pth"))
     testModel(model)
