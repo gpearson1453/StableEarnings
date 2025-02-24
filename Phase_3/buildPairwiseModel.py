@@ -5,6 +5,7 @@ import torch.nn as nn
 import torch.optim as optim
 import numpy as np
 import random
+import torch.nn.functional as F
 
 
 class PairwiseRacePredictor(nn.Module):
@@ -31,7 +32,6 @@ class PairwiseRacePredictor(nn.Module):
         self.fc = nn.Linear(
             embed_dim + w_embed_dim + ts_embed_dim, output_dim
         )  # Predict probabilities
-        self.softmax = nn.Softmax(dim=1)  # Ensure probabilities sum to 1
 
     def forward(self, x_num, x_weather, x_track_state):
         """
@@ -74,12 +74,12 @@ class PairwiseRacePredictor(nn.Module):
         #print(logits)
         #exit()
 
-        probabilities = self.softmax(logits)
+        #probabilities = self.softmax(logits)
 
         #print(probabilities)
         #exit()
 
-        return probabilities  # (batch_size, 2, 1)
+        return logits  # (batch_size, 2, 1)
     
 
 def buildBatches(batch_size, alt):
@@ -122,10 +122,10 @@ def buildBatches(batch_size, alt):
                         np.array(
                             [np.append(
                                 np.append(
-                                    arr[i:i+1], np.array([[1.0]]), axis=1
+                                    arr[i:i+1], np.array([[arr[i][-1]]]) if alt else np.array([[1.0]]), axis=1
                                 ),
                                 np.append(
-                                    arr[j:j+1], np.array([[0.0]]), axis=1
+                                    arr[j:j+1], np.array([[arr[j][-1]]]) if alt else np.array([[1.0]]), axis=1
                                 ), axis=0
                             )]
                         )
@@ -135,10 +135,10 @@ def buildBatches(batch_size, alt):
                         np.array(
                             [np.append(
                                 np.append(
-                                    arr[j:j+1], np.array([[0.0]]), axis=1
+                                    arr[j:j+1], np.array([[arr[j][-1]]]) if alt else np.array([[1.0]]), axis=1
                                 ),
                                 np.append(
-                                    arr[i:i+1], np.array([[1.0]]), axis=1
+                                    arr[i:i+1], np.array([[arr[i][-1]]]) if alt else np.array([[1.0]]), axis=1
                                 ), axis=0
                             )]
                         )
@@ -179,7 +179,7 @@ def train_model(model, batches, alt, num_epochs=10, learning_rate=0.001):
         learning_rate (float): Learning rate for the optimizer.
     """
     # Define loss function and optimizer
-    criterion = criterion = nn.MSELoss()
+    criterion = nn.BCEWithLogitsLoss()
     optimizer = optim.Adam(model.parameters(), lr=learning_rate)
 
     # Iterate over epochs
@@ -207,7 +207,7 @@ def train_model(model, batches, alt, num_epochs=10, learning_rate=0.001):
             if alt:
                 targets = torch.softmax(batch[:, :, -3:-2], 1)  # pos_factor label
             else:
-                targets = torch.softmax(batch[:, :, -1:], 1)  # 1s and 0s
+                targets = batch[:, :, -1:]
 
             # Zero the gradients
             optimizer.zero_grad()
@@ -229,7 +229,7 @@ def train_model(model, batches, alt, num_epochs=10, learning_rate=0.001):
 
 
 if __name__ == "__main__":
-    alt = False  # Use AltTrainables table with pos_factors instead of 0s and 1s
+    alt = True  # Use AltTrainables table with pos_factors instead of 0s and 1s
     
     # Build batches
     batches = buildBatches(32, alt)
@@ -255,5 +255,9 @@ if __name__ == "__main__":
     # Train the model
     train_model(model, batches, alt, num_epochs=20, learning_rate=0.001)
 
-    torch.save(model.state_dict(), "race_pairwise_predictor_model.pth")
-    print("Model saved as race_pairwise_predictor_model.pth")
+    if alt:
+        torch.save(model.state_dict(), "alt_race_pairwise_predictor_model.pth")
+        print("Model saved as alt_race_pairwise_predictor_model.pth")
+    else:
+        torch.save(model.state_dict(), "race_pairwise_predictor_model.pth")
+        print("Model saved as race_pairwise_predictor_model.pth")
